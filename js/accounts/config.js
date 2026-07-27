@@ -2,7 +2,7 @@
 import { createAuthClient } from 'https://esm.sh/better-auth/client';
 
 const getBaseURL = () => {
-    const local = localStorage.getItem('monochrome-auth-url');
+    const local = localStorage.getItem('songbox-auth-url');
     if (local) return local;
 
     if (window.__AUTH_URL__) return window.__AUTH_URL__;

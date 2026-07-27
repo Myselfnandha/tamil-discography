@@ -1,4 +1,4 @@
-const STORAGE_KEY = 'monochrome-listening-data';
+const STORAGE_KEY = 'songbox-listening-data';
 const MAX_TRACKS = 2000;
 const MAX_ARTISTS = 500;
 const SKIP_THRESHOLD_S = 5;

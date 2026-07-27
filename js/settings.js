@@ -1780,7 +1780,7 @@ export async function initializeSettings(scrobbler, player, api, ui) {
     }
 
     // Legacy EQ Custom Presets (Save / Delete)
-    const LEGACY_GEQ_CUSTOM_PRESETS_KEY = 'monochrome-legacy-geq-custom-presets';
+    const LEGACY_GEQ_CUSTOM_PRESETS_KEY = 'songbox-legacy-geq-custom-presets';
     // Migrate from old key if present
     try {
         const oldData = localStorage.getItem('legacy-geq-custom-presets');
@@ -6618,7 +6618,7 @@ export async function initializeSettings(scrobbler, player, api, ui) {
         const url = URL.createObjectURL(blob);
         const a = document.createElement('a');
         a.href = url;
-        a.download = `monochrome-library-${new Date().toISOString().split('T')[0]}.json`;
+        a.download = `songbox-library-${new Date().toISOString().split('T')[0]}.json`;
         a.click();
         URL.revokeObjectURL(url);
     });
@@ -6652,7 +6652,7 @@ export async function initializeSettings(scrobbler, player, api, ui) {
         const settingsToExport = {};
         for (let i = 0; i < localStorage.length; i++) {
             const key = localStorage.key(i);
-            if (key && key.startsWith('monochrome-')) {
+            if (key && key.startsWith('songbox-')) {
                 try {
                     settingsToExport[key] = JSON.parse(localStorage.getItem(key));
                 } catch {
@@ -6666,7 +6666,7 @@ export async function initializeSettings(scrobbler, player, api, ui) {
         const url = URL.createObjectURL(blob);
         const a = document.createElement('a');
         a.href = url;
-        a.download = `monochrome-settings-${new Date().toISOString().split('T')[0]}.json`;
+        a.download = `songbox-settings-${new Date().toISOString().split('T')[0]}.json`;
         a.click();
         URL.revokeObjectURL(url);
     });
@@ -6686,7 +6686,7 @@ export async function initializeSettings(scrobbler, player, api, ui) {
             try {
                 const settingsToImport = JSON.parse(event.target.result);
                 for (const [key, value] of Object.entries(settingsToImport)) {
-                    if (key.startsWith('monochrome-')) {
+                    if (key.startsWith('songbox-')) {
                         localStorage.setItem(key, typeof value === 'string' ? value : JSON.stringify(value));
                     }
                 }
@@ -6727,9 +6727,9 @@ export async function initializeSettings(scrobbler, player, api, ui) {
         }
 
         customDbBtn.addEventListener('click', () => {
-            const pbUrl = localStorage.getItem('monochrome-pocketbase-url') || '';
-            const appwriteEndpoint = localStorage.getItem('monochrome-appwrite-endpoint') || '';
-            const appwriteProject = localStorage.getItem('monochrome-appwrite-project') || '';
+            const pbUrl = localStorage.getItem('songbox-pocketbase-url') || '';
+            const appwriteEndpoint = localStorage.getItem('songbox-appwrite-endpoint') || '';
+            const appwriteProject = localStorage.getItem('songbox-appwrite-project') || '';
 
             if (!pbFromEnv && customPbUrlInput) customPbUrlInput.value = pbUrl;
             if (!appwriteFromEnv) {
@@ -6751,9 +6751,9 @@ export async function initializeSettings(scrobbler, player, api, ui) {
             if (!pbFromEnv && customPbUrlInput) {
                 const pbUrl = customPbUrlInput.value.trim();
                 if (pbUrl) {
-                    localStorage.setItem('monochrome-pocketbase-url', pbUrl);
+                    localStorage.setItem('songbox-pocketbase-url', pbUrl);
                 } else {
-                    localStorage.removeItem('monochrome-pocketbase-url');
+                    localStorage.removeItem('songbox-pocketbase-url');
                 }
             }
 
@@ -6762,15 +6762,15 @@ export async function initializeSettings(scrobbler, player, api, ui) {
                 const project = customAppwriteProjectInput?.value.trim();
 
                 if (endpoint) {
-                    localStorage.setItem('monochrome-appwrite-endpoint', endpoint);
+                    localStorage.setItem('songbox-appwrite-endpoint', endpoint);
                 } else {
-                    localStorage.removeItem('monochrome-appwrite-endpoint');
+                    localStorage.removeItem('songbox-appwrite-endpoint');
                 }
 
                 if (project) {
-                    localStorage.setItem('monochrome-appwrite-project', project);
+                    localStorage.setItem('songbox-appwrite-project', project);
                 } else {
-                    localStorage.removeItem('monochrome-appwrite-project');
+                    localStorage.removeItem('songbox-appwrite-project');
                 }
             }
 
@@ -6780,9 +6780,9 @@ export async function initializeSettings(scrobbler, player, api, ui) {
 
         customDbResetBtn.addEventListener('click', () => {
             if (confirm('Reset custom database settings to default?')) {
-                localStorage.removeItem('monochrome-pocketbase-url');
-                localStorage.removeItem('monochrome-appwrite-endpoint');
-                localStorage.removeItem('monochrome-appwrite-project');
+                localStorage.removeItem('songbox-pocketbase-url');
+                localStorage.removeItem('songbox-appwrite-endpoint');
+                localStorage.removeItem('songbox-appwrite-project');
                 alert('Settings reset. Reloading...');
                 window.location.reload();
             }

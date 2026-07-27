@@ -4,7 +4,7 @@
         <meta charset="UTF-8" />
         <meta name="referrer" content="no-referrer" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
-        <title>Monochrome</title>
+        <title>Songbox</title>
         <link rel="canonical" href="https://monochrome.tf/" />
         <link rel="alternate" hreflang="en" href="https://monochrome.tf/" />
         <meta name="theme-color" content="#000000" />
@@ -12,41 +12,41 @@
         <meta name="apple-mobile-web-app-capable" content="yes" />
         <base href="/" />
         <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
-        <meta name="apple-mobile-web-app-title" content="Monochrome" />
+        <meta name="apple-mobile-web-app-title" content="Songbox" />
         <meta
             name="description"
-            content="Stream and download millions of Hi-Res FLACs, unreleased songs and music videos, all for free on Monochrome."
+            content="Stream and download millions of Hi-Res FLACs, unreleased songs and music videos, all for free on Songbox."
         />
         <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1" />
         <meta name="googlebot" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1" />
         <meta property="og:type" content="website" />
         <meta property="og:locale" content="en_US" />
-        <meta property="og:site_name" content="Monochrome" />
-        <meta property="og:title" content="Monochrome" />
+        <meta property="og:site_name" content="Songbox" />
+        <meta property="og:title" content="Songbox" />
         <meta
             property="og:description"
-            content="Stream and download millions of Hi-Res FLACs, unreleased songs and music videos, all for free on Monochrome."
+            content="Stream and download millions of Hi-Res FLACs, unreleased songs and music videos, all for free on Songbox."
         />
         <meta property="og:url" content="https://monochrome.tf/" />
         <meta property="og:image" content="https://monochrome.tf/assets/banner.jpg" />
         <meta property="og:image:type" content="image/jpeg" />
-        <meta property="og:image:alt" content="Monochrome banner" />
+        <meta property="og:image:alt" content="Songbox banner" />
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:url" content="https://monochrome.tf/" />
-        <meta name="twitter:title" content="Monochrome" />
+        <meta name="twitter:title" content="Songbox" />
         <meta
             name="twitter:description"
-            content="Stream and download millions of Hi-Res FLACs, unreleased songs and music videos, all for free on Monochrome."
+            content="Stream and download millions of Hi-Res FLACs, unreleased songs and music videos, all for free on Songbox."
         />
         <meta name="twitter:image" content="https://monochrome.tf/assets/banner-twitter.jpg" />
-        <meta name="twitter:image:alt" content="Monochrome banner" />
+        <meta name="twitter:image:alt" content="Songbox banner" />
         <script type="application/ld+json">
             {
                 "@context": "https://schema.org",
                 "@type": "WebSite",
-                "name": "Monochrome",
+                "name": "Songbox",
                 "url": "https://monochrome.tf/",
-                "description": "Stream and download millions of Hi-Res FLACs, unreleased songs and music videos, all for free on Monochrome.",
+                "description": "Stream and download millions of Hi-Res FLACs, unreleased songs and music videos, all for free on Songbox.",
                 "potentialAction": {
                     "@type": "SearchAction",
                     "target": "https://monochrome.tf/search/{search_term_string}",
@@ -58,12 +58,12 @@
             {
                 "@context": "https://schema.org",
                 "@type": "WebApplication",
-                "name": "Monochrome",
+                "name": "Songbox",
                 "url": "https://monochrome.tf/",
                 "applicationCategory": "MusicApplication",
                 "operatingSystem": "Web Browser",
                 "image": "https://monochrome.tf/assets/logo.svg",
-                "description": "Stream and download millions of Hi-Res FLACs, unreleased songs and music videos, all for free on Monochrome."
+                "description": "Stream and download millions of Hi-Res FLACs, unreleased songs and music videos, all for free on Songbox."
             }
         </script>
         <!-- bini's seo thing -->
@@ -1164,7 +1164,7 @@
                 <div class="missing-tracks-content">
                     <p>
                         Unfortunately, some songs weren't able to be added. This could be an issue with our import
-                        system - try searching for the song and adding it. It could also be due to Monochrome not having
+                        system - try searching for the song and adding it. It could also be due to Songbox not having
                         the song :(
                     </p>
                     <div class="missing-tracks-list">
@@ -1182,20 +1182,21 @@
 
         <div id="sleep-timer-modal" class="modal">
             <div class="modal-overlay"></div>
-            <div class="modal-content" style="max-width: 300px">
+            <div class="modal-content" style="max-width: 320px">
                 <h3 style="text-align: center; margin-bottom: 1.5rem">Sleep Timer</h3>
                 <div class="timer-options">
-                    <button class="timer-option btn-secondary" data-minutes="5">5 minutes</button>
                     <button class="timer-option btn-secondary" data-minutes="15">15 minutes</button>
                     <button class="timer-option btn-secondary" data-minutes="30">30 minutes</button>
+                    <button class="timer-option btn-secondary" data-minutes="45">45 minutes</button>
                     <button class="timer-option btn-secondary" data-minutes="60">1 hour</button>
-                    <button class="timer-option btn-secondary" data-minutes="120">2 hours</button>
+                    <button class="timer-option btn-secondary" data-minutes="90">1.5 hours</button>
+                    <button class="timer-option btn-secondary" id="end-of-track-timer-btn">End of current track</button>
                     <div style="display: flex; gap: 0.5rem; margin-top: 0.5rem">
                         <input
                             type="number"
                             id="custom-minutes"
                             class="template-input"
-                            placeholder="Custom"
+                            placeholder="Custom (min)"
                             min="1"
                             max="480"
                         />
@@ -1203,9 +1204,43 @@
                             Set
                         </button>
                     </div>
+                    <label style="display: flex; align-items: center; gap: 0.5rem; margin-top: 0.75rem; cursor: pointer; font-size: 0.85rem; color: var(--text-secondary)">
+                        <input type="checkbox" id="sleep-timer-fadeout" checked style="accent-color: var(--primary)" />
+                        Fade out volume before stopping
+                    </label>
                 </div>
                 <div class="modal-actions" style="justify-content: center">
                     <button id="cancel-sleep-timer" class="btn-secondary">Cancel</button>
+                </div>
+            </div>
+        <div id="spotify-import-modal" class="modal">
+            <div class="modal-overlay"></div>
+            <div class="modal-content" style="max-width: 440px">
+                <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 1.25rem">
+                    <h3 style="margin: 0; display: flex; align-items: center; gap: 0.5rem">
+                        Import from Spotify
+                    </h3>
+                    <button id="close-spotify-modal-btn" class="close-modal-btn" style="background: none; border: none; font-size: 20px; cursor: pointer; color: var(--muted-foreground);">&times;</button>
+                </div>
+                <div style="margin-bottom: 1.25rem">
+                    <label style="display: block; font-size: 0.85rem; margin-bottom: 0.5rem; color: var(--text-secondary)">Paste Spotify Playlist Link</label>
+                    <div style="display: flex; gap: 0.5rem">
+                        <input type="text" id="spotify-url-input" class="template-input" placeholder="https://open.spotify.com/playlist/..." style="flex: 1" />
+                        <button id="spotify-fetch-btn" class="btn-primary" style="padding: 0.5rem 1rem">Fetch</button>
+                    </div>
+                </div>
+                <div id="spotify-import-progress-container" style="display: none; margin-top: 1rem; padding: 1rem; background: var(--surface-subtle, rgba(255,255,255,0.05)); border-radius: var(--radius); border: 1px solid var(--border)">
+                    <div style="display: flex; justify-content: space-between; font-size: 0.85rem; margin-bottom: 0.5rem">
+                        <span id="spotify-import-status-text">Matching tracks...</span>
+                        <span id="spotify-import-counter">0/0</span>
+                    </div>
+                    <div style="height: 6px; background: rgba(255,255,255,0.1); border-radius: 3px; overflow: hidden">
+                        <div id="spotify-import-progress-bar" style="width: 0%; height: 100%; background: var(--primary); transition: width 0.2s ease"></div>
+                    </div>
+                    <div id="spotify-current-track-name" style="font-size: 0.75rem; color: var(--text-secondary); margin-top: 0.5rem; overflow: hidden; text-overflow: ellipsis; white-space: nowrap"></div>
+                </div>
+                <div class="modal-actions" style="margin-top: 1.5rem; justify-content: flex-end; gap: 0.5rem">
+                    <button id="cancel-spotify-import" class="btn-secondary">Close</button>
                 </div>
             </div>
         </div>
@@ -1471,7 +1506,7 @@
                                 placeholder="https://example.com"
                             />
                             <p style="font-size: 0.8rem; color: var(--muted-foreground); margin-top: 0.25rem">
-                                It is recommended to create a Monochrome profile instead.
+                                It is recommended to create a Songbox profile instead.
                             </p>
                         </div>
                         <div style="margin-bottom: 1rem">
@@ -1636,7 +1671,7 @@
             <div class="modal-overlay"></div>
             <div class="modal-content">
                 <h3>Update Available</h3>
-                <p>A new version of Monochrome is available.</p>
+                <p>A new version of Songbox is available.</p>
                 <div
                     id="desktop-update-notes"
                     style="
@@ -1727,7 +1762,7 @@
                     <div class="sidebar-logo">
                         <a href="./" class="sidebar-logo-link">
                             <use svg="./images/monochrome-logo.svg" size="200" class="app-logo" />
-                            <span>Monochrome</span>
+                            <span>Songbox</span>
                         </a>
                         <button
                             id="sidebar-toggle"
@@ -1907,7 +1942,7 @@
 
                     <div id="home-view-for-you" class="home-view active">
                         <div id="home-welcome" style="display: none; text-align: center; padding: 4rem 2rem">
-                            <h2 style="margin-bottom: 1rem">Welcome to Monochrome</h2>
+                            <h2 style="margin-bottom: 1rem">Welcome to Songbox</h2>
                             <p style="color: var(--muted-foreground)">
                                 You haven't listened to anything yet. Search for your favorite songs to get started!
                             </p>
@@ -2239,6 +2274,18 @@
                                 </div>
                                 <div class="card-info">
                                     <h4 class="card-title">Create folder</h4>
+                                </div>
+                            </button>
+                            <button
+                                type="button"
+                                class="card library-create-dashed-card"
+                                id="library-import-spotify-card"
+                            >
+                                <div class="library-create-dashed-art">
+                                    <use svg="!lucide/music.svg" size="28" />
+                                </div>
+                                <div class="card-info">
+                                    <h4 class="card-title">Import from Spotify</h4>
                                 </div>
                             </button>
                         </div>
@@ -6050,18 +6097,18 @@
                 </div>
 
                 <div id="page-about" class="page">
-                    <h2 class="section-title" style="text-align: center">About Monochrome</h2>
+                    <h2 class="section-title" style="text-align: center">About Songbox</h2>
                     <div class="about-content">
                         <p class="about-description">
-                            Monochrome is a lightweight, privacy-focused music streaming client designed for
+                            Songbox is a lightweight, privacy-focused music streaming client designed for
                             high-fidelity audio playback. Built with modern web technologies, it provides a clean,
                             distraction-free listening experience.
                             <br />
                         </p>
                         <div class="about-donate">
-                            <h2 class="section-title" style="text-align: center">Support Monochrome</h2>
+                            <h2 class="section-title" style="text-align: center">Support Songbox</h2>
                             <p style="text-align: center" class="donate-description">
-                                If Monochrome has been useful to you and you're able to, consider making a donation.
+                                If Songbox has been useful to you and you're able to, consider making a donation.
                                 <br />
                                 It helps pay for the server and domain, and you get to support us :)
                             </p>
@@ -6091,7 +6138,7 @@
                                         gap: 0.5rem;
                                     "
                                 >
-                                    Donate to Monochrome
+                                    Donate to Songbox
                                 </a>
                                 <a
                                     href="https://github.com/monochrome-music/monochrome"
@@ -6200,9 +6247,9 @@
                 </div>
                 <div id="page-donate" class="page">
                     <div class="donate-page-wrapper">
-                        <h2 class="section-title donate-page-title">Support Monochrome</h2>
+                        <h2 class="section-title donate-page-title">Support Songbox</h2>
                         <p class="donate-page-desc">
-                            If Monochrome has been useful to you and you're able to, consider making a donation. It
+                            If Songbox has been useful to you and you're able to, consider making a donation. It
                             helps pay for the server and domain, and you get to support us :)
                         </p>
                         <div class="donate-goal-card">
@@ -6526,7 +6573,7 @@
                             padding: var(--space-8) var(--space-4);
                         "
                     >
-                        <h2 class="section-title" style="margin-bottom: var(--space-4)">Monochrome Mobile</h2>
+                        <h2 class="section-title" style="margin-bottom: var(--space-4)">Songbox Mobile</h2>
                         <p style="color: var(--muted-foreground); margin-bottom: var(--space-8)">
                             Download the app for your device.
                         </p>
@@ -6572,7 +6619,7 @@
                             We don't offer support for sideloading. Please do your own research if you run into issues.
                         </p>
                         <p style="color: var(--muted-foreground); margin-top: var(--space-6); margin-bottom: 0">
-                            Downloaded songs are saved to <b>Downloads/Monochrome</b> on your device.
+                            Downloaded songs are saved to <b>Downloads/Songbox</b> on your device.
                         </p>
                     </div>
                 </div>

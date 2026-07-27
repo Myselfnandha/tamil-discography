@@ -72,6 +72,13 @@ export class Player {
         this.sleepTimer = null;
         this.sleepTimerEndTime = null;
         this.sleepTimerInterval = null;
+        this.sleepTimerFadeout = true;
+        this.sleepTimerEndOfTrack = false;
+        this._sleepTimerOriginalVolume = null;
+        this._sleepTimerFading = false;
+
+        // Restore persisted sleep timer
+        this._restoreSleepTimer();
         // Artist popular tracks state
         this.artistPopularTracksState = {
             artistId: null,
@@ -2742,19 +2749,46 @@ export class Player {
     }
 
     // Sleep Timer Methods
-    setSleepTimer(minutes) {
-        this.clearSleepTimer(); // Clear any existing timer
+
+    /**
+     * Set a sleep timer for a given number of minutes.
+     * @param {number} minutes - Duration in minutes
+     * @param {object} options - { fadeout: boolean, endOfTrack: boolean }
+     */
+    setSleepTimer(minutes, options = {}) {
+        this.clearSleepTimer();
+
+        this.sleepTimerFadeout = options.fadeout !== undefined ? options.fadeout : true;
+        this.sleepTimerEndOfTrack = options.endOfTrack || false;
 
         this.sleepTimerEndTime = Date.now() + minutes * 60 * 1000;
 
+        // Persist to localStorage so timer survives page refresh
+        this._persistSleepTimer();
+
         this.sleepTimer = setTimeout(
             () => {
-                this.activeElement.pause();
-                this.clearSleepTimer();
-                this.updateSleepTimerUI();
+                if (this.sleepTimerEndOfTrack) {
+                    // Wait for current track to end, then stop
+                    this._waitForTrackEnd();
+                } else if (this.sleepTimerFadeout) {
+                    // Start fade-out over 30 seconds, then pause
+                    this._startFadeOut();
+                } else {
+                    this.activeElement.pause();
+                    this.clearSleepTimer();
+                }
             },
             minutes * 60 * 1000
         );
+
+        // Handle fade-out starting 30 seconds before timer expires
+        if (this.sleepTimerFadeout && !this.sleepTimerEndOfTrack && minutes * 60 > 30) {
+            const fadeStartDelay = (minutes * 60 - 30) * 1000;
+            this._fadeTimeout = setTimeout(() => {
+                this._startFadeOut();
+            }, fadeStartDelay);
+        }
 
         // Update UI every second
         this.sleepTimerInterval = setInterval(() => {
@@ -2764,20 +2798,119 @@ export class Player {
         this.updateSleepTimerUI();
     }
 
-    clearSleepTimer() {
-        if (this.sleepTimer) {
-            clearTimeout(this.sleepTimer);
-            this.sleepTimer = null;
+    /**
+     * Set sleep timer to stop at end of current track.
+     */
+    setSleepTimerEndOfTrack(options = {}) {
+        this.clearSleepTimer();
+
+        this.sleepTimerEndOfTrack = true;
+        this.sleepTimerFadeout = options.fadeout !== undefined ? options.fadeout : true;
+        this.sleepTimerEndTime = null; // No fixed end time
+
+        // Persist
+        localStorage.setItem('songbox-sleep-timer-end-of-track', 'true');
+        localStorage.setItem('songbox-sleep-timer-fadeout', String(this.sleepTimerFadeout));
+
+        // Mark timer as active (sentinel value)
+        this.sleepTimer = 'end-of-track';
+
+        // Listen for the track ending
+        this._waitForTrackEnd();
+
+        this.updateSleepTimerUI();
+    }
+
+    _waitForTrackEnd() {
+        const handler = () => {
+            this.activeElement.removeEventListener('ended', handler);
+            this.activeElement.pause();
+            this.clearSleepTimer();
+            this.updateSleepTimerUI();
+        };
+
+        if (this.activeElement) {
+            this.activeElement.addEventListener('ended', handler);
         }
+    }
+
+    _startFadeOut() {
+        if (this._sleepTimerFading || !this.activeElement) return;
+        this._sleepTimerFading = true;
+        this._sleepTimerOriginalVolume = this.activeElement.volume;
+
+        const fadeDuration = 30000; // 30 seconds
+        const fadeSteps = 60; // update every 500ms
+        const stepInterval = fadeDuration / fadeSteps;
+        const volumeStep = this._sleepTimerOriginalVolume / fadeSteps;
+        let currentStep = 0;
+
+        this._fadeInterval = setInterval(() => {
+            currentStep++;
+            const newVolume = Math.max(0, this._sleepTimerOriginalVolume - volumeStep * currentStep);
+            this.activeElement.volume = newVolume;
+
+            const volumeFill = document.getElementById('volume-fill');
+            if (volumeFill) {
+                volumeFill.style.width = `${newVolume * 100}%`;
+            }
+
+            if (currentStep >= fadeSteps) {
+                clearInterval(this._fadeInterval);
+                this._fadeInterval = null;
+                this.activeElement.pause();
+
+                this.activeElement.volume = this._sleepTimerOriginalVolume;
+                if (volumeFill) {
+                    volumeFill.style.width = `${this._sleepTimerOriginalVolume * 100}%`;
+                }
+                this._sleepTimerFading = false;
+                this._sleepTimerOriginalVolume = null;
+                this.clearSleepTimer();
+            }
+        }, stepInterval);
+    }
+
+    clearSleepTimer() {
+        if (this.sleepTimer && this.sleepTimer !== 'end-of-track') {
+            clearTimeout(this.sleepTimer);
+        }
+        this.sleepTimer = null;
+
         if (this.sleepTimerInterval) {
             clearInterval(this.sleepTimerInterval);
             this.sleepTimerInterval = null;
         }
+        if (this._fadeTimeout) {
+            clearTimeout(this._fadeTimeout);
+            this._fadeTimeout = null;
+        }
+        if (this._fadeInterval) {
+            clearInterval(this._fadeInterval);
+            this._fadeInterval = null;
+        }
+        if (this._sleepTimerFading && this._sleepTimerOriginalVolume !== null && this.activeElement) {
+            this.activeElement.volume = this._sleepTimerOriginalVolume;
+            const volumeFill = document.getElementById('volume-fill');
+            if (volumeFill) {
+                volumeFill.style.width = `${this._sleepTimerOriginalVolume * 100}%`;
+            }
+        }
+
         this.sleepTimerEndTime = null;
+        this.sleepTimerEndOfTrack = false;
+        this._sleepTimerFading = false;
+        this._sleepTimerOriginalVolume = null;
+
+        localStorage.removeItem('songbox-sleep-timer-end');
+        localStorage.removeItem('songbox-sleep-timer-fadeout');
+        localStorage.removeItem('songbox-sleep-timer-end-of-track');
+
         this.updateSleepTimerUI();
     }
 
     getSleepTimerRemaining() {
+        if (this.sleepTimerEndOfTrack) return 'end-of-track';
         if (!this.sleepTimerEndTime) return null;
         const remaining = Math.max(0, this.sleepTimerEndTime - Date.now());
         return Math.ceil(remaining / 1000); // Return seconds remaining
@@ -2787,6 +2920,40 @@ export class Player {
         return this.sleepTimer !== null;
     }
 
+    _persistSleepTimer() {
+        if (this.sleepTimerEndTime) {
+            localStorage.setItem('songbox-sleep-timer-end', String(this.sleepTimerEndTime));
+        }
+        localStorage.setItem('songbox-sleep-timer-fadeout', String(this.sleepTimerFadeout));
+        if (this.sleepTimerEndOfTrack) {
+            localStorage.setItem('songbox-sleep-timer-end-of-track', 'true');
+        }
+    }
+
+    _restoreSleepTimer() {
+        const endOfTrack = localStorage.getItem('songbox-sleep-timer-end-of-track');
+        const fadeout = localStorage.getItem('songbox-sleep-timer-fadeout');
+
+        if (endOfTrack === 'true') {
+            this.setSleepTimerEndOfTrack({ fadeout: fadeout !== 'false' });
+            return;
+        }
+
+        const savedEnd = localStorage.getItem('songbox-sleep-timer-end');
+        if (savedEnd) {
+            const endTime = parseInt(savedEnd);
+            const remaining = endTime - Date.now();
+            if (remaining > 0) {
+                const remainingMinutes = remaining / 60000;
+                this.setSleepTimer(remainingMinutes, { fadeout: fadeout !== 'false' });
+            } else {
+                localStorage.removeItem('songbox-sleep-timer-end');
+                localStorage.removeItem('songbox-sleep-timer-fadeout');
+                localStorage.removeItem('songbox-sleep-timer-end-of-track');
+            }
+        }
+    }
+
     updateSleepTimerUI() {
         const timerBtn = document.getElementById('sleep-timer-btn');
         const timerBtnDesktop = document.getElementById('sleep-timer-btn-desktop');
@@ -2794,19 +2961,26 @@ export class Player {
         const updateBtn = (btn) => {
             if (!btn) return;
             if (this.isSleepTimerActive()) {
-                const remaining = this.getSleepTimerRemaining();
-                if (remaining > 0) {
-                    const minutes = Math.floor(remaining / 60);
-                    const seconds = remaining % 60;
-                    btn.innerHTML = `<span style="font-size: 12px; font-weight: bold;">${minutes}:${seconds.toString().padStart(2, '0')}</span>`;
-                    btn.title = `Sleep Timer: ${minutes}:${seconds.toString().padStart(2, '0')} remaining`;
+                if (this.sleepTimerEndOfTrack) {
+                    btn.innerHTML = `<span style="font-size: 10px; font-weight: bold; line-height: 1;">EOT</span>`;
+                    btn.title = 'Sleep Timer: End of current track';
                     btn.classList.add('active');
                     btn.style.color = 'var(--primary)';
                 } else {
-                    btn.innerHTML = SVG_CLOCK(20);
-                    btn.title = 'Sleep Timer';
-                    btn.classList.remove('active');
-                    btn.style.color = '';
+                    const remaining = this.getSleepTimerRemaining();
+                    if (typeof remaining === 'number' && remaining > 0) {
+                        const minutes = Math.floor(remaining / 60);
+                        const seconds = remaining % 60;
+                        btn.innerHTML = `<span style="font-size: 12px; font-weight: bold;">${minutes}:${seconds.toString().padStart(2, '0')}</span>`;
+                        btn.title = `Sleep Timer: ${minutes}:${seconds.toString().padStart(2, '0')} remaining`;
+                        btn.classList.add('active');
+                        btn.style.color = 'var(--primary)';
+                    } else {
+                        btn.innerHTML = SVG_CLOCK(20);
+                        btn.title = 'Sleep Timer';
+                        btn.classList.remove('active');
+                        btn.style.color = '';
+                    }
                 }
             } else {
                 btn.innerHTML = SVG_CLOCK(20);

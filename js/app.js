@@ -36,6 +36,7 @@ import { ThemeStore } from './themeStore.js';
 import './commandPalette.js';
 import { initTracker } from './tracker.js';
 import { initAnalytics } from './analytics.js';
+import { spotifyAPI } from './spotify-api.js';
 import {
     parseCSV,
     parseJSPF,
@@ -44,6 +45,7 @@ import {
     parseM3U,
     parseDynamicCSV,
     importToLibrary,
+    importSpotifyPlaylist,
 } from './playlist-importer.js';
 import { generateFullCSV, generateFullJSON } from './playlist-generator.js';
 import { modernSettings } from './ModernSettings.js';
@@ -530,14 +532,14 @@ document.addEventListener('DOMContentLoaded', async () => {
 
     // Populate commit info
     {
-        const repo = 'https://github.com/monochrome-music/monochrome';
+        const repo = 'https://github.com/songbox-music/monochrome';
         // eslint-disable-next-line no-undef
         const hash = typeof __COMMIT_HASH__ !== 'undefined' ? __COMMIT_HASH__ : 'dev';
         const commitLink =
             hash !== 'dev' && hash !== 'unknown'
                 ? `<a href="${repo}/commit/${hash}" target="_blank" rel="noopener noreferrer" style="color:inherit;text-decoration:underline">${hash}</a>`
                 : hash;
-        const repoLink = `<a href="${repo}" target="_blank" rel="noopener noreferrer" style="color:inherit;text-decoration:underline">monochrome-music/monochrome</a>`;
+        const repoLink = `<a href="${repo}" target="_blank" rel="noopener noreferrer" style="color:inherit;text-decoration:underline">songbox-music/monochrome</a>`;
         const html = `Commit ${commitLink} · ${repoLink}`;
         const aboutEl = document.getElementById('about-commit-info');
         const settingsEl = document.getElementById('settings-commit-info');
@@ -742,6 +744,7 @@ document.addEventListener('DOMContentLoaded', async () => {
         scrobbler
     );
     initializeUIInteractions(Player.instance, MusicAPI.instance, UIRenderer.instance);
+    setupSpotifyImport(MusicAPI.instance, db, UIRenderer.instance);
     initializeKeyboardShortcuts(Player.instance, audioPlayer);
 
     // Restore UI state for the current track (like button, theme)
@@ -2786,14 +2789,14 @@ document.addEventListener('DOMContentLoaded', async () => {
     // Font Settings
     const fontSelect = document.getElementById('font-select');
     if (fontSelect) {
-        const savedFont = localStorage.getItem('monochrome-font');
+        const savedFont = localStorage.getItem('songbox-font');
         if (savedFont) {
             fontSelect.value = savedFont;
         }
         fontSelect.addEventListener('change', (e) => {
             const font = e.target.value;
             document.documentElement.style.setProperty('--font-family', font);
-            localStorage.setItem('monochrome-font', font);
+            localStorage.setItem('songbox-font', font);
         });
     }
 
@@ -2977,7 +2980,7 @@ function showUpdateNotification(updateCallback) {
     notification.innerHTML = `
         <div>
             <strong>Update Available</strong>
-            <p>A new version of Monochrome is available.</p>
+            <p>A new version of Songbox is available.</p>
         </div>
         <div class="update-notification-actions">
             <button class="btn-primary" id="update-now-btn">Update Now</button>
@@ -3464,4 +3467,129 @@ function showCustomizeShortcutsModal() {
     modal.addEventListener('click', handleClose);
     renderShortcuts();
     modal.classList.add('active');
+}
+
+function setupSpotifyImport(api, db, ui) {
+    const modal = document.getElementById('spotify-import-modal');
+    const input = document.getElementById('spotify-url-input');
+    const fetchBtn = document.getElementById('spotify-fetch-btn');
+    const closeBtn = document.getElementById('close-spotify-modal-btn');
+    const cancelBtn = document.getElementById('cancel-spotify-import');
+    const progressContainer = document.getElementById('spotify-import-progress-container');
+    const statusText = document.getElementById('spotify-import-status-text');
+    const counterText = document.getElementById('spotify-import-counter');
+    const progressBar = document.getElementById('spotify-import-progress-bar');
+    const trackNameText = document.getElementById('spotify-current-track-name');
+
+    const openModal = () => {
+        if (!modal) return;
+        modal.classList.add('active');
+        if (input) {
+            input.value = '';
+            input.focus();
+        }
+        if (progressContainer) progressContainer.style.display = 'none';
+        if (fetchBtn) fetchBtn.disabled = false;
+    };
+
+    const closeModal = () => {
+        if (modal) modal.classList.remove('active');
+    };
+
+    document.addEventListener('click', (e) => {
+        if (e.target.closest('#library-import-spotify-card')) {
+            openModal();
+        }
+    });
+
+    if (closeBtn) closeBtn.addEventListener('click', closeModal);
+    if (cancelBtn) cancelBtn.addEventListener('click', closeModal);
+    if (modal) {
+        const overlay = modal.querySelector('.modal-overlay');
+        if (overlay) overlay.addEventListener('click', closeModal);
+    }
+
+    if (fetchBtn) {
+        fetchBtn.addEventListener('click', async () => {
+            const rawUrl = input ? input.value.trim() : '';
+            if (!rawUrl) {
+                showNotification('Please enter a valid Spotify playlist URL or ID.');
+                return;
+            }
+
+            const playlistId = spotifyAPI.extractPlaylistId(rawUrl);
+            if (!playlistId) {
+                showNotification('Invalid Spotify playlist URL. Format: https://open.spotify.com/playlist/...');
+                return;
+            }
+
+            fetchBtn.disabled = true;
+            if (progressContainer) progressContainer.style.display = 'block';
+            if (statusText) statusText.textContent = 'Fetching playlist metadata from Spotify...';
+            if (counterText) counterText.textContent = '0/0';
+            if (progressBar) progressBar.style.width = '0%';
+            if (trackNameText) trackNameText.textContent = '';
+
+            try {
+                const spotifyData = await spotifyAPI.fetchPlaylist(playlistId, ({ fetched, total }) => {
+                    if (statusText) statusText.textContent = 'Fetching track metadata from Spotify...';
+                    if (counterText) counterText.textContent = `${fetched}/${total}`;
+                });
+
+                if (!spotifyData.tracks || spotifyData.tracks.length === 0) {
+                    showNotification('No playable tracks found in Spotify playlist.');
+                    fetchBtn.disabled = false;
+                    return;
+                }
+
+                if (statusText) statusText.textContent = `Matching ${spotifyData.tracks.length} tracks against Songbox...`;
+
+                const result = await importSpotifyPlaylist(spotifyData, api, db, ({ current, total, trackName, matchedCount }) => {
+                    if (counterText) counterText.textContent = `${matchedCount}/${total} matched`;
+                    const pct = Math.round((current / total) * 100);
+                    if (progressBar) progressBar.style.width = `${pct}%`;
+                    if (trackNameText) trackNameText.textContent = `Matching: ${trackName}`;
+                });
+
+                showNotification(`Successfully imported "${result.playlist.title}" (${result.matchedTracks.length}/${spotifyData.tracks.length} tracks)`);
+                closeModal();
+
+                if (ui && ui.renderLibraryPage) {
+                    ui.renderLibraryPage();
+                }
+            } catch (err) {
+                console.error('Spotify import error:', err);
+                showNotification('Import failed: ' + err.message);
+            } finally {
+                fetchBtn.disabled = false;
+            }
+        });
+    }
+
+    autoSyncSpotifyPlaylists(api, db, ui);
+}
+
+async function autoSyncSpotifyPlaylists(api, db, ui) {
+    try {
+        const userPlaylists = await db.getPlaylists(true);
+        const spotifyPlaylists = userPlaylists.filter((p) => p.spotifyPlaylistId);
+        if (spotifyPlaylists.length === 0) return;
+
+        console.log(`[Spotify Auto-Sync] Checking ${spotifyPlaylists.length} imported playlists...`);
+        for (const pl of spotifyPlaylists) {
+            try {
+                const spotifyData = await spotifyAPI.fetchPlaylist(pl.spotifyPlaylistId);
+                if (!spotifyData.tracks || spotifyData.tracks.length === 0) continue;
+
+                if (spotifyData.tracks.length !== pl.spotifyTotalTracks) {
+                    console.log(`[Spotify Auto-Sync] Syncing changes for "${pl.title}"...`);
+                    await importSpotifyPlaylist(spotifyData, api, db);
+                }
+            } catch (e) {
+                console.warn(`[Spotify Auto-Sync] Failed to sync playlist ${pl.id}:`, e);
+            }
+        }
+    } catch (err) {
+        console.warn('[Spotify Auto-Sync] Failed to perform launch sync check:', err);
+    }
 }

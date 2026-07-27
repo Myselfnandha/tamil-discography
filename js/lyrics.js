@@ -10,6 +10,7 @@ import {
     SVG_GLOBE,
 } from './icons.js';
 import { sidePanelManager } from './side-panel.js';
+import { LyricsCanvasBackground } from './lyrics-canvas.js';
 
 const loadAmLyrics = () => {
     const images = Array.from(document.images).filter((img) => !img.complete);
@@ -1021,10 +1022,10 @@ function applyFullscreenLyricsShadowTweaks(amLyrics, container) {
         const root = amLyrics.shadowRoot;
         if (!root) return false;
 
-        let styleEl = root.getElementById('monochrome-fullscreen-lyrics-tweaks');
+        let styleEl = root.getElementById('songbox-fullscreen-lyrics-tweaks');
         if (!styleEl) {
             styleEl = document.createElement('style');
-            styleEl.id = 'monochrome-fullscreen-lyrics-tweaks';
+            styleEl.id = 'songbox-fullscreen-lyrics-tweaks';
             root.appendChild(styleEl);
         }
 
@@ -1134,6 +1135,8 @@ async function renderLyricsComponent(container, track, audioPlayer, lyricsManage
 
         container.appendChild(amLyrics);
         applyFullscreenLyricsShadowTweaks(amLyrics, container);
+
+        setupAppleLyricsEnhancements(container, amLyrics, audioPlayer, lyricsManager);
 
         lyricsManager.setupLyricsObserver(amLyrics);
 
@@ -1375,4 +1378,90 @@ export function clearLyricsPanelSync(_audioPlayer, panel) {
     if (panel && panel.lyricsManager) {
         panel.lyricsManager.stopLyricsObserver();
     }
+}
+
+function setupAppleLyricsEnhancements(container, amLyrics, audioPlayer, lyricsManager) {
+    if (!container || !amLyrics) return;
+
+    // 1. Fluid Canvas Background
+    let canvas = container.querySelector('.apple-lyrics-canvas');
+    if (!canvas) {
+        canvas = document.createElement('canvas');
+        canvas.className = 'apple-lyrics-canvas';
+        container.style.position = 'relative';
+        container.insertBefore(canvas, container.firstChild);
+    }
+    const bg = new LyricsCanvasBackground(canvas);
+    bg.start();
+
+    // 2. Interactive Click to Seek
+    const handleLineClick = (e) => {
+        const lineEl = e.target.closest('[data-time], .lyric-line, [class*="line"]');
+        if (lineEl && audioPlayer) {
+            const timeAttr = lineEl.getAttribute('data-time') || lineEl.getAttribute('time');
+            if (timeAttr) {
+                const time = parseFloat(timeAttr);
+                if (!isNaN(time) && time >= 0) {
+                    audioPlayer.currentTime = time;
+                }
+            }
+        }
+    };
+    amLyrics.addEventListener('click', handleLineClick);
+
+    // 3. Glassmorphism Toolbar
+    let toolbar = container.querySelector('.lyrics-toolbar');
+    if (!toolbar) {
+        toolbar = document.createElement('div');
+        toolbar.className = 'lyrics-toolbar';
+        toolbar.innerHTML = `
+            <button class="lyrics-toolbar-btn ${lyricsManager.isRomajiMode ? 'active' : ''}" id="tb-romaji-btn">Romaji</button>
+            <button class="lyrics-toolbar-btn" id="tb-sync-minus-btn" title="Sync -0.5s">-0.5s</button>
+            <button class="lyrics-toolbar-btn" id="tb-sync-plus-btn" title="Sync +0.5s">+0.5s</button>
+            <button class="lyrics-toolbar-btn active" id="tb-autoscroll-btn">AutoScroll</button>
+        `;
+        container.appendChild(toolbar);
+
+        const romajiBtn = toolbar.querySelector('#tb-romaji-btn');
+        const minusBtn = toolbar.querySelector('#tb-sync-minus-btn');
+        const plusBtn = toolbar.querySelector('#tb-sync-plus-btn');
+        const scrollBtn = toolbar.querySelector('#tb-autoscroll-btn');
+
+        if (romajiBtn) {
+            romajiBtn.addEventListener('click', () => {
+                lyricsManager.toggleRomajiMode();
+                romajiBtn.classList.toggle('active', lyricsManager.isRomajiMode);
+            });
+        }
+
+        if (minusBtn) {
+            minusBtn.addEventListener('click', () => {
+                lyricsManager.syncOffset = (lyricsManager.syncOffset || 0) - 0.5;
+            });
+        }
+
+        if (plusBtn) {
+            plusBtn.addEventListener('click', () => {
+                lyricsManager.syncOffset = (lyricsManager.syncOffset || 0) + 0.5;
+            });
+        }
+
+        if (scrollBtn) {
+            scrollBtn.addEventListener('click', () => {
+                const isAuto = amLyrics.hasAttribute('autoscroll');
+                if (isAuto) {
+                    amLyrics.removeAttribute('autoscroll');
+                    scrollBtn.classList.remove('active');
+                } else {
+                    amLyrics.setAttribute('autoscroll', '');
+                    scrollBtn.classList.add('active');
+                }
+            });
+        }
+    }
+
+    container.lyricsCleanup = () => {
+        bg.stop();
+        amLyrics.removeEventListener('click', handleLineClick);
+    };
 }

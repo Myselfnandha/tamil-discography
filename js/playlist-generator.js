@@ -230,7 +230,7 @@ export function generateNFO(playlist, tracks, type = 'playlist') {
  */
 export function generateJSON(playlist, tracks, type = 'playlist') {
     const data = {
-        format: 'monochrome-playlist',
+        format: 'songbox-playlist',
         version: '1.0',
         type: type,
         generated: new Date().toISOString(),
@@ -311,7 +311,7 @@ export function generateFullCSV(_playlist, tracks) {
 
 export function generateFullJSON(playlist, tracks) {
     const data = {
-        format: 'monochrome-playlist-full',
+        format: 'songbox-playlist-full',
         version: '1.0',
         type: 'playlist',
         generated: new Date().toISOString(),

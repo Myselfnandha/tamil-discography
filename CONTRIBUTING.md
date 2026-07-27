@@ -1,6 +1,6 @@
-# Contributing to Monochrome
+# Contributing to Songbox
 
-Thank you for your interest in contributing to Monochrome! This guide will help you get started with development, understand our codebase, and follow our contribution workflow.
+Thank you for your interest in contributing to Songbox! This guide will help you get started with development, understand our codebase, and follow our contribution workflow.
 
 ---
 
@@ -138,11 +138,11 @@ Whether you've spoken with us or not, we highly recommend opening **Draft Pull R
 - Submitting code you don't actually understand or haven't tested.
 - Ignoring edge cases because the AI didn't suggest them.
 
-> :warning:: If we can verify that a Pull Request is just unvetted AI/Vibecoded Work, **it will be automatically closed without review.** If you can't explain your code, it doesn't belong in Monochrome.
+> :warning:: If we can verify that a Pull Request is just unvetted AI/Vibecoded Work, **it will be automatically closed without review.** If you can't explain your code, it doesn't belong in Songbox.
 
 ### No Hard Feelings
 
-If we end up closing your Pull Request, please don't feel bad about it! We **really appreciate** you taking the time to help out with Monochrome.
+If we end up closing your Pull Request, please don't feel bad about it! We **really appreciate** you taking the time to help out with Songbox.
 
 There are a lot of reasons why we might close a PR, and most of them have nothing to do with you. It might be because:
 
@@ -321,4 +321,4 @@ bun run build
 - Focus on constructive feedback
 - Respect different viewpoints and experiences
 
-Thank you for contributing to Monochrome!
+Thank you for contributing to Songbox!

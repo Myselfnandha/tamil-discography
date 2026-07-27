@@ -996,5 +996,123 @@ function escapeXml(text) {
         .replace(/'/g, '&#39;');
 }
 
+/**
+ * Imports a Spotify playlist into Songbox IndexedDB & user library
+ * @param {object} spotifyData - { id, title, description, cover, tracks }
+ * @param {object} api - LosslessAPI instance
+ * @param {object} db - MusicDatabase instance
+ * @param {Function} onProgress - Progress callback ({ current, total, trackName, matchedCount })
+ * @returns {Promise<{ playlist: object, matchedTracks: Array, missingTracks: Array }>}
+ */
+export async function importSpotifyPlaylist(spotifyData, api, db, onProgress = () => {}) {
+    const rawTracks = spotifyData.tracks || [];
+    const matchedTracks = [];
+    const missingTracks = [];
+    const total = rawTracks.length;
+
+    for (let i = 0; i < rawTracks.length; i++) {
+        const item = rawTracks[i];
+        const targetTitle = item.name;
+        const targetArtist = item.artist;
+        const targetAlbum = item.album;
+        const targetIsrc = item.isrc;
+
+        if (onProgress) {
+            onProgress({
+                current: i + 1,
+                total,
+                trackName: `${targetTitle} - ${targetArtist}`,
+                matchedCount: matchedTracks.length,
+            });
+        }
+
+        let bestMatch = null;
+
+        // Step 1: Try ISRC search if present
+        if (targetIsrc) {
+            try {
+                const searchResult = await api.searchTracks(targetIsrc);
+                const candidates = searchResult?.items || searchResult?.tracks || [];
+                for (const candidate of candidates) {
+                    if (isIsrcMatch(candidate.isrc, targetIsrc)) {
+                        bestMatch = candidate;
+                        break;
+                    }
+                }
+            } catch (e) {
+                // ISRC search failed, ignore and fall back to metadata
+            }
+        }
+
+        // Step 2: Fallback to Fuzzy Search by Title + Artist
+        if (!bestMatch) {
+            try {
+                const searchQuery = `${targetTitle} ${targetArtist}`.trim();
+                const searchResult = await api.searchTracks(searchQuery);
+                const candidates = searchResult?.items || searchResult?.tracks || [];
+
+                let highestScore = 0;
+                for (const candidate of candidates) {
+                    const score = scoreTrack(candidate, targetTitle, targetArtist, targetAlbum);
+                    if (score > highestScore && score >= 0.55) {
+                        highestScore = score;
+                        bestMatch = candidate;
+                    }
+                }
+            } catch (e) {
+                // Search failed
+            }
+        }
+
+        if (bestMatch) {
+            matchedTracks.push(bestMatch);
+        } else {
+            missingTracks.push({
+                title: targetTitle,
+                artist: targetArtist,
+                album: targetAlbum,
+                isrc: targetIsrc,
+            });
+        }
+
+        // Small delay to prevent rate-limiting API endpoints
+        if (i % 5 === 0) {
+            await new Promise((resolve) => setTimeout(resolve, 50));
+        }
+    }
+
+    // Save matched playlist to IndexedDB user_playlists
+    const playlistId = 'spotify_' + spotifyData.id;
+    const now = Date.now();
+
+    const playlistObj = {
+        id: playlistId,
+        uuid: playlistId,
+        title: spotifyData.title,
+        name: spotifyData.title,
+        description: spotifyData.description || `Imported from Spotify (${matchedTracks.length}/${total} tracks matched)`,
+        cover: spotifyData.cover || (matchedTracks[0]?.album?.cover || matchedTracks[0]?.cover || '/assets/appicon.png'),
+        tracks: matchedTracks,
+        isUserPlaylist: true,
+        spotifyPlaylistId: spotifyData.id,
+        spotifyTotalTracks: total,
+        lastSyncedAt: now,
+        createdAt: now,
+        updatedAt: now,
+    };
+
+    if (db && db.saveUserPlaylist) {
+        await db.saveUserPlaylist(playlistObj);
+    } else if (db && db.createPlaylist) {
+        await db.createPlaylist(playlistObj);
+    }
+
+    return {
+        playlist: playlistObj,
+        matchedTracks,
+        missingTracks,
+    };
+}
+
 // Export all functions
 export { getTrackArtists };

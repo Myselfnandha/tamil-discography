@@ -44,10 +44,10 @@ function showDonationPrompt() {
     const el = document.createElement('div');
     el.className = 'download-task';
     el.innerHTML = `
-        <div style="font-weight: 600; margin-bottom: 0.4rem;">Support Monochrome</div>
-        <p style="margin: 0 0 0.75rem; font-size: 0.85rem; line-height: 1.5; color: var(--muted-foreground);">
-            Enjoying the music? Monochrome is free, has no ads, and runs entirely on donations.
-        </p>
+        <div style="font-weight: 600; margin-bottom: 0.4rem;">Support Songbox</div>
+        <div style="margin-bottom: 0.8rem; line-height: 1.4;">
+            Enjoying the music? Songbox is free, has no ads, and runs entirely on donations.
+        </div>
         <div style="display: flex; gap: 0.5rem; justify-content: flex-end;">
             <button class="btn-secondary" data-action="dismiss" style="padding: 0.35rem 0.8rem; font-size: 0.8rem;">Maybe Later</button>
             <button class="btn-primary" data-action="donate" style="padding: 0.35rem 0.8rem; font-size: 0.8rem;">Donate</button>
@@ -2702,6 +2702,8 @@ function showSleepTimerModal(player) {
     const modal = document.getElementById('sleep-timer-modal');
     if (!modal) return;
 
+    const fadeoutCheckbox = document.getElementById('sleep-timer-fadeout');
+
     const closeModal = () => {
         modal.classList.remove('active');
         cleanup();
@@ -2710,6 +2712,16 @@ function showSleepTimerModal(player) {
     const handleOptionClick = (e) => {
         const timerOption = e.target.closest('.timer-option');
         if (timerOption) {
+            const fadeout = fadeoutCheckbox ? fadeoutCheckbox.checked : true;
+
+            // Handle "End of current track" option
+            if (timerOption.id === 'end-of-track-timer-btn') {
+                player.setSleepTimerEndOfTrack({ fadeout });
+                showNotification('Sleep timer set: end of current track');
+                closeModal();
+                return;
+            }
+
             let minutes;
             if (timerOption.id === 'custom-timer-btn') {
                 const customInput = document.getElementById('custom-minutes');
@@ -2723,7 +2735,7 @@ function showSleepTimerModal(player) {
             }
 
             if (minutes) {
-                player.setSleepTimer(minutes);
+                player.setSleepTimer(minutes, { fadeout });
                 showNotification(`Sleep timer set for ${minutes} minute${minutes === 1 ? '' : 's'}`);
                 closeModal();
             }

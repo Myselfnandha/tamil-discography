@@ -1,5 +1,5 @@
 // js/podcasts-api.js
-// PodcastIndex.org API integration for Monochrome Music
+// PodcastIndex.org API integration for Songbox
 
 const PODCASTINDEX_API_BASE = 'https://api.podcastindex.org/api/1.0';
 

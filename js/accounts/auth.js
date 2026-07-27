@@ -1,8 +1,8 @@
 // js/accounts/auth.js
 import { AUTH_BASE_URL, authClient } from './config.js';
 
-const LEGACY_AUTH_TOKEN_KEY = 'monochrome-auth-token';
-const NATIVE_OAUTH_HANDLED_URLS_KEY = 'monochrome-native-oauth-handled-urls';
+const LEGACY_AUTH_TOKEN_KEY = 'songbox-auth-token';
+const NATIVE_OAUTH_HANDLED_URLS_KEY = 'songbox-native-oauth-handled-urls';
 const NATIVE_OAUTH_SCHEME = 'monochrome';
 const NATIVE_OAUTH_HOST = 'auth-callback';
 let authToken = localStorage.getItem(LEGACY_AUTH_TOKEN_KEY) || '';
