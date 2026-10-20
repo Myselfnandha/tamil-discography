@@ -23,160 +23,200 @@ TOP_ARTISTS = [
     {
         "name": "A. R. Rahman",
         "slug_base": "ar_rahman",
+        "role": "composer",
         "emoji": "🎹",
-        "filter": r"a\.?\s*r\.?\s*rahman|rahman",
+        "filter": r"\b(a\.?\s*r\.?\s*rahman|a\.?\s*r\.?\s*raghuman)\b",
+        "exclude_filter": r"\b(abdul\s*rahman|mujeep\s*rahman)\b",
         "hit_keywords": r"roja|bombay|gentleman|mudhalvan|jeans|kadhalan|alaipayuthey|kandukondain|sivaji|enthiran|vinnaithaandi|vinnathaandi|ayutha ezhuthu|boys|new york|urusvasi|mustafa|chinnanchiru|munbe",
         "underrated_keywords": r"taj mahal|sangamam|tenali|parthale|may madham|kizhakku cheemayile|karuthamma|anthimanthaarai|connections|couples|maryan|raavanan|kaaviyathalaivan|achcham yenbadhu|chekka chivantha|vendhu thanindhathu|iravin nizhal"
     },
     {
         "name": "Ilaiyaraaja",
         "slug_base": "ilaiyaraaja",
+        "role": "composer",
         "emoji": "👑",
-        "filter": r"ilaiyaraaja|ilayaraja",
+        "filter": r"\b(ilaiyaraaja|ilayaraja|ilayaraaja)\b",
+        "exclude_filter": r"meenakshi\s*ilayaraja",
         "hit_keywords": r"karakattakaran|nayakan|thalapathi|mouna ragam|sindhu bhairavi|anand|thevar magan|michael madana|payanangal|chinna thambi|ejamaan|avatharam|hey ram|virumaandi|pitamagan|kadhalukku mariyadhai",
         "underrated_keywords": r"en bommukutty|poonthotta|idhu oru|chembaruthi|marupadiyum|mogrini|pazhassi|dhaam dhoom|megha|ulavuthurai|onayum|thara thappattai|viduthalai|climax"
     },
     {
         "name": "Harris Jayaraj",
         "slug_base": "harris_jayaraj",
+        "role": "composer",
         "emoji": "🎸",
-        "filter": r"harris jayaraj|harris",
+        "filter": r"\b(harris\s*jayaraj|harris)\b",
+        "exclude_filter": None,
         "hit_keywords": r"minnale|kaakha kaakha|ghajini|anniyan|vettaiyaadu|vaaranam aayiram|ayan|aadhavan|engeyum kadhal|nanban|thuppakki|yennai arindhaal|irumugan",
         "underrated_keywords": r"samurai|lesa lesa|kovil|arputha|ullam ketkume|chellamae|majunu|dhaam dhoom|orange|oru kal oru kannadi|dev|kaappaan|legend"
     },
     {
         "name": "Yuvan Shankar Raja",
         "slug_base": "yuvan_shankar_raja",
+        "role": "composer",
         "emoji": "🔥",
-        "filter": r"yuvan shankar raja|yuvan",
+        "filter": r"\b(yuvan\s*shankar\s*raja|yuvan)\b",
+        "exclude_filter": None,
         "hit_keywords": r"7g rainbow|kadhal kondein|pudhupettai|raam|paruthiveeran|billa|mankatha|paiyaa|naan mahaan alla|aaranya kaandam|biriyani|dharani|neethaane en vasantham|anjaan|maanaadu|goat",
         "underrated_keywords": r"poovellam kettuppar|thulluvadho ilamai|mounam pesiyadhe|kurumbu|pudhiya geethai|kanda naal mudhal|kalvanin kadhali|saroja|vaamanan|theeradha vilaiyattu|kazhugu|aadhi bhagavan|ngk|valimai"
     },
     {
         "name": "Anirudh Ravichander",
         "slug_base": "anirudh",
+        "role": "composer",
         "emoji": "⚡",
-        "filter": r"anirudh ravichander|anirudh",
+        "filter": r"\b(anirudh\s*ravichander|anirudh)\b",
+        "exclude_filter": None,
         "hit_keywords": r"3|ethir neechal|vanakkam chennai|vip|velaiilla|kaththi|maari|naanum rowdy dhaan|vedalam|remmo|petta|master|doctor|don|vikram|beast|thiruchitrambalam|jailer|leo|devara|vettaiyan",
         "underrated_keywords": r"david|aakko|kaaki sattai|rum|vivegam|kolamaavu kokila|jersey|gang leader|darbar|pavakkadhaigal"
     },
     {
         "name": "Vidyasagar",
         "slug_base": "vidyasagar",
+        "role": "composer",
         "emoji": "🎼",
-        "filter": r"vidyasagar",
+        "filter": r"\bvidyasagar\b",
+        "exclude_filter": None,
         "hit_keywords": r"ghilli|dhool|dhill|run|chandramukhi|mozhi|kuruvi|anbe sivam|thirumalai|poovellam un vaasam|parthiban kanavu|giri|villu",
         "underrated_keywords": r"karnaa|aahaa|ujala|nilave mugam kaattu|alavandhan|thithikudhe|otran|madhurey|kannaadi pookal|majaa|thambi|sivappathigaram|kaavalan"
     },
     {
         "name": "Deva",
         "slug_base": "deva",
+        "role": "composer",
         "emoji": "🪘",
-        "filter": r"deva",
+        "filter": r"\bdeva\b",
+        "exclude_filter": r"\b(mahadevan|vasudevan|prabhu\s*deva|gurudeva|jaideva|devadas)\b",
         "hit_keywords": r"baasha|annamalai|suriyan|basha|kadhal kottai|kushi|vaali|avvai shanmugi|arunachalam|natpukkaga|red|citizen|mugavaree|chocolate",
         "underrated_keywords": r"vaigasi poranthachu|kizhakku vaasal|marumalarchi|unnidathil ennai|ninaithen vandhai|priyamudan|nenjinile|kannaal pesavaa|appu"
     },
     {
         "name": "Santhosh Narayanan",
         "slug_base": "santhosh_narayanan",
+        "role": "composer",
         "emoji": "🎷",
-        "filter": r"santhosh narayanan",
+        "filter": r"\b(santhosh\s*narayanan|santhosh)\b",
+        "exclude_filter": None,
         "hit_keywords": r"attakathi|pizza|soodhu kavvum|jigarthanda|madras|kabali|kaala|vada chennai|pariyerum perumal|karnan|sarpatta|mahaan|chithha|kalki",
         "underrated_keywords": r"cuckoo|enakku vaaltha|irudhi suttru|manithan|kashmora|server sundaram|gypsy|jagame thandhiram|dasara"
     },
     {
         "name": "D. Imman",
         "slug_base": "d_imman",
+        "role": "composer",
         "emoji": "🌾",
-        "filter": r"d\.?\s*imman|imman",
+        "filter": r"\b(d\.?\s*imman|imman)\b",
+        "exclude_filter": None,
         "hit_keywords": r"kumki|kayal|varuthapadatha valibar|rajini murugan|viswasam|annaatthe|miruthan|bogan|kadaikutty singam|seema raja",
         "underrated_keywords": r"tamizhan|girivalam|marudhamalai|myna|manampole|sigaram thodu|vetrivel|panjumittai|podhuvaga emmanasu"
     },
     {
         "name": "G. V. Prakash Kumar",
         "slug_base": "gv_prakash",
+        "role": "composer",
         "emoji": "🎻",
-        "filter": r"g\.?\s*v\.?\s*prakash|gv prakash",
+        "filter": r"\b(g\.?\s*v\.?\s*prakash(\s*kumar)?|gv\s*prakash)\b",
+        "exclude_filter": None,
         "hit_keywords": r"veyil|kireedam|angadi theru|aayirathil oruvan|madrasapattinam|aadukalam|mayakkam enna|thalaivaa|raja rani|theri|soorarai pottru|captain miller|amarasaran",
         "underrated_keywords": r"polladhavan|kuselan|ananda thandavam|irandam ulagam|deiva thirumagal|saguni|paradesi|marudhu|kaashmora|sarvam thaala mayam"
     },
     {
         "name": "M. S. Viswanathan",
         "slug_base": "ms_viswanathan",
+        "role": "composer",
         "emoji": "✨",
-        "filter": r"m\.?\s*s\.?\s*viswanathan|viswanathan",
+        "filter": r"\b(m\.?\s*s\.?\s*viswanathan|m\.?\s*s\.?\s*v|viswanathan)\b",
+        "exclude_filter": None,
         "hit_keywords": r"karnan|ayirathil oruvan|padagotti|server sundaram|bama vijayam|adhey kangal|kavalkaran|galatta kalyanam|rickshawkaran|ulagam sutrum valiban|nenjirukkum varai|aval oru thodarkadhai",
         "underrated_keywords": r"pazhani|anbu karangal|selvam|sorgam|gnana oli|bharatha vilas|sivagamiyin sabatham|avargal|varumayin niram sivappu|thillu mullu"
     },
     {
         "name": "K. V. Mahadevan",
         "slug_base": "kv_mahadevan",
+        "role": "composer",
         "emoji": "🪕",
-        "filter": r"k\.?\s*v\.?\s*mahadevan|mahadevan",
+        "filter": r"\b(k\.?\s*v\.?\s*mahadevan|kvm)\b",
+        "exclude_filter": r"\b(shankar\s*mahadevan|shivam\s*mahadevan)\b",
         "hit_keywords": r"thiruvilaiyadal|saraswathi sabatham|kandhan karunai|thillana mohanambal|kadavul amaitha medai|vasanthamaligai|sankarabharanam",
         "underrated_keywords": r"sampoorna ramayanam|thirumanam|pudhiya pathai|adimai penn|velli vizha|swati mutyam|sruthilayalu"
     },
     {
         "name": "S. P. Balasubrahmanyam",
         "slug_base": "spb",
+        "role": "singer",
         "emoji": "🎙️",
-        "filter": r"balasubrahmanyam|s\.?\s*p\.?\s*b",
+        "filter": r"\b(balasubrahmanyam|s\.?\s*p\.?\s*b)\b",
+        "exclude_filter": None,
         "hit_keywords": r"kadhal|mannan|baasha|muthu|padayappa|keladi kanmani|thalapathi|sindhu bhairavi|guna|payanangal|gentleman|ejamaan",
         "underrated_keywords": r"sigaram|duet|anand|mounam|gopura vasalile|idhu namma aalu|enakkul oruvan|avatharam"
     },
     {
         "name": "K. J. Yesudas",
         "slug_base": "kj_yesudas",
+        "role": "singer",
         "emoji": "🌟",
-        "filter": r"yesudas|k\.?\s*j\.?\s*yesudas",
+        "filter": r"\b(yesudas|k\.?\s*j\.?\s*yesudas)\b",
+        "exclude_filter": None,
         "hit_keywords": r"thenpandi|kannaana|amman|kanmani|sangeetha|deivam|aararo|vellai|thalattu|oru koodai|aboorva|dalapathi",
         "underrated_keywords": r"azhagan|poongatru|mannil|ulagam|kanavugal|sree ragam|nadham"
     },
     {
         "name": "K. S. Chithra",
         "slug_base": "ks_chithra",
+        "role": "singer",
         "emoji": "🕊️",
-        "filter": r"chithra|k\.?\s*s\.?\s*chithra",
+        "filter": r"\b(chithra|k\.?\s*s\.?\s*chithra)\b",
+        "exclude_filter": None,
         "hit_keywords": r"chinna chinna|kannalane|malargale|kannodu|anbendra|roja|porkkalam|kannukulle|vaseegara|munbe",
         "underrated_keywords": r"oru naal|poongatru|sendhoora|azhagi|manasellam|kanave|thalattu"
     },
     {
         "name": "S. Janaki",
         "slug_base": "s_janaki",
+        "role": "singer",
         "emoji": "🎶",
-        "filter": r"janaki|s\.?\s*janaki",
+        "filter": r"\b(janaki|s\.?\s*janaki)\b",
+        "exclude_filter": None,
         "hit_keywords": r"thanga manasukkaran|mahaprabhu|vanaja girija|vaikarai|idimuzhakkam|singam|karakattakaran|sindhu bhairavi|mouna ragam|nayakan|thevar magan|thalapathi|16 vayathinile|sankarabharanam",
         "underrated_keywords": r"thean|sinthidum|teenz|poovarasam|idhu oru|chembaruthi|marupadiyum|poonthotta|en bommukutty"
     },
     {
         "name": "Hariharan",
         "slug_base": "hariharan",
+        "role": "singer",
         "emoji": "🌹",
-        "filter": r"hariharan",
+        "filter": r"\bhariharan\b",
+        "exclude_filter": None,
         "hit_keywords": r"uyire|kurukku|telepathy|thirakkatha|venmathi|en navil|unale|nenjukkul|malargale|anbe anbe",
         "underrated_keywords": r"kavithai|chanda|suttum|kannodu|pazhaya|kannadi|thendral"
     },
     {
         "name": "Shankar Mahadevan",
         "slug_base": "shankar_mahadevan",
+        "role": "singer",
         "emoji": "⚡",
-        "filter": r"shankar mahadevan",
+        "filter": r"\bshankar\s*mahadevan\b",
+        "exclude_filter": None,
         "hit_keywords": r"thaniye|manmadha|theradi|kalloori|uppu karuvadu|varaha|sandakozhi|pattukottai|vetri",
         "underrated_keywords": r"poove|kanavugal|nenjil|anbil|gopura|uyarndhu"
     },
     {
         "name": "Sid Sriram",
         "slug_base": "sid_sriram",
+        "role": "singer",
         "emoji": "🎤",
-        "filter": r"sid sriram",
+        "filter": r"\bsid\s*sriram\b",
+        "exclude_filter": None,
         "hit_keywords": r"unkoodave|anbe peranbe|kadhaippoma|kaadhal theevey|adiye|ennodu|thalli pogathey|maruvaarthai|kannaana|innum|mudhal|paravai|unale|bae|kaadhal",
         "underrated_keywords": r"kannu thangom|easy come|poova thalaiyaa|en uyir|thinam thinam|michael|pooppom|yaen|kannukulle|adada|oru naalil|katchi sera"
     },
     {
         "name": "Shreya Ghoshal",
         "slug_base": "shreya_ghoshal",
+        "role": "singer",
         "emoji": "🌸",
-        "filter": r"shreya ghoshal|shreya ghosal",
+        "filter": r"\bshreya\s*ghosh?al\b",
+        "exclude_filter": None,
         "hit_keywords": r"ninaithu ninaithu|mailaanji|anbe peranbe|ival dhaana|munbe vaa|mannipaaya|aila aila|un mela|adada|oru naalil|kannaana|innum|thuli|partha",
         "underrated_keywords": r"paartha nyabagam|kolai|vaa tharagaye|teenz|paramporul|nenjil|siragugal|vinnathaandi|thalli|anbil|malargal"
     }
@@ -228,7 +268,7 @@ TAXONOMY = {
         {"slug": "folk", "name": "Folk", "category": "By Music Genre", "emoji": "🥁", "desc": "Rooted percussion, rural soul, and village festivities.", "rules": [{"type": "keyword", "pattern": r"folk|naatupura|oru koodai|karakattakaran|paruthi|komban|chinna machan|appatha|gramathu|thavil|oorum"}]},
         {"slug": "acoustic", "name": "Acoustic", "category": "By Music Genre", "emoji": "🪗", "desc": "Intimate guitar fingerpicking and unplugged vocals.", "rules": [{"type": "keyword", "pattern": r"acoustic|unplugged|guitar|violin|piano|vinnathaandi|thalli|anbil|malargal|kanave|poongatru"}]},
         {"slug": "indie", "name": "Indie", "category": "By Music Genre", "emoji": "🌿", "desc": "Independent, alternative sounds and fresh non-film artistry.", "rules": [{"type": "keyword", "pattern": r"indie|pradeep|sean roldan|dhee|enjoy enjaami|katchi sera|asai|bodhai|kannamma|orasaadha"}]},
-        {"slug": "devotional", "name": "Devotional", "category": "By Music Genre", "emoji": "🪔", "desc": "Spiritual hymns and sacred devotional chants.", "rules": [{"type": "keyword", "pattern": r"murugan|shiva|krishna|vinayagar|amman|ayyappa|venkateswara|bakthi|sami|kovil|arunachala"}]},
+        {"slug": "devotional", "name": "Devotional", "category": "By Music Genre", "emoji": "🪔", "desc": "Spiritual hymns and sacred devotional chants.", "rules": [{"type": "keyword", "pattern": r"\b(murugan|shiva|krishna|vinayagar|amman|ayyappa|venkateswara|bakthi|sami|kovil|arunachala)\b"}]},
         {"slug": "instrumental", "name": "Instrumental", "category": "By Music Genre", "emoji": "🎻", "desc": "Pure instrumental themes, flute, veena, and violin solos.", "rules": [{"type": "keyword", "pattern": r"instrumental|theme|flute|veena|violin|mandolin|piano|melody|symphony|bgm|score"}]},
         {"slug": "lofi", "name": "Lo-fi", "category": "By Music Genre", "emoji": "📼", "desc": "Warm tape crackle, slow-reverb chords, and rainy night vibes.", "rules": [{"type": "keyword", "pattern": r"lofi|lo-fi|chill|slow|reverb|rain|night|kanmoodi|poove|venmathi|munbe|new york"}]},
         {"slug": "phonk", "name": "Phonk", "category": "By Music Genre", "emoji": "🏎️", "desc": "Dark 808 bass slides, drift cowbells, and menacing swagger.", "rules": [{"type": "keyword", "pattern": r"drift|bass|drift phonk|vikram|rolex|leo|badass|dilli|jailer|tiger|hukum|beast"}]},
@@ -273,7 +313,7 @@ TAXONOMY = {
     "era": [
         {"slug": "latest_releases", "name": "Latest Releases", "category": "By Era & Collection", "emoji": "🆕", "desc": "Fresh chartbusters from 2024 to 2026.", "rules": [{"type": "year_range", "start": 2024, "end": 2026}]},
         {"slug": "trended_trending", "name": "Trended & Trending Songs", "category": "By Era & Collection", "emoji": "📈", "desc": "Reels hits and viral streaming phenomena (2021-2026).", "rules": [{"type": "year_range", "start": 2021, "end": 2026}]},
-        {"slug": "all_time_hits", "name": "All-Time Hits", "category": "By Era & Collection", "emoji": "🏆", "desc": "Immortal Tamil blockbuster anthems across all decades.", "rules": [{"type": "keyword", "pattern": r"rahman|ilaiyaraaja|harris|yuvan|anirudh|deva|vidyasagar|m\.s\. viswanathan"}]},
+        {"slug": "all_time_hits", "name": "All-Time Hits", "category": "By Era & Collection", "emoji": "🏆", "desc": "Immortal Tamil blockbuster anthems across all decades.", "rules": [{"type": "keyword", "pattern": r"\b(a\.?\s*r\.?\s*rahman|ilaiyaraaja|ilayaraja|harris\s*jayaraj|yuvan\s*shankar\s*raja|anirudh|vidyasagar|m\.?\s*s\.?\s*viswanathan)\b|\bdeva\b", "exclude_pattern": r"\b(mahadevan|vasudevan|prabhu\s*deva)\b"}]},
         {"slug": "90s_classics", "name": "90s Classics", "category": "By Era & Collection", "emoji": "📻", "desc": "The revolutionary golden 1990s decade (1990-1999).", "rules": [{"type": "year_range", "start": 1990, "end": 1999}]},
         {"slug": "2000s_hits", "name": "2000s Hits", "category": "By Era & Collection", "emoji": "💿", "desc": "The dynamic 2000s era (2000-2009).", "rules": [{"type": "year_range", "start": 2000, "end": 2009}]},
         {"slug": "golden_era", "name": "Golden Era", "category": "By Era & Collection", "emoji": "👑", "desc": "Timeless vintage treasures (1960-1979).", "rules": [{"type": "year_range", "start": 1960, "end": 1979}]},
@@ -290,14 +330,14 @@ TAXONOMY = {
         {"slug": "tamil_melody", "name": "Tamil Melody", "category": "Tamil Music Categories", "emoji": "🎼", "desc": "Classic Tamil melody at its finest.", "rules": [{"type": "keyword", "pattern": r"melody|thenpandi|poongatru|kannodu|malargale|vaseegara|en navil|unakkul"}]},
         {"slug": "love_duets", "name": "Love Duets", "category": "Tamil Music Categories", "emoji": "👩‍❤️‍👨", "desc": "Iconic male-female romantic duets.", "rules": [{"type": "duet", "pattern": r"duet|spb.*chithra|hariharan.*sadhana|sid sriram.*shreya|mano.*janaki"}]},
         {"slug": "sad_melody", "name": "Sad Melody", "category": "Tamil Music Categories", "emoji": "🎻", "desc": "Poignant, tearful violin-laden melodies.", "rules": [{"type": "keyword", "pattern": r"sogam|kannir|pirivu|valikudhu|thani|vali|maranam|theeyil|poongatru"}]},
-        {"slug": "gaana", "name": "Gaana", "category": "Tamil Music Categories", "emoji": "🪘", "desc": "Authentic Chennai street gaana beats.", "rules": [{"type": "keyword", "pattern": r"gaana|gana|marana|danga|tasakku|sodakku|aluma|aaluma|podu|deva"}]},
+        {"slug": "gaana", "name": "Gaana", "category": "Tamil Music Categories", "emoji": "🪘", "desc": "Authentic Chennai street gaana beats.", "rules": [{"type": "keyword", "pattern": r"\b(gaana|gana|marana|danga|tasakku|sodakku|aluma|aaluma|podu)\b|\bdeva\b", "exclude_pattern": r"\b(mahadevan|vasudevan|prabhu\s*deva)\b"}]},
         {"slug": "kuthu_dance", "name": "Kuthu / Dance", "category": "Tamil Music Categories", "emoji": "💃", "desc": "High-octane folk kuthu percussion and whistle beats.", "rules": [{"type": "keyword", "pattern": r"kuthu|dapankuthu|verithanam|aaluma|neruppu|adra|vaathi|rowdy|arabic"}]},
         {"slug": "folk_village", "name": "Folk & Village Songs", "category": "Tamil Music Categories", "emoji": "🌾", "desc": "Rural instruments, harvest songs, and village soil.", "rules": [{"type": "keyword", "pattern": r"folk|naatupura|oru koodai|karakattakaran|paruthi|komban|chinna machan|appatha"}]},
         {"slug": "tamil_rap", "name": "Tamil Rap", "category": "Tamil Music Categories", "emoji": "🎤", "desc": "Fast flows, rhymes, and Tamil street hip-hop.", "rules": [{"type": "keyword", "pattern": r"rap|hiphop|tamizha|therukural|arivu|blaaze|yogi b|mc sai|ady"}]},
         {"slug": "mass_hero_bgm", "name": "Mass Hero BGM", "category": "Tamil Music Categories", "emoji": "💥", "desc": "Mass entry themes and theatre-rattling scores.", "rules": [{"type": "keyword", "pattern": r"\b(theme|bgm|badass|hukum|vikram|leo|jailer|master|kabali|billa|mankatha|teaser|entry|mass|score)\b"}]},
         {"slug": "romantic_duets", "name": "Romantic Duets", "category": "Tamil Music Categories", "emoji": "🌹", "desc": "Tender romantic melodies sung in duet harmony.", "rules": [{"type": "keyword", "pattern": r"kadhal|kaadhal|anbe|uyire|priya|idhayame|penne|azhagi|manasellam"}]},
         {"slug": "ilaiyaraaja_classics", "name": "Ilaiyaraaja Classics", "category": "Tamil Music Categories", "emoji": "👑", "desc": "The Maestro's symphonic and folk immortality.", "rules": [{"type": "composer", "pattern": r"ilaiyaraaja|ilayaraja"}]},
-        {"slug": "ar_rahman_hits", "name": "A. R. Rahman Hits", "category": "Tamil Music Categories", "emoji": "🎹", "desc": "The Mozart of Madras's global masterpieces.", "rules": [{"type": "composer", "pattern": r"a\.?\s*r\.?\s*rahman|rahman"}]},
+        {"slug": "ar_rahman_hits", "name": "A. R. Rahman Hits", "category": "Tamil Music Categories", "emoji": "🎹", "desc": "The Mozart of Madras's global masterpieces.", "rules": [{"type": "composer", "pattern": r"a\.?\s*r\.?\s*rahman|a\.?\s*r\.?\s*raghuman", "exclude_pat": r"abdul\s*rahman|mujeep\s*rahman"}]},
         {"slug": "harris_jayaraj_hits", "name": "Harris Jayaraj Hits", "category": "Tamil Music Categories", "emoji": "🎸", "desc": "Acoustic chords, whistling intros, and 2000s anthems.", "rules": [{"type": "composer", "pattern": r"harris jayaraj|harris"}]},
         {"slug": "yuvan_shankar_raja_hits", "name": "Yuvan Shankar Raja Hits", "category": "Tamil Music Categories", "emoji": "🔥", "desc": "Youth icon's addictive melancholy and raw beats.", "rules": [{"type": "composer", "pattern": r"yuvan shankar raja|yuvan"}]},
         {"slug": "anirudh_hits", "name": "Anirudh Hits", "category": "Tamil Music Categories", "emoji": "⚡", "desc": "Rockstar viral drops, viral hooks, and mass basslines.", "rules": [{"type": "composer", "pattern": r"anirudh ravichander|anirudh"}]},
@@ -337,7 +377,7 @@ for a in TOP_ARTISTS:
         "emoji": a["emoji"],
         "desc": f"The complete discography & essential catalog of {a['name']}.",
         "rules": [
-            {"type": "artist_all", "artist_pat": a["filter"]}
+            {"type": "artist_all", "artist_pat": a["filter"], "role": a.get("role", "composer"), "exclude_pat": a.get("exclude_filter")}
         ]
     })
     # 2. Artist Hits slug
@@ -348,7 +388,7 @@ for a in TOP_ARTISTS:
         "emoji": a["emoji"],
         "desc": f"Blockbusters, chartbusters & signature hits by {a['name']}.",
         "rules": [
-            {"type": "artist_hits", "artist_pat": a["filter"], "hit_pat": a["hit_keywords"]}
+            {"type": "artist_hits", "artist_pat": a["filter"], "hit_pat": a["hit_keywords"], "role": a.get("role", "composer"), "exclude_pat": a.get("exclude_filter")}
         ]
     })
     # 3. Artist Underrated slug
@@ -359,7 +399,7 @@ for a in TOP_ARTISTS:
         "emoji": "💎",
         "desc": f"Hidden gems, deep cuts & lesser-known masterpieces by {a['name']}.",
         "rules": [
-            {"type": "artist_underrated", "artist_pat": a["filter"], "underrated_pat": a["underrated_keywords"]}
+            {"type": "artist_underrated", "artist_pat": a["filter"], "underrated_pat": a["underrated_keywords"], "role": a.get("role", "composer"), "exclude_pat": a.get("exclude_filter")}
         ]
     })
 
@@ -500,6 +540,40 @@ INSTRUMENTAL_ONLY_SLUGS = {"instrumental", "tamil_instrumental_bgm", "mass_hero_
 INSTRUMENTAL_ALLOWED_SLUGS = {"studying_focus", "background_music", "meditation"}
 
 
+def check_artist_match(composer, singers, artist_pat, role="composer", exclude_pat=None):
+    """
+    Strict role-scoped artist classification preventing cross-role / substring collisions.
+    - If role == 'composer': checks 'composer' column. Can check 'singers' only if the composer
+      personally sang the track, and does NOT match exclude_pat. NEVER checks cast/director/album.
+    - If role == 'singer': strictly checks 'singers' column (and composer if singer also composed).
+    """
+    comp = clean_meta_text(composer)
+    sing = clean_meta_text(singers)
+
+    if role == "composer":
+        # Check composer field first
+        if comp and re.search(artist_pat, comp, re.I):
+            if not (exclude_pat and re.search(exclude_pat, comp, re.I)):
+                return True
+        # Check singers field (for self-sung tracks, e.g. Deva gaana or Rahman vocals)
+        if sing and re.search(artist_pat, sing, re.I):
+            if not (exclude_pat and re.search(exclude_pat, sing, re.I)):
+                return True
+        return False
+
+    elif role == "singer":
+        if sing and re.search(artist_pat, sing, re.I):
+            if not (exclude_pat and re.search(exclude_pat, sing, re.I)):
+                return True
+        # Edge case: some singers also compose
+        if comp and re.search(artist_pat, comp, re.I):
+            if not (exclude_pat and re.search(exclude_pat, comp, re.I)):
+                return True
+        return False
+
+    return False
+
+
 def matches_rules(track, rules, playlist_slug=None, playlist_category=None):
     """Determine if a track matches the playlist rules."""
     track_type = track.get("track_type", "song")
@@ -564,20 +638,26 @@ def matches_rules(track, rules, playlist_slug=None, playlist_category=None):
 
         elif rtype == "artist_all":
             artist_pat = r["artist_pat"]
-            if re.search(artist_pat, composer, re.I) or re.search(artist_pat, singers, re.I) or re.search(artist_pat, combined_searchable, re.I):
+            role = r.get("role", "composer")
+            exclude_pat = r.get("exclude_pat")
+            if check_artist_match(composer, singers, artist_pat, role, exclude_pat):
                 return True, f"Artist All match: {artist_pat[:15]}"
 
         elif rtype == "artist_hits":
             artist_pat = r["artist_pat"]
             hit_pat = r["hit_pat"]
-            if re.search(artist_pat, combined_searchable, re.I):
+            role = r.get("role", "composer")
+            exclude_pat = r.get("exclude_pat")
+            if check_artist_match(composer, singers, artist_pat, role, exclude_pat):
                 if re.search(hit_pat, combined_searchable, re.I) or not hit_pat:
                     return True, f"Artist Hit match: {artist_pat[:15]}"
 
         elif rtype == "artist_underrated":
             artist_pat = r["artist_pat"]
             underrated_pat = r["underrated_pat"]
-            if re.search(artist_pat, combined_searchable, re.I):
+            role = r.get("role", "composer")
+            exclude_pat = r.get("exclude_pat")
+            if check_artist_match(composer, singers, artist_pat, role, exclude_pat):
                 if re.search(underrated_pat, combined_searchable, re.I):
                     return True, f"Artist Underrated match: {artist_pat[:15]}"
 
@@ -591,13 +671,17 @@ def matches_rules(track, rules, playlist_slug=None, playlist_category=None):
 
         elif rtype == "keyword":
             pat = r["pattern"]
+            exclude_pat = r.get("exclude_pattern")
             if re.search(pat, combined_searchable, re.I):
-                return True, f"Keyword match: {pat[:20]}"
+                if not (exclude_pat and re.search(exclude_pat, combined_searchable, re.I)):
+                    return True, f"Keyword match: {pat[:20]}"
 
         elif rtype == "composer":
             pat = r["pattern"]
-            if re.search(pat, composer, re.I) or re.search(pat, combined_searchable, re.I):
-                return True, f"Composer match: {pat}"
+            exclude_pat = r.get("exclude_pat")
+            if re.search(pat, composer, re.I):
+                if not (exclude_pat and re.search(exclude_pat, composer, re.I)):
+                    return True, f"Composer match: {pat}"
 
         elif rtype == "duet":
             if singers and ("," in singers or "&" in singers or "and" in singers.lower()):
@@ -638,11 +722,15 @@ def generate_all_playlists(target_section=None):
             return
         sec_dir = PLAYLISTS_DIR / target_section
         if sec_dir.exists():
-            shutil.rmtree(sec_dir)
+            for f in sec_dir.glob("*.db"):
+                if f.name != "all_independent_songs.db":
+                    f.unlink()
         sec_dir.mkdir(parents=True, exist_ok=True)
     else:
         if PLAYLISTS_DIR.exists():
-            shutil.rmtree(PLAYLISTS_DIR)
+            for f in PLAYLISTS_DIR.glob("**/*.db"):
+                if f.name != "all_independent_songs.db":
+                    f.unlink()
         PLAYLISTS_DIR.mkdir(parents=True, exist_ok=True)
 
     print("="*75)

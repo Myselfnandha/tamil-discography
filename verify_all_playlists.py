@@ -172,6 +172,25 @@ def audit():
             if meta_cnt_row and int(meta_cnt_row[0]) != actual_cnt:
                 errors.append(f"❌ Indie track count mismatch in {rel_path}: meta={meta_cnt_row[0]}, actual={actual_cnt}")
 
+        # 6. Artist Attribution Integrity (No cross-artist or false positive leakage)
+        if "deva.db" in str(rel_path) or "deva_hits.db" in str(rel_path):
+            cur.execute("SELECT track_title, album_title, composer FROM tracks WHERE track_title = 'Yaavalo' OR composer LIKE '%Ashwin Vinayagamoorthy%'")
+            false_hits = cur.fetchall()
+            for fh in false_hits:
+                errors.append(f"❌ False Deva match in {rel_path}: '{fh[0]}' from '{fh[1]}' (Composer: {fh[2]})")
+
+        if "kv_mahadevan.db" in str(rel_path):
+            cur.execute("SELECT track_title, album_title, singers FROM tracks WHERE singers LIKE '%Shivam Mahadevan%' OR singers LIKE '%Shankar Mahadevan%'")
+            false_hits = cur.fetchall()
+            for fh in false_hits:
+                errors.append(f"❌ False K.V. Mahadevan match in {rel_path}: '{fh[0]}' sung by {fh[2]}")
+
+        if "devotional.db" in str(rel_path):
+            cur.execute("SELECT track_title, album_title FROM tracks WHERE track_title = 'Yaavalo'")
+            false_hits = cur.fetchall()
+            for fh in false_hits:
+                errors.append(f"❌ False Devotional match in {rel_path}: '{fh[0]}' from '{fh[1]}'")
+
         conn.close()
 
     print(f"Audited {checked_count} databases.")
