@@ -37,6 +37,7 @@ COOKIES_FILE = DATA_DIR / "spotify_cookies.json"
 TOKENS_FILE = BASE_DIR / ".spotify_tokens.json"
 YEAR_FOLDER_URI = "spotify:user:mqvns86lexwty9zusrxifajb4:folder:7581063132455cbe"
 INDIE_FOLDER_URI = "spotify:user:mqvns86lexwty9zusrxifajb4:folder:859025b00671d970"
+YEAR_COMPLETE_FOLDER_URI = "spotify:user:mqvns86lexwty9zusrxifajb4:folder:2effe1b0a46ff274"
 
 INDIE_SLUG_TO_NAME = {
     "indie_master": "Tamil Indie Master",
@@ -49,6 +50,7 @@ INDIE_SLUG_TO_NAME = {
     "kaber_vasuki": "Kaber Vasuki & Kurangan",
     "arivu_paal_dabba": "Arivu & Paal Dabba",
     "vaisagh": "Vaisagh Indie Collection",
+    "all_independent_songs": "All Independent Songs",
     "sean_roldan_pradeep_indie": "Sean Roldan & Pradeep Kumar Indie"
 }
 
@@ -415,6 +417,7 @@ def run_smart_hybrid_sync(state_mgr: StateManager, sync_mgr: SpotifySyncManager)
             from organize_spotify_folders import get_folder_contents
             folder_year = {clean_text(it["name"]): it["uri"] for it in get_folder_contents(sync_mgr.native_client, YEAR_FOLDER_URI)}
             folder_indie = {clean_text(it["name"]): it["uri"] for it in get_folder_contents(sync_mgr.native_client, INDIE_FOLDER_URI)}
+            folder_complete = {clean_text(it["name"]): it["uri"] for it in get_folder_contents(sync_mgr.native_client, YEAR_COMPLETE_FOLDER_URI)}
             all_playlists = sync_mgr.native_client.get_all_playlists()
         except Exception as e:
             logging.warning(f"Failed to fetch Spotify folders: {e}")
@@ -434,6 +437,11 @@ def run_smart_hybrid_sync(state_mgr: StateManager, sync_mgr: SpotifySyncManager)
         if slug == "2026":
             target_uri = folder_year.get("2026")
             pos = "TOP_OF_PLAYLIST"
+            # Keep 2026 - Complete synchronized
+            complete_uri = folder_complete.get("2026 complete")
+            if complete_uri:
+                sync_mgr.native_client.add_tracks_to_playlist(complete_uri, uris, position="TOP_OF_PLAYLIST")
+                logging.info(f"  ✨ Synced {len(uris)} new tracks to '2026 - Complete' in 'Year - Complete' folder.")
         elif slug in INDIE_SLUG_TO_NAME:
             from spotify_native_client import clean_text
             clean_indie_name = clean_text(INDIE_SLUG_TO_NAME[slug])

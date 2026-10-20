@@ -69,6 +69,11 @@ FOLDER_DEFINITIONS = {
         "display_name": "Indie",
         "start_group": "spotify:start-group:859025b00671d970",
         "folder_uri": "spotify:user:mqvns86lexwty9zusrxifajb4:folder:859025b00671d970"
+    },
+    "year_complete": {
+        "display_name": "Year - Complete",
+        "start_group": "spotify:start-group:2effe1b0a46ff274",
+        "folder_uri": "spotify:user:mqvns86lexwty9zusrxifajb4:folder:2effe1b0a46ff274"
     }
 }
 

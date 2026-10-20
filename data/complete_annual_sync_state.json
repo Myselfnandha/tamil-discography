@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "last_sync_utc": "2026-10-20T18:00:58.474250+00:00",
+  "completed_years": {
+    "1985": {
+      "synced_at": "2026-10-20T18:00:58.474177+00:00",
+      "status": "success",
+      "tracks_count": 544
+    },
+    "2024": {
+      "synced_at": "2026-10-20T18:00:58.474231+00:00",
+      "status": "success",
+      "tracks_count": 808
+    }
+  },
+  "metrics": {}
+}
