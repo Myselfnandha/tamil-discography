@@ -43,6 +43,7 @@ data/*.png
 data/*.log
 *.log
 *.png
+!assets/*.png
 *.pre_collision_fix
 
 # Backups and temporary files

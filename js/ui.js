@@ -728,9 +728,56 @@ export class UIRenderer {
         });
     }
 
-    createFolderCardHTML(folder) {
-        const imageSrc = folder.cover || 'assets/folder.png';
+    createFolderCardHTML(folder, playlistsMap = null) {
         const isCompact = cardSettings.isCompactAlbum();
+        let imageHTML = '';
+
+        if (folder.cover) {
+            imageHTML = `<img crossorigin="anonymous" referrerpolicy="no-referrer" src="${folder.cover}" alt="${escapeHtml(folder.name)}" class="card-image" loading="lazy" onerror="this.src='/assets/folder.png'">`;
+        } else {
+            // Collect unique covers from playlists inside this folder
+            const uniqueCovers = [];
+            const seen = new Set();
+            if (folder.playlists && folder.playlists.length > 0 && playlistsMap) {
+                for (const plId of folder.playlists) {
+                    const pl = playlistsMap.get(plId) || playlistsMap.get(String(plId)) || playlistsMap.get(Number(plId));
+                    if (!pl) continue;
+                    const candidates = [];
+                    if (pl.cover) candidates.push(pl.cover);
+                    if (pl.images?.length) candidates.push(...pl.images);
+                    if (pl.tracks?.length) {
+                        for (const tr of pl.tracks) {
+                            if (tr.album?.cover) candidates.push(tr.album.cover);
+                            if (candidates.length >= 8) break;
+                        }
+                    }
+                    for (const c of candidates) {
+                        if (c && !seen.has(c)) {
+                            seen.add(c);
+                            uniqueCovers.push(c);
+                            if (uniqueCovers.length >= 4) break;
+                        }
+                    }
+                    if (uniqueCovers.length >= 4) break;
+                }
+            }
+
+            if (uniqueCovers.length >= 2) {
+                const count = Math.min(uniqueCovers.length, 4);
+                const itemsClass = count < 4 ? `items-${count}` : '';
+                const covers = uniqueCovers.slice(0, 4);
+                imageHTML = `
+                    <div class="card-image card-collage ${itemsClass}">
+                        ${covers.map((c) => `<img crossorigin="anonymous" referrerpolicy="no-referrer" src="${this.api?.getCoverUrl ? this.api.getCoverUrl(c) : c}" alt="" loading="lazy">`).join('')}
+                    </div>
+                `;
+            } else if (uniqueCovers.length === 1) {
+                const coverUrl = this.api?.getCoverUrl ? this.api.getCoverUrl(uniqueCovers[0]) : uniqueCovers[0];
+                imageHTML = `<img crossorigin="anonymous" referrerpolicy="no-referrer" src="${coverUrl}" alt="${escapeHtml(folder.name)}" class="card-image" loading="lazy" onerror="this.src='/assets/folder.png'">`;
+            } else {
+                imageHTML = `<img crossorigin="anonymous" referrerpolicy="no-referrer" src="/assets/folder.png" alt="${escapeHtml(folder.name)}" class="card-image" loading="lazy">`;
+            }
+        }
 
         return this.createBaseCardHTML({
             type: 'folder',
@@ -738,7 +785,7 @@ export class UIRenderer {
             href: `/folder/${folder.id}`,
             title: escapeHtml(folder.name),
             subtitle: `${folder.playlists ? folder.playlists.length : 0} playlists`,
-            imageHTML: `<img crossorigin="anonymous" referrerpolicy="no-referrer" src="${imageSrc}" alt="${escapeHtml(folder.name)}" class="card-image" loading="lazy" onerror="this.src='/assets/folder.png'">`,
+            imageHTML,
             actionButtonsHTML: '',
             isCompact,
         });
@@ -2788,12 +2835,13 @@ export class UIRenderer {
         }
 
         const folders = await db.getFolders();
+        const myPlaylists = await db.getPlaylists();
+        const playlistMap = new Map((myPlaylists || []).map((p) => [p.id, p]));
+
         if (foldersContainer) {
-            foldersContainer.innerHTML = folders.map((f) => this.createFolderCardHTML(f)).join('');
+            foldersContainer.innerHTML = folders.map((f) => this.createFolderCardHTML(f, playlistMap)).join('');
             foldersContainer.style.display = folders.length ? 'grid' : 'none';
         }
-
-        const myPlaylists = await db.getPlaylists();
         const playlistsInFolders = new Set();
         folders.forEach((folder) => {
             if (folder.playlists) {
@@ -5504,7 +5552,69 @@ export class UIRenderer {
             const folder = await db.getFolder(folderId);
             if (!folder) throw new Error('Folder not found');
 
-            imageEl.src = folder.cover || '/assets/folder.png';
+            const collageEl = document.getElementById('folder-detail-collage');
+            let playlists = [];
+            if (folder.playlists?.length > 0) {
+                const playlistPromises = folder.playlists.map((id) => db.getPlaylist(id));
+                playlists = (await Promise.all(playlistPromises)).filter(Boolean);
+            }
+
+            if (folder.cover) {
+                imageEl.src = folder.cover;
+                imageEl.style.display = 'block';
+                if (collageEl) collageEl.style.display = 'none';
+            } else if (playlists.length > 0) {
+                const uniqueCovers = [];
+                const seen = new Set();
+                for (const p of playlists) {
+                    const candidates = [];
+                    if (p.cover) candidates.push(p.cover);
+                    if (p.images?.length) candidates.push(...p.images);
+                    if (p.tracks?.length) {
+                        for (const tr of p.tracks) {
+                            if (tr.album?.cover) candidates.push(tr.album.cover);
+                            if (candidates.length >= 8) break;
+                        }
+                    }
+                    for (const c of candidates) {
+                        if (c && !seen.has(c)) {
+                            seen.add(c);
+                            uniqueCovers.push(c);
+                            if (uniqueCovers.length >= 4) break;
+                        }
+                    }
+                    if (uniqueCovers.length >= 4) break;
+                }
+
+                if (uniqueCovers.length >= 2 && collageEl) {
+                    imageEl.style.display = 'none';
+                    collageEl.style.display = 'grid';
+                    collageEl.innerHTML = '';
+                    const count = Math.min(uniqueCovers.length, 4);
+                    collageEl.className = `detail-header-collage ${count < 4 ? `items-${count}` : ''}`;
+                    const covers = uniqueCovers.slice(0, 4);
+                    covers.forEach((cover) => {
+                        const img = document.createElement('img');
+                        img.crossOrigin = 'anonymous';
+                        img.referrerPolicy = 'no-referrer';
+                        img.src = this.api?.getCoverUrl ? this.api.getCoverUrl(cover) : cover;
+                        collageEl.appendChild(img);
+                    });
+                } else if (uniqueCovers.length === 1) {
+                    imageEl.src = this.api?.getCoverUrl ? this.api.getCoverUrl(uniqueCovers[0]) : uniqueCovers[0];
+                    imageEl.style.display = 'block';
+                    if (collageEl) collageEl.style.display = 'none';
+                } else {
+                    imageEl.src = '/assets/folder.png';
+                    imageEl.style.display = 'block';
+                    if (collageEl) collageEl.style.display = 'none';
+                }
+            } else {
+                imageEl.src = '/assets/folder.png';
+                imageEl.style.display = 'block';
+                if (collageEl) collageEl.style.display = 'none';
+            }
+
             imageEl.onerror = () => {
                 imageEl.src = '/assets/folder.png';
             };
@@ -5516,22 +5626,16 @@ export class UIRenderer {
             this.setPageBackground(null);
             this.resetVibrantColor();
 
-            if (folder.playlists?.length > 0) {
-                const playlistPromises = folder.playlists.map((id) => db.getPlaylist(id));
-                const playlists = (await Promise.all(playlistPromises)).filter(Boolean);
-                if (playlists.length > 0) {
-                    container.innerHTML = playlists.map((p) => this.createUserPlaylistCardHTML(p)).join('');
-                    playlists.forEach((playlist) => {
-                        const el = container.querySelector(`[data-user-playlist-id="${playlist.id}"]`);
-                        if (el) trackDataStore.set(el, playlist);
-                    });
-                } else {
-                    container.innerHTML = createPlaceholder(
-                        'This folder is empty. Some playlists may have been deleted.'
-                    );
-                }
+            if (playlists.length > 0) {
+                container.innerHTML = playlists.map((p) => this.createUserPlaylistCardHTML(p)).join('');
+                playlists.forEach((playlist) => {
+                    const el = container.querySelector(`[data-user-playlist-id="${playlist.id}"]`);
+                    if (el) trackDataStore.set(el, playlist);
+                });
             } else {
-                container.innerHTML = createPlaceholder('This folder is empty. Drag a playlist here to add it.');
+                container.innerHTML = createPlaceholder(
+                    'This folder is empty. Drag a playlist here to add it.'
+                );
             }
         } catch (error) {
             console.error('Failed to load folder:', error);

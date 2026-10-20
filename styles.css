@@ -2597,6 +2597,16 @@ body.multi-select-mode .track-item:hover {
     background-color: var(--muted);
 }
 
+.detail-header-collage.items-3 img:first-child {
+    grid-row: span 2;
+    height: 100%;
+}
+
+.detail-header-collage.items-2 {
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr;
+}
+
 .detail-header-image.loading {
     opacity: 0.3;
 }
