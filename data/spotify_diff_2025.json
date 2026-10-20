@@ -1,0 +1,104 @@
+{
+  "year": 2025,
+  "total_tracks": 1060,
+  "tier_1_count": 2,
+  "tier_2_count": 0,
+  "tier_3_count": 0,
+  "tier_4_count": 0,
+  "unranked_count": 1058,
+  "position_changes_count": 1059,
+  "sample_tier_1_tracks": [
+    {
+      "title": "HateMe",
+      "album": "Test",
+      "score": 70.0
+    },
+    {
+      "title": "SilencerwWallyOxYungAcky",
+      "album": "Test",
+      "score": 70.0
+    }
+  ],
+  "sample_changes": [
+    {
+      "track_title": "HateMe",
+      "album_title": "Test",
+      "old_position": 824,
+      "new_position": 1,
+      "evidence_tier": "tier_1_mega",
+      "score": 70.0
+    },
+    {
+      "track_title": "SilencerwWallyOxYungAcky",
+      "album_title": "Test",
+      "old_position": 825,
+      "new_position": 2,
+      "evidence_tier": "tier_1_mega",
+      "score": 70.0
+    },
+    {
+      "track_title": "Poyiraa Mama",
+      "album_title": "Kuberaa",
+      "old_position": 419,
+      "new_position": 3,
+      "evidence_tier": null,
+      "score": null
+    },
+    {
+      "track_title": "Kanale",
+      "album_title": "Seesaw",
+      "old_position": 768,
+      "new_position": 4,
+      "evidence_tier": null,
+      "score": null
+    },
+    {
+      "track_title": "Irai Nooru",
+      "album_title": "Vanangaan",
+      "old_position": 952,
+      "new_position": 5,
+      "evidence_tier": null,
+      "score": null
+    },
+    {
+      "track_title": "Sol Nee Sol",
+      "album_title": "Nesippaya",
+      "old_position": 593,
+      "new_position": 6,
+      "evidence_tier": null,
+      "score": null
+    },
+    {
+      "track_title": "Enai Neengathe Nee",
+      "album_title": "Tharunam",
+      "old_position": 848,
+      "new_position": 7,
+      "evidence_tier": null,
+      "score": null
+    },
+    {
+      "track_title": "Frienda Pola",
+      "album_title": "Kuzhanthaigal Munnetra Kazhagam",
+      "old_position": 451,
+      "new_position": 8,
+      "evidence_tier": null,
+      "score": null
+    },
+    {
+      "track_title": "Vandhutan Vandhutan",
+      "album_title": "Mr. Housekeeping",
+      "old_position": 553,
+      "new_position": 9,
+      "evidence_tier": null,
+      "score": null
+    },
+    {
+      "track_title": "Kanjaadai Poova",
+      "album_title": "Vallan",
+      "old_position": 951,
+      "new_position": 10,
+      "evidence_tier": null,
+      "score": null
+    }
+  ]
+}

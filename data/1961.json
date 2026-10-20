@@ -1,0 +1,2812 @@
+{
+  "year": 1961,
+  "total_albums": 38,
+  "total_tracks": 257,
+  "exported_at": "2026-10-15T10:00:20.421700Z",
+  "albums": [
+    {
+      "id": 7360,
+      "year": 1961,
+      "title": "Akbar",
+      "director": "K. Asif",
+      "producer": "Sterling Investment Corporation",
+      "composer": "Naushad",
+      "cast": "Dilip Kumar, Madhubala, Prithviraj Kapoor, Durga Khote",
+      "source_url": "https://en.wikipedia.org/wiki/Mughal-e-Azam",
+      "created_at": "2026-10-14 18:53:52",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Kanavu Kanda Kaathal",
+          "singers": "Naushad",
+          "lyricist": "",
+          "raga": "",
+          "duration": "3:09",
+          "stream_url": "https://music.youtube.com/watch?v=oLUwG4SC1zg"
+        }
+      ]
+    },
+    {
+      "id": 7361,
+      "year": 1961,
+      "title": "Anbu Magan",
+      "director": "T. Prakash Rao",
+      "producer": "Jayalakshmi Pictures",
+      "composer": "T. Chalapathi Rao",
+      "cast": "A. Nageswara Rao, Savitri",
+      "source_url": "https://en.wikipedia.org/wiki/Anbu_Magan",
+      "created_at": "2026-10-14 18:53:52",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "P. B. Srinivas",
+          "singers": "Kannadasan",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "P. Susheela",
+          "singers": "Kannadasan",
+          "lyricist": "03:55",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "P. Leela",
+          "singers": "Kannadasan",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 6,
+          "title": "Sirkazhi Govindarajan & S. Janaki",
+          "singers": "A. S. Rajagopal",
+          "lyricist": "06:12",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 7,
+          "title": "K. Jamuna Rani",
+          "singers": "Subbu Arumugam",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 8,
+          "title": "Thiruchi Loganathan",
+          "singers": "03:22",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 7362,
+      "year": 1961,
+      "title": "Arabu Naattu Azhagi",
+      "director": "Homi Wadia",
+      "producer": "Film Centre, Chennai",
+      "composer": "Vijayabhasker",
+      "cast": "",
+      "source_url": "https://en.wikipedia.org/wiki/Zabak",
+      "created_at": "2026-10-14 18:53:52",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Un Anbai Thedukindra",
+          "singers": "Vijaya Bhaskar",
+          "lyricist": "",
+          "raga": "",
+          "duration": "2:46",
+          "stream_url": "https://music.youtube.com/watch?v=2vG6WbcIktQ"
+        },
+        {
+          "track_number": 2,
+          "title": "Kanneer Thulliyal",
+          "singers": "Vijaya Bhaskar",
+          "lyricist": "",
+          "raga": "",
+          "duration": "3:29",
+          "stream_url": "https://music.youtube.com/watch?v=ZdjEKlCYQuM"
+        }
+      ]
+    },
+    {
+      "id": 7363,
+      "year": 1961,
+      "title": "Arasilankumari",
+      "director": "A. S. A. Sami & A. Kasilingam",
+      "producer": "Jupiter Pictures",
+      "composer": "G. Ramanathan",
+      "cast": "M. G. Ramachandran, Padmini, Rajasulochana",
+      "source_url": "https://en.wikipedia.org/wiki/Arasilankumari",
+      "created_at": "2026-10-14 18:53:52",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Chinna Payale Chinna Payale",
+          "singers": "T. M. Soundararajan",
+          "lyricist": "Pattukkottai Kalyanasundaram",
+          "raga": "",
+          "duration": "03:39",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "Etramunnaa Etram",
+          "singers": "T. M. Soundararajan & Seerkazhi Govindarajan",
+          "lyricist": "Pattukkottai Kalyanasundaram",
+          "raga": "",
+          "duration": "03:11",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "Kandi Kadhirkamam...Kazhugumalai Pazhanimalai",
+          "singers": "Seerkazhi Govindarajan",
+          "lyricist": "Pattukkottai Kalyanasundaram",
+          "raga": "",
+          "duration": "01:58",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "Nandhavanatthil Or Aandi",
+          "singers": "T. M. Soundararajan",
+          "lyricist": "Pattukkottai Kalyanasundaram",
+          "raga": "",
+          "duration": "00:54",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "Setthaalum Unnai Naan Vida Maatten",
+          "singers": "N. S. Krishnan & S. C. Krishnan",
+          "lyricist": "Pattukkottai Kalyanasundaram",
+          "raga": "",
+          "duration": "03:32",
+          "stream_url": ""
+        },
+        {
+          "track_number": 6,
+          "title": "Thillaalangadi Thillaalangadi",
+          "singers": "P. Susheela",
+          "lyricist": "Kannadasan",
+          "raga": "",
+          "duration": "03:32",
+          "stream_url": ""
+        },
+        {
+          "track_number": 7,
+          "title": "Thaaraa Avar Varuvaaraa",
+          "singers": "S. Janaki",
+          "lyricist": "Ku. Ma. Balasubramaniam",
+          "raga": "",
+          "duration": "03:36",
+          "stream_url": ""
+        },
+        {
+          "track_number": 8,
+          "title": "Oorvalamaaga Maappillai Pennum",
+          "singers": "Soolamangalam Jayalakshmi, T. M. Soundararajan & P. Susheela",
+          "lyricist": "R. Pazhanichami",
+          "raga": "",
+          "duration": "02:19",
+          "stream_url": ""
+        },
+        {
+          "track_number": 9,
+          "title": "Atthaane Aasai Atthaane",
+          "singers": "P. Leela",
+          "lyricist": "K. S. Gopalakrishnan",
+          "raga": "",
+          "duration": "02:10",
+          "stream_url": ""
+        },
+        {
+          "track_number": 10,
+          "title": "Thoondiyile Maattikkittu Muzhikkudhu",
+          "singers": "K. Jamuna Rani, Seerkazhi Govindarajan & S. C. Krishnan",
+          "lyricist": "Muthukoothan",
+          "raga": "",
+          "duration": "02:39",
+          "stream_url": ""
+        },
+        {
+          "track_number": 11,
+          "title": "Aav Aaahaav En Aasai Purave Aav",
+          "singers": "P. Susheela",
+          "lyricist": "Udumalai Narayana Kavi",
+          "raga": "",
+          "duration": "03:23",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 7364,
+      "year": 1961,
+      "title": "Bhagyalakshmi",
+      "director": "K. V. Srinivasan",
+      "producer": "Narayanan & Co",
+      "composer": "Viswanathan–Ramamoorthy",
+      "cast": "Gemini Ganesan, Sowcar Janaki, E. V. Saroja",
+      "source_url": "https://en.wikipedia.org/wiki/Bhagyalakshmi_%281961_film%29",
+      "created_at": "2026-10-14 18:53:52",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "A. L. Raghavan & K. Jamuna Rani",
+          "singers": "Kannadasan",
+          "lyricist": "04:54",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "A. L. Raghavan & P. Susheela",
+          "singers": "Kannadasan",
+          "lyricist": "03:50",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "P. Susheela",
+          "singers": "Kannadasan",
+          "lyricist": "03:23",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 7,
+          "title": "S. C. Krishnan & L. R. Eswari",
+          "singers": "Kannadasan",
+          "lyricist": "02:30",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 8,
+          "title": "Renuka",
+          "singers": "Kannadasan",
+          "lyricist": "02:56",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 9,
+          "title": "Jayalakshmi",
+          "singers": "V. Seetharaman",
+          "lyricist": "03:09",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 7365,
+      "year": 1961,
+      "title": "Ellam Unakkaga",
+      "director": "A. Subbarao",
+      "producer": "Saravanabhava Unity Pictures",
+      "composer": "K. V. Mahadevan",
+      "cast": "Sivaji Ganesan, Savitri, S. V. Ranga Rao",
+      "source_url": "https://en.wikipedia.org/wiki/Ellam_Unakkaga",
+      "created_at": "2026-10-14 18:53:52",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "A. L. Raghavan, L. R. Eswari group",
+          "singers": "Thanjai N. Ramaiah Dass",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "P. Susheela, Soolamangalam Rajalakshmi, L. R. Eswari group",
+          "singers": "Kothamangalam Subbu",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "P. Susheela",
+          "singers": "A. Maruthakasi",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "T. M. Soundararajan, P. Susheela",
+          "singers": "Kannadasan",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "A. L. Raghavan, L. R. Eswari",
+          "singers": "Ku. Ma. Krishnan",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 6,
+          "title": "P. Susheela, L. R. Eswari group",
+          "singers": "Kannadasan",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 8,
+          "title": "T. M. Soundararajan group",
+          "singers": "Kannadasan",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 7366,
+      "year": 1961,
+      "title": "Ennai Paar",
+      "director": "G. R. Nathan",
+      "producer": "Palaniyappa Productions",
+      "composer": "T. G. Lingappa",
+      "cast": "T.R. Mahalingam, B. S. Saroja, Pandari Bai",
+      "source_url": "https://en.wikipedia.org/wiki/Ennai_Paar",
+      "created_at": "2026-10-14 18:53:52",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "T. R. Mahalingam & S. Janaki",
+          "singers": "A. Maruthakasi",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "T. R. Mahalingam",
+          "singers": "A. Maruthakasi",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "A. L. Raghavan & K. Jamuna Rani",
+          "singers": "A. Maruthakasi",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "P. Susheela",
+          "singers": "Kannadasan",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 7,
+          "title": "V. N. Sundaram",
+          "singers": "Thamizh Pithan",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 8,
+          "title": "K. Jamuna Rani",
+          "singers": "Ku. Ma. Balasubramaniam",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 9,
+          "title": "S. C. Krishnan & K. Jamuna Rani",
+          "singers": "S. Aiya Pillai",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 7367,
+      "year": 1961,
+      "title": "Jagathala Prathapan",
+      "director": "K. V. Reddy",
+      "producer": "Vijaya Vauhini Studios",
+      "composer": "Pendyala Nageswara Rao",
+      "cast": "N. T. Rama Rao, B. Saroja Devi, L. Vijayalakshmi",
+      "source_url": "https://en.wikipedia.org/wiki/Jagadeka_Veeruni_Katha",
+      "created_at": "2026-10-14 18:53:52",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Jaya Jaya Jaya Jagadeka Pratapa",
+          "singers": "P. Susheela",
+          "lyricist": "2:28",
+          "raga": "",
+          "duration": "2:28",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "Jalakalatalalo",
+          "singers": "P Suseela, P. Leela, Udutha Sarojini, B. Rajaratnam",
+          "lyricist": "2:26",
+          "raga": "",
+          "duration": "2:26",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "O Sakhi Oho Cheli",
+          "singers": "Ghantasala",
+          "lyricist": "3:35",
+          "raga": "",
+          "duration": "3:35",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "Nanu Dayaganava",
+          "singers": "P. Leela",
+          "lyricist": "2:11",
+          "raga": "",
+          "duration": "2:11",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "Varinchi Vachina Manava Veerudu",
+          "singers": "P Leela, Susheela",
+          "lyricist": "3:15",
+          "raga": "",
+          "duration": "3:15",
+          "stream_url": ""
+        },
+        {
+          "track_number": 6,
+          "title": "Koppuninda Poovuleme",
+          "singers": "Madhavapeddi Satyam, Swarnalata",
+          "lyricist": "3:00",
+          "raga": "",
+          "duration": "3:00",
+          "stream_url": ""
+        },
+        {
+          "track_number": 7,
+          "title": "Ainadedo Ainadi",
+          "singers": "Ghantasala, Suseela",
+          "lyricist": "2:48",
+          "raga": "",
+          "duration": "2:48",
+          "stream_url": ""
+        },
+        {
+          "track_number": 8,
+          "title": "Aasa Ekasa",
+          "singers": "Ghantasala, P. Susheela",
+          "lyricist": "2:44",
+          "raga": "",
+          "duration": "2:44",
+          "stream_url": ""
+        },
+        {
+          "track_number": 9,
+          "title": "Manoharamuga",
+          "singers": "Ghantasala, P. Susheela",
+          "lyricist": "3:45",
+          "raga": "",
+          "duration": "3:45",
+          "stream_url": ""
+        },
+        {
+          "track_number": 10,
+          "title": "Adilakshmi Vanti Attagarivamma",
+          "singers": "P. Leela, Suseela",
+          "lyricist": "2:50",
+          "raga": "",
+          "duration": "2:50",
+          "stream_url": ""
+        },
+        {
+          "track_number": 11,
+          "title": "Raara Kanaraara",
+          "singers": "Ghantasala",
+          "lyricist": "3:05",
+          "raga": "",
+          "duration": "3:05",
+          "stream_url": ""
+        },
+        {
+          "track_number": 12,
+          "title": "Sivasankari Sivanandalahari",
+          "singers": "Ghantasala",
+          "lyricist": "6:18",
+          "raga": "",
+          "duration": "6:18",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 7368,
+      "year": 1961,
+      "title": "Kaanal Neer",
+      "director": "P. S. Ramakrishna Rao",
+      "producer": "Bharani Pictures",
+      "composer": "P. Bhanumathi",
+      "cast": "A. Nageswara Rao, P. Bhanumathi, Sowcar Janaki",
+      "source_url": "https://en.wikipedia.org/wiki/Kaanal_Neer_%281961_film%29",
+      "created_at": "2026-10-14 18:53:52",
+      "tracks": [
+        {
+          "track_number": 2,
+          "title": "O Batasari",
+          "singers": "O Batasari",
+          "lyricist": "O Batasari",
+          "raga": "",
+          "duration": "O Batasari",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "Kanulakudoche Chetikandani",
+          "singers": "Kanulakudoche Chetikandani",
+          "lyricist": "Kanulakudoche Chetikandani",
+          "raga": "",
+          "duration": "Kanulakudoche Chetikandani",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "Lokamerugani Baala",
+          "singers": "Lokamerugani Baala",
+          "lyricist": "Lokamerugani Baala",
+          "raga": "",
+          "duration": "Lokamerugani Baala",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "Uppakara Chinthaye",
+          "singers": "Uppakara Chinthaye",
+          "lyricist": "Uppakara Chinthaye",
+          "raga": "",
+          "duration": "Uppakara Chinthaye",
+          "stream_url": ""
+        },
+        {
+          "track_number": 6,
+          "title": "Oho Maharaja",
+          "singers": "Oho Maharaja",
+          "lyricist": "Oho Maharaja",
+          "raga": "",
+          "duration": "Oho Maharaja",
+          "stream_url": ""
+        },
+        {
+          "track_number": 7,
+          "title": "O Maata",
+          "singers": "O Maata",
+          "lyricist": "O Maata",
+          "raga": "",
+          "duration": "O Maata",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 7369,
+      "year": 1961,
+      "title": "Kappalottiya Thamizhan",
+      "director": "B. R. Panthulu",
+      "producer": "Padmini Pictures",
+      "composer": "G. Ramanathan",
+      "cast": "Sivaji Ganesan, Gemini Ganesan, Savitri, S. V. Ranga Rao, Tambaram Lalitha",
+      "source_url": "https://en.wikipedia.org/wiki/Kappalottiya_Thamizhan",
+      "created_at": "2026-10-14 18:53:52",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "P. Susheela",
+          "singers": "02:39",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "Thiruchi Loganathan",
+          "singers": "02:18",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "P. B. Sreenivas, P. Susheela",
+          "singers": "03:43",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "Sirkazhi Govindarajan",
+          "singers": "02:11",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "Sirkazhi Govindarajan, V. T. Rajagopalan,K. Jamuna Rani, Rohini",
+          "singers": "03:41",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 9,
+          "title": "Sirkazhi Govindarajan, Thiruchi Loganathan",
+          "singers": "03:42",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 10,
+          "title": "P. Leela",
+          "singers": "02:18",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 11,
+          "title": "L. R. Eswari, K. Jamuna Rani",
+          "singers": "03:18",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 7370,
+      "year": 1961,
+      "title": "Kongunattu Thangam",
+      "director": "M. A. Thirumugam",
+      "producer": "Devar Films",
+      "composer": "K. V. Mahadevan",
+      "cast": "C. L. Anandan, M. R. Radha, Pushpalatha, Tambaram Lalitha",
+      "source_url": "https://en.wikipedia.org/wiki/Kongunattu_Thangam",
+      "created_at": "2026-10-14 18:53:52",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "M. L. Vasanthakumari",
+          "singers": "A. Maruthakasi",
+          "lyricist": "03:25",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "P. Susheela",
+          "singers": "A. Maruthakasi",
+          "lyricist": "02:18",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "Sirkazhi Govindarajan",
+          "singers": "A. Maruthakasi",
+          "lyricist": "03:08",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "Sirkazhi Govindarajan & P. Susheela",
+          "singers": "A. Maruthakasi",
+          "lyricist": "03:51",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 6,
+          "title": "T. M. Soundararajan & group",
+          "singers": "Alangudi Somu",
+          "lyricist": "03:26",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 7,
+          "title": "A. L. Raghavan & L. R. Eswari",
+          "singers": "Puratchidasan",
+          "lyricist": "03:15",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 7371,
+      "year": 1961,
+      "title": "Kumara Raja",
+      "director": "G. K. Ramu",
+      "producer": "Sivakami Pictures",
+      "composer": "T. R. Pappa",
+      "cast": "J. P. Chandrababu, T. S. Balaiah, Suryakala, M. N. Rajam",
+      "source_url": "https://en.wikipedia.org/wiki/Kumara_Raja_%281961_film%29",
+      "created_at": "2026-10-14 18:53:52",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "P. Leela",
+          "singers": "Pattukkottai Kalyanasundaram",
+          "lyricist": "03:12",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "K. Jamuna Rani & Group",
+          "singers": "Pattukkottai Kalyanasundaram",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "V. N. Sundaram",
+          "singers": "Pattukkottai Kalyanasundaram",
+          "lyricist": "02:54",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "V. N. Sundaram & P. Leela",
+          "singers": "Pattukkottai Kalyanasundaram",
+          "lyricist": "03:50",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "J. P. Chandrababu & K. Jamuna Rani",
+          "singers": "Pattukkottai Kalyanasundaram",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 7,
+          "title": "J. P. Chandrababu",
+          "singers": "K. D. Santhanam",
+          "lyricist": "03:20",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 8,
+          "title": "J. P. Chandrababu & P. Leela",
+          "singers": "K. D. Santhanam",
+          "lyricist": "03:00",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 9,
+          "title": "Soolamangalam Rajalakshmi & A. G. Rathnamala",
+          "singers": "Thanjai Ramaiah Dass",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 10,
+          "title": "K. Jamuna Rani",
+          "singers": "A. Maruthakasi",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 7372,
+      "year": 1961,
+      "title": "Kumudham",
+      "director": "A. Subbarao",
+      "producer": "Modern Theatres",
+      "composer": "K. V. Mahadevan",
+      "cast": "S. S. Rajendran, M. R. Radha, Sowcar Janaki, C. R. Vijayakumari",
+      "source_url": "https://en.wikipedia.org/wiki/Kumudham",
+      "created_at": "2026-10-14 18:53:52",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Seerkazhi Govindarajan",
+          "singers": "Kannadasan",
+          "lyricist": "03:09",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "P. Susheela",
+          "singers": "Kannadasan",
+          "lyricist": "03:24",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "T. M. Soundararajan, K. Jamuna Rani",
+          "singers": "A. Maruthakasi",
+          "lyricist": "05:39",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "Seerkazhi Govindarajan, P. Susheela",
+          "singers": "A. Maruthakasi",
+          "lyricist": "03:21",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "M. S. Rajeswari",
+          "singers": "02:57",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 7,
+          "title": "T. M. Soundararajan & A. L. Raghavan",
+          "singers": "03:39",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 7373,
+      "year": 1961,
+      "title": "Maharajan Petra Maindhan",
+      "director": "B. Vittalacharya",
+      "producer": "Vittal Productions",
+      "composer": "Rajan–Nagendra",
+      "cast": "Kanta Rao, Krishna Kumari, Rajanala, Mukkamala, Balakrishnan, Srikanth, Satya Narayana",
+      "source_url": "https://en.wikipedia.org/wiki/Maharajan_Petra_Maindhan",
+      "created_at": "2026-10-14 18:53:52",
+      "tracks": []
+    },
+    {
+      "id": 7374,
+      "year": 1961,
+      "title": "Malliyam Mangalam",
+      "director": "Malliyam Rajagopal",
+      "producer": "Tamil Nadu Talkies",
+      "composer": "T. A. Kalyanam",
+      "cast": "S. V. Sahasranamam, Pandari Bai, S. V. Subbaiah, Mynavathi, Lakshmi Muthuraman",
+      "source_url": "https://en.wikipedia.org/wiki/Malliyam_Mangalam",
+      "created_at": "2026-10-14 18:53:52",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "T. M. Soundararajan & N. L. Ganasaraswathi",
+          "singers": "V. Seetharaman",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "P. Susheela & group",
+          "singers": "V. Seetharaman",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "P. Susheela",
+          "singers": "Kuyilan",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "P. Leela",
+          "singers": "Kuyilan",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 6,
+          "title": "A. M. Rajah & P. Susheela",
+          "singers": "M. K. Athmanathan",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 7,
+          "title": "M. L. Vasanthakumari",
+          "singers": "M. K. Athmanathan",
+          "lyricist": "03:02",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 8,
+          "title": "A. L. Raghavan & K. Jamuna Rani",
+          "singers": "M. K. Athmanathan",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 9,
+          "title": "A. L. Raghavan & S. Janaki",
+          "singers": "03:10",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 7375,
+      "year": 1961,
+      "title": "Mamiyarum Oru Veetu Marumagale",
+      "director": "K. B. Tilak",
+      "producer": "Anubama Films",
+      "composer": "Pendyala Nageswara Rao",
+      "cast": "S. S. Rajendran, M. N. Rajam, Devika",
+      "source_url": "https://en.wikipedia.org/wiki/Mamiyarum_Oru_Veetu_Marumagale",
+      "created_at": "2026-10-14 18:53:52",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "C. S. Jayaraman",
+          "singers": "",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "Sirkazhi Govindarajan, Jikki & group",
+          "singers": "3:04",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "Sirkazhi Govindarajan & Jikki",
+          "singers": "3:17",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 6,
+          "title": "P. Susheela",
+          "singers": "2:47",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 8,
+          "title": "S. C. Krishnan & A. G. Rathnamala",
+          "singers": "",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 9,
+          "title": "Ghantasala",
+          "singers": "2:58",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 7376,
+      "year": 1961,
+      "title": "Manapanthal",
+      "director": "V. N. Reddy",
+      "producer": "R. R. Pictures",
+      "composer": "Viswanathan–Ramamoorthy",
+      "cast": "S. S. Rajendran, S. A. Ashokan, B. Saroja Devi, E. V. Saroja",
+      "source_url": "https://en.wikipedia.org/wiki/Manapanthal",
+      "created_at": "2026-10-14 18:53:52",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Unakku Mattum Unakku",
+          "singers": "P. Susheela",
+          "lyricist": "3:21",
+          "raga": "",
+          "duration": "3:21",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "Orey Raagam Orey Thaalam",
+          "singers": "P. Susheela",
+          "lyricist": "3:36",
+          "raga": "",
+          "duration": "3:36",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "Unakku Mattum Unakku\" (Sad)",
+          "singers": "P. Susheela",
+          "lyricist": "2:27",
+          "raga": "",
+          "duration": "2:27",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "Paarthu Paarthu Nindrathile",
+          "singers": "P. B. Srinivas P. Susheela",
+          "lyricist": "3:28",
+          "raga": "",
+          "duration": "3:28",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "Muthu Muthu Pacharisi",
+          "singers": "S. Janaki & L. R. Eswari",
+          "lyricist": "4:41",
+          "raga": "",
+          "duration": "4:41",
+          "stream_url": ""
+        },
+        {
+          "track_number": 6,
+          "title": "Udalukku Uyir Kaaval",
+          "singers": "P. B. Srinivas",
+          "lyricist": "4:10",
+          "raga": "",
+          "duration": "4:10",
+          "stream_url": ""
+        },
+        {
+          "track_number": 7,
+          "title": "Ammavukku Manasukkuley",
+          "singers": "S. C. Krishnan,L.R.Eswari",
+          "lyricist": "3:13",
+          "raga": "",
+          "duration": "3:13",
+          "stream_url": ""
+        },
+        {
+          "track_number": 8,
+          "title": "Petretuthu Peyarumittu",
+          "singers": "T. S. Bagavathi",
+          "lyricist": "3:52",
+          "raga": "",
+          "duration": "3:52",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 7377,
+      "year": 1961,
+      "title": "Marutha Nattu Veeran",
+      "director": "T. R. Raghunath",
+      "producer": "Saravanabhava Unity Pictures",
+      "composer": "S. V. Venkatraman",
+      "cast": "Sivaji Ganesan, Jamuna, P. S. Veerappa",
+      "source_url": "https://en.wikipedia.org/wiki/Marutha_Nattu_Veeran",
+      "created_at": "2026-10-14 18:53:52",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Paruvam Paartthu Arugil",
+          "singers": "T. M. Soundararajan",
+          "lyricist": "Kannadasan",
+          "raga": "",
+          "duration": "03:46",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "Oruvarai Oruvar Unarnthukondale",
+          "singers": "T. M. Soundararajan",
+          "lyricist": "Kannadasan",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "Kallirukkum...Enge Selkindaraai",
+          "singers": "P. B. Sreenivas",
+          "lyricist": "Kannadasan",
+          "raga": "",
+          "duration": "04:22",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "Vizhiyalai Mele Semmeen Pole",
+          "singers": "T. M. Soundararajan & P. Susheela",
+          "lyricist": "Kannadasan",
+          "raga": "",
+          "duration": "05:57",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "Arumbudhira Mutthudhira Azhagu Sirikkudhu",
+          "singers": "T. M. Soundararajan & P. Susheela",
+          "lyricist": "A. Maruthakasi",
+          "raga": "",
+          "duration": "03:44",
+          "stream_url": ""
+        },
+        {
+          "track_number": 6,
+          "title": "Samaadhaaname Thevai",
+          "singers": "T. M. Soundararajan",
+          "lyricist": "A. Maruthakasi",
+          "raga": "",
+          "duration": "04:07",
+          "stream_url": ""
+        },
+        {
+          "track_number": 7,
+          "title": "Dhairiyathukkoru Santhegam Kelu Kanmani",
+          "singers": "A. L. Raghavan & A. G. Rathnamala",
+          "lyricist": "A. Maruthakasi",
+          "raga": "",
+          "duration": "03:11",
+          "stream_url": ""
+        },
+        {
+          "track_number": 8,
+          "title": "Pudhu Inbam Ondru Uruvaagi Indru",
+          "singers": "P. Susheela",
+          "lyricist": "A. Maruthakasi",
+          "raga": "",
+          "duration": "02:41",
+          "stream_url": ""
+        },
+        {
+          "track_number": 9,
+          "title": "Aasai Kaadhal",
+          "singers": "P. Susheela",
+          "lyricist": "A. Maruthakasi",
+          "raga": "",
+          "duration": "04:34",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 7378,
+      "year": 1961,
+      "title": "Naaga Nandhini",
+      "director": "T. R. Raghunath",
+      "producer": "B. V. N. Pictures",
+      "composer": "R. Sudarsanam",
+      "cast": "Anjali Devi, K. Balaji, Devika, Sandhya, Nambiar",
+      "source_url": "https://en.wikipedia.org/wiki/Naaga_Nandhini",
+      "created_at": "2026-10-14 18:53:52",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "L. R. Eswari",
+          "singers": "Sundara Kannan",
+          "lyricist": "05:03",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "Soolamangalam Jayalakshmi, Soolamangalam Rajalakshmi & group",
+          "singers": "Sundara Kannan",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "A. M. Rajah & K. Jamuna Rani",
+          "singers": "M. K. Athmanathan",
+          "lyricist": "03:42",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "L. R. Eswari & R. S. Mani",
+          "singers": "Thanjai N. Ramaiah Dass",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "K. Jamuna Rani & P. B. Srinivas",
+          "singers": "Thanjai N. Ramaiah Dass",
+          "lyricist": "02:47",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 6,
+          "title": "K. Jamuna Rani",
+          "singers": "Thanjai N. Ramaiah Dass",
+          "lyricist": "01:35",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 7,
+          "title": "P. Leela",
+          "singers": "Thanjai N. Ramaiah Dass",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 8,
+          "title": "P. Susheela",
+          "singers": "Thanjai N. Ramaiah Dass",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 9,
+          "title": "Soolamangalam Sisters",
+          "singers": "",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 7379,
+      "year": 1961,
+      "title": "Nagarathil Zimbo",
+      "director": "Nanubhai Bhatt",
+      "producer": "",
+      "composer": "Vijaya Bhaskar",
+      "cast": "Azad, Nilofer",
+      "source_url": "https://en.wikipedia.org/wiki/Zimbo_Comes_To_Town",
+      "created_at": "2026-10-14 18:53:52",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Mogam Piranthidatha",
+          "singers": "K.Jamunarani, Group",
+          "lyricist": "",
+          "raga": "",
+          "duration": "3:16",
+          "stream_url": "https://www.jiosaavn.com/song/mogam-piranthidatha/ND4FXgNIc3E"
+        },
+        {
+          "track_number": 2,
+          "title": "Aasai Machan Kathirukken",
+          "singers": "P.B.Srinivas, K.Jamunarani",
+          "lyricist": "",
+          "raga": "",
+          "duration": "3:13",
+          "stream_url": "https://www.jiosaavn.com/song/aasai-machan-kathirukken/XTAsfzBvBmU"
+        },
+        {
+          "track_number": 3,
+          "title": "Arul Palippathe Uyar Neethi",
+          "singers": "P.Suseela",
+          "lyricist": "",
+          "raga": "",
+          "duration": "3:26",
+          "stream_url": "https://www.jiosaavn.com/song/arul-palippathe-uyar-neethi/FxEzBwxpZlw"
+        },
+        {
+          "track_number": 4,
+          "title": "Kannalin Paago",
+          "singers": "P.Suseela",
+          "lyricist": "",
+          "raga": "",
+          "duration": "3:23",
+          "stream_url": "https://www.jiosaavn.com/song/kannalin-paago/ORw0fDoFc2c"
+        },
+        {
+          "track_number": 5,
+          "title": "Endruthan Umathaasai",
+          "singers": "P.Suseela",
+          "lyricist": "",
+          "raga": "",
+          "duration": "3:04",
+          "stream_url": "https://www.jiosaavn.com/song/endruthan-umathaasai/CFoRBDBqRwE"
+        }
+      ]
+    },
+    {
+      "id": 7380,
+      "year": 1961,
+      "title": "Nallavan Vazhvan",
+      "director": "P. Neelakantan",
+      "producer": "Arasu Pictures",
+      "composer": "T. R. Pappa",
+      "cast": "M. G. Ramachandran, M. R. Radha, Rajasulochana",
+      "source_url": "https://en.wikipedia.org/wiki/Nallavan_Vazhvan",
+      "created_at": "2026-10-14 18:53:52",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Aandavan Oruvan Irukkindraan",
+          "singers": "Seerkazhi Govindarajan",
+          "lyricist": "M. K. Athmanathan",
+          "raga": "",
+          "duration": "03:22",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "Adichirukku Nallathoru Chansu",
+          "singers": "A. L. Raghavan & S. Janaki",
+          "lyricist": "M. K. Athmanathan",
+          "raga": "",
+          "duration": "02:59",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "Kooduvittu Paranthakili",
+          "singers": "P. Susheela",
+          "lyricist": "M. K. Athmanathan",
+          "raga": "",
+          "duration": "02:51",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "Anbukkaratthale....Kuthala Aruviyile",
+          "singers": "Seerkazhi Govindarajan & P. Leela",
+          "lyricist": "Vaali",
+          "raga": "",
+          "duration": "03:27",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "Manniley Pon Kidaikkum",
+          "singers": "P. Susheela",
+          "lyricist": "A. Maruthakasi",
+          "raga": "",
+          "duration": "02:57",
+          "stream_url": ""
+        },
+        {
+          "track_number": 6,
+          "title": "Nallavarukke Kaalamillaiya",
+          "singers": "P. Leela",
+          "lyricist": "K. D. Santhanam",
+          "raga": "",
+          "duration": "03:39",
+          "stream_url": ""
+        },
+        {
+          "track_number": 7,
+          "title": "Niththam Niththam Manadhu",
+          "singers": "P. Susheela",
+          "lyricist": "Kavi Rajagopal",
+          "raga": "",
+          "duration": "01:35",
+          "stream_url": ""
+        },
+        {
+          "track_number": 8,
+          "title": "Sirikindraal Indru Sirikindraal",
+          "singers": "Seerkazhi Govindarajan & P. Susheela",
+          "lyricist": "Vaali",
+          "raga": "",
+          "duration": "03:26",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 7381,
+      "year": 1961,
+      "title": "Paava Mannippu",
+      "director": "A. Bhimsingh",
+      "producer": "Buddha Pictures",
+      "composer": "Viswanathan–Ramamoorthy",
+      "cast": "Sivaji Ganesan, Gemini Ganesan, M. R. Radha, Savitri, M. V. Rajamma, Devika",
+      "source_url": "https://en.wikipedia.org/wiki/Paava_Mannippu",
+      "created_at": "2026-10-14 18:53:52",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Aththan Ennaththan",
+          "singers": "P. Susheela",
+          "lyricist": "",
+          "raga": "",
+          "duration": "04:38",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "Ellorum Kondaduvom",
+          "singers": "T. M. Soundararajan, Nagore E. M. Hanifa",
+          "lyricist": "",
+          "raga": "",
+          "duration": "04:44",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "Kaalangalil Aval Vasantham",
+          "singers": "P. B. Sreenivas",
+          "lyricist": "",
+          "raga": "",
+          "duration": "03:10",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "Paal Irukkum Pazham Irukkum",
+          "singers": "P. Susheela",
+          "lyricist": "",
+          "raga": "",
+          "duration": "03:27",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "Saaya Veeti",
+          "singers": "T. M. Soundararajan, K. Jamuna Rani, L. R. Eswari",
+          "lyricist": "",
+          "raga": "",
+          "duration": "03:57",
+          "stream_url": ""
+        },
+        {
+          "track_number": 6,
+          "title": "Silar Siripar Silar Azhuvar",
+          "singers": "T. M. Soundararajan",
+          "lyricist": "",
+          "raga": "",
+          "duration": "05:24",
+          "stream_url": ""
+        },
+        {
+          "track_number": 7,
+          "title": "Vantha Naal Muthal",
+          "singers": "T. M. Soundararajan",
+          "lyricist": "",
+          "raga": "",
+          "duration": "04:57",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 7382,
+      "year": 1961,
+      "title": "Palum Pazhamum",
+      "director": "A. Bhimsingh",
+      "producer": "Saravana Films",
+      "composer": "Viswanathan–Ramamoorthy",
+      "cast": "Sivaji Ganesan, M. R. Radha, B. Saroja Devi, Sowcar Janaki",
+      "source_url": "https://en.wikipedia.org/wiki/Palum_Pazhamum",
+      "created_at": "2026-10-14 18:53:52",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Aalaya Mainiyin",
+          "singers": "P. Susheela",
+          "lyricist": "03:19",
+          "raga": "",
+          "duration": "03:19",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "Ennai Yaar Endru",
+          "singers": "T. M. Soundararajan, P. Susheela",
+          "lyricist": "03:50",
+          "raga": "",
+          "duration": "03:50",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "Intha Nadagam",
+          "singers": "P. Susheela",
+          "lyricist": "03:27",
+          "raga": "",
+          "duration": "03:27",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "Kadhal Siragai",
+          "singers": "P. Susheela",
+          "lyricist": "04:04",
+          "raga": "",
+          "duration": "04:04",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "Naan Pesa Ninaippathellam",
+          "singers": "T. M. Soundararajan, P. Susheela",
+          "lyricist": "03:06",
+          "raga": "",
+          "duration": "03:06",
+          "stream_url": ""
+        },
+        {
+          "track_number": 6,
+          "title": "Naan Pesa Ninaippathellam\" (Sad)",
+          "singers": "T. M. Soundararajan, P. Susheela",
+          "lyricist": "04:24",
+          "raga": "",
+          "duration": "04:24",
+          "stream_url": ""
+        },
+        {
+          "track_number": 7,
+          "title": "Paalum Pazhamamum",
+          "singers": "T. M. Soundararajan",
+          "lyricist": "03:23",
+          "raga": "",
+          "duration": "03:23",
+          "stream_url": ""
+        },
+        {
+          "track_number": 8,
+          "title": "Ponaal Pogattum Poda",
+          "singers": "T. M. Soundararajan, M. S. Viswanathan",
+          "lyricist": "06:10",
+          "raga": "",
+          "duration": "06:10",
+          "stream_url": ""
+        },
+        {
+          "track_number": 9,
+          "title": "Thendral Varum",
+          "singers": "P. Susheela",
+          "lyricist": "03:11",
+          "raga": "",
+          "duration": "03:11",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 7383,
+      "year": 1961,
+      "title": "Panam Panthiyile",
+      "director": "K. Somu",
+      "producer": "M. A. V. Pictures",
+      "composer": "K. V. Mahadevan",
+      "cast": "S. S. Rajendran, M. R. Radha, C. R. Vijayakumari, Rajasree",
+      "source_url": "https://en.wikipedia.org/wiki/Panam_Panthiyile",
+      "created_at": "2026-10-14 18:53:52",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "T. M. Soundararajan & S. Janaki",
+          "singers": "",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "Sirkazhi Govindarajan",
+          "singers": "",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "T. M. Soundararajan",
+          "singers": "",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "T. M. Soundararajan & Soolamangalam Rajalakshmi",
+          "singers": "",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 6,
+          "title": "S. V. Ponnusamy & L. R. Eswari",
+          "singers": "",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 7,
+          "title": "T. M. Soundararajan & P. Susheela",
+          "singers": "",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 7384,
+      "year": 1961,
+      "title": "Pangaaligal",
+      "director": "G. Ramakrishna",
+      "producer": "Irish Movies",
+      "composer": "S. Dakshinamurthi",
+      "cast": "Gemini Ganesan, M. R. Radha, Anjali Devi, Devika",
+      "source_url": "https://en.wikipedia.org/wiki/Pangaaligal",
+      "created_at": "2026-10-14 18:53:52",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "P. Susheela",
+          "singers": "A. Maruthakasi",
+          "lyricist": "04:50",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "03:00",
+          "singers": "A. Maruthakasi",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "T. M. Soundararajan",
+          "singers": "Kannadasan",
+          "lyricist": "05:11",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "P. Susheela & P. B. Seenivas",
+          "singers": "Kannadasan",
+          "lyricist": "03:22",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 7,
+          "title": "P. Susheela & K. Jamuna Rani",
+          "singers": "Ku. Ma. Krishnan",
+          "lyricist": "03:04",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 7385,
+      "year": 1961,
+      "title": "Panithirai",
+      "director": "Muktha V. Srinivasan",
+      "producer": "Muktha Films",
+      "composer": "K. V. Mahadevan",
+      "cast": "Gemini Ganesan, B. Saroja Devi, K. A. Thangavelu",
+      "source_url": "https://en.wikipedia.org/wiki/Panithirai",
+      "created_at": "2026-10-14 18:53:52",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "P. Susheela, L. R. Eswari, A. L. Raghavan",
+          "singers": "Kothamangalam Subbu",
+          "lyricist": "3:33",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "P. Susheela",
+          "singers": "Kannadasan",
+          "lyricist": "3:36",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "Sirkazhi Govindarajan, T. V. Rathnam",
+          "singers": "Kothamangalam Subbu",
+          "lyricist": "3:33",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "P. B. Srinivas, P. Susheela",
+          "singers": "Kannadasan",
+          "lyricist": "3:33",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 7,
+          "title": "P. B. Srinivas",
+          "singers": "Kannadasan",
+          "lyricist": "3:21",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 7386,
+      "year": 1961,
+      "title": "Pasamalar",
+      "director": "A. Bhimsingh",
+      "producer": "Rajamani Pictures",
+      "composer": "Viswanathan–Ramamoorthy",
+      "cast": "Sivaji Ganesan, Gemini Ganesan, Savitri, M. N. Rajam",
+      "source_url": "https://en.wikipedia.org/wiki/Pasamalar",
+      "created_at": "2026-10-14 18:53:52",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Anbu Malar",
+          "singers": "M. S. Viswanathan",
+          "lyricist": "",
+          "raga": "",
+          "duration": "2:25",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "Engalukkum Kaalam Varum",
+          "singers": "T. M. Soundararajan, P. Susheela",
+          "lyricist": "",
+          "raga": "",
+          "duration": "3:30",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "Malargalai Pol Thangai",
+          "singers": "T. M. Soundararajan",
+          "lyricist": "",
+          "raga": "sad",
+          "duration": "1:58",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "Malarnthum Malaradha",
+          "singers": "T. M. Soundararajan, P. Susheela",
+          "lyricist": "",
+          "raga": "",
+          "duration": "5:10",
+          "stream_url": ""
+        },
+        {
+          "track_number": 6,
+          "title": "Mayangugiraal",
+          "singers": "P. Susheela",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:00",
+          "stream_url": ""
+        },
+        {
+          "track_number": 7,
+          "title": "Paatondru",
+          "singers": "K. Jamuna Rani",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:32",
+          "stream_url": ""
+        },
+        {
+          "track_number": 8,
+          "title": "Vaarai En Thozhi Vaarayo",
+          "singers": "L. R. Eswari",
+          "lyricist": "",
+          "raga": "",
+          "duration": "5:30",
+          "stream_url": ""
+        },
+        {
+          "track_number": 9,
+          "title": "Yaar Yaar Aval",
+          "singers": "P. B. Sreenivas, P. Susheela",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:02",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 7387,
+      "year": 1961,
+      "title": "Punar Janmam",
+      "director": "R. S. Mani",
+      "producer": "Vijaya Films",
+      "composer": "T. Chalapathi Rao",
+      "cast": "Sivaji Ganesan, Padmini, Ragini, K. A. Thangavelu",
+      "source_url": "https://en.wikipedia.org/wiki/Punar_Janmam",
+      "created_at": "2026-10-14 18:53:52",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Kannadi Pathirathil",
+          "singers": "P. Susheela",
+          "lyricist": "Pattukkottai Kalyanasundaram",
+          "raga": "",
+          "duration": "03:08",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "Urundodum Naalil",
+          "singers": "P. Susheela",
+          "lyricist": "Pattukkottai Kalyanasundaram",
+          "raga": "",
+          "duration": "02:42",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "Endrum Thunbamillai\" [Female]",
+          "singers": "P. Susheela",
+          "lyricist": "Pattukkottai Kalyanasundaram",
+          "raga": "",
+          "duration": "02:18",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "Endrum Thunbamillai\" [Male]",
+          "singers": "T. M. Soundararajan",
+          "lyricist": "Pattukkottai Kalyanasundaram",
+          "raga": "",
+          "duration": "02:48",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "Ullangal Ondragi",
+          "singers": "A. M. Rajah &  P. Susheela",
+          "lyricist": "Pattukkottai Kalyanasundaram",
+          "raga": "",
+          "duration": "03:17",
+          "stream_url": ""
+        },
+        {
+          "track_number": 6,
+          "title": "Engum Sondhamillai Endha Oorumillai",
+          "singers": "P. B. Srinivas",
+          "lyricist": "Subbu. Arumugam",
+          "raga": "",
+          "duration": "02:59",
+          "stream_url": ""
+        },
+        {
+          "track_number": 7,
+          "title": "Podhum Sarithaan Mister",
+          "singers": "P. B. Srinivas & Jikki",
+          "lyricist": "Subbu. Arumugam",
+          "raga": "",
+          "duration": "03:14",
+          "stream_url": ""
+        },
+        {
+          "track_number": 8,
+          "title": "Paadam Sariyaa Master",
+          "singers": "Thiruchi Loganathan & Jikki",
+          "lyricist": "Subbu. Arumugam",
+          "raga": "",
+          "duration": "03:14",
+          "stream_url": ""
+        },
+        {
+          "track_number": 9,
+          "title": "Manam Aadudhu Paadudhu",
+          "singers": "Jikki & S. Janaki",
+          "lyricist": "A. Maruthakasi",
+          "raga": "",
+          "duration": "04:10",
+          "stream_url": ""
+        },
+        {
+          "track_number": 10,
+          "title": "Naanillai Endral",
+          "singers": "Seerkazhi Govindarajan, S. Janaki & A. V. Saraswathi",
+          "lyricist": "Kannadasan",
+          "raga": "",
+          "duration": "06:20",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 7388,
+      "year": 1961,
+      "title": "Rishya Sringar",
+      "director": "Mukkamala",
+      "producer": "",
+      "composer": "T. V. Raju",
+      "cast": "Haranath, Rajasulochana, Mukkamala",
+      "source_url": "https://en.wikipedia.org/wiki/Rishya_Sringar",
+      "created_at": "2026-10-14 18:53:52",
+      "tracks": []
+    },
+    {
+      "id": 7389,
+      "year": 1961,
+      "title": "Sabaash Mapillai",
+      "director": "S. Raghavan",
+      "producer": "Ragavan Productions",
+      "composer": "K. V. Mahadevan",
+      "cast": "M. G. Ramachandran, M.R. Radha, Malini",
+      "source_url": "https://en.wikipedia.org/wiki/Sabaash_Mapillai",
+      "created_at": "2026-10-14 18:53:52",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Jidu Jidu",
+          "singers": "Seerkazhi Govindarajan",
+          "lyricist": "03:20",
+          "raga": "",
+          "duration": "03:20",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "Maappillai",
+          "singers": "Seerkazhi Govindarajan, P. Susheela",
+          "lyricist": "03:18",
+          "raga": "",
+          "duration": "03:18",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "Manathil",
+          "singers": "Seerkazhi Govindarajan, P. Susheela",
+          "lyricist": "03:59",
+          "raga": "",
+          "duration": "03:59",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "Muthupole",
+          "singers": "Seerkazhi Govindarajan, Soolamangalam Rajalakshmi",
+          "lyricist": "03:04",
+          "raga": "",
+          "duration": "03:04",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "Sirippavar Silaper",
+          "singers": "Seerkazhi Govindarajan",
+          "lyricist": "03:29",
+          "raga": "",
+          "duration": "03:29",
+          "stream_url": ""
+        },
+        {
+          "track_number": 6,
+          "title": "Vellipanathukkum",
+          "singers": "P. B. Sreenivas",
+          "lyricist": "03:15",
+          "raga": "",
+          "duration": "03:15",
+          "stream_url": ""
+        },
+        {
+          "track_number": 7,
+          "title": "Yaarukku Yaar Sonthamo",
+          "singers": "Seerkazhi Govindarajan, P. Susheela",
+          "lyricist": "03:30",
+          "raga": "",
+          "duration": "03:30",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 7390,
+      "year": 1961,
+      "title": "Sri Valli",
+      "director": "T. R. Ramanna",
+      "producer": "Narasus Studio",
+      "composer": "G. Ramanathan",
+      "cast": "Sivaji Ganesan, Padmini, J. P. Chandrababu, T. R. Mahalingam",
+      "source_url": "https://en.wikipedia.org/wiki/Sri_Valli_%281961_film%29",
+      "created_at": "2026-10-14 18:53:52",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Vigna Vinaayagaa",
+          "singers": "Seerkazhi Govindarajan",
+          "lyricist": "01:35",
+          "raga": "",
+          "duration": "01:35",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "Unakkaagavae Pirandha Azhagan",
+          "singers": "T. R. Mahalingam",
+          "lyricist": "03:33",
+          "raga": "",
+          "duration": "03:33",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "Chinnanjiru Kuruvigala",
+          "singers": "P. Susheela and chorus",
+          "lyricist": "04:17",
+          "raga": "",
+          "duration": "04:17",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "Vanna Thaamaraiyil Minnum Neerkumizhi",
+          "singers": "Seerkazhi Govindarajan",
+          "lyricist": "01:59",
+          "raga": "",
+          "duration": "01:59",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "Nittham Iranggi Varuvaai",
+          "singers": "A. P. Komala & A. G. Rathnamala",
+          "lyricist": "02:51",
+          "raga": "",
+          "duration": "02:51",
+          "stream_url": ""
+        },
+        {
+          "track_number": 6,
+          "title": "Vannamigum Paravaigalaa",
+          "singers": "T. M. Soundararajan & P. Susheela",
+          "lyricist": "03:44",
+          "raga": "",
+          "duration": "03:44",
+          "stream_url": ""
+        },
+        {
+          "track_number": 7,
+          "title": "Aiyo Machaan Mannaaru",
+          "singers": "J. P. Chandrababu",
+          "lyricist": "01:57",
+          "raga": "",
+          "duration": "01:57",
+          "stream_url": ""
+        },
+        {
+          "track_number": 8,
+          "title": "Thanthaikku Annalil",
+          "singers": "T. R. Mahalingam and chorus",
+          "lyricist": "02:10",
+          "raga": "",
+          "duration": "02:10",
+          "stream_url": ""
+        },
+        {
+          "track_number": 9,
+          "title": "Vanthanga Maappillainga",
+          "singers": "P. Susheela and chorus",
+          "lyricist": "04:00",
+          "raga": "",
+          "duration": "04:00",
+          "stream_url": ""
+        },
+        {
+          "track_number": 10,
+          "title": "Maanai Thedi Vandhavare",
+          "singers": "Jikki",
+          "lyricist": "02:53",
+          "raga": "",
+          "duration": "02:53",
+          "stream_url": ""
+        },
+        {
+          "track_number": 11,
+          "title": "Aadhi Andham Illaadha",
+          "singers": "T. M. Soundararajan",
+          "lyricist": "02:25",
+          "raga": "",
+          "duration": "02:25",
+          "stream_url": ""
+        },
+        {
+          "track_number": 12,
+          "title": "Yechuputten Naan Yechuputten",
+          "singers": "Seerkazhi Govindarajan & P. Susheela",
+          "lyricist": "03:58",
+          "raga": "",
+          "duration": "03:58",
+          "stream_url": ""
+        },
+        {
+          "track_number": 13,
+          "title": "Paayaadha Kadal Paayaa",
+          "singers": "T. M. Soundararajan",
+          "lyricist": "03:44",
+          "raga": "",
+          "duration": "03:44",
+          "stream_url": ""
+        },
+        {
+          "track_number": 14,
+          "title": "Mogana Punnagaiyil",
+          "singers": "T. R. Mahalingam",
+          "lyricist": "01:59",
+          "raga": "",
+          "duration": "01:59",
+          "stream_url": ""
+        },
+        {
+          "track_number": 15,
+          "title": "Thaagam Thanindhadhu Anname",
+          "singers": "Seerkazhi Govindarajan & P. Susheela",
+          "lyricist": "02:39",
+          "raga": "",
+          "duration": "02:39",
+          "stream_url": ""
+        },
+        {
+          "track_number": 16,
+          "title": "Malai Naattu Kuravar Naanga",
+          "singers": "Jikki",
+          "lyricist": "03:49",
+          "raga": "",
+          "duration": "03:49",
+          "stream_url": ""
+        },
+        {
+          "track_number": 17,
+          "title": "Shanmugaa...Idhayak Koyil Irukka",
+          "singers": "P. Susheela",
+          "lyricist": "04:15",
+          "raga": "",
+          "duration": "04:15",
+          "stream_url": ""
+        },
+        {
+          "track_number": 18,
+          "title": "Karpagachcholaiyile",
+          "singers": "T. R. Mahalingam",
+          "lyricist": "02:41",
+          "raga": "",
+          "duration": "02:41",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 7391,
+      "year": 1961,
+      "title": "Thai Sollai Thattathe",
+      "director": "M. A. Thirumugam",
+      "producer": "Devar Films",
+      "composer": "K. V. Mahadevan",
+      "cast": "M.G. Ramachandran, B. Saroja Devi, M. R. Radha",
+      "source_url": "https://en.wikipedia.org/wiki/Thai_Sollai_Thattathe",
+      "created_at": "2026-10-14 18:53:52",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "P. Susheela",
+          "singers": "03:04",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "T. M. Soundararajan, P. Susheela",
+          "singers": "03:46",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 6,
+          "title": "T. M. Soundararajan",
+          "singers": "03:14",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 7392,
+      "year": 1961,
+      "title": "Thayilla Pillai",
+      "director": "L. V. Prasad",
+      "producer": "Prasad Movies",
+      "composer": "K. V. Mahadevan",
+      "cast": "Kalyan Kumar, T. S. Balaiah, M. V. Rajamma, L. Vijayalakshmi, Nagesh",
+      "source_url": "https://en.wikipedia.org/wiki/Thayilla_Pillai",
+      "created_at": "2026-10-14 18:53:52",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "R. Balasaraswathi Devi",
+          "singers": "Kothamangalam Subbu",
+          "lyricist": "04:16",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "Soolamangalam Rajalakshmi",
+          "singers": "Kannadasan",
+          "lyricist": "03:47",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "Sirkazhi Govindarajan, P. Susheela",
+          "singers": "Kannadasan",
+          "lyricist": "04:30",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "A. L. Raghavan, L. R. Eswari",
+          "singers": "Kannadasan",
+          "lyricist": "04:16",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "A. L. Raghavan",
+          "singers": "Kannadasan",
+          "lyricist": "04:10",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 6,
+          "title": "P. B. Sreenivas, K. Jamuna Rani",
+          "singers": "A. Maruthakasi",
+          "lyricist": "04:25",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 7,
+          "title": "T. M. Soundararajan",
+          "singers": "Kannadasan",
+          "lyricist": "03:57",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 8,
+          "title": "P. Susheela",
+          "singers": "Kannadasan",
+          "lyricist": "03:32",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 7393,
+      "year": 1961,
+      "title": "Thennilavu",
+      "director": "C. V. Sridhar",
+      "producer": "Chitralaya",
+      "composer": "A. M. Rajah",
+      "cast": "Gemini Ganesan, Vyjayanthimala, K. A. Thangavelu",
+      "source_url": "https://en.wikipedia.org/wiki/Thennilavu",
+      "created_at": "2026-10-14 18:53:52",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Chinna Chinna Kannile",
+          "singers": "A. M. Rajah, P. Susheela",
+          "lyricist": "",
+          "raga": "",
+          "duration": "3:44",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "Kaalaiyum Neeye",
+          "singers": "A. M. Rajah, S. Janaki",
+          "lyricist": "",
+          "raga": "",
+          "duration": "3:28",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "Malare Malare Theriyatha",
+          "singers": "P. Susheela",
+          "lyricist": "",
+          "raga": "",
+          "duration": "3:43",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "Nilavum Malarum",
+          "singers": "A. M. Rajah, P. Susheela",
+          "lyricist": "",
+          "raga": "",
+          "duration": "3:42",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "Oho Endhan Baby",
+          "singers": "A. M. Rajah, S. Janaki",
+          "lyricist": "",
+          "raga": "",
+          "duration": "3:13",
+          "stream_url": ""
+        },
+        {
+          "track_number": 6,
+          "title": "Oorengum Thaedinaen",
+          "singers": "Jikki",
+          "lyricist": "",
+          "raga": "",
+          "duration": "3:02",
+          "stream_url": ""
+        },
+        {
+          "track_number": 7,
+          "title": "Paattu Padava",
+          "singers": "A. M. Rajah",
+          "lyricist": "",
+          "raga": "",
+          "duration": "3:42",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 7394,
+      "year": 1961,
+      "title": "Thirudathe",
+      "director": "P. Neelakantan",
+      "producer": "A. L. S. Productions",
+      "composer": "S. M. Subbaiah Naidu",
+      "cast": "M.G. Ramachandran, B. Saroja Devi, K. A. Thangavelu",
+      "source_url": "https://en.wikipedia.org/wiki/Thirudathe",
+      "created_at": "2026-10-14 18:53:52",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "S. C. Krishnan & A. G. Rathnamala",
+          "singers": "Ra. Pazhanisami",
+          "lyricist": "02:10",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "Seerkazhi Govindarajan & Jikki",
+          "singers": "Ku. Sa. Krishnamurthy",
+          "lyricist": "02:49",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "A. L. Raghavan & A. G. Rathnamala",
+          "singers": "Ku. Sa. Krishnamurthy",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "P. B. Sreenivas & P. Susheela",
+          "singers": "Kannadasan",
+          "lyricist": "02:55",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "P. B. Sreenivas & K. Jamuna Rani",
+          "singers": "Kannadasan",
+          "lyricist": "04:01",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 6,
+          "title": "P. Susheela &",
+          "singers": "Ku. Ma. Balasubramaniam",
+          "lyricist": "02:24",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 7,
+          "title": "Jikki",
+          "singers": "Ku. Ma. Balasubramaniam",
+          "lyricist": "02:47",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 8,
+          "title": "T. M. Soundararajan",
+          "singers": "Pattukkottai Kalyanasundaram",
+          "lyricist": "03:21",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 9,
+          "title": "Seerkazhi Govindarajan",
+          "singers": "M. K. Athmanathan",
+          "lyricist": "01:11",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 7395,
+      "year": 1961,
+      "title": "Thooya Ullam",
+      "director": "A. Subbarao",
+      "producer": "Annapurna Pictures Ltd.",
+      "composer": "Pendyala Nageswara Rao",
+      "cast": "A. Nageswara Rao, Savitri, K. A. Thangavelu",
+      "source_url": "https://en.wikipedia.org/wiki/Thooya_Ullam",
+      "created_at": "2026-10-14 18:53:52",
+      "tracks": [
+        {
+          "track_number": 2,
+          "title": "Haayi Haayigaa Jaabilli",
+          "singers": "Sri Sri",
+          "lyricist": "Ghantasala, P. Susheela",
+          "raga": "",
+          "duration": "4:20",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "Paadavoyi Bharatheeyuda",
+          "singers": "Sri Sri",
+          "lyricist": "Ghantasala, P. Susheela",
+          "raga": "",
+          "duration": "5:55",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "Challani Vennela",
+          "singers": "Sri Sri",
+          "lyricist": "P. Susheela, Jikki",
+          "raga": "",
+          "duration": "2:56",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "Oh Rangayo Poola Rangayo",
+          "singers": "Sri Sri",
+          "lyricist": "Ghantasala, P. Susheela",
+          "raga": "",
+          "duration": "3:32",
+          "stream_url": ""
+        },
+        {
+          "track_number": 6,
+          "title": "Kala Kaanidi",
+          "singers": "Sri Sri",
+          "lyricist": "Ghantasala",
+          "raga": "",
+          "duration": "3:57",
+          "stream_url": ""
+        },
+        {
+          "track_number": 7,
+          "title": "Sariganchu Cheerakatti",
+          "singers": "Kosaraju",
+          "lyricist": "Ghantasala, P. Susheela",
+          "raga": "",
+          "duration": "3:57",
+          "stream_url": ""
+        },
+        {
+          "track_number": 8,
+          "title": "Bhale Bhale",
+          "singers": "Sri Sri",
+          "lyricist": "Ghantasala, Madhavapeddi Satyam",
+          "raga": "",
+          "duration": "4:09",
+          "stream_url": ""
+        },
+        {
+          "track_number": 9,
+          "title": "Chitti Potti Chinnari",
+          "singers": "Sri Sri",
+          "lyricist": "P. Susheela, Swarnalatha",
+          "raga": "",
+          "duration": "3:06",
+          "stream_url": ""
+        },
+        {
+          "track_number": 10,
+          "title": "Siva Govinda Govinda",
+          "singers": "Kosaraju",
+          "lyricist": "Madhavapeddi Satyam & Udutha Sarojini",
+          "raga": "",
+          "duration": "3:23",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 7396,
+      "year": 1961,
+      "title": "Yar Manamagan?",
+      "director": "P. Subramaniam",
+      "producer": "Neela Productions",
+      "composer": "Br Lakshmanan",
+      "cast": "T. K. Balachandran, V. K. Ramasamy D. Balasubramaniam, Kumari K. V. Shanthi, C. R. Rajakumari",
+      "source_url": "https://en.wikipedia.org/wiki/Yar_Manamagan%3F",
+      "created_at": "2026-10-14 18:53:52",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Thiruchi Loganathan, P. Leela, Renuka & group",
+          "singers": "Sundarakannan",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "S. C. Krishnan & K. Jamuna Rani",
+          "singers": "Sundarakannan",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "P. B. Srinivas & K. Jamuna Rani",
+          "singers": "Sundarakannan",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "P. Leela & Renuka",
+          "singers": "Ku. Ma. Balasubramaniam",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "A. P. Komala",
+          "singers": "Ku. Ma. Balasubramaniam",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 6,
+          "title": "A. M. Rajah & P. Leela",
+          "singers": "Ku. Ma. Balasubramaniam",
+          "lyricist": "03:06",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 7397,
+      "year": 1961,
+      "title": "[https://ghantasalagalamrutamu.blogspot.com/2012/08/1961_8803.html Veerakumar]",
+      "director": "B. Vittalacharya Puratchidasan",
+      "producer": "Vittal Productions",
+      "composer": "Rajan–Nagendra",
+      "cast": "Kanta Rao, Krishna Kumari, Rajanala, Satyannarayana, Meenakumari, Balakrishna",
+      "source_url": "https://en.wikipedia.org/wiki/%5Bhttps%3A//ghantasalagalamrutamu.blogspot.com/2012/08/1961_8803.html_Veerakumar%5D",
+      "created_at": "2026-10-14 18:53:52",
+      "tracks": []
+    }
+  ]
+}

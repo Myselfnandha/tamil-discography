@@ -1,0 +1,129 @@
+{
+  "year": 1989,
+  "total_tracks": 481,
+  "tier_1_count": 7,
+  "tier_2_count": 0,
+  "tier_3_count": 0,
+  "tier_4_count": 0,
+  "unranked_count": 474,
+  "position_changes_count": 480,
+  "sample_tier_1_tracks": [
+    {
+      "title": "Raja Kaiya Vachchaa",
+      "album": "Apoorva Sagodharargal",
+      "score": 70.0
+    },
+    {
+      "title": "Raja Kaiya Vachchaa (reprise)",
+      "album": "Apoorva Sagodharargal",
+      "score": 70.0
+    },
+    {
+      "title": "Puthu Maappillaikku",
+      "album": "Apoorva Sagodharargal",
+      "score": 70.0
+    },
+    {
+      "title": "Unna Nenachen",
+      "album": "Apoorva Sagodharargal",
+      "score": 70.0
+    },
+    {
+      "title": "Vaazhavaikum Kaathalukku Jey",
+      "album": "Apoorva Sagodharargal",
+      "score": 70.0
+    },
+    {
+      "title": "Annaaththe Aaduraar",
+      "album": "Apoorva Sagodharargal",
+      "score": 70.0
+    },
+    {
+      "title": "Ammaava Naan",
+      "album": "Apoorva Sagodharargal",
+      "score": 70.0
+    }
+  ],
+  "sample_changes": [
+    {
+      "track_title": "Raja Kaiya Vachchaa",
+      "album_title": "Apoorva Sagodharargal",
+      "old_position": 28,
+      "new_position": 1,
+      "evidence_tier": "tier_1_mega",
+      "score": 70.0
+    },
+    {
+      "track_title": "Raja Kaiya Vachchaa (reprise)",
+      "album_title": "Apoorva Sagodharargal",
+      "old_position": 29,
+      "new_position": 2,
+      "evidence_tier": "tier_1_mega",
+      "score": 70.0
+    },
+    {
+      "track_title": "Puthu Maappillaikku",
+      "album_title": "Apoorva Sagodharargal",
+      "old_position": 30,
+      "new_position": 3,
+      "evidence_tier": "tier_1_mega",
+      "score": 70.0
+    },
+    {
+      "track_title": "Unna Nenachen",
+      "album_title": "Apoorva Sagodharargal",
+      "old_position": 31,
+      "new_position": 4,
+      "evidence_tier": "tier_1_mega",
+      "score": 70.0
+    },
+    {
+      "track_title": "Vaazhavaikum Kaathalukku Jey",
+      "album_title": "Apoorva Sagodharargal",
+      "old_position": 32,
+      "new_position": 5,
+      "evidence_tier": "tier_1_mega",
+      "score": 70.0
+    },
+    {
+      "track_title": "Annaaththe Aaduraar",
+      "album_title": "Apoorva Sagodharargal",
+      "old_position": 33,
+      "new_position": 6,
+      "evidence_tier": "tier_1_mega",
+      "score": 70.0
+    },
+    {
+      "track_title": "Ammaava Naan",
+      "album_title": "Apoorva Sagodharargal",
+      "old_position": 34,
+      "new_position": 7,
+      "evidence_tier": "tier_1_mega",
+      "score": 70.0
+    },
+    {
+      "track_title": "Ponmaaney Ponmaaney",
+      "album_title": "Anbu Kattalai",
+      "old_position": 7,
+      "new_position": 8,
+      "evidence_tier": null,
+      "score": null
+    },
+    {
+      "track_title": "Vaa Raaja",
+      "album_title": "Andru Peytha Mazhaiyil",
+      "old_position": 13,
+      "new_position": 9,
+      "evidence_tier": null,
+      "score": null
+    },
+    {
+      "track_title": "Pannari Pannari",
+      "album_title": "Annakili Sonna Kathai",
+      "old_position": 17,
+      "new_position": 10,
+      "evidence_tier": null,
+      "score": null
+    }
+  ]
+}

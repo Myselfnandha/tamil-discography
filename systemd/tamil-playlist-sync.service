@@ -1,0 +1,15 @@
+[Unit]
+Description=Tamil Discography Spotify Auto-Update Engine (Daily Smart Hybrid Sync)
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=oneshot
+WorkingDirectory=/home/nandha/play
+ExecStart=/usr/bin/python3 /home/nandha/play/auto_update_playlists.py --now
+StandardOutput=journal
+StandardError=journal
+Environment=PYTHONUNBUFFERED=1
+
+[Install]
+WantedBy=default.target

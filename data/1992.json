@@ -1,0 +1,212 @@
+{
+  "year": 1992,
+  "total_albums": 4,
+  "total_tracks": 17,
+  "exported_at": "2026-10-15T10:00:20.659064Z",
+  "albums": [
+    {
+      "id": 130,
+      "year": 1992,
+      "title": "David Uncle",
+      "director": "}",
+      "producer": "",
+      "composer": "",
+      "cast": "",
+      "source_url": "https://en.wikipedia.org/wiki/David_Uncle",
+      "created_at": "2026-10-14 12:18:12",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "S. P. Balasubrahmanyam, K. S. Chithra",
+          "singers": "Kalidasan",
+          "lyricist": "5:16",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "Mano, Minmini",
+          "singers": "Piraisoodan",
+          "lyricist": "4:45",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "Adithyan",
+          "singers": "Kalidasan",
+          "lyricist": "3:59",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "S. P. Sailaja",
+          "singers": "Piraisoodan",
+          "lyricist": "4:38",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "S. P. Balasubrahmanyam, Swarnalatha",
+          "singers": "Kadhal Mathi",
+          "lyricist": "4:15",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 6,
+          "title": "Malgudi Subha",
+          "singers": "Piraisoodan",
+          "lyricist": "4:25",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 139,
+      "year": 1992,
+      "title": "Nassar",
+      "director": "}",
+      "producer": "",
+      "composer": "",
+      "cast": "",
+      "source_url": "https://en.wikipedia.org/wiki/Nassar_%28actor%29",
+      "created_at": "2026-10-14 12:18:22",
+      "tracks": []
+    },
+    {
+      "id": 117,
+      "year": 1992,
+      "title": "Ponnuketha Purushan",
+      "director": "}",
+      "producer": "",
+      "composer": "",
+      "cast": "",
+      "source_url": "https://en.wikipedia.org/wiki/Ponnuketha_Purushan",
+      "created_at": "2026-10-14 12:17:58",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Ilaiyaraaja",
+          "singers": "Ilaiyaraaja",
+          "lyricist": "04:30",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "Malaysia Vasudevan, P. Susheela",
+          "singers": "Gangai Amaran",
+          "lyricist": "05:07",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "P. Jayachandran, Swarnalatha",
+          "singers": "Gangai Amaran",
+          "lyricist": "05:26",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "Swarnalatha",
+          "singers": "Gangai Amaran",
+          "lyricist": "01:20",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "K. S. Chithra",
+          "singers": "Gangai Amaran",
+          "lyricist": "04:41",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 6,
+          "title": "Mano, K. S. Chithra",
+          "singers": "Gangai Amaran",
+          "lyricist": "05:03",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 7,
+          "title": "Swarnalatha, K. S. Chithra & Minmini",
+          "singers": "Gangai Amaran",
+          "lyricist": "05:08",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 98,
+      "year": 1992,
+      "title": "Thanga Manasukkaran",
+      "director": "}",
+      "producer": "",
+      "composer": "",
+      "cast": "",
+      "source_url": "https://en.wikipedia.org/wiki/Thanga_Manasukkaran",
+      "created_at": "2026-10-14 12:17:39",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Mano",
+          "singers": "Piraisoodan",
+          "lyricist": "5:04",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "B. S. Sasirekha, Minmini",
+          "singers": "Piraisoodan",
+          "lyricist": "3:15",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "Mano, S. Janaki",
+          "singers": "Kamakodiyan",
+          "lyricist": "4:55",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "S. Janaki, Mano",
+          "singers": "Gangai Amaran",
+          "lyricist": "4:49",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        }
+      ]
+    }
+  ]
+}

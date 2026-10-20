@@ -1,0 +1,93 @@
+{
+  "year": 1971,
+  "total_tracks": 175,
+  "tier_1_count": 0,
+  "tier_2_count": 0,
+  "tier_3_count": 0,
+  "tier_4_count": 0,
+  "unranked_count": 175,
+  "position_changes_count": 173,
+  "sample_tier_1_tracks": [],
+  "sample_changes": [
+    {
+      "track_title": "Thandhana Thaana",
+      "album_title": "Annai Velankanni",
+      "old_position": 10,
+      "new_position": 2,
+      "evidence_tier": null,
+      "score": null
+    },
+    {
+      "track_title": "Ulagam Aayiram",
+      "album_title": "Arunodhayam",
+      "old_position": 17,
+      "new_position": 3,
+      "evidence_tier": null,
+      "score": null
+    },
+    {
+      "track_title": "ArutPerunJothi 2026 (\u0b85\u0bb0\u0bc1\u0b9f\u0bcd\u0baa\u0bc6\u0bb0\u0bc1\u0b9e\u0bcd\u0b9a\u0bcb\u0ba4\u0bbf \u0b85\u0b95\u0bb5\u0bb2\u0bcd 1)",
+      "album_title": "Arutperunjothi",
+      "old_position": 22,
+      "new_position": 4,
+      "evidence_tier": null,
+      "score": null
+    },
+    {
+      "track_title": "Babu (No.1 Bullshit Guy) Title Song",
+      "album_title": "Babu",
+      "old_position": 29,
+      "new_position": 5,
+      "evidence_tier": null,
+      "score": null
+    },
+    {
+      "track_title": "Amman Nagan",
+      "album_title": "Iru Thuruvam",
+      "old_position": 33,
+      "new_position": 6,
+      "evidence_tier": null,
+      "score": null
+    },
+    {
+      "track_title": "Thirumagal Thedi Vandhai",
+      "album_title": "Irulum Oliyum",
+      "old_position": 38,
+      "new_position": 7,
+      "evidence_tier": null,
+      "score": null
+    },
+    {
+      "track_title": "Ada Eppadi Than",
+      "album_title": "Justice Viswanathan",
+      "old_position": 40,
+      "new_position": 8,
+      "evidence_tier": null,
+      "score": null
+    },
+    {
+      "track_title": "Thullum Mangai Mugham",
+      "album_title": "Kankaatchi",
+      "old_position": 44,
+      "new_position": 9,
+      "evidence_tier": null,
+      "score": null
+    },
+    {
+      "track_title": "Kann Siranthathu",
+      "album_title": "Kannan Karunai",
+      "old_position": 50,
+      "new_position": 10,
+      "evidence_tier": null,
+      "score": null
+    },
+    {
+      "track_title": "Mathuru Ramakka",
+      "album_title": "Kulama Gunama",
+      "old_position": 62,
+      "new_position": 11,
+      "evidence_tier": null,
+      "score": null
+    }
+  ]
+}

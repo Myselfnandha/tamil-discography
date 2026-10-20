@@ -1,0 +1,5209 @@
+{
+  "total_albums": 7430,
+  "anachronistic_albums_count": 94,
+  "anachronistic_albums": [
+    {
+      "album_id": 434,
+      "title": "Oruvan",
+      "year": 1999,
+      "composer": "",
+      "matched_artist": "Hiphop Tamizha",
+      "artist_debut": 2012,
+      "match_type": "track: Thani Oruvan (The Power of One)",
+      "track_count": 5,
+      "sample_tracks": [
+        "Thani Oruvan (The Power of One)",
+        "Kannala Kannala (The Melting Point of Love)",
+        "Kadhal Cricket (Love (Not Out))",
+        "Theemai Dhaan Vellum (Awakening the Monster)"
+      ]
+    },
+    {
+      "album_id": 1107,
+      "title": "Ponmagal Vandhal",
+      "year": 2008,
+      "composer": "Govind Vasantha",
+      "matched_artist": "Govind Vasantha",
+      "artist_debut": 2018,
+      "match_type": "composer",
+      "track_count": 5,
+      "sample_tracks": [
+        "Vaa Chellam",
+        "Pookalin Porvai",
+        "Vaan Thooralgal",
+        "Kalaigiradhey Kanave"
+      ]
+    },
+    {
+      "album_id": 1321,
+      "title": "Enakkul Oru Kadhal",
+      "year": 2009,
+      "composer": "Santhosh Narayanan",
+      "matched_artist": "Santhosh Narayanan",
+      "artist_debut": 2012,
+      "match_type": "composer",
+      "track_count": 7,
+      "sample_tracks": [
+        "Prabalamagavey",
+        "Endi Ippadi",
+        "Poo Avizhum Pozhudhil",
+        "Kutti Poochi"
+      ]
+    },
+    {
+      "album_id": 3265,
+      "title": "Mahaprabhu",
+      "year": 1996,
+      "composer": "Deva",
+      "matched_artist": "G. V. Prakash Kumar",
+      "artist_debut": 2006,
+      "match_type": "track: S. Janaki, S. P. Balasubrahmanyam, G. V. Prakash Kumar",
+      "track_count": 6,
+      "sample_tracks": [
+        "S. Janaki, Shahul Hameed",
+        "K. S. Chithra, Mano",
+        "Gangai Amaran, S. Janaki",
+        "S. Janaki, S. P. Balasubrahmanyam, G. V. Prakash Kumar"
+      ]
+    },
+    {
+      "album_id": 3399,
+      "title": "Vaettiya Madichu Kattu",
+      "year": 1998,
+      "composer": "",
+      "matched_artist": "G. V. Prakash Kumar",
+      "artist_debut": 2006,
+      "match_type": "track: G. V. Prakash Kumar, Harini",
+      "track_count": 5,
+      "sample_tracks": [
+        "Swarnalatha, Mano",
+        "G. V. Prakash Kumar, Harini",
+        "K. S. Chithra, Hariharan",
+        "Mano, K. S. Chithra"
+      ]
+    },
+    {
+      "album_id": 3446,
+      "title": "Thanga Magal",
+      "year": 1998,
+      "composer": "Anirudh Ravichander",
+      "matched_artist": "Anirudh Ravichander",
+      "artist_debut": 2011,
+      "match_type": "composer",
+      "track_count": 4,
+      "sample_tracks": [
+        "Oh Oh (The First Love of Tamizh)",
+        "Enna Solla (The New Life of Tamizh)",
+        "Tak Bak (The Tak Bak of Tamizh)",
+        "Jodi Nilave (The Pain of Tamizh)"
+      ]
+    },
+    {
+      "album_id": 3589,
+      "title": "En Sakhiye",
+      "year": 2000,
+      "composer": "",
+      "matched_artist": "Pradeep Kumar",
+      "artist_debut": 2012,
+      "match_type": "track: Annupamaa, Pradeep Kumar",
+      "track_count": 5,
+      "sample_tracks": [
+        "Anuradha Sriram, Prasanna",
+        "Sabesh",
+        "Annupamaa, Pradeep Kumar",
+        "Sreerama Chandra Mynampati, Gopika Poornima"
+      ]
+    },
+    {
+      "album_id": 3863,
+      "title": "Navarasa",
+      "year": 2005,
+      "composer": "Various Artists",
+      "matched_artist": "Govind Vasantha",
+      "artist_debut": 2018,
+      "match_type": "track: Navarasa Trailer Music",
+      "track_count": 12,
+      "sample_tracks": [
+        "Navarasa",
+        "Thooriga",
+        "The Bleeding Heart (Osara Parandhu Vaa)",
+        "Yaadho"
+      ]
+    },
+    {
+      "album_id": 4001,
+      "title": "Ippadikku En Kadhal",
+      "year": 2007,
+      "composer": "Arrol Corelli, Soundararajan",
+      "matched_artist": "Pradeep Kumar",
+      "artist_debut": 2012,
+      "match_type": "track: Madhuramakuthe",
+      "track_count": 4,
+      "sample_tracks": [
+        "Madhuramakuthe",
+        "Kannodu Neengamal",
+        "Theerattha Kathai Sollava",
+        "Party Dance Theme (Instrumental)"
+      ]
+    },
+    {
+      "album_id": 4007,
+      "title": "Kanna",
+      "year": 2007,
+      "composer": "Dhibu Ninan Thomas",
+      "matched_artist": "Sid Sriram",
+      "artist_debut": 2012,
+      "match_type": "track: Oonjala Oonjala",
+      "track_count": 5,
+      "sample_tracks": [
+        "Vaayadi Petha Pulla",
+        "Oonjala Oonjala",
+        "Kanne En Kannazhage",
+        "Othaiyadi Pathayila"
+      ]
+    },
+    {
+      "album_id": 4443,
+      "title": "Aathavan",
+      "year": 1999,
+      "composer": "Harris Jayaraj",
+      "matched_artist": "Harris Jayaraj",
+      "artist_debut": 2001,
+      "match_type": "composer",
+      "track_count": 6,
+      "sample_tracks": [
+        "Hasili Fisiliye",
+        "Yeno Yeno Panithuli",
+        "Damakku Damakku",
+        "Vaarayo Vaarayo"
+      ]
+    },
+    {
+      "album_id": 4456,
+      "title": "Ullathai Killathe",
+      "year": 1999,
+      "composer": "",
+      "matched_artist": "D. Imman",
+      "artist_debut": 2001,
+      "match_type": "track: Maatu Maatu",
+      "track_count": 6,
+      "sample_tracks": [
+        "Lalala Law Mudichom",
+        "Maatu Maatu",
+        "Hot Party",
+        "Thamizhaa"
+      ]
+    },
+    {
+      "album_id": 4578,
+      "title": "Orr Eravuu",
+      "year": 2010,
+      "composer": "",
+      "matched_artist": "Sam C.S.",
+      "artist_debut": 2014,
+      "match_type": "track: Ucchi Malayil",
+      "track_count": 3,
+      "sample_tracks": [
+        "Ucchi Malayil",
+        "Kaadhala",
+        "Naan Oru Netraya Nayagan"
+      ]
+    },
+    {
+      "album_id": 4626,
+      "title": "Enthiran",
+      "year": 2010,
+      "composer": "Various Artists",
+      "matched_artist": "Pradeep Kumar",
+      "artist_debut": 2012,
+      "match_type": "track: Chitti Dance Showcase",
+      "track_count": 7,
+      "sample_tracks": [
+        "Puthiya Manidha",
+        "Kadhal Anukkal",
+        "Irumbile Oru Idhaiyam",
+        "Chitti Dance Showcase"
+      ]
+    },
+    {
+      "album_id": 4716,
+      "title": "Leelai",
+      "year": 2012,
+      "composer": "Produced by Aascar Films",
+      "matched_artist": "Leon James",
+      "artist_debut": 2015,
+      "match_type": "track: Bubble Gum",
+      "track_count": 6,
+      "sample_tracks": [
+        "Ponmaalai Pozhudhu",
+        "Oru Kili Oru Kili (Reprise)",
+        "Jillendru Oru Kalavaram",
+        "Bubble Gum"
+      ]
+    },
+    {
+      "album_id": 4764,
+      "title": "Arakkonam",
+      "year": 2012,
+      "composer": "Produced by Ramana Gudipati and S. S. Reddy",
+      "matched_artist": "Govind Vasantha",
+      "artist_debut": 2018,
+      "match_type": "track: Arakkonam Style (From \"Blue Star\")",
+      "track_count": 1,
+      "sample_tracks": [
+        "Arakkonam Style (From \"Blue Star\")"
+      ]
+    },
+    {
+      "album_id": 7365,
+      "title": "Ellam Unakkaga",
+      "year": 1961,
+      "composer": "K. V. Mahadevan",
+      "matched_artist": "Yuvan Shankar Raja",
+      "artist_debut": 1996,
+      "match_type": "track: Clio Paattra",
+      "track_count": 7,
+      "sample_tracks": [
+        "Clio Paattra",
+        "Dhuniyaa",
+        "Monaalisa",
+        "Thulli Thulli"
+      ]
+    },
+    {
+      "album_id": 7430,
+      "title": "Pirandha Naal",
+      "year": 1962,
+      "composer": "K. V. Mahadevan",
+      "matched_artist": "Deva",
+      "artist_debut": 1988,
+      "match_type": "track: Bumper Kulukkal",
+      "track_count": 5,
+      "sample_tracks": [
+        "Nilla Nilla",
+        "Vellore Vethala Kodi",
+        "Bumper Kulukkal",
+        "September October"
+      ]
+    },
+    {
+      "album_id": 7445,
+      "title": "Aayiram Kalathu Payir",
+      "year": 1963,
+      "composer": "S. M. Subbaiah Naidu",
+      "matched_artist": "Harris Jayaraj",
+      "artist_debut": 2001,
+      "match_type": "track: Adiyae Kolluthey",
+      "track_count": 6,
+      "sample_tracks": [
+        "Adiyae Kolluthey",
+        "Nenjukkul Peidhidum",
+        "Yethi Yethi",
+        "Mundhinam"
+      ]
+    },
+    {
+      "album_id": 7623,
+      "title": "Bhakta Prahlada",
+      "year": 1967,
+      "composer": "S. Rajeswara Rao",
+      "matched_artist": "Deva",
+      "artist_debut": 1988,
+      "match_type": "track: Aadhi Anadhiyu Neeve Deva",
+      "track_count": 34,
+      "sample_tracks": [
+        "Raara Priya Sundara",
+        "Bhujashakthi Nathoda",
+        "Janani Varadayini Trilochani",
+        "Aadhi Anadhiyu Neeve Deva"
+      ]
+    },
+    {
+      "album_id": 7692,
+      "title": "Nimirndhu Nil",
+      "year": 1968,
+      "composer": "M. S. Viswanathan",
+      "matched_artist": "G. V. Prakash Kumar",
+      "artist_debut": 2006,
+      "match_type": "track: Kaadhal Nergaiyil",
+      "track_count": 3,
+      "sample_tracks": [
+        "Kaadhal Nergaiyil",
+        "Rajadhi Raja",
+        "Gita Verses"
+      ]
+    },
+    {
+      "album_id": 7707,
+      "title": "Thanga Valayal",
+      "year": 1968,
+      "composer": "K. V. Mahadevan",
+      "matched_artist": "G. V. Prakash Kumar",
+      "artist_debut": 2006,
+      "match_type": "track: Minikki Minikki",
+      "track_count": 5,
+      "sample_tracks": [
+        "Minikki Minikki",
+        "Thangalaan (War Song)",
+        "Aruvadai",
+        "Thandora Pottanungo"
+      ]
+    },
+    {
+      "album_id": 7765,
+      "title": "Engal Thangam",
+      "year": 1970,
+      "composer": "M. G. Ramachandran, Jayalalitha, A. V. M. Rajan, Pushpalatha, Cho, Thengai Srinivasan, Manorama",
+      "matched_artist": "Santhosh Narayanan",
+      "artist_debut": 2012,
+      "match_type": "track: Tha Tha Thaiya",
+      "track_count": 9,
+      "sample_tracks": [
+        "Tha Tha Thaiya",
+        "I Can Get Hungry",
+        "Lets Comeon",
+        "Chinna Siragil Oliyum Agayam"
+      ]
+    },
+    {
+      "album_id": 7773,
+      "title": "Kannan Varuvan",
+      "year": 1970,
+      "composer": "Jaishankar, R. Muthuraman, Lakshmi, Vennira Aadai Nirmala, Vijaya Lalitha, J. P. Chandrababu, Thengai Srinivasan, Major Sundarrajan, R. S. Manohar",
+      "matched_artist": "Sirpy",
+      "artist_debut": 1993,
+      "match_type": "track: Seeraga Samba (From \"Kannan Varuvaan\")",
+      "track_count": 6,
+      "sample_tracks": [
+        "Seeraga Samba (From \"Kannan Varuvaan\")",
+        "Kadakkaattu Kuyile (From \"Kannan Varuvaan\")",
+        "Kathukku Pookkal (From \"Kannan Varuvaan\")",
+        "Kattrutha Thendrale (From \"Kannan Varuvaan\")"
+      ]
+    },
+    {
+      "album_id": 7775,
+      "title": "Kaviya Thalaivi",
+      "year": 1970,
+      "composer": "Gemini Ganesan, Sowcar Janaki, Ravichandran, M. R. R. Vasu, V. S. Ragavan",
+      "matched_artist": "A. R. Rahman",
+      "artist_debut": 1992,
+      "match_type": "track: Vaanga Makka Vaanga",
+      "track_count": 7,
+      "sample_tracks": [
+        "Vaanga Makka Vaanga",
+        "Aye Mr. Minor!",
+        "Sandi Kuthirai",
+        "Yaarumilla"
+      ]
+    },
+    {
+      "album_id": 7777,
+      "title": "Maanavan",
+      "year": 1970,
+      "composer": "Jaishankar, Sowcar Janaki, Lakshmi, R. Muthuraman, Nagesh, Sachu",
+      "matched_artist": "Pradeep Kumar",
+      "artist_debut": 2012,
+      "match_type": "track: Kolluraale",
+      "track_count": 4,
+      "sample_tracks": [
+        "Kolluraale",
+        "Paaraai Paaraai",
+        "Route Song",
+        "Ondre Inam Ondre"
+      ]
+    },
+    {
+      "album_id": 7794,
+      "title": "Thalaivan",
+      "year": 1970,
+      "composer": "M. G. Ramachandran, Vanisri, Nagesh, Nambiar, Asogan, Jothy Lakshmi, O.A.K. Devar",
+      "matched_artist": "G. V. Prakash Kumar",
+      "artist_debut": 2006,
+      "match_type": "track: Tamil Pasanga",
+      "track_count": 6,
+      "sample_tracks": [
+        "Tamil Pasanga",
+        "Yaar Indha Saalai Oram",
+        "Vaanganna Vanakkanganna",
+        "Sol Sol"
+      ]
+    },
+    {
+      "album_id": 7831,
+      "title": "Ranga Rattinam",
+      "year": 1971,
+      "composer": "Gemini Ganesan, Sowcar Janaki, Ravichandran, K. A. Thangavelu",
+      "matched_artist": "Yuvan Shankar Raja",
+      "artist_debut": 1996,
+      "match_type": "track: Ranga Rattinam (From \"Kuruthi Aattam\")",
+      "track_count": 1,
+      "sample_tracks": [
+        "Ranga Rattinam (From \"Kuruthi Aattam\")"
+      ]
+    },
+    {
+      "album_id": 7843,
+      "title": "Thirumagal",
+      "year": 1971,
+      "composer": "Gemini Ganesan, Padmini, A. V. M. Rajan, Lakshmi, Nagesh, Sivakumar, M. Bhanumathi",
+      "matched_artist": "Deva",
+      "artist_debut": 1988,
+      "match_type": "track: Poranthathu",
+      "track_count": 6,
+      "sample_tracks": [
+        "Poranthathu",
+        "Shock Adikuthu",
+        "Thatith Thatti",
+        "Idukuttana"
+      ]
+    },
+    {
+      "album_id": 7846,
+      "title": "Uyir",
+      "year": 1971,
+      "composer": "R. Muthuraman, B. Saroja Devi, Lakshmi",
+      "matched_artist": "G. V. Prakash Kumar",
+      "artist_debut": 2006,
+      "match_type": "track: Uyir",
+      "track_count": 1,
+      "sample_tracks": [
+        "Uyir"
+      ]
+    },
+    {
+      "album_id": 7860,
+      "title": "Ellai Kodu",
+      "year": 1972,
+      "composer": "Gangai Amaran",
+      "matched_artist": "Gangai Amaran",
+      "artist_debut": 1978,
+      "match_type": "composer",
+      "track_count": 4,
+      "sample_tracks": [
+        "Adikkira Adiyile",
+        "Andharathile Aadum",
+        "Kadhal Kalaiyil",
+        "Purushan Kekkum"
+      ]
+    },
+    {
+      "album_id": 7869,
+      "title": "Raman Thediya Seethai",
+      "year": 1972,
+      "composer": "Vidyasagar",
+      "matched_artist": "Vidyasagar",
+      "artist_debut": 1988,
+      "match_type": "composer",
+      "track_count": 6,
+      "sample_tracks": [
+        "Mazhai Nindra",
+        "Enne Pulla",
+        "Ippavae Ippavae",
+        "Nanba Nanba"
+      ]
+    },
+    {
+      "album_id": 7871,
+      "title": "Ponmagal Vandhal",
+      "year": 1972,
+      "composer": "Govind Vasantha",
+      "matched_artist": "Govind Vasantha",
+      "artist_debut": 2018,
+      "match_type": "composer",
+      "track_count": 5,
+      "sample_tracks": [
+        "Vaa Chellam",
+        "Pookalin Porvai",
+        "Vaan Thooralgal",
+        "Kalaigiradhey Kanave"
+      ]
+    },
+    {
+      "album_id": 7895,
+      "title": "...Aval!",
+      "year": 1972,
+      "composer": "Various Artists",
+      "matched_artist": "A. R. Rahman",
+      "artist_debut": 1992,
+      "match_type": "track: Madura Marikozhundhae (From \"Chekka Chivantha Vaanam\")",
+      "track_count": 14,
+      "sample_tracks": [
+        "Vaayadi Petha Pulla (From \"Kanaa\")",
+        "Madura Marikozhundhae (From \"Chekka Chivantha Vaanam\")",
+        "Manidhi (From \"Iraivi\")",
+        "The Karma Theme (From \"U Turn\")"
+      ]
+    },
+    {
+      "album_id": 7897,
+      "title": "Unakkum Enakkum",
+      "year": 1972,
+      "composer": "Devi Sri Prasad",
+      "matched_artist": "Devi Sri Prasad",
+      "artist_debut": 2001,
+      "match_type": "composer",
+      "track_count": 1,
+      "sample_tracks": [
+        "Poop Arikka Neeyum"
+      ]
+    },
+    {
+      "album_id": 7948,
+      "title": "Sondham",
+      "year": 1973,
+      "composer": "R. Muthuraman, K. R. Vijaya, Prameela, Sivakumar, V. K. Ramasamy, Suruli Rajan",
+      "matched_artist": "Devi Sri Prasad",
+      "artist_debut": 2001,
+      "match_type": "track: Music Bit",
+      "track_count": 8,
+      "sample_tracks": [
+        "Sontham",
+        "Telusuna",
+        "Eenati Varaku",
+        "Eppudo"
+      ]
+    },
+    {
+      "album_id": 7986,
+      "title": "Naan Avanillai",
+      "year": 1974,
+      "composer": "Gemini Ganesan, Kamal Haasan, Lakshmi, Jayabharathi, Jayasudha, Leelavathi",
+      "matched_artist": "Vijay Antony",
+      "artist_debut": 2005,
+      "match_type": "track: Kakha Kakha",
+      "track_count": 6,
+      "sample_tracks": [
+        "Kakha Kakha",
+        "Macha Kannai",
+        "Nee Kavithai",
+        "Radha Kaadhal"
+      ]
+    },
+    {
+      "album_id": 7995,
+      "title": "Penn Ondru Kanden",
+      "year": 1974,
+      "composer": "R. Muthuraman, Prameela, Nagesh, M. R. R. Vasu, Vennira Aadai Moorthy, M. Bhanumathi",
+      "matched_artist": "Yuvan Shankar Raja",
+      "artist_debut": 1996,
+      "match_type": "track: Sundari",
+      "track_count": 5,
+      "sample_tracks": [
+        "Sundari",
+        "Un Azhagai Rasithu",
+        "Ennammaa",
+        "Kavidhai Kottudhu"
+      ]
+    },
+    {
+      "album_id": 8013,
+      "title": "Thirudi",
+      "year": 1974,
+      "composer": "Jaishankar, K. R. Vijaya, V. K. Ramasamy, Manorama",
+      "matched_artist": "Anirudh Ravichander",
+      "artist_debut": 2011,
+      "match_type": "track: Thirudi (From \"Kiss\")",
+      "track_count": 1,
+      "sample_tracks": [
+        "Thirudi (From \"Kiss\")"
+      ]
+    },
+    {
+      "album_id": 8026,
+      "title": "Anbe Aaruyire",
+      "year": 1975,
+      "composer": "Sivaji Ganesan, Manjula, Nagesh, K. A. Thangavelu, Manorama, Suruli Rajan",
+      "matched_artist": "A. R. Rahman",
+      "artist_debut": 1992,
+      "match_type": "track: Maramkothiye (From \"Ah\u2026Aah\")",
+      "track_count": 6,
+      "sample_tracks": [
+        "Maramkothiye (From \"Ah\u2026Aah\")",
+        "Mayilrage (From \"Anbe Aaruyire\")",
+        "Varugiraai (From \"Anbe Aaruyire\")",
+        "Anbe Aaruyire (From \"Anbe Aaruyire\")"
+      ]
+    },
+    {
+      "album_id": 8030,
+      "title": "Avalukku Aayiram Kangal",
+      "year": 1975,
+      "composer": "Jayalalitha, Jaishankar, Ravichandran, Cho, M. R. R. Vasu",
+      "matched_artist": "Sam C.S.",
+      "artist_debut": 2014,
+      "match_type": "track: Uyir Uruvaatha",
+      "track_count": 5,
+      "sample_tracks": [
+        "Uyir Uruvaatha",
+        "Yea Pa Yeppappa",
+        "Yean Penne Neeyum",
+        "Nights of Neverland"
+      ]
+    },
+    {
+      "album_id": 8047,
+      "title": "Maalai Sooda Vaa",
+      "year": 1975,
+      "composer": "Kamal Haasan, 'Kumari' Manjula, Major Sundarrajan",
+      "matched_artist": "Ghibran",
+      "artist_debut": 2011,
+      "match_type": "track: Aana Aavanna",
+      "track_count": 6,
+      "sample_tracks": [
+        "Senga Soola Kaara",
+        "Sara Sara Saara Kathu",
+        "Thanjavuru Maadathi",
+        "Poraney Poraney"
+      ]
+    },
+    {
+      "album_id": 8056,
+      "title": "Nambikkai Natchathiram",
+      "year": 1975,
+      "composer": "M. K. Muthu, Srividya",
+      "matched_artist": "Deva",
+      "artist_debut": 1988,
+      "match_type": "track: Endan Deva",
+      "track_count": 10,
+      "sample_tracks": [
+        "Daveedin Maganaga",
+        "Endan Deva",
+        "Parisutha",
+        "Nee Endan"
+      ]
+    },
+    {
+      "album_id": 8091,
+      "title": "Etharkkum Thuninthavan",
+      "year": 1976,
+      "composer": "Sivakumar, K. S. Jayalakshmi, Thengai Srinivasan, Asogan, Manorama, Sundarrajan",
+      "matched_artist": "Anirudh Ravichander",
+      "artist_debut": 2011,
+      "match_type": "track: Vaada Thambi",
+      "track_count": 10,
+      "sample_tracks": [
+        "Vaada Thambi",
+        "Ullam Urugudhaiya",
+        "Summa Surrunu",
+        "Etharkkum Thunindhavan"
+      ]
+    },
+    {
+      "album_id": 8126,
+      "title": "Satyam",
+      "year": 1976,
+      "composer": "Sivaji Ganesan, Kamal Haasan, Manjula, Jayachitra, Devika, Nagesh",
+      "matched_artist": "Harris Jayaraj",
+      "artist_debut": 2001,
+      "match_type": "track: Ada Gada Gada",
+      "track_count": 5,
+      "sample_tracks": [
+        "Ada Gada Gada",
+        "En Anbe",
+        "Aradhi Katre",
+        "Chellame Chellame"
+      ]
+    },
+    {
+      "album_id": 8201,
+      "title": "Thoondil Meen",
+      "year": 1977,
+      "composer": "Mohan Sharma, Lakshmi",
+      "matched_artist": "Santhosh Narayanan",
+      "artist_debut": 2012,
+      "match_type": "track: Thoondil Meen (From \"Kabali\")",
+      "track_count": 1,
+      "sample_tracks": [
+        "Thoondil Meen (From \"Kabali\")"
+      ]
+    },
+    {
+      "album_id": 8208,
+      "title": "Alli Darbar",
+      "year": 1978,
+      "composer": "Vijayakumar, Manjula, Kavitha",
+      "matched_artist": "Anirudh Ravichander",
+      "artist_debut": 2011,
+      "match_type": "track: Chumma Kizhi",
+      "track_count": 7,
+      "sample_tracks": [
+        "Chumma Kizhi",
+        "Tharam Maara Single",
+        "Dumm Dumm",
+        "Thani Vazhi"
+      ]
+    },
+    {
+      "album_id": 8266,
+      "title": "Sakka Podu Podu Raja",
+      "year": 1978,
+      "composer": "Jaishankar, Jayachitra, Cho, Manorama",
+      "matched_artist": "Anirudh Ravichander",
+      "artist_debut": 2011,
+      "match_type": "track: Kalakku Machaan",
+      "track_count": 5,
+      "sample_tracks": [
+        "Kalakku Machaan",
+        "Kadhal Devathai",
+        "Unakaaga",
+        "Siru Siru"
+      ]
+    },
+    {
+      "album_id": 8306,
+      "title": "Chellakili",
+      "year": 1979,
+      "composer": "Vijayakumar, Sumithra, Sripriya",
+      "matched_artist": "Vijay Antony",
+      "artist_debut": 2005,
+      "match_type": "track: Chellakili (From \"Romeo\")",
+      "track_count": 1,
+      "sample_tracks": [
+        "Chellakili (From \"Romeo\")"
+      ]
+    },
+    {
+      "album_id": 8330,
+      "title": "Lakshmi",
+      "year": 1979,
+      "composer": "Sridevi, Jai Ganesh, Master Sridhar, Jamila",
+      "matched_artist": "G. V. Prakash Kumar",
+      "artist_debut": 2006,
+      "match_type": "track: Aala Aala",
+      "track_count": 8,
+      "sample_tracks": [
+        "Morrakka Mattrakkaa",
+        "Aala Aala",
+        "Pappara Pappaa",
+        "Dreamy Chellamma"
+      ]
+    },
+    {
+      "album_id": 8352,
+      "title": "Ninaithale Inikkum",
+      "year": 1979,
+      "composer": "Kamalahasan, Jaya Prada, Rajinikanth, Geetha",
+      "matched_artist": "Vijay Antony",
+      "artist_debut": 2005,
+      "match_type": "track: Azhagaai Pookkuthey",
+      "track_count": 7,
+      "sample_tracks": [
+        "Azhagaai Pookkuthey",
+        "Pia.. Pia..",
+        "Nanbanai Partha",
+        "Sexy Lady"
+      ]
+    },
+    {
+      "album_id": 8413,
+      "title": "Guru",
+      "year": 1980,
+      "composer": "Kamal Haasan, Sridevi, R. Muthuraman",
+      "matched_artist": "A. R. Rahman",
+      "artist_debut": 1992,
+      "match_type": "track: Barso Re",
+      "track_count": 7,
+      "sample_tracks": [
+        "Barso Re",
+        "Tere Bina",
+        "Ek Lo Ek Muft",
+        "Mayya"
+      ]
+    },
+    {
+      "album_id": 8422,
+      "title": "Kaali",
+      "year": 1980,
+      "composer": "Rajinikanth, Vijayakumar, Seema, Fatafat Jayalaxmi",
+      "matched_artist": "G. V. Prakash Kumar",
+      "artist_debut": 2006,
+      "match_type": "track: Vandhuttaanda Kaalai",
+      "track_count": 6,
+      "sample_tracks": [
+        "Vandhuttaanda Kaalai",
+        "Kaala Kaala",
+        "Veeramulla",
+        "Gutkha Lakkadi"
+      ]
+    },
+    {
+      "album_id": 8441,
+      "title": "Murattu Kaalai",
+      "year": 1980,
+      "composer": "Rajinikanth, Jaishankar, Rathi, Sumalatha, Suruli Rajan",
+      "matched_artist": "Deva",
+      "artist_debut": 1988,
+      "match_type": "track: Podhuvaga",
+      "track_count": 5,
+      "sample_tracks": [
+        "Podhuvaga",
+        "Punnagai Enna Vilai",
+        "Sundhara Purushaa",
+        "Thaavani En Thaavani"
+      ]
+    },
+    {
+      "album_id": 8468,
+      "title": "Porkkaalam",
+      "year": 1980,
+      "composer": "M. G. C. Sukumar, Vijayan, Sathyakala, Vanitha",
+      "matched_artist": "Deva",
+      "artist_debut": 1988,
+      "match_type": "track: Chinna Kanangkuruvi",
+      "track_count": 5,
+      "sample_tracks": [
+        "Chinna Kanangkuruvi",
+        "Karuvella Kaatukkulae",
+        "Thanjavooru Mannu Eduthu",
+        "Chingucha Chingucha"
+      ]
+    },
+    {
+      "album_id": 8480,
+      "title": "Saranam Ayyappa",
+      "year": 1980,
+      "composer": "Jayabharathi, Vijayan, Radha Ravi",
+      "matched_artist": "Pradeep Kumar",
+      "artist_debut": 2012,
+      "match_type": "track: Harivarasanam",
+      "track_count": 8,
+      "sample_tracks": [
+        "Harivarasanam",
+        "Ayyappa Gayathri Mantra",
+        "Nei Abishegam",
+        "Pallikattu"
+      ]
+    },
+    {
+      "album_id": 8485,
+      "title": "Sujatha",
+      "year": 1980,
+      "composer": "Vijayan, Saritha, Shankar, Rajyalakshmi, Raveendran",
+      "matched_artist": "G. V. Prakash Kumar",
+      "artist_debut": 2006,
+      "match_type": "track: Acham Acham Illai (From \"Indira\")",
+      "track_count": 12,
+      "sample_tracks": [
+        "Aalamaram (From \"Sindhoo Nadi Poo\")",
+        "Acham Acham Illai (From \"Indira\")",
+        "Anandam Anandam (From \"Murai Maaman\")",
+        "Chinna Chinna Idangalai (From \"Chinna Madam\")"
+      ]
+    },
+    {
+      "album_id": 8505,
+      "title": "Amara Kaaviyam",
+      "year": 1981,
+      "composer": "Sivaji Ganesan, Sripriya, Madhavi, Jai Ganesh, Nagesh",
+      "matched_artist": "Ghibran",
+      "artist_debut": 2011,
+      "match_type": "track: Saridhaana Saridhaana",
+      "track_count": 10,
+      "sample_tracks": [
+        "Saridhaana Saridhaana",
+        "Edhedho Ennamvandhu",
+        "Mounam Paesum",
+        "Dheva Dhevadhai"
+      ]
+    },
+    {
+      "album_id": 8518,
+      "title": "Bala Nagamma",
+      "year": 1981,
+      "composer": "K. R. Vijaya, Sarath Babu, Sridevi",
+      "matched_artist": "Deva",
+      "artist_debut": 1988,
+      "match_type": "track: Bale Bale Deva Paaror Ariyaar",
+      "track_count": 5,
+      "sample_tracks": [
+        "Koonthalile Megam",
+        "Bale Bale Deva Paaror Ariyaar",
+        "Naa Sogase Kani Marude",
+        "Manmadha Ragangalae"
+      ]
+    },
+    {
+      "album_id": 8520,
+      "title": "Deiva Thirumanangal",
+      "year": 1981,
+      "composer": "Seerkazhi Govindarajan, S. Varalakshmi, Chandra Mohan, Latha, Srividya, Moorthy",
+      "matched_artist": "G. V. Prakash Kumar",
+      "artist_debut": 2006,
+      "match_type": "track: Oray Oru Oorukulle",
+      "track_count": 7,
+      "sample_tracks": [
+        "Oray Oru Oorukulle",
+        "Vizhigalil Oru Vaanavil",
+        "Pa Pa Pappa",
+        "Vennilave"
+      ]
+    },
+    {
+      "album_id": 8532,
+      "title": "Kalam Oru Naal Maarum",
+      "year": 1981,
+      "composer": "Vijayakumar, Saritha",
+      "matched_artist": "Sean Roldan",
+      "artist_debut": 2013,
+      "match_type": "track: Oru Naal Maaruma (From \"Con City\")",
+      "track_count": 1,
+      "sample_tracks": [
+        "Oru Naal Maaruma (From \"Con City\")"
+      ]
+    },
+    {
+      "album_id": 8540,
+      "title": "Kazhugu",
+      "year": 1981,
+      "composer": "Rajinikanth, Rathi, Sumalatha, Cho, Thengai Srinivasan, Y. G. Mahendra, Vanitha",
+      "matched_artist": "Yuvan Shankar Raja",
+      "artist_debut": 1996,
+      "match_type": "track: Aambalaikum Pombalaikum",
+      "track_count": 4,
+      "sample_tracks": [
+        "Aambalaikum Pombalaikum",
+        "Aathadi Manasudhan",
+        "Paathagathi Kannupattu",
+        "Vaadi Vaadi"
+      ]
+    },
+    {
+      "album_id": 8555,
+      "title": "Mayyakkam",
+      "year": 1981,
+      "composer": "Srikanth, Padmapriya",
+      "matched_artist": "G. V. Prakash Kumar",
+      "artist_debut": 2006,
+      "match_type": "track: Pirai Thedum",
+      "track_count": 6,
+      "sample_tracks": [
+        "Naan Sonnadhum Mazhaivandhucha",
+        "Pirai Thedum",
+        "Voda Voda Dhooram Korayala",
+        "Ennena Seidhom Ingu"
+      ]
+    },
+    {
+      "album_id": 8570,
+      "title": "Netrikkan",
+      "year": 1981,
+      "composer": "Rajinikanth, Lakshmi, Saritha, Menaka, Vijayashanti",
+      "matched_artist": "Sid Sriram",
+      "artist_debut": 2012,
+      "match_type": "track: Idhuvum Kadandhu Pogum (The Healing Song)",
+      "track_count": 4,
+      "sample_tracks": [
+        "Idhuvum Kadandhu Pogum (The Healing Song)",
+        "Netrikann Title Track",
+        "Po Nilladhe",
+        "Idhuvum Kadandhu Pogum (Reprise)"
+      ]
+    },
+    {
+      "album_id": 8586,
+      "title": "Rajangam",
+      "year": 1981,
+      "composer": "Chandrasekhar, Vijayashanti, Charuhasan, Delhi Ganesh, Manorama, P. R. Varalakshmi",
+      "matched_artist": "Deva",
+      "artist_debut": 1988,
+      "match_type": "track: Annanmaare Thambimaare",
+      "track_count": 5,
+      "sample_tracks": [
+        "Annanmaare Thambimaare",
+        "Padikavandhadhu Swarnalatha",
+        "Padikavandhadhu",
+        "Thaniyaana Raathiri"
+      ]
+    },
+    {
+      "album_id": 8594,
+      "title": "Sattam Oru Iruttarai",
+      "year": 1981,
+      "composer": "Vijayakanth, Poornima, Vasumathi",
+      "matched_artist": "Vijay Antony",
+      "artist_debut": 2005,
+      "match_type": "track: Poochandi Paarvaiyil",
+      "track_count": 5,
+      "sample_tracks": [
+        "Aadam Eval",
+        "Nimirnthu Nil",
+        "Poochandi Paarvaiyil",
+        "Thirumba Thirumba"
+      ]
+    },
+    {
+      "album_id": 8608,
+      "title": "Tik Tik Tik",
+      "year": 1981,
+      "composer": "Kamal Haasan, Madhavi, Swapna, Radha, Thengai Srinivasan",
+      "matched_artist": "D. Imman",
+      "artist_debut": 2001,
+      "match_type": "track: Tik Tik Tik (Title Track) (Title Track)",
+      "track_count": 8,
+      "sample_tracks": [
+        "Tik Tik Tik (Title Track) (Title Track)",
+        "Kurumba (Father's Love)",
+        "Vinveera",
+        "Kurumba Reprise (Mother's Love)"
+      ]
+    },
+    {
+      "album_id": 8625,
+      "title": "Pokkiri Raja",
+      "year": 1982,
+      "composer": "D. Imman",
+      "matched_artist": "D. Imman",
+      "artist_debut": 2001,
+      "match_type": "composer",
+      "track_count": 8,
+      "sample_tracks": [
+        "Athuvutta",
+        "Rain Rain Go Go",
+        "Bubbly Bubbly",
+        "Waltzing Whistle : Theme"
+      ]
+    },
+    {
+      "album_id": 8687,
+      "title": "Theeradha Vilaiyattu Pillai",
+      "year": 1982,
+      "composer": "Yuvan Shankar Raja",
+      "matched_artist": "Yuvan Shankar Raja",
+      "artist_debut": 1996,
+      "match_type": "composer",
+      "track_count": 6,
+      "sample_tracks": [
+        "Introduction",
+        "Poo Mudhal Pen Varai",
+        "En Jannal Vandha",
+        "Theeratha Vilaiyattu"
+      ]
+    },
+    {
+      "album_id": 8778,
+      "title": "Neeru Pootha Neruppu",
+      "year": 1983,
+      "composer": "Ramesh, Vijayalakshmi",
+      "matched_artist": "Deva",
+      "artist_debut": 1988,
+      "match_type": "track: Deva - Vani Jairam",
+      "track_count": 4,
+      "sample_tracks": [
+        "Idazho Rame",
+        "Mottu Malarada",
+        "Deva - Vani Jairam",
+        "Vaday Pani Katru"
+      ]
+    },
+    {
+      "album_id": 8810,
+      "title": "Thalaimagan",
+      "year": 1983,
+      "composer": "Prabhu, Suresh, Vijayashanti, Vanitha, Manorama",
+      "matched_artist": "Deva",
+      "artist_debut": 1988,
+      "match_type": "track: Penaakkaaran",
+      "track_count": 6,
+      "sample_tracks": [
+        "Penaakkaaran",
+        "Deen Tena",
+        "Nooru Nooru V1",
+        "Uppumootai"
+      ]
+    },
+    {
+      "album_id": 8832,
+      "title": "Aayiram Kaigal",
+      "year": 1984,
+      "composer": "Ramakrishnan, Samundeeswari",
+      "matched_artist": "Deva",
+      "artist_debut": 1988,
+      "match_type": "track: Oru Deva Maadhu",
+      "track_count": 4,
+      "sample_tracks": [
+        "Elamai Rathamo Nilavin",
+        "Vasa Roja Vasa Roja",
+        "Vaanmeethiley Yen Ullam",
+        "Oru Deva Maadhu"
+      ]
+    },
+    {
+      "album_id": 8842,
+      "title": "Azhagu",
+      "year": 1984,
+      "composer": "Sarath Babu, Sumathi",
+      "matched_artist": "Ghibran",
+      "artist_debut": 2011,
+      "match_type": "track: Azhagu (Ghibran's All About Love)",
+      "track_count": 1,
+      "sample_tracks": [
+        "Azhagu (Ghibran's All About Love)"
+      ]
+    },
+    {
+      "album_id": 8848,
+      "title": "Enakkul Oruvan",
+      "year": 1984,
+      "composer": "Kamal Haasan, Shobana, Sripriya, Sathyaraj",
+      "matched_artist": "Santhosh Narayanan",
+      "artist_debut": 2012,
+      "match_type": "track: Prabalamagavey",
+      "track_count": 7,
+      "sample_tracks": [
+        "Prabalamagavey",
+        "Endi Ippadi",
+        "Poo Avizhum Pozhudhil",
+        "Kutti Poochi"
+      ]
+    },
+    {
+      "album_id": 8876,
+      "title": "Naan Mahaan Alla",
+      "year": 1984,
+      "composer": "Rajinikanth, Radha, Cho",
+      "matched_artist": "Yuvan Shankar Raja",
+      "artist_debut": 1996,
+      "match_type": "track: Iragai Poley",
+      "track_count": 4,
+      "sample_tracks": [
+        "Va Va Nilava",
+        "Iragai Poley",
+        "Oru Maalai Neram",
+        "Dheivam Illai"
+      ]
+    },
+    {
+      "album_id": 8921,
+      "title": "Sirai",
+      "year": 1984,
+      "composer": "Lakshmi, Rajesh, Pandiyan, Ilavarasi",
+      "matched_artist": "Yuvan Shankar Raja",
+      "artist_debut": 1996,
+      "match_type": "track: Minnu Vattaam Poochi",
+      "track_count": 4,
+      "sample_tracks": [
+        "Neelothi",
+        "Minnu Vattaam Poochi",
+        "Mannichiru",
+        "Kanne Kalangadha"
+      ]
+    },
+    {
+      "album_id": 8972,
+      "title": "Eetti",
+      "year": 1985,
+      "composer": "Vijayakanth, Nalini, Viji, Sathyaraj, Vishnuvardhan, Goundamani",
+      "matched_artist": "G. V. Prakash Kumar",
+      "artist_debut": 2006,
+      "match_type": "track: Panjumittai",
+      "track_count": 6,
+      "sample_tracks": [
+        "Panjumittai",
+        "Un Swaasam",
+        "Naan Pudicha Mosakuttiyae",
+        "Oru Thuli"
+      ]
+    },
+    {
+      "album_id": 8986,
+      "title": "Kaakki Sattai",
+      "year": 1985,
+      "composer": "Kamal Haasan, Ambika, Madhavi, Sathyaraj",
+      "matched_artist": "Anirudh Ravichander",
+      "artist_debut": 2011,
+      "match_type": "track: Kaaki Sattai (From \"Kaaki Sattai\")",
+      "track_count": 7,
+      "sample_tracks": [
+        "Kaaki Sattai (From \"Kaaki Sattai\")",
+        "Kadhal Kan Kattudhe (From \"Kaaki Sattai\")",
+        "The Trooper Theme",
+        "Im so cool (From \"Kaaki Sattai\")"
+      ]
+    },
+    {
+      "album_id": 9011,
+      "title": "Naan Sigappu Manithan",
+      "year": 1985,
+      "composer": "Rajinikanth, K. Bhagyaraj, Ambika, Sathyaraj",
+      "matched_artist": "G. V. Prakash Kumar",
+      "artist_debut": 2006,
+      "match_type": "track: Yelelo",
+      "track_count": 6,
+      "sample_tracks": [
+        "Yelelo",
+        "Lovely Ladies",
+        "Penne O Penne",
+        "Idhayam Unnai Thedudhe"
+      ]
+    },
+    {
+      "album_id": 9068,
+      "title": "Veli",
+      "year": 1985,
+      "composer": "Rajesh, Jaishankar, Saritha, Sumithra, Sathyaraj, Janagaraj, Vanitha",
+      "matched_artist": "Yuvan Shankar Raja",
+      "artist_debut": 1996,
+      "match_type": "track: Indha Ooril Eppavume",
+      "track_count": 6,
+      "sample_tracks": [
+        "Indha Ooril Eppavume",
+        "Ottraikkannale",
+        "Kovakkara Kiliye",
+        "Aayiram Jannal Veedu"
+      ]
+    },
+    {
+      "album_id": 9117,
+      "title": "Maaveeran",
+      "year": 1986,
+      "composer": "Rajinikanth, Ambika, Jaishankar, Sujatha, Dara Singh, Nagesh, Vijayakumar, Sunitha",
+      "matched_artist": "Anirudh Ravichander",
+      "artist_debut": 2011,
+      "match_type": "track: Scene Ah Scene Ah",
+      "track_count": 6,
+      "sample_tracks": [
+        "Scene Ah Scene Ah",
+        "Maaveeran Theme",
+        "Vannarapettayila",
+        "Vaa Veera"
+      ]
+    },
+    {
+      "album_id": 9148,
+      "title": "Padikkatha Padam",
+      "year": 1986,
+      "composer": "Bharathi, Viji",
+      "matched_artist": "Mani Sharma",
+      "artist_debut": 1998,
+      "match_type": "track: Hey Vetri Velaa",
+      "track_count": 5,
+      "sample_tracks": [
+        "Hey Vetri Velaa",
+        "Kadavulum Kadhalum",
+        "Raangi Rangamma",
+        "Hey Rosu Rosu"
+      ]
+    },
+    {
+      "album_id": 9178,
+      "title": "Vikram",
+      "year": 1986,
+      "composer": "Kamal Haasan, Dimple Kapadia, Lizzy, Ambika, Sathyaraj, Amjad Khan, Janagaraj",
+      "matched_artist": "Anirudh Ravichander",
+      "artist_debut": 2011,
+      "match_type": "track: Pathala Pathala",
+      "track_count": 5,
+      "sample_tracks": [
+        "Pathala Pathala",
+        "Vikram (Title Track)",
+        "Wasted",
+        "Porkanda Singam"
+      ]
+    },
+    {
+      "album_id": 9188,
+      "title": "Raja Mariyadhai",
+      "year": 1987,
+      "composer": "Deva",
+      "matched_artist": "Deva",
+      "artist_debut": 1988,
+      "match_type": "composer",
+      "track_count": 6,
+      "sample_tracks": [
+        "Kichchali Samba",
+        "Mariyadai Ullavan",
+        "Palapalanguthu Thalathalanguthu",
+        "Unna Naan Thottathukku"
+      ]
+    },
+    {
+      "album_id": 9218,
+      "title": "Rekha",
+      "year": 1987,
+      "composer": "D. Imman",
+      "matched_artist": "D. Imman",
+      "artist_debut": 2001,
+      "match_type": "composer",
+      "track_count": 7,
+      "sample_tracks": [
+        "Kanna Kaattu Podhum",
+        "Virru Virru",
+        "Kannamma",
+        "Pollapaiyya"
+      ]
+    },
+    {
+      "album_id": 9289,
+      "title": "En Bommukutty Ammavukku",
+      "year": 1988,
+      "composer": "Sathyaraj, Suhasini, Raghuvaran, Rekha, Geetu Mohandas",
+      "matched_artist": "Yuvan Shankar Raja",
+      "artist_debut": 1996,
+      "match_type": "track: Yaiyaiya Yaiyaiya",
+      "track_count": 9,
+      "sample_tracks": [
+        "Chithira Chittugal",
+        "Uyire Uyirin",
+        "Kuyile Kuyile",
+        "En Patharamathu"
+      ]
+    },
+    {
+      "album_id": 9300,
+      "title": "Idhu Namma Aalu",
+      "year": 1988,
+      "composer": "K. Bhagyaraj, Shobana, J. V. Somayajulu, Manorama, Kumarimuthu",
+      "matched_artist": "Yuvan Shankar Raja",
+      "artist_debut": 1996,
+      "match_type": "track: Kanne Un Kadhal",
+      "track_count": 6,
+      "sample_tracks": [
+        "Kaathaga",
+        "King Kong",
+        "Kanne Un Kadhal",
+        "Maaman Waiting"
+      ]
+    },
+    {
+      "album_id": 9306,
+      "title": "Jeeva",
+      "year": 1988,
+      "composer": "Sathyaraj, Amala, Nizhalgal Ravi, Janagaraj, Silk Smitha",
+      "matched_artist": "D. Imman",
+      "artist_debut": 2001,
+      "match_type": "track: Ovvundraai Thirudugiraai",
+      "track_count": 8,
+      "sample_tracks": [
+        "Ovvundraai Thirudugiraai",
+        "Oru Rosa",
+        "Oruthi Maelae",
+        "Sangimangi"
+      ]
+    },
+    {
+      "album_id": 9315,
+      "title": "Katha Nayagan",
+      "year": 1988,
+      "composer": "Pandiarajan, S. Ve. Shekher, Rekha, Shobana, S. S. Chandran, Manorama",
+      "matched_artist": "Sean Roldan",
+      "artist_debut": 2013,
+      "match_type": "track: Kathanayagan The Hero",
+      "track_count": 5,
+      "sample_tracks": [
+        "Kathanayagan The Hero",
+        "On Nenappu",
+        "Tappu Tippu",
+        "Sunday Na Bottle Edu"
+      ]
+    },
+    {
+      "album_id": 9325,
+      "title": "Mappillai Sir",
+      "year": 1988,
+      "composer": "Mohan, Visu, Rekha, Jayanthi, Kismu, Sumithra",
+      "matched_artist": "Mani Sharma",
+      "artist_debut": 1998,
+      "match_type": "track: Aaru Padai",
+      "track_count": 7,
+      "sample_tracks": [
+        "Aaru Padai",
+        "Love Love",
+        "Onnu Rendu",
+        "Ready Readya"
+      ]
+    },
+    {
+      "album_id": 9418,
+      "title": "Mappillai",
+      "year": 1989,
+      "composer": "Rajinikanth, Amala, Srividya, Jaishankar, S. S. Chandran",
+      "matched_artist": "Mani Sharma",
+      "artist_debut": 1998,
+      "match_type": "track: Aaru Padai",
+      "track_count": 7,
+      "sample_tracks": [
+        "Aaru Padai",
+        "Love Love",
+        "Onnu Rendu",
+        "Ready Readya"
+      ]
+    },
+    {
+      "album_id": 9472,
+      "title": "Thendral Sudum",
+      "year": 1989,
+      "composer": "Nizhalgal Ravi, Radhika, Senthil",
+      "matched_artist": "Yuvan Shankar Raja",
+      "artist_debut": 1996,
+      "match_type": "track: Dhoori Dhoori",
+      "track_count": 5,
+      "sample_tracks": [
+        "Dhoori Dhoori",
+        "Oru Raajaa",
+        "Kannamma",
+        "Dhoori Dhoori (Pathos)"
+      ]
+    },
+    {
+      "album_id": 9475,
+      "title": "Uthama Purushan",
+      "year": 1989,
+      "composer": "Prabhu, Revathi, Amala, V. K. Ramasamy, Kuyili, Charle",
+      "matched_artist": "Vijay Antony",
+      "artist_debut": 2005,
+      "match_type": "track: Ussumu Laresey",
+      "track_count": 6,
+      "sample_tracks": [
+        "Ussumu Laresey",
+        "Kan Irandil",
+        "Idicha Pacharasi",
+        "En Nenju"
+      ]
+    },
+    {
+      "album_id": 9482,
+      "title": "Vettaiyaadu Vilaiyaadu",
+      "year": 1989,
+      "composer": "Arjun, Seetha, Nizhalgal Ravi, Charan Raj, Madhuri, Kovai Sarala, Baby Sujitha",
+      "matched_artist": "Harris Jayaraj",
+      "artist_debut": 2001,
+      "match_type": "track: Karka Karka",
+      "track_count": 5,
+      "sample_tracks": [
+        "Karka Karka",
+        "Paartha Mudhal",
+        "Manjal Veyil",
+        "Uyirile"
+      ]
+    }
+  ],
+  "cross_year_duplicate_groups": [
+    [
+      {
+        "album_id": 304,
+        "title": "A. R. Rahman",
+        "year": 1996,
+        "composer": "",
+        "track_count": 5,
+        "sample_tracks": [
+          "Kadhal Virus",
+          "Bigil",
+          "Aaraattu"
+        ]
+      },
+      {
+        "album_id": 409,
+        "title": "A. R. Rahman",
+        "year": 1998,
+        "composer": "",
+        "track_count": 5,
+        "sample_tracks": [
+          "Kadhal Virus",
+          "Bigil",
+          "Aaraattu"
+        ]
+      },
+      {
+        "album_id": 976,
+        "title": "A. R. Rahman",
+        "year": 2006,
+        "composer": "",
+        "track_count": 5,
+        "sample_tracks": [
+          "Kadhal Virus",
+          "Bigil",
+          "Aaraattu"
+        ]
+      },
+      {
+        "album_id": 1079,
+        "title": "A. R. Rahman",
+        "year": 2007,
+        "composer": "",
+        "track_count": 5,
+        "sample_tracks": [
+          "Kadhal Virus",
+          "Bigil",
+          "Aaraattu"
+        ]
+      },
+      {
+        "album_id": 1380,
+        "title": "A. R. Rahman",
+        "year": 2010,
+        "composer": "",
+        "track_count": 5,
+        "sample_tracks": [
+          "Kadhal Virus",
+          "Bigil",
+          "Aaraattu"
+        ]
+      },
+      {
+        "album_id": 1605,
+        "title": "A. R. Rahman",
+        "year": 2013,
+        "composer": "",
+        "track_count": 5,
+        "sample_tracks": [
+          "Kadhal Virus",
+          "Bigil",
+          "Aaraattu"
+        ]
+      },
+      {
+        "album_id": 1768,
+        "title": "A. R. Rahman",
+        "year": 2015,
+        "composer": "",
+        "track_count": 5,
+        "sample_tracks": [
+          "Kadhal Virus",
+          "Bigil",
+          "Aaraattu"
+        ]
+      },
+      {
+        "album_id": 1843,
+        "title": "A. R. Rahman",
+        "year": 2016,
+        "composer": "",
+        "track_count": 5,
+        "sample_tracks": [
+          "Kadhal Virus",
+          "Bigil",
+          "Aaraattu"
+        ]
+      },
+      {
+        "album_id": 1916,
+        "title": "A. R. Rahman",
+        "year": 2017,
+        "composer": "",
+        "track_count": 5,
+        "sample_tracks": [
+          "Kadhal Virus",
+          "Bigil",
+          "Aaraattu"
+        ]
+      },
+      {
+        "album_id": 2315,
+        "title": "A. R. Rahman",
+        "year": 2022,
+        "composer": "",
+        "track_count": 5,
+        "sample_tracks": [
+          "Kadhal Virus",
+          "Bigil",
+          "Aaraattu"
+        ]
+      }
+    ],
+    [
+      {
+        "album_id": 364,
+        "title": "Ramji",
+        "year": 1997,
+        "composer": "",
+        "track_count": 5,
+        "sample_tracks": [
+          "Priyuralu",
+          "Penngal",
+          "Dosth"
+        ]
+      },
+      {
+        "album_id": 1279,
+        "title": "Ramji",
+        "year": 2009,
+        "composer": "",
+        "track_count": 5,
+        "sample_tracks": [
+          "Priyuralu",
+          "Penngal",
+          "Dosth"
+        ]
+      }
+    ],
+    [
+      {
+        "album_id": 451,
+        "title": "Deva",
+        "year": 1999,
+        "composer": "",
+        "track_count": 339,
+        "sample_tracks": [
+          "Namma Ooru Poovatha",
+          "Mannukketha Maindhan",
+          "Pudhu Manithan"
+        ]
+      },
+      {
+        "album_id": 497,
+        "title": "Deva",
+        "year": 2000,
+        "composer": "",
+        "track_count": 339,
+        "sample_tracks": [
+          "Namma Ooru Poovatha",
+          "Mannukketha Maindhan",
+          "Pudhu Manithan"
+        ]
+      }
+    ],
+    [
+      {
+        "album_id": 496,
+        "title": "Pandiarajan",
+        "year": 2000,
+        "composer": "",
+        "track_count": 94,
+        "sample_tracks": [
+          "Darling, Darling, Darling",
+          "Aan Paavam",
+          "Muthukkal Moondru"
+        ]
+      },
+      {
+        "album_id": 692,
+        "title": "Pandiarajan",
+        "year": 2003,
+        "composer": "",
+        "track_count": 94,
+        "sample_tracks": [
+          "Darling, Darling, Darling",
+          "Aan Paavam",
+          "Muthukkal Moondru"
+        ]
+      },
+      {
+        "album_id": 893,
+        "title": "Pandiarajan",
+        "year": 2005,
+        "composer": "",
+        "track_count": 94,
+        "sample_tracks": [
+          "Darling, Darling, Darling",
+          "Aan Paavam",
+          "Muthukkal Moondru"
+        ]
+      }
+    ],
+    [
+      {
+        "album_id": 547,
+        "title": "Harris Jayaraj",
+        "year": 2001,
+        "composer": "",
+        "track_count": 31,
+        "sample_tracks": [
+          "Majunu \u2022",
+          "12B \u2022",
+          "Samurai \u2022"
+        ]
+      },
+      {
+        "album_id": 894,
+        "title": "Harris Jayaraj",
+        "year": 2005,
+        "composer": "",
+        "track_count": 31,
+        "sample_tracks": [
+          "Majunu \u2022",
+          "12B \u2022",
+          "Samurai \u2022"
+        ]
+      },
+      {
+        "album_id": 1199,
+        "title": "Harris Jayaraj",
+        "year": 2008,
+        "composer": "",
+        "track_count": 31,
+        "sample_tracks": [
+          "Majunu \u2022",
+          "12B \u2022",
+          "Samurai \u2022"
+        ]
+      },
+      {
+        "album_id": 1324,
+        "title": "Harris Jayaraj",
+        "year": 2009,
+        "composer": "",
+        "track_count": 31,
+        "sample_tracks": [
+          "Majunu \u2022",
+          "12B \u2022",
+          "Samurai \u2022"
+        ]
+      }
+    ],
+    [
+      {
+        "album_id": 1454,
+        "title": "G. V. Prakash Kumar",
+        "year": 2011,
+        "composer": "",
+        "track_count": 9,
+        "sample_tracks": [
+          "Youth",
+          "Kara",
+          "Breakfast"
+        ]
+      },
+      {
+        "album_id": 2144,
+        "title": "G. V. Prakash Kumar",
+        "year": 2020,
+        "composer": "",
+        "track_count": 9,
+        "sample_tracks": [
+          "Youth",
+          "Kara",
+          "Breakfast"
+        ]
+      },
+      {
+        "album_id": 2229,
+        "title": "G. V. Prakash Kumar",
+        "year": 2021,
+        "composer": "",
+        "track_count": 9,
+        "sample_tracks": [
+          "Youth",
+          "Kara",
+          "Breakfast"
+        ]
+      }
+    ],
+    [
+      {
+        "album_id": 2343,
+        "title": "Koottam",
+        "year": 2023,
+        "composer": "I Movies",
+        "track_count": 5,
+        "sample_tracks": [
+          "Yetellinaa Aranyame",
+          "Thayya Thayya",
+          "Ikkadi Nundi Ekkadi Dhakaa"
+        ]
+      },
+      {
+        "album_id": 4859,
+        "title": "Koottam",
+        "year": 2014,
+        "composer": "Mammoth Media",
+        "track_count": 5,
+        "sample_tracks": [
+          "Yetellinaa Aranyame",
+          "Thayya Thayya",
+          "Ikkadi Nundi Ekkadi Dhakaa"
+        ]
+      },
+      {
+        "album_id": 6458,
+        "title": "Koottam",
+        "year": 2023,
+        "composer": "",
+        "track_count": 5,
+        "sample_tracks": [
+          "Yetellinaa Aranyame",
+          "Thayya Thayya",
+          "Ikkadi Nundi Ekkadi Dhakaa"
+        ]
+      }
+    ],
+    [
+      {
+        "album_id": 2696,
+        "title": "Pithala Maathi",
+        "year": 2024,
+        "composer": "Sri Saravana Film Arts",
+        "track_count": 4,
+        "sample_tracks": [
+          "Seeli Nikkan",
+          "Ottha Kannula",
+          "Vetri Bodha"
+        ]
+      },
+      {
+        "album_id": 6223,
+        "title": "Thanne Vandi",
+        "year": 2021,
+        "composer": "",
+        "track_count": 4,
+        "sample_tracks": [
+          "Seeli Nikkan",
+          "Ottha Kannula",
+          "Vetri Bodha"
+        ]
+      },
+      {
+        "album_id": 6791,
+        "title": "Pithala Maathi",
+        "year": 2024,
+        "composer": "style=\"text-align:center;\" |",
+        "track_count": 4,
+        "sample_tracks": [
+          "Seeli Nikkan",
+          "Ottha Kannula",
+          "Vetri Bodha"
+        ]
+      }
+    ],
+    [
+      {
+        "album_id": 3075,
+        "title": "Sirai",
+        "year": 2025,
+        "composer": "Seven Screen Studio",
+        "track_count": 4,
+        "sample_tracks": [
+          "Neelothi",
+          "Minnu Vattaam Poochi",
+          "Mannichiru"
+        ]
+      },
+      {
+        "album_id": 7138,
+        "title": "Sirai",
+        "year": 2025,
+        "composer": "style=\"text-align:center;\" |",
+        "track_count": 4,
+        "sample_tracks": [
+          "Neelothi",
+          "Minnu Vattaam Poochi",
+          "Mannichiru"
+        ]
+      },
+      {
+        "album_id": 8921,
+        "title": "Sirai",
+        "year": 1984,
+        "composer": "Lakshmi, Rajesh, Pandiyan, Ilavarasi",
+        "track_count": 4,
+        "sample_tracks": [
+          "Neelothi",
+          "Minnu Vattaam Poochi",
+          "Mannichiru"
+        ]
+      }
+    ],
+    [
+      {
+        "album_id": 3218,
+        "title": "Mookuthi Amman 2",
+        "year": 2026,
+        "composer": "Vels Film International, Avni Cinemax, Rowdy Pictures, IVY Entertainment",
+        "track_count": 7,
+        "sample_tracks": [
+          "Aadi Kuththu",
+          "Bhagavathi Baba",
+          "Aatha Solra"
+        ]
+      },
+      {
+        "album_id": 6019,
+        "title": "Mookuthi Amman",
+        "year": 2020,
+        "composer": "",
+        "track_count": 7,
+        "sample_tracks": [
+          "Aadi Kuththu",
+          "Bhagavathi Baba",
+          "Aatha Solra"
+        ]
+      },
+      {
+        "album_id": 7266,
+        "title": "Mookuthi Amman 2",
+        "year": 2026,
+        "composer": "style=\"text-align:center;\" |",
+        "track_count": 7,
+        "sample_tracks": [
+          "Aadi Kuththu",
+          "Bhagavathi Baba",
+          "Aatha Solra"
+        ]
+      }
+    ],
+    [
+      {
+        "album_id": 307,
+        "title": "Iruvar",
+        "year": 1997,
+        "composer": "",
+        "track_count": 8,
+        "sample_tracks": [
+          "Ayirathil Naan Oruvan",
+          "Narumugaye",
+          "Kannai Kattikolathey"
+        ]
+      },
+      {
+        "album_id": 4752,
+        "title": "Iruvan",
+        "year": 2012,
+        "composer": "Produced by Zion Pictures",
+        "track_count": 8,
+        "sample_tracks": [
+          "Ayirathil Naan Oruvan",
+          "Hello Mister Edhirkatchi",
+          "Kannai Kattikolathey"
+        ]
+      }
+    ],
+    [
+      {
+        "album_id": 3365,
+        "title": "Anubhavam Pudhumai",
+        "year": 1997,
+        "composer": "",
+        "track_count": 5,
+        "sample_tracks": [
+          "Aadai Kattum",
+          "Yen Ondrodu",
+          "Kanavil Nadanthatho"
+        ]
+      },
+      {
+        "album_id": 7617,
+        "title": "Anubavam Pudhumai",
+        "year": 1967,
+        "composer": "M. S. Viswanathan",
+        "track_count": 5,
+        "sample_tracks": [
+          "Aadai Kattum",
+          "Yen Ondrodu",
+          "Kanavil Nadanthatho"
+        ]
+      }
+    ],
+    [
+      {
+        "album_id": 356,
+        "title": "Porkkaalam",
+        "year": 1997,
+        "composer": "",
+        "track_count": 5,
+        "sample_tracks": [
+          "Chinna Kanangkuruvi",
+          "Karuvella Kaatukkulae",
+          "Thanjavooru Mannu Eduthu"
+        ]
+      },
+      {
+        "album_id": 8468,
+        "title": "Porkkaalam",
+        "year": 1980,
+        "composer": "M. G. C. Sukumar, Vijayan, Sathyakala, Vanitha",
+        "track_count": 5,
+        "sample_tracks": [
+          "Chinna Kanangkuruvi",
+          "Karuvella Kaatukkulae",
+          "Thanjavooru Mannu Eduthu"
+        ]
+      }
+    ],
+    [
+      {
+        "album_id": 4452,
+        "title": "Adutha Kattam",
+        "year": 1999,
+        "composer": "",
+        "track_count": 5,
+        "sample_tracks": [
+          "-- January!=\"???",
+          "Mannavaru Chinnavaru",
+          "House Full"
+        ]
+      },
+      {
+        "album_id": 4514,
+        "title": "Mudhal Etcharikkai",
+        "year": 1999,
+        "composer": "",
+        "track_count": 5,
+        "sample_tracks": [
+          "-- January!=\"???",
+          "Mannavaru Chinnavaru",
+          "House Full"
+        ]
+      },
+      {
+        "album_id": 4385,
+        "title": "Adutha Kattam",
+        "year": 2013,
+        "composer": "Produced by Navanithen Ganeson, NGP Film Sdn Bhd",
+        "track_count": 5,
+        "sample_tracks": [
+          "-- January!=\"???",
+          "Mannavaru Chinnavaru",
+          "House Full"
+        ]
+      }
+    ],
+    [
+      {
+        "album_id": 4463,
+        "title": "Aasai Alaigal",
+        "year": 1999,
+        "composer": "",
+        "track_count": 6,
+        "sample_tracks": [
+          "Anbu Enbathu",
+          "Anbu Enbathu\" \u2013 2",
+          "ChinnanChiru Magalai"
+        ]
+      },
+      {
+        "album_id": 7444,
+        "title": "Aasai Alaigal",
+        "year": 1963,
+        "composer": "K. V. Mahadevan",
+        "track_count": 6,
+        "sample_tracks": [
+          "Anbu Enbathu",
+          "Anbu Enbathu\" \u2013 2",
+          "ChinnanChiru Magalai"
+        ]
+      }
+    ],
+    [
+      {
+        "album_id": 434,
+        "title": "Oruvan",
+        "year": 1999,
+        "composer": "",
+        "track_count": 5,
+        "sample_tracks": [
+          "Thani Oruvan (The Power of One)",
+          "Kannala Kannala (The Melting Point of Love)",
+          "Kadhal Cricket (Love (Not Out))"
+        ]
+      },
+      {
+        "album_id": 5143,
+        "title": "Thani Oruvan",
+        "year": 2015,
+        "composer": "AGS Entertainment",
+        "track_count": 5,
+        "sample_tracks": [
+          "Thani Oruvan (The Power of One)",
+          "Kannala Kannala (The Melting Point of Love)",
+          "Kadhal Cricket (Love (Not Out))"
+        ]
+      }
+    ],
+    [
+      {
+        "album_id": 4502,
+        "title": "Mudhalvan",
+        "year": 1999,
+        "composer": "",
+        "track_count": 6,
+        "sample_tracks": [
+          "Kurukku Chiruththavale",
+          "Mudhalvanae",
+          "Uppu Karuvadu"
+        ]
+      },
+      {
+        "album_id": 3674,
+        "title": "Shakalaka Baby",
+        "year": 2002,
+        "composer": "",
+        "track_count": 6,
+        "sample_tracks": [
+          "Kurukku Chiruththavale",
+          "Mudhalvanae",
+          "Uppu Karuvadu"
+        ]
+      }
+    ],
+    [
+      {
+        "album_id": 687,
+        "title": "Aalukkoru Aasai",
+        "year": 2003,
+        "composer": "",
+        "track_count": 5,
+        "sample_tracks": [
+          "Belpoori Naan",
+          "Iduppodu Sungidi",
+          "Kaathal Kaathal"
+        ]
+      },
+      {
+        "album_id": 8143,
+        "title": "Aalukkoru Aasai",
+        "year": 1977,
+        "composer": "R. Muthuraman, Jayachitra, Kavitha, Thengai Srinivasan",
+        "track_count": 5,
+        "sample_tracks": [
+          "Belpoori Naan",
+          "Iduppodu Sungidi",
+          "Kaathal Kaathal"
+        ]
+      }
+    ],
+    [
+      {
+        "album_id": 3764,
+        "title": "Indru",
+        "year": 2003,
+        "composer": "",
+        "track_count": 5,
+        "sample_tracks": [
+          "IPhone 6 Nee Yendral",
+          "Kadhale Kadhale",
+          "Naane Thaan Raja"
+        ]
+      },
+      {
+        "album_id": 5108,
+        "title": "Indru Netru Naalai",
+        "year": 2015,
+        "composer": "Thirukumaran Entertainment",
+        "track_count": 5,
+        "sample_tracks": [
+          "iPhone 6 Nee Yendral",
+          "Kadhale Kadhale",
+          "Naane Thaan Raja"
+        ]
+      }
+    ],
+    [
+      {
+        "album_id": 828,
+        "title": "Ulla Kadathal",
+        "year": 2005,
+        "composer": "",
+        "track_count": 6,
+        "sample_tracks": [
+          "Kadhal Devan",
+          "Naana Ithu Naana",
+          "Pattaam Pattaam Poochigal"
+        ]
+      },
+      {
+        "album_id": 2504,
+        "title": "Kadathal",
+        "year": 2023,
+        "composer": "South Indian Productions",
+        "track_count": 6,
+        "sample_tracks": [
+          "Kadhal Devan",
+          "Naana Ithu Naana",
+          "Pattaam Pattaam Poochigal"
+        ]
+      },
+      {
+        "album_id": 6613,
+        "title": "Kadathal",
+        "year": 2023,
+        "composer": "Bharadwaj",
+        "track_count": 6,
+        "sample_tracks": [
+          "Kadhal Devan",
+          "Naana Ithu Naana",
+          "Pattaam Pattaam Poochigal"
+        ]
+      }
+    ],
+    [
+      {
+        "album_id": 1008,
+        "title": "Naan Avanillai",
+        "year": 2007,
+        "composer": "",
+        "track_count": 6,
+        "sample_tracks": [
+          "Kakha Kakha",
+          "Macha Kannai",
+          "Nee Kavithai"
+        ]
+      },
+      {
+        "album_id": 7986,
+        "title": "Naan Avanillai",
+        "year": 1974,
+        "composer": "Gemini Ganesan, Kamal Haasan, Lakshmi, Jayabharathi, Jayasudha, Leelavathi",
+        "track_count": 6,
+        "sample_tracks": [
+          "Kakha Kakha",
+          "Macha Kannai",
+          "Nee Kavithai"
+        ]
+      }
+    ],
+    [
+      {
+        "album_id": 1170,
+        "title": "Raman Thediya Seethai",
+        "year": 2008,
+        "composer": "",
+        "track_count": 6,
+        "sample_tracks": [
+          "Mazhai Nindra",
+          "Enne Pulla",
+          "Ippavae Ippavae"
+        ]
+      },
+      {
+        "album_id": 7869,
+        "title": "Raman Thediya Seethai",
+        "year": 1972,
+        "composer": "Vidyasagar",
+        "track_count": 6,
+        "sample_tracks": [
+          "Mazhai Nindra",
+          "Enne Pulla",
+          "Ippavae Ippavae"
+        ]
+      }
+    ],
+    [
+      {
+        "album_id": 4114,
+        "title": "Puthiya Paravai",
+        "year": 2009,
+        "composer": "",
+        "track_count": 5,
+        "sample_tracks": [
+          "Engey Nimmadhi",
+          "Chittu Kuruvi",
+          "Aha Mella"
+        ]
+      },
+      {
+        "album_id": 7515,
+        "title": "Puthiya Paravai",
+        "year": 1964,
+        "composer": "Viswanathan\u2013Ramamoorthy",
+        "track_count": 5,
+        "sample_tracks": [
+          "Engey Nimmadhi",
+          "Chittu Kuruvi",
+          "Aha Mella"
+        ]
+      }
+    ],
+    [
+      {
+        "album_id": 4250,
+        "title": "Sadhurangam",
+        "year": 2011,
+        "composer": "",
+        "track_count": 6,
+        "sample_tracks": [
+          "Vizhium",
+          "Aaduvomea",
+          "Ennanna"
+        ]
+      },
+      {
+        "album_id": 8265,
+        "title": "Sadhurangam",
+        "year": 1978,
+        "composer": "Rajinikanth, Srikanth, Jayachitra, Prameela, Thengai Srinivasan",
+        "track_count": 6,
+        "sample_tracks": [
+          "Aaduvomea",
+          "Ampulimama",
+          "Engea Engea"
+        ]
+      }
+    ],
+    [
+      {
+        "album_id": 4693,
+        "title": "Kazhugu",
+        "year": 2012,
+        "composer": "Produced by Talking Times\nand Arun Film Entertainments",
+        "track_count": 4,
+        "sample_tracks": [
+          "Aambalaikum Pombalaikum",
+          "Aathadi Manasudhan",
+          "Paathagathi Kannupattu"
+        ]
+      },
+      {
+        "album_id": 8540,
+        "title": "Kazhugu",
+        "year": 1981,
+        "composer": "Rajinikanth, Rathi, Sumalatha, Cho, Thengai Srinivasan, Y. G. Mahendra, Vanitha",
+        "track_count": 4,
+        "sample_tracks": [
+          "Aambalaikum Pombalaikum",
+          "Aathadi Manasudhan",
+          "Paathagathi Kannupattu"
+        ]
+      }
+    ],
+    [
+      {
+        "album_id": 4981,
+        "title": "Kaadu",
+        "year": 2014,
+        "composer": "Chakravarthy Films International",
+        "track_count": 7,
+        "sample_tracks": [
+          "Onna Patthi Nenachale",
+          "Uchi Malai Kaadu (Version 1)",
+          "Oororam (Male Version)"
+        ]
+      },
+      {
+        "album_id": 8420,
+        "title": "Kaadu",
+        "year": 1980,
+        "composer": "Sathar, Vanitha, Bharathi Mohan",
+        "track_count": 7,
+        "sample_tracks": [
+          "Uchi Malai Kaadu (Version 1)",
+          "Uchi Malai Kaadu (Version 2)",
+          "Oororam (Male Version)"
+        ]
+      }
+    ],
+    [
+      {
+        "album_id": 5147,
+        "title": "Savaale Samaali",
+        "year": 2015,
+        "composer": "K Productions",
+        "track_count": 5,
+        "sample_tracks": [
+          "Ethanai Kavignen",
+          "Savaale Samaali",
+          "Penne Penne"
+        ]
+      },
+      {
+        "album_id": 7834,
+        "title": "Savaale Samali",
+        "year": 1971,
+        "composer": "Sivaji Ganesan, Jayalalitha, Nagesh, C. R. Vijayakumari",
+        "track_count": 5,
+        "sample_tracks": [
+          "Ethanai Kavignen",
+          "Savaale Samaali",
+          "Penne Penne"
+        ]
+      }
+    ],
+    [
+      {
+        "album_id": 5197,
+        "title": "Eetti",
+        "year": 2015,
+        "composer": "Global Infotainment Pvt. Ltd",
+        "track_count": 6,
+        "sample_tracks": [
+          "Panjumittai",
+          "Un Swaasam",
+          "Naan Pudicha Mosakuttiyae"
+        ]
+      },
+      {
+        "album_id": 8972,
+        "title": "Eetti",
+        "year": 1985,
+        "composer": "Vijayakanth, Nalini, Viji, Sathyaraj, Vishnuvardhan, Goundamani",
+        "track_count": 6,
+        "sample_tracks": [
+          "Panjumittai",
+          "Un Swaasam",
+          "Naan Pudicha Mosakuttiyae"
+        ]
+      }
+    ],
+    [
+      {
+        "album_id": 5420,
+        "title": "Yaman",
+        "year": 2017,
+        "composer": "Lyca Productions & Vijay Antony Film Corporation",
+        "track_count": 5,
+        "sample_tracks": [
+          "Yem Mela Kai Vachaa Gaali",
+          "Damelo Dumelo",
+          "Kadavul Ezhuthum"
+        ]
+      },
+      {
+        "album_id": 6976,
+        "title": "Yaaman",
+        "year": 2025,
+        "composer": "style=\"text-align:center;\" |",
+        "track_count": 5,
+        "sample_tracks": [
+          "Yem Mela Kai Vachaa Gaali",
+          "Damelo Dumelo",
+          "Kadavul Ezhuthum"
+        ]
+      },
+      {
+        "album_id": 2901,
+        "title": "Yaaman",
+        "year": 2025,
+        "composer": "K. S. M. Screenplay Films",
+        "track_count": 5,
+        "sample_tracks": [
+          "Yem Mela Kai Vachaa Gaali",
+          "Damelo Dumelo",
+          "Kadavul Ezhuthum"
+        ]
+      }
+    ],
+    [
+      {
+        "album_id": 5608,
+        "title": "Saranalayam",
+        "year": 2018,
+        "composer": "",
+        "track_count": 6,
+        "sample_tracks": [
+          "Kollimalai",
+          "Namma Sangiliyil",
+          "Nedunaalaasai"
+        ]
+      },
+      {
+        "album_id": 8797,
+        "title": "Saranalayam",
+        "year": 1983,
+        "composer": "Mohan, Nalini",
+        "track_count": 6,
+        "sample_tracks": [
+          "Ezhuthukiral",
+          "Nee Othukitta",
+          "Kollimalai"
+        ]
+      }
+    ],
+    [
+      {
+        "album_id": 5759,
+        "title": "Kanaa",
+        "year": 2018,
+        "composer": "",
+        "track_count": 5,
+        "sample_tracks": [
+          "Vaayadi Petha Pulla",
+          "Oonjala Oonjala",
+          "Kanne En Kannazhage"
+        ]
+      },
+      {
+        "album_id": 4007,
+        "title": "Kanna",
+        "year": 2007,
+        "composer": "Dhibu Ninan Thomas",
+        "track_count": 5,
+        "sample_tracks": [
+          "Vaayadi Petha Pulla",
+          "Oonjala Oonjala",
+          "Kanne En Kannazhage"
+        ]
+      }
+    ],
+    [
+      {
+        "album_id": 5772,
+        "title": "Sagaa",
+        "year": 2019,
+        "composer": "",
+        "track_count": 7,
+        "sample_tracks": [
+          "Yaayum",
+          "Vithiye",
+          "Aathadi"
+        ]
+      },
+      {
+        "album_id": 3794,
+        "title": "Saga",
+        "year": 2004,
+        "composer": "Shabir",
+        "track_count": 7,
+        "sample_tracks": [
+          "Yaayum",
+          "Aathadi",
+          "Vithiye"
+        ]
+      }
+    ],
+    [
+      {
+        "album_id": 2067,
+        "title": "Darbar",
+        "year": 2020,
+        "composer": "",
+        "track_count": 7,
+        "sample_tracks": [
+          "Chumma Kizhi",
+          "Dumm Dumm",
+          "Thalaivar Theme"
+        ]
+      },
+      {
+        "album_id": 8208,
+        "title": "Alli Darbar",
+        "year": 1978,
+        "composer": "Vijayakumar, Manjula, Kavitha",
+        "track_count": 7,
+        "sample_tracks": [
+          "Chumma Kizhi",
+          "Tharam Maara Single",
+          "Dumm Dumm"
+        ]
+      }
+    ],
+    [
+      {
+        "album_id": 6002,
+        "title": "Ponmagal Vandhal",
+        "year": 2020,
+        "composer": "",
+        "track_count": 5,
+        "sample_tracks": [
+          "Vaa Chellam",
+          "Pookalin Porvai",
+          "Vaan Thooralgal"
+        ]
+      },
+      {
+        "album_id": 1107,
+        "title": "Ponmagal Vandhal",
+        "year": 2008,
+        "composer": "Govind Vasantha",
+        "track_count": 5,
+        "sample_tracks": [
+          "Vaa Chellam",
+          "Pookalin Porvai",
+          "Vaan Thooralgal"
+        ]
+      },
+      {
+        "album_id": 7871,
+        "title": "Ponmagal Vandhal",
+        "year": 1972,
+        "composer": "Govind Vasantha",
+        "track_count": 5,
+        "sample_tracks": [
+          "Vaa Chellam",
+          "Pookalin Porvai",
+          "Vaan Thooralgal"
+        ]
+      }
+    ],
+    [
+      {
+        "album_id": 6038,
+        "title": "Kombu",
+        "year": 2020,
+        "composer": "",
+        "track_count": 4,
+        "sample_tracks": [
+          "Arugilae Nindru Kolgirai",
+          "Scooby Dooby Doo",
+          "Kanave Azhagae"
+        ]
+      },
+      {
+        "album_id": 2531,
+        "title": "Kombu Kuthiraigal",
+        "year": 2023,
+        "composer": "Anshika Movie Makers",
+        "track_count": 4,
+        "sample_tracks": [
+          "Arugilae Nindru Kolgirai",
+          "Scooby Dooby Doo",
+          "Tightu Macaan"
+        ]
+      },
+      {
+        "album_id": 6639,
+        "title": "Kombu Kuthiraigal",
+        "year": 2023,
+        "composer": "Dev Guru",
+        "track_count": 4,
+        "sample_tracks": [
+          "Arugilae Nindru Kolgirai",
+          "Scooby Dooby Doo",
+          "Tightu Macaan"
+        ]
+      }
+    ],
+    [
+      {
+        "album_id": 6756,
+        "title": "Pon Ondru Kanden",
+        "year": 2024,
+        "composer": "style=\"text-align:center;\" |",
+        "track_count": 5,
+        "sample_tracks": [
+          "Sun Light",
+          "Ennammaa",
+          "Sundari"
+        ]
+      },
+      {
+        "album_id": 7995,
+        "title": "Penn Ondru Kanden",
+        "year": 1974,
+        "composer": "R. Muthuraman, Prameela, Nagesh, M. R. R. Vasu, Vennira Aadai Moorthy, M. Bhanumathi",
+        "track_count": 5,
+        "sample_tracks": [
+          "Sundari",
+          "Un Azhagai Rasithu",
+          "Ennammaa"
+        ]
+      }
+    ],
+    [
+      {
+        "album_id": 7341,
+        "title": "Pudhiya Pathai",
+        "year": 1960,
+        "composer": "K. V. Mahadevan",
+        "track_count": 5,
+        "sample_tracks": [
+          "Yarappathiyum",
+          "Appan Yaru",
+          "Thalaiva"
+        ]
+      },
+      {
+        "album_id": 9442,
+        "title": "Pudhea Paadhai",
+        "year": 1989,
+        "composer": "R. Parthiepan, Seetha, V. K. Ramasamy, Manorama, Kuyili",
+        "track_count": 5,
+        "sample_tracks": [
+          "Yarappathiyum",
+          "Appan Yaru",
+          "Thalaiva"
+        ]
+      }
+    ],
+    [
+      {
+        "album_id": 7391,
+        "title": "Thai Sollai Thattathe",
+        "year": 1961,
+        "composer": "K. V. Mahadevan",
+        "track_count": 3,
+        "sample_tracks": [
+          "P. Susheela",
+          "T. M. Soundararajan, P. Susheela",
+          "T. M. Soundararajan"
+        ]
+      },
+      {
+        "album_id": 7447,
+        "title": "Anandha Jodhi",
+        "year": 1963,
+        "composer": "Viswanathan\u2013Ramamoorthy",
+        "track_count": 3,
+        "sample_tracks": [
+          "P. Susheela",
+          "T. M. Soundararajan",
+          "T. M. Soundararajan, P. Susheela"
+        ]
+      },
+      {
+        "album_id": 7466,
+        "title": "Kulamagal Radhai",
+        "year": 1963,
+        "composer": "K. V. Mahadevan",
+        "track_count": 3,
+        "sample_tracks": [
+          "P. Susheela",
+          "T. M. Soundararajan, P. Susheela",
+          "T. M. Soundararajan"
+        ]
+      },
+      {
+        "album_id": 7564,
+        "title": "Thazhampoo",
+        "year": 1965,
+        "composer": "K. V. Mahadevan",
+        "track_count": 3,
+        "sample_tracks": [
+          "T. M. Soundararajan, P. Susheela",
+          "T. M. Soundararajan",
+          "P. Susheela"
+        ]
+      },
+      {
+        "album_id": 7587,
+        "title": "Madras to Pondicherry",
+        "year": 1966,
+        "composer": "T. K. Ramamoorthy",
+        "track_count": 3,
+        "sample_tracks": [
+          "T. M. Soundararajan P. Susheela",
+          "T. M. Soundararajan",
+          "P. Susheela"
+        ]
+      },
+      {
+        "album_id": 7593,
+        "title": "Muharasi",
+        "year": 1966,
+        "composer": "K. V. Mahadevan",
+        "track_count": 3,
+        "sample_tracks": [
+          "P. Susheela",
+          "T. M. Soundararajan, P. Susheela",
+          "T. M. Soundararajan"
+        ]
+      },
+      {
+        "album_id": 7608,
+        "title": "Thanippiravi",
+        "year": 1966,
+        "composer": "K. V. Mahadevan",
+        "track_count": 3,
+        "sample_tracks": [
+          "P. Susheela",
+          "T. M. Soundararajan, P. Susheela",
+          "T. M. Soundararajan"
+        ]
+      }
+    ],
+    [
+      {
+        "album_id": 7539,
+        "title": "Kaattu Rani",
+        "year": 1965,
+        "composer": "P. S. Diwakar",
+        "track_count": 2,
+        "sample_tracks": [
+          "P. Susheela",
+          "T. M. Soundararajan, P. Susheela"
+        ]
+      },
+      {
+        "album_id": 7606,
+        "title": "Thaali Bhagyam",
+        "year": 1966,
+        "composer": "K. V. Mahadevan",
+        "track_count": 2,
+        "sample_tracks": [
+          "P. Susheela",
+          "T. M. Soundararajan & P. Susheela"
+        ]
+      }
+    ],
+    [
+      {
+        "album_id": 7658,
+        "title": "Thaikku Thalaimagan",
+        "year": 1967,
+        "composer": "K. V. Mahadevan",
+        "track_count": 2,
+        "sample_tracks": [
+          "L. R. Eswari",
+          "T. M. Soundararajan, P. Susheela"
+        ]
+      },
+      {
+        "album_id": 7951,
+        "title": "Thedi Vandha Lakshmi",
+        "year": 1973,
+        "composer": "M. S. Sanjay",
+        "track_count": 2,
+        "sample_tracks": [
+          "L. R. Eswari",
+          "T. M. Soundararajan, P. Susheela"
+        ]
+      }
+    ],
+    [
+      {
+        "album_id": 7294,
+        "title": "Mr. Bhaarath",
+        "year": 2026,
+        "composer": "style=\"text-align:center;\" |",
+        "track_count": 5,
+        "sample_tracks": [
+          "Yen Thaien Meethu Aanai",
+          "Kathiruken Kadhavathiranthu",
+          "Yennama Kannu Sowkiyama"
+        ]
+      },
+      {
+        "album_id": 3246,
+        "title": "Mr. Bhaarath",
+        "year": 2026,
+        "composer": "G Squad, Passion Studios, The Route",
+        "track_count": 5,
+        "sample_tracks": [
+          "Yen Thaien Meethu Aanai",
+          "Kathiruken Kadhavathiranthu",
+          "Yennama Kannu Sowkiyama"
+        ]
+      },
+      {
+        "album_id": 9131,
+        "title": "Mr. Bharath",
+        "year": 1986,
+        "composer": "Rajinikanth, Ambika, Sathyaraj, Sharada, Goundamani, S. Ve. Shekher, Viji, Visu",
+        "track_count": 5,
+        "sample_tracks": [
+          "Yen Thaien Meethu Aanai",
+          "Kathiruken Kadhavathiranthu",
+          "Yennama Kannu Sowkiyama"
+        ]
+      }
+    ],
+    [
+      {
+        "album_id": 3079,
+        "title": "Vishwanath & Sons",
+        "year": 2026,
+        "composer": "style=\"text-align: center;\" |s reported worldwide grosses vary between \u20b9200 crore (Hindustan Times, The Week) \u2013 \u20b9205.50 crore (DNA India) \u2013 \u20b9260 crore (Outlook India, Cinema Express)}}",
+        "track_count": 6,
+        "sample_tracks": [
+          "Pattampoochi",
+          "The Wedding Song (Tamil)",
+          "The One Rule (Tamil)"
+        ]
+      },
+      {
+        "album_id": 7240,
+        "title": "Vishwanath & Sons",
+        "year": 2026,
+        "composer": "style=\"text-align: center;\" |",
+        "track_count": 6,
+        "sample_tracks": [
+          "Pattampoochi",
+          "The Wedding Song (Tamil)",
+          "The One Rule (Tamil)"
+        ]
+      },
+      {
+        "album_id": 3193,
+        "title": "Vishwanath & Sons",
+        "year": 2026,
+        "composer": "Sithara Entertainments, Fortune Four Cinemas, Srikara Studios",
+        "track_count": 6,
+        "sample_tracks": [
+          "Pattampoochi",
+          "The Wedding Song (Tamil)",
+          "The One Rule (Tamil)"
+        ]
+      },
+      {
+        "album_id": 3303,
+        "title": "Vishwanath",
+        "year": 1996,
+        "composer": "Deva",
+        "track_count": 6,
+        "sample_tracks": [
+          "Pattampoochi",
+          "The Wedding Song (Tamil)",
+          "The One Rule (Tamil)"
+        ]
+      }
+    ],
+    [
+      {
+        "album_id": 7065,
+        "title": "Antha 7 Naatkal",
+        "year": 2025,
+        "composer": "style=\"text-align: center;\" |",
+        "track_count": 6,
+        "sample_tracks": [
+          "Sapthaswara",
+          "Swara Raga",
+          "Enni Irundhadhu Eedera"
+        ]
+      },
+      {
+        "album_id": 8510,
+        "title": "Andha 7 Naatkal",
+        "year": 1981,
+        "composer": "K. Bhagyaraj, Ambika, Rajesh",
+        "track_count": 6,
+        "sample_tracks": [
+          "Sapthaswara",
+          "Swara Raga",
+          "Enni Irundhadhu Eedera"
+        ]
+      }
+    ],
+    [
+      {
+        "album_id": 6902,
+        "title": "Kalan",
+        "year": 2025,
+        "composer": "style=\"text-align:center;\" |",
+        "track_count": 10,
+        "sample_tracks": [
+          "Semma Weightu",
+          "Thanga Sela",
+          "Katravai Patravai"
+        ]
+      },
+      {
+        "album_id": 2822,
+        "title": "Kalan",
+        "year": 2025,
+        "composer": "Ramalakshmi Productions",
+        "track_count": 10,
+        "sample_tracks": [
+          "Semma Weightu",
+          "Thanga Sela",
+          "Katravai Patravai"
+        ]
+      },
+      {
+        "album_id": 1919,
+        "title": "Kaala",
+        "year": 2018,
+        "composer": "Santhosh Narayanan",
+        "track_count": 10,
+        "sample_tracks": [
+          "Semma Weightu",
+          "Thanga Sela",
+          "Katravai Patravai"
+        ]
+      }
+    ],
+    [
+      {
+        "album_id": 7097,
+        "title": "Pagal Kanavu",
+        "year": 2025,
+        "composer": "style=\"text-align: center;\" |",
+        "track_count": 6,
+        "sample_tracks": [
+          "Poovile Medai",
+          "Vaidhegi Raman",
+          "Maina Maina"
+        ]
+      },
+      {
+        "album_id": 3031,
+        "title": "Pagal Kanavu",
+        "year": 2025,
+        "composer": "Jasmine Films International",
+        "track_count": 6,
+        "sample_tracks": [
+          "Poovile Medai",
+          "Vaidhegi Raman",
+          "Maina Maina"
+        ]
+      },
+      {
+        "album_id": 9026,
+        "title": "Pagal Nilavu",
+        "year": 1985,
+        "composer": "Murali, Revathi, Radhika, Sarath Babu, Sathyaraj",
+        "track_count": 6,
+        "sample_tracks": [
+          "Poovile Medai",
+          "Vaidhegi Raman",
+          "Maina Maina"
+        ]
+      }
+    ],
+    [
+      {
+        "album_id": 7039,
+        "title": "Uzhavar Magan",
+        "year": 2025,
+        "composer": "style=\"text-align:center;\" |",
+        "track_count": 6,
+        "sample_tracks": [
+          "Semmari Aade",
+          "Pon Nel",
+          "Varahu Chamba"
+        ]
+      },
+      {
+        "album_id": 2970,
+        "title": "Uzhavar Magan",
+        "year": 2025,
+        "composer": "Subalakshmi Films",
+        "track_count": 6,
+        "sample_tracks": [
+          "Semmari Aade",
+          "Pon Nel",
+          "Varahu Chamba"
+        ]
+      },
+      {
+        "album_id": 9257,
+        "title": "Uzhavan Magan",
+        "year": 1987,
+        "composer": "Manoj Gyan",
+        "track_count": 6,
+        "sample_tracks": [
+          "Semmari Aade",
+          "Pon Nel",
+          "Varahu Chamba"
+        ]
+      }
+    ],
+    [
+      {
+        "album_id": 6884,
+        "title": "Antha Naal",
+        "year": 2024,
+        "composer": "style=\"text-align:center;\" |",
+        "track_count": 6,
+        "sample_tracks": [
+          "Andha Naal",
+          "Adiye Thanni",
+          "Vacha Vacha"
+        ]
+      },
+      {
+        "album_id": 3316,
+        "title": "Andha Naal",
+        "year": 1996,
+        "composer": "Soundaryan",
+        "track_count": 6,
+        "sample_tracks": [
+          "Andha Naal",
+          "Adiye Thanni",
+          "Vacha Vacha"
+        ]
+      }
+    ],
+    [
+      {
+        "album_id": 6822,
+        "title": "Kadamai",
+        "year": 2024,
+        "composer": "style=\"text-align:center;\" |",
+        "track_count": 6,
+        "sample_tracks": [
+          "Yaarathu Yaarathu",
+          "Nilladi Nilladi",
+          "Hello Miss Hello Miss"
+        ]
+      },
+      {
+        "album_id": 2729,
+        "title": "Kadamai",
+        "year": 2024,
+        "composer": "KSNS Film International",
+        "track_count": 6,
+        "sample_tracks": [
+          "Yaarathu Yaarathu",
+          "Nilladi Nilladi",
+          "Hello Miss Hello Miss"
+        ]
+      },
+      {
+        "album_id": 8855,
+        "title": "Kadamai",
+        "year": 1984,
+        "composer": "Jaishankar, Sripriya, Anand Babu, Arjun, Ilavarasi, Anuradha",
+        "track_count": 6,
+        "sample_tracks": [
+          "Yaarathu Yaarathu",
+          "Nilladi Nilladi",
+          "Hello Miss Hello Miss"
+        ]
+      }
+    ],
+    [
+      {
+        "album_id": 6718,
+        "title": "Ninaivellam Neeyada",
+        "year": 2024,
+        "composer": "style=\"text-align:center;\" |",
+        "track_count": 18,
+        "sample_tracks": [
+          "Panivizhum Malar Vanam",
+          "Tholin Maele",
+          "Rojavai Thaalattum"
+        ]
+      },
+      {
+        "album_id": 2622,
+        "title": "Ninaivellam Neeyada",
+        "year": 2024,
+        "composer": "Lekha Theatres",
+        "track_count": 18,
+        "sample_tracks": [
+          "Panivizhum Malar Vanam",
+          "Tholin Maele",
+          "Rojavai Thaalattum"
+        ]
+      },
+      {
+        "album_id": 8674,
+        "title": "Ninaivellam Nithya",
+        "year": 1982,
+        "composer": "Ilaiyaraaja",
+        "track_count": 18,
+        "sample_tracks": [
+          "Panivizhum Malar Vanam",
+          "Tholin Maele",
+          "Rojavai Thaalattum"
+        ]
+      }
+    ],
+    [
+      {
+        "album_id": 6820,
+        "title": "Thangalaan",
+        "year": 2024,
+        "composer": "style=\"text-align:center;\" |",
+        "track_count": 5,
+        "sample_tracks": [
+          "Minikki Minikki",
+          "Thangalaan (War Song)",
+          "Aruvadai"
+        ]
+      },
+      {
+        "album_id": 2727,
+        "title": "Thangalaan",
+        "year": 2024,
+        "composer": "Studio Green, Neelam Productions",
+        "track_count": 5,
+        "sample_tracks": [
+          "Minikki Minikki",
+          "Thangalaan (War Song)",
+          "Aruvadai"
+        ]
+      },
+      {
+        "album_id": 7707,
+        "title": "Thanga Valayal",
+        "year": 1968,
+        "composer": "K. V. Mahadevan",
+        "track_count": 5,
+        "sample_tracks": [
+          "Minikki Minikki",
+          "Thangalaan (War Song)",
+          "Aruvadai"
+        ]
+      }
+    ],
+    [
+      {
+        "album_id": 6889,
+        "title": "Vidinja Enakku Kalyanam",
+        "year": 2024,
+        "composer": "style=\"text-align:center;\" |",
+        "track_count": 4,
+        "sample_tracks": [
+          "Thannanthani",
+          "Singam Pola",
+          "Manakka Unnai"
+        ]
+      },
+      {
+        "album_id": 2797,
+        "title": "Vidinja Enakku Kalyanam",
+        "year": 2024,
+        "composer": "S Films",
+        "track_count": 4,
+        "sample_tracks": [
+          "Thannanthani",
+          "Singam Pola",
+          "Manakka Unnai"
+        ]
+      },
+      {
+        "album_id": 9176,
+        "title": "Vidinja Kalyanam",
+        "year": 1986,
+        "composer": "Sathyaraj, Raveendran, Vijayakumar, Sujatha, Jayashree, Senthil",
+        "track_count": 4,
+        "sample_tracks": [
+          "Thannanthani",
+          "Singam Pola",
+          "Manakka Unnai"
+        ]
+      }
+    ],
+    [
+      {
+        "album_id": 6564,
+        "title": "Aval Appadithan 2",
+        "year": 2023,
+        "composer": "style=\"text-align:center;\" |",
+        "track_count": 4,
+        "sample_tracks": [
+          "Uravugal Thodarkathai",
+          "Vazhkai Odam Sella",
+          "Paneer Pushpangale"
+        ]
+      },
+      {
+        "album_id": 2454,
+        "title": "Aval Appadithan 2",
+        "year": 2023,
+        "composer": "Yun Flicks",
+        "track_count": 4,
+        "sample_tracks": [
+          "Uravugal Thodarkathai",
+          "Vazhkai Odam Sella",
+          "Paneer Pushpangale"
+        ]
+      },
+      {
+        "album_id": 8213,
+        "title": "Aval Appadithan",
+        "year": 1978,
+        "composer": "Kamal Haasan, Sripriya, Rajinikanth",
+        "track_count": 4,
+        "sample_tracks": [
+          "Uravugal Thodarkathai",
+          "Vazhkai Odam Sella",
+          "Paneer Pushpangale"
+        ]
+      }
+    ],
+    [
+      {
+        "album_id": 6544,
+        "title": "Azhagiya Kanne",
+        "year": 2023,
+        "composer": "style=\"text-align:center;\" |",
+        "track_count": 5,
+        "sample_tracks": [
+          "Naan Irukkum",
+          "Hey Mama Kovama",
+          "Pala Jenma"
+        ]
+      },
+      {
+        "album_id": 2433,
+        "title": "Azhagiya Kanne",
+        "year": 2023,
+        "composer": "Esthell Entertainers",
+        "track_count": 5,
+        "sample_tracks": [
+          "Naan Irukkum",
+          "Hey Mama Kovama",
+          "Pala Jenma"
+        ]
+      },
+      {
+        "album_id": 8730,
+        "title": "Azhagiya Kanne",
+        "year": 1982,
+        "composer": "Ilaiyaraaja",
+        "track_count": 5,
+        "sample_tracks": [
+          "Naan Irukkum",
+          "Hey Mama Kovama",
+          "Pala Jenma"
+        ]
+      }
+    ],
+    [
+      {
+        "album_id": 2396,
+        "title": "Maaveeran Pillai",
+        "year": 2023,
+        "composer": "KNR Movies",
+        "track_count": 6,
+        "sample_tracks": [
+          "Scene Ah Scene Ah",
+          "Maaveeran Theme",
+          "Vannarapettayila"
+        ]
+      },
+      {
+        "album_id": 6509,
+        "title": "Maaveeran Pillai",
+        "year": 2023,
+        "composer": "Bharath Sankar",
+        "track_count": 6,
+        "sample_tracks": [
+          "Scene Ah Scene Ah",
+          "Maaveeran Theme",
+          "Vannarapettayila"
+        ]
+      },
+      {
+        "album_id": 9117,
+        "title": "Maaveeran",
+        "year": 1986,
+        "composer": "Rajinikanth, Ambika, Jaishankar, Sujatha, Dara Singh, Nagesh, Vijayakumar, Sunitha",
+        "track_count": 6,
+        "sample_tracks": [
+          "Scene Ah Scene Ah",
+          "Maaveeran Theme",
+          "Vannarapettayila"
+        ]
+      }
+    ],
+    [
+      {
+        "album_id": 2349,
+        "title": "Moondram Pournami",
+        "year": 2023,
+        "composer": "Maha Movie Makers",
+        "track_count": 5,
+        "sample_tracks": [
+          "Vaanengum Thanga Vinmeengal",
+          "Kanne Kalaimaane",
+          "Ponmeni Uruguthey"
+        ]
+      },
+      {
+        "album_id": 6464,
+        "title": "Moondram Pournami",
+        "year": 2023,
+        "composer": "Ilaiyaraaja",
+        "track_count": 5,
+        "sample_tracks": [
+          "Vaanengum Thanga Vinmeengal",
+          "Kanne Kalaimaane",
+          "Ponmeni Uruguthey"
+        ]
+      },
+      {
+        "album_id": 8639,
+        "title": "Moondram Pirai",
+        "year": 1982,
+        "composer": "Ilaiyaraaja",
+        "track_count": 5,
+        "sample_tracks": [
+          "Vaanengum Thanga Vinmeengal",
+          "Kanne Kalaimaane",
+          "Ponmeni Uruguthey"
+        ]
+      }
+    ],
+    [
+      {
+        "album_id": 6545,
+        "title": "Naayaadi",
+        "year": 2023,
+        "composer": "style=\"text-align:center;\" |",
+        "track_count": 6,
+        "sample_tracks": [
+          "Teddy Bear",
+          "Munnadi Pora Pulla",
+          "Ae Le Le Etti Paarthale"
+        ]
+      },
+      {
+        "album_id": 8336,
+        "title": "Mayandi",
+        "year": 1979,
+        "composer": "Jaishankar, Jayachitra, A. Sakunthala",
+        "track_count": 6,
+        "sample_tracks": [
+          "Teddy Bear",
+          "Munnadi Pora Pulla",
+          "Ae Le Le Etti Paarthale"
+        ]
+      },
+      {
+        "album_id": 2434,
+        "title": "Naayaadi",
+        "year": 2023,
+        "composer": "Maya Creations",
+        "track_count": 6,
+        "sample_tracks": [
+          "Teddy Bear",
+          "Munnadi Pora Pulla",
+          "Ae Le Le Etti Paarthale"
+        ]
+      }
+    ],
+    [
+      {
+        "album_id": 2318,
+        "title": "Ponniyin Selvan: II",
+        "year": 2023,
+        "composer": "style=\"text-align:center;\" |s reported worldwide grosses vary between \u20b9342 crore (Cinema Express) \u2013 \u20b9345 crore (News18) \u2013 \u20b9346 crore (DNA India)}}",
+        "track_count": 34,
+        "sample_tracks": [
+          "Armageddon",
+          "Arunmozhi\u2019s Dilemma",
+          "Chozha\u2019s Bravery"
+        ]
+      },
+      {
+        "album_id": 6513,
+        "title": "Ponniyin Selvan: II",
+        "year": 2023,
+        "composer": "style=\"text-align:center;\" |",
+        "track_count": 34,
+        "sample_tracks": [
+          "Armageddon",
+          "Arunmozhi\u2019s Dilemma",
+          "Chozha\u2019s Bravery"
+        ]
+      },
+      {
+        "album_id": 2231,
+        "title": "Ponniyin Selvan: I",
+        "year": 2022,
+        "composer": "s reported worldwide gross is \u20b9500 crore according to Hindustan Times, Outlook India, News18, and The Economic Times.}}",
+        "track_count": 34,
+        "sample_tracks": [
+          "Armageddon",
+          "Arunmozhi\u2019s Dilemma",
+          "Chozha\u2019s Bravery"
+        ]
+      },
+      {
+        "album_id": 6366,
+        "title": "Ponniyin Selvan: I",
+        "year": 2022,
+        "composer": "A. R. Rahman, Ilango Krishnan",
+        "track_count": 34,
+        "sample_tracks": [
+          "Armageddon",
+          "Arunmozhi\u2019s Dilemma",
+          "Chozha\u2019s Bravery"
+        ]
+      }
+    ],
+    [
+      {
+        "album_id": 6606,
+        "title": "Thudikkum Karangal",
+        "year": 2023,
+        "composer": "style=\"text-align:center;\" |",
+        "track_count": 7,
+        "sample_tracks": [
+          "Megam Mundhanai Aaduthu",
+          "Vaalibam Vadatha Poomalai",
+          "Sandanam Poosa Manjal Nila"
+        ]
+      },
+      {
+        "album_id": 2496,
+        "title": "Thudikkum Karangal",
+        "year": 2023,
+        "composer": "Odiyan Talkies",
+        "track_count": 7,
+        "sample_tracks": [
+          "Megam Mundhanai Aaduthu",
+          "Vaalibam Vadatha Poomalai",
+          "Sandanam Poosa Manjal Nila"
+        ]
+      },
+      {
+        "album_id": 8818,
+        "title": "Thudikkum Karangal",
+        "year": 1983,
+        "composer": "Rajinikanth, Radha, Jaishankar, Sujatha, Vijayakumar, Y. G. Mahendra, Silk Smitha, Vanitha",
+        "track_count": 7,
+        "sample_tracks": [
+          "Megam Mundhanai Aaduthu",
+          "Vaalibam Vadatha Poomalai",
+          "Sandanam Poosa Manjal Nila"
+        ]
+      }
+    ],
+    [
+      {
+        "album_id": 6270,
+        "title": "Divya Meedhu Kadhal",
+        "year": 2022,
+        "composer": "M.S.V. Jerald",
+        "track_count": 4,
+        "sample_tracks": [
+          "Pada Pada (Nila Medhu Kadhal / Soundtrack Version)",
+          "Oru Sollale (Nila Medhu Kadhal / Soundtrack Version)",
+          "Velanja Mundri Kaadu (Nila Medhu Kadhal / Soundtrack Version)"
+        ]
+      },
+      {
+        "album_id": 4391,
+        "title": "Nila Meedhu Kadhal",
+        "year": 2013,
+        "composer": "Produced by Rajaram Movies",
+        "track_count": 4,
+        "sample_tracks": [
+          "Pada Pada (Nila Medhu Kadhal / Soundtrack Version)",
+          "Oru Sollale (Nila Medhu Kadhal / Soundtrack Version)",
+          "Velanja Mundri Kaadu (Nila Medhu Kadhal / Soundtrack Version)"
+        ]
+      }
+    ],
+    [
+      {
+        "album_id": 2239,
+        "title": "Etharkkum Thunindhavan",
+        "year": 2022,
+        "composer": "D Imman",
+        "track_count": 10,
+        "sample_tracks": [
+          "Vaada Thambi",
+          "Ullam Urugudhaiya",
+          "Summa Surrunu"
+        ]
+      },
+      {
+        "album_id": 8091,
+        "title": "Etharkkum Thuninthavan",
+        "year": 1976,
+        "composer": "Sivakumar, K. S. Jayalakshmi, Thengai Srinivasan, Asogan, Manorama, Sundarrajan",
+        "track_count": 10,
+        "sample_tracks": [
+          "Vaada Thambi",
+          "Ullam Urugudhaiya",
+          "Summa Surrunu"
+        ]
+      }
+    ],
+    [
+      {
+        "album_id": 6323,
+        "title": "Jothi",
+        "year": 2022,
+        "composer": "Ilaiyaraaja",
+        "track_count": 4,
+        "sample_tracks": [
+          "Siricha Kolli",
+          "Pombala",
+          "Aasai Madhana"
+        ]
+      },
+      {
+        "album_id": 8757,
+        "title": "Jothi",
+        "year": 1983,
+        "composer": "Mohan, Ambika, Silk Smitha",
+        "track_count": 4,
+        "sample_tracks": [
+          "Siricha Kolli",
+          "Pombala",
+          "Aasai Madhana"
+        ]
+      }
+    ],
+    [
+      {
+        "album_id": 2232,
+        "title": "Vikram",
+        "year": 2022,
+        "composer": "Anirudh Ravichander",
+        "track_count": 5,
+        "sample_tracks": [
+          "Pathala Pathala",
+          "Vikram (Title Track)",
+          "Wasted"
+        ]
+      },
+      {
+        "album_id": 9178,
+        "title": "Vikram",
+        "year": 1986,
+        "composer": "Kamal Haasan, Dimple Kapadia, Lizzy, Ambika, Sathyaraj, Amjad Khan, Janagaraj",
+        "track_count": 5,
+        "sample_tracks": [
+          "Pathala Pathala",
+          "Vikram (Title Track)",
+          "Wasted"
+        ]
+      }
+    ],
+    [
+      {
+        "album_id": 6146,
+        "title": "Chinnanjiru Kiliye",
+        "year": 2021,
+        "composer": "Malaysia Vasudevan, S Janaki",
+        "track_count": 4,
+        "sample_tracks": [
+          "Vaigai Neerada",
+          "Pavadai Thavaniyai",
+          "Satti Mutti"
+        ]
+      },
+      {
+        "album_id": 8404,
+        "title": "Chinnajiru Kiliye",
+        "year": 1980,
+        "composer": "Sudhakar, Radhika, Suruli Rajan",
+        "track_count": 4,
+        "sample_tracks": [
+          "Vaigai Neerada",
+          "Pavadai Thavaniyai",
+          "Satti Mutti"
+        ]
+      }
+    ],
+    [
+      {
+        "album_id": 6156,
+        "title": "Endraavathu Oru Naal",
+        "year": 2021,
+        "composer": "N.R. Raghunanthan, NR Raghunanthan",
+        "track_count": 4,
+        "sample_tracks": [
+          "Maattu Mani Saththam",
+          "Kanne En Kanne",
+          "Nenjukkul Sumantha"
+        ]
+      },
+      {
+        "album_id": 9095,
+        "title": "Endravathu Oru Naal",
+        "year": 1986,
+        "composer": "Naresh Kumar, Madhuri",
+        "track_count": 4,
+        "sample_tracks": [
+          "Maattu Mani Saththam",
+          "Kanne En Kanne",
+          "Nenjukkul Sumantha"
+        ]
+      }
+    ],
+    [
+      {
+        "album_id": 6110,
+        "title": "Thodakkam",
+        "year": 2021,
+        "composer": "Jerome Pushparaj",
+        "track_count": 5,
+        "sample_tracks": [
+          "Aathamin Apple",
+          "Pazhamuthir Cholaiyile",
+          "Phona Pottu"
+        ]
+      },
+      {
+        "album_id": 1095,
+        "title": "Thodakkam",
+        "year": 2008,
+        "composer": "Jerome Pushparaj",
+        "track_count": 5,
+        "sample_tracks": [
+          "Aathamin Apple",
+          "Pazhamuthir Cholaiyile",
+          "Phona Pottu"
+        ]
+      }
+    ],
+    [
+      {
+        "album_id": 6034,
+        "title": "Kanni Raasi",
+        "year": 2020,
+        "composer": "Ilaiyaraaja",
+        "track_count": 4,
+        "sample_tracks": [
+          "Aala Asathum",
+          "Sorunna Satti",
+          "Sugaraagame"
+        ]
+      },
+      {
+        "album_id": 8991,
+        "title": "Kanni Rasi",
+        "year": 1985,
+        "composer": "Prabhu, Revathi, Goundamani, Sumithra, Janagaraj, Senthil",
+        "track_count": 4,
+        "sample_tracks": [
+          "Aala Asathum",
+          "Sorunna Satti",
+          "Sugaraagame"
+        ]
+      },
+      {
+        "album_id": 2680,
+        "title": "Kanni",
+        "year": 2024,
+        "composer": "Sun Life Creations",
+        "track_count": 4,
+        "sample_tracks": [
+          "Aala Asathum",
+          "Sorunna Satti",
+          "Sugaraagame"
+        ]
+      },
+      {
+        "album_id": 6776,
+        "title": "Kanni",
+        "year": 2024,
+        "composer": "style=\"text-align:center;\" |",
+        "track_count": 4,
+        "sample_tracks": [
+          "Aala Asathum",
+          "Sorunna Satti",
+          "Sugaraagame"
+        ]
+      }
+    ],
+    [
+      {
+        "album_id": 5803,
+        "title": "Aghavan",
+        "year": 2019,
+        "composer": "Harris Jayaraj",
+        "track_count": 5,
+        "sample_tracks": [
+          "Katti Choosthe",
+          "Banam Vesade",
+          "Pacha Velugu"
+        ]
+      },
+      {
+        "album_id": 1249,
+        "title": "Ragavan",
+        "year": 2009,
+        "composer": "Harris Jayaraj",
+        "track_count": 5,
+        "sample_tracks": [
+          "Katti Choosthe",
+          "Banam Vesade",
+          "Pacha Velugu"
+        ]
+      }
+    ],
+    [
+      {
+        "album_id": 5810,
+        "title": "Maanasi",
+        "year": 2019,
+        "composer": "Dhina",
+        "track_count": 5,
+        "sample_tracks": [
+          "Kandenae",
+          "Naan Paartha",
+          "Ondi Kondi"
+        ]
+      },
+      {
+        "album_id": 4694,
+        "title": "Maasi",
+        "year": 2012,
+        "composer": "Produced by Anbu Lakshmi Films",
+        "track_count": 5,
+        "sample_tracks": [
+          "Kandenae",
+          "Naan Paartha",
+          "Ondi Kondi"
+        ]
+      }
+    ],
+    [
+      {
+        "album_id": 5704,
+        "title": "Annanukku Jai",
+        "year": 2018,
+        "composer": "Ilaiyaraaja",
+        "track_count": 7,
+        "sample_tracks": [
+          "Un Mela",
+          "Anne Ippo",
+          "Enakkoru Magan"
+        ]
+      },
+      {
+        "album_id": 9386,
+        "title": "Annanukku Jai",
+        "year": 1989,
+        "composer": "Arjun, Seetha, Kiruthika, Vennira Aadai Moorthy, Chinni Jayanth, Charle",
+        "track_count": 7,
+        "sample_tracks": [
+          "Un Mela",
+          "Anne Ippo",
+          "Enakkoru Magan"
+        ]
+      }
+    ],
+    [
+      {
+        "album_id": 5226,
+        "title": "Visaranai",
+        "year": 2016,
+        "composer": "Wunderbar Films & Grass Root Film Company",
+        "track_count": 5,
+        "sample_tracks": [
+          "Ozhungana",
+          "Beach Kaathu",
+          "Pooveri"
+        ]
+      },
+      {
+        "album_id": 4332,
+        "title": "Maruvisaranai",
+        "year": 2013,
+        "composer": "Produced by Senthil Andavar Cinemas",
+        "track_count": 5,
+        "sample_tracks": [
+          "Ozhungana",
+          "Beach Kaathu",
+          "Pooveri"
+        ]
+      }
+    ],
+    [
+      {
+        "album_id": 4932,
+        "title": "Amara Kaaviyam",
+        "year": 2014,
+        "composer": "The Show People",
+        "track_count": 10,
+        "sample_tracks": [
+          "Saridhaana Saridhaana",
+          "Edhedho Ennamvandhu",
+          "Mounam Paesum"
+        ]
+      },
+      {
+        "album_id": 8505,
+        "title": "Amara Kaaviyam",
+        "year": 1981,
+        "composer": "Sivaji Ganesan, Sripriya, Madhavi, Jai Ganesh, Nagesh",
+        "track_count": 10,
+        "sample_tracks": [
+          "Saridhaana Saridhaana",
+          "Edhedho Ennamvandhu",
+          "Mounam Paesum"
+        ]
+      }
+    ],
+    [
+      {
+        "album_id": 4986,
+        "title": "Kaaviya Thalaivan",
+        "year": 2014,
+        "composer": "YNOT Studios,Radiance Media Group",
+        "track_count": 7,
+        "sample_tracks": [
+          "Vaanga Makka Vaanga",
+          "Aye Mr. Minor!",
+          "Sandi Kuthirai"
+        ]
+      },
+      {
+        "album_id": 7775,
+        "title": "Kaviya Thalaivi",
+        "year": 1970,
+        "composer": "Gemini Ganesan, Sowcar Janaki, Ravichandran, M. R. R. Vasu, V. S. Ragavan",
+        "track_count": 7,
+        "sample_tracks": [
+          "Vaanga Makka Vaanga",
+          "Aye Mr. Minor!",
+          "Sandi Kuthirai"
+        ]
+      }
+    ],
+    [
+      {
+        "album_id": 4820,
+        "title": "Malini 22 Palayamkottai",
+        "year": 2014,
+        "composer": "Rajkumar Theaters",
+        "track_count": 6,
+        "sample_tracks": [
+          "Vinmeengal",
+          "Kanneer Thuliye",
+          "Hi My Name is"
+        ]
+      },
+      {
+        "album_id": 4748,
+        "title": "Palayamkottai",
+        "year": 2012,
+        "composer": "Produced by Visalatchi Amma Creations",
+        "track_count": 6,
+        "sample_tracks": [
+          "Vinmeengal",
+          "Kanneer Thuliye",
+          "Hi My Name is"
+        ]
+      }
+    ],
+    [
+      {
+        "album_id": 4946,
+        "title": "Rettai Vaalu",
+        "year": 2014,
+        "composer": "Pranav Productions",
+        "track_count": 4,
+        "sample_tracks": [
+          "Suthanthiratha Vaangi Puttom",
+          "Raja Raja Chozhan",
+          "Kannan Vanthu"
+        ]
+      },
+      {
+        "album_id": 9199,
+        "title": "Rettai Vaal Kuruvi",
+        "year": 1987,
+        "composer": "Ilaiyaraaja",
+        "track_count": 4,
+        "sample_tracks": [
+          "Suthanthiratha Vaangi Puttom",
+          "Raja Raja Chozhan",
+          "Kannan Vanthu"
+        ]
+      }
+    ],
+    [
+      {
+        "album_id": 4903,
+        "title": "Saivam",
+        "year": 2014,
+        "composer": "Think Big Studios",
+        "track_count": 5,
+        "sample_tracks": [
+          "Azhagu",
+          "Kokkara Kozhi",
+          "Moments of Life"
+        ]
+      },
+      {
+        "album_id": 1657,
+        "title": "Saivam",
+        "year": 2014,
+        "composer": "G.V. Prakash Kumar",
+        "track_count": 5,
+        "sample_tracks": [
+          "Azhagu",
+          "Kokkara Kozhi",
+          "Moments of Life"
+        ]
+      },
+      {
+        "album_id": 4786,
+        "title": "Asaivam",
+        "year": 2012,
+        "composer": "G.V. Prakash Kumar",
+        "track_count": 5,
+        "sample_tracks": [
+          "Azhagu",
+          "Kokkara Kozhi",
+          "Moments of Life"
+        ]
+      }
+    ],
+    [
+      {
+        "album_id": 4869,
+        "title": "Thalaivan",
+        "year": 2014,
+        "composer": "Blue Ocean Pictures",
+        "track_count": 6,
+        "sample_tracks": [
+          "Tamil Pasanga",
+          "Yaar Indha Saalai Oram",
+          "Vaanganna Vanakkanganna"
+        ]
+      },
+      {
+        "album_id": 7794,
+        "title": "Thalaivan",
+        "year": 1970,
+        "composer": "M. G. Ramachandran, Vanisri, Nagesh, Nambiar, Asogan, Jothy Lakshmi, O.A.K. Devar",
+        "track_count": 6,
+        "sample_tracks": [
+          "Tamil Pasanga",
+          "Yaar Indha Saalai Oram",
+          "Vaanganna Vanakkanganna"
+        ]
+      }
+    ],
+    [
+      {
+        "album_id": 4325,
+        "title": "Chennaiyil Oru Naal",
+        "year": 2013,
+        "composer": "Produced by I Pictures & Magic Frames",
+        "track_count": 7,
+        "sample_tracks": [
+          "Kanavey",
+          "Un Tholil Saaya",
+          "Iravin"
+        ]
+      },
+      {
+        "album_id": 5549,
+        "title": "Chennaiyil Oru Naal 2",
+        "year": 2017,
+        "composer": "Kalpatru Pictures",
+        "track_count": 7,
+        "sample_tracks": [
+          "Kanavey",
+          "Un Tholil Saaya",
+          "Iravin"
+        ]
+      }
+    ],
+    [
+      {
+        "album_id": 4335,
+        "title": "Maman Machan",
+        "year": 2013,
+        "composer": "Shankar-Ganesh",
+        "track_count": 4,
+        "sample_tracks": [
+          "Royapettah",
+          "Potta Sevakkum",
+          "Athaanadi"
+        ]
+      },
+      {
+        "album_id": 8866,
+        "title": "Maaman Machaan",
+        "year": 1984,
+        "composer": "Vijayakanth, Urvashi",
+        "track_count": 4,
+        "sample_tracks": [
+          "Royapettah",
+          "Potta Sevakkum",
+          "Athaanadi"
+        ]
+      }
+    ],
+    [
+      {
+        "album_id": 4358,
+        "title": "Thillu Mullu",
+        "year": 2013,
+        "composer": "Produced by Vendhar Movies",
+        "track_count": 3,
+        "sample_tracks": [
+          "Ragangal Padhnaaru",
+          "Thangangale Thambigale",
+          "Thillumullu Thillumullu"
+        ]
+      },
+      {
+        "album_id": 8605,
+        "title": "Thillu Mullu",
+        "year": 1981,
+        "composer": "Rajinikanth, Madhavi, Thengai Srinivasan, Sowcar Janaki",
+        "track_count": 3,
+        "sample_tracks": [
+          "Ragangal Padhnaaru",
+          "Thangangale Thambigale",
+          "Thillumullu Thillumullu"
+        ]
+      }
+    ],
+    [
+      {
+        "album_id": 4711,
+        "title": "Aduthathu",
+        "year": 2012,
+        "composer": "Produced by Suthradhaar Film production",
+        "track_count": 5,
+        "sample_tracks": [
+          "Va Va Mysooru",
+          "Idhayame",
+          "Sondhangale"
+        ]
+      },
+      {
+        "album_id": 8954,
+        "title": "Aduthathu Albert",
+        "year": 1985,
+        "composer": "Prabhu, Urvashi, Poornima Bhagyaraj, Y. G. Mahendra",
+        "track_count": 5,
+        "sample_tracks": [
+          "Va Va Mysooru",
+          "Idhayame",
+          "Sondhangale"
+        ]
+      }
+    ],
+    [
+      {
+        "album_id": 4737,
+        "title": "Billa II",
+        "year": 2012,
+        "composer": "Produced by Wide Angle Creations & IN Entertainment",
+        "track_count": 6,
+        "sample_tracks": [
+          "My Name is Billa",
+          "Naan Meendum",
+          "Sei Yedhavathu Sei"
+        ]
+      },
+      {
+        "album_id": 4006,
+        "title": "Billa",
+        "year": 2007,
+        "composer": "Yuvan Shankar Raja",
+        "track_count": 6,
+        "sample_tracks": [
+          "My Name is Billa",
+          "Naan Meendum",
+          "Sei Yedhavathu Sei"
+        ]
+      }
+    ],
+    [
+      {
+        "album_id": 4669,
+        "title": "Vettai",
+        "year": 2012,
+        "composer": "Produced by Thirupathi Brothers & UTV Motion Pictures",
+        "track_count": 6,
+        "sample_tracks": [
+          "Agalaadhey Agalaadhey",
+          "Edhathan Kandutte",
+          "Arjuna Arjuna"
+        ]
+      },
+      {
+        "album_id": 3789,
+        "title": "Settai",
+        "year": 2004,
+        "composer": "SS Thaman",
+        "track_count": 6,
+        "sample_tracks": [
+          "Agalaadhey Agalaadhey",
+          "Edhathan Kandutte",
+          "Arjuna Arjuna"
+        ]
+      }
+    ],
+    [
+      {
+        "album_id": 4185,
+        "title": "Appavi",
+        "year": 2011,
+        "composer": "Produced by Chartered Arts",
+        "track_count": 5,
+        "sample_tracks": [
+          "Yaaro",
+          "Rayilin",
+          "Eachalakka"
+        ]
+      },
+      {
+        "album_id": 5019,
+        "title": "Appavi Kateri",
+        "year": 2015,
+        "composer": "Gopikaa Movie Makers",
+        "track_count": 5,
+        "sample_tracks": [
+          "Yaaro",
+          "Rayilin",
+          "Eachalakka"
+        ]
+      }
+    ],
+    [
+      {
+        "album_id": 4218,
+        "title": "Deiva Thirumagal",
+        "year": 2011,
+        "composer": "Produced by Rajakaliamman Medias",
+        "track_count": 7,
+        "sample_tracks": [
+          "Oray Oru Oorukulle",
+          "Vizhigalil Oru Vaanavil",
+          "Pa Pa Pappa"
+        ]
+      },
+      {
+        "album_id": 8520,
+        "title": "Deiva Thirumanangal",
+        "year": 1981,
+        "composer": "Seerkazhi Govindarajan, S. Varalakshmi, Chandra Mohan, Latha, Srividya, Moorthy",
+        "track_count": 7,
+        "sample_tracks": [
+          "Oray Oru Oorukulle",
+          "Vizhigalil Oru Vaanavil",
+          "Pa Pa Pappa"
+        ]
+      }
+    ],
+    [
+      {
+        "album_id": 4240,
+        "title": "Kasethan Kadavulada",
+        "year": 2011,
+        "composer": "Jamal Movie Creations",
+        "track_count": 6,
+        "sample_tracks": [
+          "Jambulingame Jadaadaraa",
+          "Mella Pesungal",
+          "Indru Vantha Intha Mayakkam"
+        ]
+      },
+      {
+        "album_id": 7877,
+        "title": "Kasethan Kadavulada",
+        "year": 1972,
+        "composer": "K Veeramani, Dharapuram Sundararajan, Kovai Sounderarajan",
+        "track_count": 6,
+        "sample_tracks": [
+          "Jambulingame Jadaadaraa",
+          "Mella Pesungal",
+          "Indru Vantha Intha Mayakkam"
+        ]
+      }
+    ],
+    [
+      {
+        "album_id": 4264,
+        "title": "Mayakkam Enna",
+        "year": 2011,
+        "composer": "Produced by Aum Productions",
+        "track_count": 6,
+        "sample_tracks": [
+          "Naan Sonnadhum Mazhaivandhucha",
+          "Pirai Thedum",
+          "Voda Voda Dhooram Korayala"
+        ]
+      },
+      {
+        "album_id": 8555,
+        "title": "Mayyakkam",
+        "year": 1981,
+        "composer": "Srikanth, Padmapriya",
+        "track_count": 6,
+        "sample_tracks": [
+          "Naan Sonnadhum Mazhaivandhucha",
+          "Pirai Thedum",
+          "Voda Voda Dhooram Korayala"
+        ]
+      }
+    ],
+    [
+      {
+        "album_id": 4247,
+        "title": "Vaagai Sooda Vaa",
+        "year": 2011,
+        "composer": "Produced by Village Theatres",
+        "track_count": 6,
+        "sample_tracks": [
+          "Senga Soola Kaara",
+          "Sara Sara Saara Kathu",
+          "Thanjavuru Maadathi"
+        ]
+      },
+      {
+        "album_id": 8047,
+        "title": "Maalai Sooda Vaa",
+        "year": 1975,
+        "composer": "Kamal Haasan, 'Kumari' Manjula, Major Sundarrajan",
+        "track_count": 6,
+        "sample_tracks": [
+          "Senga Soola Kaara",
+          "Sara Sara Saara Kathu",
+          "Thanjavuru Maadathi"
+        ]
+      }
+    ],
+    [
+      {
+        "album_id": 4591,
+        "title": "Antharangam",
+        "year": 2010,
+        "composer": "G. Devarajan, Kannadasan, Vaali",
+        "track_count": 3,
+        "sample_tracks": [
+          "Kuthirai Kutti",
+          "Puthu Mugame",
+          "Paadaganai Thedikondu"
+        ]
+      },
+      {
+        "album_id": 8028,
+        "title": "Andharangam",
+        "year": 1975,
+        "composer": "Kamal Haasan, Deepa, Major Sundarrajan, Savitri, Cho, Thengai Srinivasan, Manorama, Sukumari, Kumari Padmini",
+        "track_count": 3,
+        "sample_tracks": [
+          "Kuthirai Kutti",
+          "Puthu Mugame",
+          "Paadaganai Thedikondu"
+        ]
+      }
+    ],
+    [
+      {
+        "album_id": 4608,
+        "title": "Naan Mahaan Alla",
+        "year": 2010,
+        "composer": "Yuvan Shankar Raja, Na. Muthukumar, Yuga Bharathi, Susindhran",
+        "track_count": 4,
+        "sample_tracks": [
+          "Va Va Nilava",
+          "Iragai Poley",
+          "Oru Maalai Neram"
+        ]
+      },
+      {
+        "album_id": 8876,
+        "title": "Naan Mahaan Alla",
+        "year": 1984,
+        "composer": "Rajinikanth, Radha, Cho",
+        "track_count": 4,
+        "sample_tracks": [
+          "Va Va Nilava",
+          "Iragai Poley",
+          "Oru Maalai Neram"
+        ]
+      }
+    ],
+    [
+      {
+        "album_id": 4095,
+        "title": "Naal Natchathiram",
+        "year": 2009,
+        "composer": "Ilaiyaraaja",
+        "track_count": 6,
+        "sample_tracks": [
+          "Vaa Vaa Anbe Anbe",
+          "Ninnukori Varanam",
+          "Oru Poonga Vanam"
+        ]
+      },
+      {
+        "album_id": 8448,
+        "title": "Natchathiram",
+        "year": 1980,
+        "composer": "Sripriya, Mohan Babu, Sivachandran, Manorama",
+        "track_count": 6,
+        "sample_tracks": [
+          "Vaa Vaa Anbe Anbe",
+          "Ninnukori Varanam",
+          "Oru Poonga Vanam"
+        ]
+      },
+      {
+        "album_id": 9283,
+        "title": "Agni Natchathiram",
+        "year": 1988,
+        "composer": "Ilaiyaraaja",
+        "track_count": 6,
+        "sample_tracks": [
+          "Vaa Vaa Anbe Anbe",
+          "Ninnukori Varanam",
+          "Oru Poonga Vanam"
+        ]
+      }
+    ],
+    [
+      {
+        "album_id": 4118,
+        "title": "Netru Pol Indru Illai",
+        "year": 2009,
+        "composer": "S P Balasubrahmanyam",
+        "track_count": 6,
+        "sample_tracks": [
+          "Paadum Podhu",
+          "Kanchiyile Naan",
+          "Nee Ennanna"
+        ]
+      },
+      {
+        "album_id": 7987,
+        "title": "Netru Indru Naalai",
+        "year": 1974,
+        "composer": "M. G. Ramachandran, Manjula, Latha, Rajasree, Thengai Srinivasan, Isari Velan, Rama Prabha, Sukumari",
+        "track_count": 6,
+        "sample_tracks": [
+          "Paadum Podhu",
+          "Kanchiyile Naan",
+          "Nee Ennanna"
+        ]
+      },
+      {
+        "album_id": 1281,
+        "title": "Netru Pol Indru Illai",
+        "year": 2009,
+        "composer": "",
+        "track_count": 6,
+        "sample_tracks": [
+          "Paadum Podhu",
+          "Kanchiyile Naan",
+          "Nee Ennanna"
+        ]
+      }
+    ],
+    [
+      {
+        "album_id": 4099,
+        "title": "Rajadhi Raja",
+        "year": 2009,
+        "composer": "Karunaas, Paul J",
+        "track_count": 5,
+        "sample_tracks": [
+          "Kathrikka Kathrikka",
+          "Yaro Oruvan",
+          "Yelandha Pazham"
+        ]
+      },
+      {
+        "album_id": 9448,
+        "title": "Rajadhi Raja",
+        "year": 1989,
+        "composer": "Rajinikanth, Radha, Nadhiya, Janagaraj, Y. Vijaya",
+        "track_count": 5,
+        "sample_tracks": [
+          "Kathrikka Kathrikka",
+          "Yaro Oruvan",
+          "Yelandha Pazham"
+        ]
+      }
+    ],
+    [
+      {
+        "album_id": 1160,
+        "title": "Nayagan",
+        "year": 2008,
+        "composer": "Ilaiyaraaja",
+        "track_count": 5,
+        "sample_tracks": [
+          "Naan Sirithal Deepavali",
+          "Nila Adhu Vanathumele",
+          "Andhi Mazhai Megam"
+        ]
+      },
+      {
+        "album_id": 9260,
+        "title": "Nayakan",
+        "year": 1987,
+        "composer": "Ilaiyaraaja",
+        "track_count": 5,
+        "sample_tracks": [
+          "Naan Sirithal Deepavali",
+          "Nila Adhu Vanathumele",
+          "Andhi Mazhai Megam"
+        ]
+      }
+    ],
+    [
+      {
+        "album_id": 1189,
+        "title": "Utharavindri Ullay Vaa",
+        "year": 2008,
+        "composer": "L.R.Eswari",
+        "track_count": 8,
+        "sample_tracks": [
+          "Thenatrangkara Iyinile",
+          "Kaadhal Kaadhal",
+          "Maathamo Aavani"
+        ]
+      },
+      {
+        "album_id": 7845,
+        "title": "Uttharavindri Ulle Vaa",
+        "year": 1971,
+        "composer": "Ravichandran, Kanchana, Nagesh, Rama Prabha, Thengai Srinivasan, Vennira Aadai Moorthy, Sachu",
+        "track_count": 8,
+        "sample_tracks": [
+          "Thenatrangkara Iyinile",
+          "Kaadhal Kaadhal",
+          "Maathamo Aavani"
+        ]
+      }
+    ],
+    [
+      {
+        "album_id": 3837,
+        "title": "Amudhae",
+        "year": 2005,
+        "composer": "Manup",
+        "track_count": 11,
+        "sample_tracks": [
+          "\u0d85\u0dc0\u0dc3\u0db1\u0dca\u0bb5\u0bc7\u0b9f\u0bae\u0bcd (Avasan V\u0113dam)",
+          "\u0d85\u0db3\u0bc1\u0bb0\u0bbf\u0ba9\u0bcd \u0b95\u0bbe\u0ba4\u0bb2\u0bcd \u0b9a\u0bc1\u0bb5\u0bbe\u0b9a\u0bae\u0bcd (Andurin Kaadhal Suvasam)",
+          "\u0b85\u0bb4\u0bc1\u0b95\u0bbf\u0baf\u0bbf\u0ba9\u0bcd \u0d8b\u0db8\u0dad\u0dd4\u0bb5\u0bc6\u0bb3\u0bbf Azhukiyin Umathuveli"
+        ]
+      },
+      {
+        "album_id": 8024,
+        "title": "Amudha",
+        "year": 1975,
+        "composer": "Ravichandran, R. Muthuraman, C. R. Vijayakumari, Rajasree, Nagesh, Major Sundarrajan",
+        "track_count": 11,
+        "sample_tracks": [
+          "\u0d85\u0dc0\u0dc3\u0db1\u0dca\u0bb5\u0bc7\u0b9f\u0bae\u0bcd (Avasan V\u0113dam)",
+          "\u0d85\u0db3\u0bc1\u0bb0\u0bbf\u0ba9\u0bcd \u0b95\u0bbe\u0ba4\u0bb2\u0bcd \u0b9a\u0bc1\u0bb5\u0bbe\u0b9a\u0bae\u0bcd (Andurin Kaadhal Suvasam)",
+          "\u0b85\u0bb4\u0bc1\u0b95\u0bbf\u0baf\u0bbf\u0ba9\u0bcd \u0d8b\u0db8\u0dad\u0dd4\u0bb5\u0bc6\u0bb3\u0bbf Azhukiyin Umathuveli"
+        ]
+      }
+    ],
+    [
+      {
+        "album_id": 3882,
+        "title": "Rekkai",
+        "year": 2005,
+        "composer": "D. Imman",
+        "track_count": 7,
+        "sample_tracks": [
+          "Kanna Kaattu Podhum",
+          "Virru Virru",
+          "Kannamma"
+        ]
+      },
+      {
+        "album_id": 3770,
+        "title": "Rekkai",
+        "year": 2003,
+        "composer": "D. Imman",
+        "track_count": 7,
+        "sample_tracks": [
+          "Kanna Kaattu Podhum",
+          "Virru Virru",
+          "Kannamma"
+        ]
+      },
+      {
+        "album_id": 9218,
+        "title": "Rekha",
+        "year": 1987,
+        "composer": "D. Imman",
+        "track_count": 7,
+        "sample_tracks": [
+          "Kanna Kaattu Podhum",
+          "Virru Virru",
+          "Kannamma"
+        ]
+      }
+    ],
+    [
+      {
+        "album_id": 3875,
+        "title": "Sendhalam Poove",
+        "year": 2005,
+        "composer": "Vimal Raj",
+        "track_count": 5,
+        "sample_tracks": [
+          "Golmalu Than",
+          "Kadhal Kadhalena",
+          "Rakshasi Rakshasi"
+        ]
+      },
+      {
+        "album_id": 807,
+        "title": "Senthalam Poove",
+        "year": 2004,
+        "composer": "Vimal Raj",
+        "track_count": 5,
+        "sample_tracks": [
+          "Golmalu Than",
+          "Kadhal Kadhalena",
+          "Rakshasi Rakshasi"
+        ]
+      }
+    ],
+    [
+      {
+        "album_id": 3750,
+        "title": "Naam",
+        "year": 2003,
+        "composer": "Laxmikant-pyarelal",
+        "track_count": 5,
+        "sample_tracks": [
+          "Veriya Ve Kiya Kya Qasoor Maine",
+          "Chitthi Aai Hai",
+          "Tu Kal Chala Jayega"
+        ]
+      },
+      {
+        "album_id": 9009,
+        "title": "Naam",
+        "year": 1985,
+        "composer": "S. Ve. Shekher, Sujatha, Ilavarasi",
+        "track_count": 5,
+        "sample_tracks": [
+          "Veriya Ve Kiya Kya Qasoor Maine",
+          "Chitthi Aai Hai",
+          "Tu Kal Chala Jayega"
+        ]
+      }
+    ],
+    [
+      {
+        "album_id": 4521,
+        "title": "Rahasyam",
+        "year": 2002,
+        "composer": "Dino Morea, Bipasha Basu",
+        "track_count": 6,
+        "sample_tracks": [
+          "Evevo Baasalu",
+          "Kantiki Eduruga",
+          "Needu Premenule"
+        ]
+      },
+      {
+        "album_id": 9038,
+        "title": "Rahasiyam",
+        "year": 1985,
+        "composer": "Chandrasekhar, Nalini, Radha Ravi",
+        "track_count": 6,
+        "sample_tracks": [
+          "Evevo Baasalu",
+          "Kantiki Eduruga",
+          "Needu Premenule"
+        ]
+      }
+    ],
+    [
+      {
+        "album_id": 9403,
+        "title": "Enga Veettu Deivam",
+        "year": 1989,
+        "composer": "Nizhalgal Ravi, Pallavi, S. S. Chandran, Chithra, Sathyakala, Kovai Sarala",
+        "track_count": 3,
+        "sample_tracks": [
+          "Enakkum Unakkum 1987",
+          "Ulagamellam",
+          "Ennadi Iththanai Vegam"
+        ]
+      },
+      {
+        "album_id": 7782,
+        "title": "Namma Veettu Deivam",
+        "year": 1970,
+        "composer": "R. Muthuraman, K. R. Vijaya, Nagesh, T. S. Balaiah, V. S. Raghavan, Vijaya Lalitha, Thengai Srinivasan",
+        "track_count": 3,
+        "sample_tracks": [
+          "Enakkum Unakkum 1987",
+          "Ulagamellam",
+          "Ennadi Iththanai Vegam"
+        ]
+      }
+    ],
+    [
+      {
+        "album_id": 9418,
+        "title": "Mappillai",
+        "year": 1989,
+        "composer": "Rajinikanth, Amala, Srividya, Jaishankar, S. S. Chandran",
+        "track_count": 7,
+        "sample_tracks": [
+          "Aaru Padai",
+          "Love Love",
+          "Onnu Rendu"
+        ]
+      },
+      {
+        "album_id": 9325,
+        "title": "Mappillai Sir",
+        "year": 1988,
+        "composer": "Mohan, Visu, Rekha, Jayanthi, Kismu, Sumithra",
+        "track_count": 7,
+        "sample_tracks": [
+          "Aaru Padai",
+          "Love Love",
+          "Onnu Rendu"
+        ]
+      }
+    ],
+    [
+      {
+        "album_id": 9470,
+        "title": "Thangachi Kalyanam",
+        "year": 1989,
+        "composer": "T Rajendar M A",
+        "track_count": 12,
+        "sample_tracks": [
+          "Degam Suduguthu Vaadi",
+          "Ellame En Thangachi",
+          "Poo Ondru Valarthen"
+        ]
+      },
+      {
+        "album_id": 9293,
+        "title": "En Thangai Kalyani",
+        "year": 1988,
+        "composer": "T. Rajendar, Srividya, Vigdass, Sudha, S. S. Chandran, Vennira Aadai Moorthy, Renuka, Silambarasan",
+        "track_count": 12,
+        "sample_tracks": [
+          "Degam Suduguthu Vaadi",
+          "Ellame En Thangachi",
+          "Poo Ondru Valarthen"
+        ]
+      }
+    ],
+    [
+      {
+        "album_id": 9302,
+        "title": "Irandil Ondru",
+        "year": 1988,
+        "composer": "Ramki, Nadhiya, Madhuri",
+        "track_count": 10,
+        "sample_tracks": [
+          "Naarinil Poo Thoduthu",
+          "Thanga Kudam Edukkum",
+          "Ingae Ellorum Nallavanga"
+        ]
+      },
+      {
+        "album_id": 6502,
+        "title": "Irandil Ondru Parthuvidu",
+        "year": 2023,
+        "composer": "Ilaiyaraaja",
+        "track_count": 10,
+        "sample_tracks": [
+          "Naarinil Poo Thoduthu",
+          "Thanga Kudam Edukkum",
+          "Ingae Ellorum Nallavanga"
+        ]
+      }
+    ],
+    [
+      {
+        "album_id": 5581,
+        "title": "Sathya",
+        "year": 2017,
+        "composer": "Naathambal Film Factory",
+        "track_count": 4,
+        "sample_tracks": [
+          "Nagaru Nagaru",
+          "Potta Padiyudhu",
+          "Valaiyosai"
+        ]
+      },
+      {
+        "album_id": 9359,
+        "title": "Sathyaa",
+        "year": 1988,
+        "composer": "Kamal Haasan, Amala, Rajesh, Janagaraj, Anand",
+        "track_count": 4,
+        "sample_tracks": [
+          "Nagaru Nagaru",
+          "Potta Padiyudhu",
+          "Valaiyosai"
+        ]
+      }
+    ],
+    [
+      {
+        "album_id": 9372,
+        "title": "Therkathi Kallan",
+        "year": 1988,
+        "composer": "Vijayakanth, Radhika, Sulakshana, Madhuri, V. K. Ramasamy, S. S. Chandran, Janagaraj",
+        "track_count": 5,
+        "sample_tracks": [
+          "Thillaa Taangu",
+          "Radha Azhaikkiraal",
+          "Pottu Vachi"
+        ]
+      },
+      {
+        "album_id": 6255,
+        "title": "Kallan",
+        "year": 2022,
+        "composer": "[[K (composer)",
+        "track_count": 5,
+        "sample_tracks": [
+          "Thillaa Taangu",
+          "Radha Azhaikkiraal",
+          "Pottu Vachi"
+        ]
+      }
+    ],
+    [
+      {
+        "album_id": 9254,
+        "title": "Ellaikodu",
+        "year": 1987,
+        "composer": "Gangai Amaran",
+        "track_count": 4,
+        "sample_tracks": [
+          "Adikkira Adiyile",
+          "Andharathile Aadum",
+          "Kadhal Kalaiyil"
+        ]
+      },
+      {
+        "album_id": 7860,
+        "title": "Ellai Kodu",
+        "year": 1972,
+        "composer": "Gangai Amaran",
+        "track_count": 4,
+        "sample_tracks": [
+          "Adikkira Adiyile",
+          "Andharathile Aadum",
+          "Kadhal Kalaiyil"
+        ]
+      }
+    ],
+    [
+      {
+        "album_id": 9242,
+        "title": "Vairagyam",
+        "year": 1987,
+        "composer": "Manoj Giyan, Pulamaipithan, Vairamuthu",
+        "track_count": 4,
+        "sample_tracks": [
+          "Azhage Azhugai Enna",
+          "Machanai Thottal Enna",
+          "Jimthanakadi Jimthanakadi Jin"
+        ]
+      },
+      {
+        "album_id": 7797,
+        "title": "Vairagyam",
+        "year": 1970,
+        "composer": "Gemini Ganesan, S. S. Rajendran, Vennira Aadai Nirmala, Nagesh, V. Gopalakrishnan",
+        "track_count": 4,
+        "sample_tracks": [
+          "Azhage Azhugai Enna",
+          "Machanai Thottal Enna",
+          "Jimthanakadi Jimthanakadi Jin"
+        ]
+      }
+    ],
+    [
+      {
+        "album_id": 9198,
+        "title": "Vilangu",
+        "year": 1987,
+        "composer": "Ilaiyaraaja",
+        "track_count": 4,
+        "sample_tracks": [
+          "Aathadi Paavadai",
+          "Kannil Edho Minnal",
+          "Love Me Love Me Love Me"
+        ]
+      },
+      {
+        "album_id": 8903,
+        "title": "Poovilangu",
+        "year": 1984,
+        "composer": "Murali, Kuyili, Poovilangu Mohan, Y. Vijaya",
+        "track_count": 4,
+        "sample_tracks": [
+          "Aathadi Paavadai",
+          "Kannil Edho Minnal",
+          "Love Me Love Me Love Me"
+        ]
+      }
+    ],
+    [
+      {
+        "album_id": 9093,
+        "title": "En Sabatham",
+        "year": 1986,
+        "composer": "Arjun, Anitha",
+        "track_count": 2,
+        "sample_tracks": [
+          "Anbu Megame",
+          "Anbu Meghame"
+        ]
+      },
+      {
+        "album_id": 7975,
+        "title": "Engamma Sapatham",
+        "year": 1974,
+        "composer": "R. Muthuraman, Sivakumar, Jayachitra, Vidhubala, Suruli Rajan, Manorama",
+        "track_count": 2,
+        "sample_tracks": [
+          "Anbu Megame",
+          "Anbu Meghame"
+        ]
+      }
+    ],
+    [
+      {
+        "album_id": 9160,
+        "title": "Revathi",
+        "year": 1986,
+        "composer": "Revathi, Suresh",
+        "track_count": 4,
+        "sample_tracks": [
+          "Aththanin Nenchukkulle Tik Tik",
+          "Kathalika Kathukka",
+          "Kalyana Panthalilea"
+        ]
+      },
+      {
+        "album_id": 7346,
+        "title": "Revathi",
+        "year": 1960,
+        "composer": "K. V. Mahadevan",
+        "track_count": 4,
+        "sample_tracks": [
+          "Aththanin Nenchukkulle Tik Tik",
+          "Kathalika Kathukka",
+          "Kalyana Panthalilea"
+        ]
+      }
+    ],
+    [
+      {
+        "album_id": 9027,
+        "title": "Panam Pathum Seyyum",
+        "year": 1985,
+        "composer": "Goundamani, S. Ve. Shekher, Senthil, Srividya, Urvashi, Radha Ravi, Anuradha",
+        "track_count": 4,
+        "sample_tracks": [
+          "Thikida Thikida Thinikida",
+          "Yaaro Yaaro Yaarodu",
+          "Ancharu Naatkal Aachu"
+        ]
+      },
+      {
+        "album_id": 8060,
+        "title": "Panam Pathum Seyum",
+        "year": 1975,
+        "composer": "Cho, Rathna",
+        "track_count": 4,
+        "sample_tracks": [
+          "Thikida Thikida Thinikida",
+          "Yaaro Yaaro Yaarodu",
+          "Ancharu Naatkal Aachu"
+        ]
+      }
+    ],
+    [
+      {
+        "album_id": 9060,
+        "title": "Udaya Geetham",
+        "year": 1985,
+        "composer": "Mohan, Lakshmi, Revathi, Anand Babu, Goundamani, Senthil",
+        "track_count": 8,
+        "sample_tracks": [
+          "Udhaya Geetham (Pathos)",
+          "Sangeetha Megam",
+          "Paadu Nilavae"
+        ]
+      },
+      {
+        "album_id": 5956,
+        "title": "Udhay",
+        "year": 2019,
+        "composer": "Ilaiyaraaja",
+        "track_count": 8,
+        "sample_tracks": [
+          "Udhaya Geetham (Pathos)",
+          "Sangeetha Megam",
+          "Paadu Nilavae"
+        ]
+      }
+    ],
+    [
+      {
+        "album_id": 8848,
+        "title": "Enakkul Oruvan",
+        "year": 1984,
+        "composer": "Kamal Haasan, Shobana, Sripriya, Sathyaraj",
+        "track_count": 7,
+        "sample_tracks": [
+          "Prabalamagavey",
+          "Endi Ippadi",
+          "Poo Avizhum Pozhudhil"
+        ]
+      },
+      {
+        "album_id": 1321,
+        "title": "Enakkul Oru Kadhal",
+        "year": 2009,
+        "composer": "Santhosh Narayanan",
+        "track_count": 7,
+        "sample_tracks": [
+          "Prabalamagavey",
+          "Endi Ippadi",
+          "Poo Avizhum Pozhudhil"
+        ]
+      }
+    ],
+    [
+      {
+        "album_id": 8887,
+        "title": "Neram Nalla Neram",
+        "year": 1984,
+        "composer": "Pandiyan, Urvashi",
+        "track_count": 4,
+        "sample_tracks": [
+          "Odi Odi Uzhaikkanum",
+          "Thottaal",
+          "Tick Tick"
+        ]
+      },
+      {
+        "album_id": 7866,
+        "title": "Nalla Neram",
+        "year": 1972,
+        "composer": "T M Sounderarajan",
+        "track_count": 4,
+        "sample_tracks": [
+          "Odi Odi Uzhaikkanum",
+          "Thottaal",
+          "Tick Tick"
+        ]
+      }
+    ],
+    [
+      {
+        "album_id": 8221,
+        "title": "Ennai Pol Oruvan",
+        "year": 1978,
+        "composer": "Sivaji Ganesan, Sharada, Ushanandini",
+        "track_count": 5,
+        "sample_tracks": [
+          "Unnai Pol Oruvan",
+          "Nilai Varuma",
+          "Vaanam Yellai illai"
+        ]
+      },
+      {
+        "album_id": 7566,
+        "title": "Unnaipol Oruvan",
+        "year": 1965,
+        "composer": "Chitti Babu",
+        "track_count": 5,
+        "sample_tracks": [
+          "Unnai Pol Oruvan",
+          "Nilai Varuma",
+          "Vaanam Yellai illai"
+        ]
+      }
+    ],
+    [
+      {
+        "album_id": 8074,
+        "title": "Thirudanukku Thirudan",
+        "year": 1975,
+        "composer": "Dhina",
+        "track_count": 7,
+        "sample_tracks": [
+          "Manmatha Raasa",
+          "Vandar Kuzhazhi",
+          "Unnai Paartha Piragu"
+        ]
+      },
+      {
+        "album_id": 3876,
+        "title": "Thiru Thiru",
+        "year": 2005,
+        "composer": "Dhina",
+        "track_count": 7,
+        "sample_tracks": [
+          "Manmatha Raasa",
+          "Vandar Kuzhazhi",
+          "Unnai Paartha Piragu"
+        ]
+      }
+    ],
+    [
+      {
+        "album_id": 8429,
+        "title": "Kumari Pennin Ullathile",
+        "year": 1980,
+        "composer": "K. Bhagyaraj, Vijayan, Radhika, Vijay Babu, Suruli Rajan",
+        "track_count": 5,
+        "sample_tracks": [
+          "Enthiran",
+          "Singam",
+          "Vinnaithaandi Varuvaayaa"
+        ]
+      },
+      {
+        "album_id": 4548,
+        "title": "Kumari Pennin Ullathile",
+        "year": 2010,
+        "composer": "",
+        "track_count": 5,
+        "sample_tracks": [
+          "Enthiran",
+          "Singam",
+          "Vinnaithaandi Varuvaayaa"
+        ]
+      },
+      {
+        "album_id": 4604,
+        "title": "Mandabam",
+        "year": 2010,
+        "composer": "",
+        "track_count": 5,
+        "sample_tracks": [
+          "Enthiran",
+          "Singam",
+          "Vinnaithaandi Varuvaayaa"
+        ]
+      }
+    ],
+    [
+      {
+        "album_id": 8764,
+        "title": "Kodugal Illatha Kolam",
+        "year": 1983,
+        "composer": "Sujatha, Ramakrishna, Y. G. Mahendra",
+        "track_count": 4,
+        "sample_tracks": [
+          "Poo Malarum",
+          "Devan Vanthan",
+          "Meghangal Odum"
+        ]
+      },
+      {
+        "album_id": 3314,
+        "title": "Kodugal Illatha Kolam",
+        "year": 1996,
+        "composer": "Devaraj",
+        "track_count": 4,
+        "sample_tracks": [
+          "Poo Malarum",
+          "Devan Vanthan",
+          "Meghangal Odum"
+        ]
+      }
+    ],
+    [
+      {
+        "album_id": 3596,
+        "title": "Kannula Kaasa Kattappa",
+        "year": 2000,
+        "composer": "Divakar Subramaniam",
+        "track_count": 5,
+        "sample_tracks": [
+          "Kannla Kaasa Kaattappa",
+          "Manasukulle",
+          "Dhuddu Thandhaane"
+        ]
+      },
+      {
+        "album_id": 5375,
+        "title": "Kannula Kaasa Kattappa",
+        "year": 2016,
+        "composer": "Sugar & Spice Entertainment",
+        "track_count": 5,
+        "sample_tracks": [
+          "Kannla Kaasa Kaattappa",
+          "Manasukulle",
+          "Dhuddu Thandhaane"
+        ]
+      }
+    ],
+    [
+      {
+        "album_id": 4020,
+        "title": "Akku",
+        "year": 2008,
+        "composer": "Sriram",
+        "track_count": 3,
+        "sample_tracks": [
+          "Puthirey En Puthirey",
+          "Meet The Karma",
+          "Friendship Story"
+        ]
+      },
+      {
+        "album_id": 6629,
+        "title": "Akku",
+        "year": 2023,
+        "composer": "style=\"text-align:center;\" |",
+        "track_count": 3,
+        "sample_tracks": [
+          "Puthirey En Puthirey",
+          "Meet The Karma",
+          "Friendship Story"
+        ]
+      }
+    ]
+  ]
+}

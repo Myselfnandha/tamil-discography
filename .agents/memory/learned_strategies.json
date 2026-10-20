@@ -1,0 +1,20 @@
+{
+  "version": "1.0.0",
+  "updated_at": "2026-09-17T05:37:08.603684+00:00",
+  "strategies": [
+    {
+      "id": "STR-0001",
+      "type": "tool_preference",
+      "type_label": "Tool Preferences & Workflows",
+      "title": "ReUI Integration",
+      "content": "ReUI registered as on-demand remote MCP server at https://mcp.reui.io with official skill in .agents/skills/reui and /reui workflow.",
+      "ecosystem": "general",
+      "tags": [],
+      "source": "agent",
+      "project": "agent",
+      "hash": "7102f16b7c3f991e",
+      "captured_at": "2026-09-17T05:37:08.603526+00:00",
+      "synced": false
+    }
+  ]
+}

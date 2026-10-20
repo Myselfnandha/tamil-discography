@@ -1,0 +1,119 @@
+name: Spotify Playlist Sync
+
+on:
+  schedule:
+    # Daily Smart Hybrid sync, Monday through Saturday at 08:07 AM IST (02:37 UTC)
+    - cron: "37 2 * * 1-6"
+
+    # Full-library sync every Sunday at 08:17 AM IST (02:47 UTC)
+    - cron: "47 2 * * 0"
+
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: "Choose synchronization mode"
+        required: true
+        type: choice
+        default: now
+        options:
+          - now
+          - full
+          - dry-run
+
+permissions:
+  contents: write
+
+concurrency:
+  group: spotify-playlist-sync
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    env:
+      SPOTIFY_COOKIES: ${{ secrets.SPOTIFY_COOKIES }}
+      SPOTIFY_COOKIES_BASE64: ${{ secrets.SPOTIFY_COOKIES_BASE64 }}
+      SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
+      SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
+      SPOTIFY_REFRESH_TOKEN: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
+      HF_TOKEN: ${{ secrets.HF_TOKEN }}
+      HF_STATE_REPO: ${{ secrets.HF_STATE_REPO }}
+      SCHEDULE_CRON: ${{ github.event.schedule }}
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install Python dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Install Playwright browsers & system dependencies
+        run: |
+          playwright install --with-deps chromium
+
+      - name: Verify Spotify credentials
+        run: |
+          if [ -z "$SPOTIFY_COOKIES" ] && [ -z "$SPOTIFY_COOKIES_BASE64" ] && [ -z "$SPOTIFY_CLIENT_ID" ]; then
+            echo "::error::Neither SPOTIFY_COOKIES_BASE64 nor SPOTIFY_CLIENT_ID secret is provided! Please configure SPOTIFY_COOKIES_BASE64 in your GitHub repo secrets."
+            exit 1
+          fi
+          echo "✅ Spotify authentication credential secret detected."
+
+      - name: Run playlist synchronization
+        shell: bash
+        env:
+          MANUAL_MODE: ${{ inputs.mode }}
+        run: |
+          set -euo pipefail
+
+          if [[ "$GITHUB_EVENT_NAME" == "schedule" ]]; then
+            if [[ "$SCHEDULE_CRON" == "47 2 * * 0" ]]; then
+              MODE="full"
+            else
+              MODE="now"
+            fi
+          else
+            MODE="${MANUAL_MODE:-now}"
+          fi
+
+          echo "🚀 Starting synchronization in mode: $MODE"
+
+          case "$MODE" in
+            now)
+              python auto_update_playlists.py --now
+              ;;
+            full)
+              python auto_update_playlists.py --full
+              ;;
+            dry-run)
+              python auto_update_playlists.py --dry-run
+              ;;
+            *)
+              echo "Unsupported mode: $MODE"
+              exit 2
+              ;;
+          esac
+
+      - name: Commit and push catalog updates
+        if: success() && inputs.mode != 'dry-run'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/sync_state.json playlists/
+          if git diff --staged --quiet; then
+            echo "✨ No state or catalog changes to commit."
+          else
+            git commit -m "chore(sync): automated playlist and catalog update [skip ci]"
+            git push
+            echo "🚀 Pushed updated state and playlists to repository."
+          fi

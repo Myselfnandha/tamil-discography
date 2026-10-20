@@ -1,0 +1,129 @@
+{
+  "year": 1976,
+  "total_tracks": 155,
+  "tier_1_count": 7,
+  "tier_2_count": 0,
+  "tier_3_count": 0,
+  "tier_4_count": 0,
+  "unranked_count": 148,
+  "position_changes_count": 152,
+  "sample_tier_1_tracks": [
+    {
+      "title": "Annakkili Unnai Theduthey",
+      "album": "Annakili",
+      "score": 70.0
+    },
+    {
+      "title": "Machaanai Paatheengala",
+      "album": "Annakili",
+      "score": 70.0
+    },
+    {
+      "title": "Adi Raakkaayee",
+      "album": "Annakili",
+      "score": 70.0
+    },
+    {
+      "title": "Sondham Illai",
+      "album": "Annakili",
+      "score": 70.0
+    },
+    {
+      "title": "Machaanai Paatheengala Revival",
+      "album": "Annakili",
+      "score": 70.0
+    },
+    {
+      "title": "Annakkili",
+      "album": "Annakili",
+      "score": 70.0
+    },
+    {
+      "title": "Annakkili Unnai",
+      "album": "Annakili",
+      "score": 70.0
+    }
+  ],
+  "sample_changes": [
+    {
+      "track_title": "Annakkili Unnai Theduthey",
+      "album_title": "Annakili",
+      "old_position": 2,
+      "new_position": 1,
+      "evidence_tier": "tier_1_mega",
+      "score": 70.0
+    },
+    {
+      "track_title": "Machaanai Paatheengala",
+      "album_title": "Annakili",
+      "old_position": 3,
+      "new_position": 2,
+      "evidence_tier": "tier_1_mega",
+      "score": 70.0
+    },
+    {
+      "track_title": "Adi Raakkaayee",
+      "album_title": "Annakili",
+      "old_position": 4,
+      "new_position": 3,
+      "evidence_tier": "tier_1_mega",
+      "score": 70.0
+    },
+    {
+      "track_title": "Sondham Illai",
+      "album_title": "Annakili",
+      "old_position": 5,
+      "new_position": 4,
+      "evidence_tier": "tier_1_mega",
+      "score": 70.0
+    },
+    {
+      "track_title": "Machaanai Paatheengala Revival",
+      "album_title": "Annakili",
+      "old_position": 6,
+      "new_position": 5,
+      "evidence_tier": "tier_1_mega",
+      "score": 70.0
+    },
+    {
+      "track_title": "Annakkili",
+      "album_title": "Annakili",
+      "old_position": 7,
+      "new_position": 6,
+      "evidence_tier": "tier_1_mega",
+      "score": 70.0
+    },
+    {
+      "track_title": "Annakkili Unnai",
+      "album_title": "Annakili",
+      "old_position": 8,
+      "new_position": 7,
+      "evidence_tier": "tier_1_mega",
+      "score": 70.0
+    },
+    {
+      "track_title": "Akka",
+      "album_title": "Akka",
+      "old_position": 1,
+      "new_position": 8,
+      "evidence_tier": null,
+      "score": null
+    },
+    {
+      "track_title": "Kannan Oru",
+      "album_title": "Bhadrakali",
+      "old_position": 13,
+      "new_position": 10,
+      "evidence_tier": null,
+      "score": null
+    },
+    {
+      "track_title": "Om Saravana Bhava",
+      "album_title": "Chitra Pournami",
+      "old_position": 19,
+      "new_position": 11,
+      "evidence_tier": null,
+      "score": null
+    }
+  ]
+}

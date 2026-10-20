@@ -1,0 +1,93 @@
+{
+  "year": 1984,
+  "total_tracks": 504,
+  "tier_1_count": 0,
+  "tier_2_count": 0,
+  "tier_3_count": 0,
+  "tier_4_count": 0,
+  "unranked_count": 504,
+  "position_changes_count": 502,
+  "sample_tier_1_tracks": [],
+  "sample_changes": [
+    {
+      "track_title": "Elamai Rathamo Nilavin",
+      "album_title": "Aayiram Kaigal",
+      "old_position": 3,
+      "new_position": 2,
+      "evidence_tier": null,
+      "score": null
+    },
+    {
+      "track_title": "Achchamillai Achchamillai",
+      "album_title": "Achamillai Achamillai",
+      "old_position": 7,
+      "new_position": 3,
+      "evidence_tier": null,
+      "score": null
+    },
+    {
+      "track_title": "Kalyaana Chelai",
+      "album_title": "Ambigai Neril Vanthaal",
+      "old_position": 12,
+      "new_position": 4,
+      "evidence_tier": null,
+      "score": null
+    },
+    {
+      "track_title": "Raja Yenge Ranium Ange",
+      "album_title": "Amma Irukka",
+      "old_position": 17,
+      "new_position": 5,
+      "evidence_tier": null,
+      "score": null
+    },
+    {
+      "track_title": "Nadodi Nadodi",
+      "album_title": "Anbe Odi Vaa",
+      "old_position": 21,
+      "new_position": 6,
+      "evidence_tier": null,
+      "score": null
+    },
+    {
+      "track_title": "Thaaye Thaaye Dharmam",
+      "album_title": "Anbulla Malare",
+      "old_position": 34,
+      "new_position": 7,
+      "evidence_tier": null,
+      "score": null
+    },
+    {
+      "track_title": "Muthumani Chudare Vaa",
+      "album_title": "Anbulla Rajinikanth",
+      "old_position": 40,
+      "new_position": 8,
+      "evidence_tier": null,
+      "score": null
+    },
+    {
+      "track_title": "Kaala Kalam Kalyanam",
+      "album_title": "Antha Uravukku Satchi",
+      "old_position": 45,
+      "new_position": 9,
+      "evidence_tier": null,
+      "score": null
+    },
+    {
+      "track_title": "CHIRANJEEVI",
+      "album_title": "Chiranjeevi",
+      "old_position": 48,
+      "new_position": 10,
+      "evidence_tier": null,
+      "score": null
+    },
+    {
+      "track_title": "Muthu Kullane",
+      "album_title": "Devi Sri Devi",
+      "old_position": 49,
+      "new_position": 11,
+      "evidence_tier": null,
+      "score": null
+    }
+  ]
+}

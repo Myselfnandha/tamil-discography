@@ -1,0 +1,154 @@
+{
+  "year": 1962,
+  "total_tracks": 309,
+  "tier_1_count": 12,
+  "tier_2_count": 0,
+  "tier_3_count": 0,
+  "tier_4_count": 0,
+  "unranked_count": 297,
+  "position_changes_count": 309,
+  "sample_tier_1_tracks": [
+    {
+      "title": "Engirundhaalum Vaazhga",
+      "album": "Nenjil Or Aalayam",
+      "score": 70.0
+    },
+    {
+      "title": "Enna Ninaithu",
+      "album": "Nenjil Or Aalayam",
+      "score": 70.0
+    },
+    {
+      "title": "Muthana Muthallavo",
+      "album": "Nenjil Or Aalayam",
+      "score": 70.0
+    },
+    {
+      "title": "Ninaipadhellam",
+      "album": "Nenjil Or Aalayam",
+      "score": 70.0
+    },
+    {
+      "title": "Oruvar Vaazhum Aalaiyam",
+      "album": "Nenjil Or Aalayam",
+      "score": 70.0
+    },
+    {
+      "title": "Sonnathu Neethaana",
+      "album": "Nenjil Or Aalayam",
+      "score": 70.0
+    },
+    {
+      "title": "Aadhi Manidhan",
+      "album": "Bale Pandiya",
+      "score": 55.0
+    },
+    {
+      "title": "Athi Kai Kai",
+      "album": "Bale Pandiya",
+      "score": 55.0
+    },
+    {
+      "title": "Naan Enna Solliviten",
+      "album": "Bale Pandiya",
+      "score": 55.0
+    },
+    {
+      "title": "Neeye Unakku Endrum",
+      "album": "Bale Pandiya",
+      "score": 55.0
+    },
+    {
+      "title": "Vaazha Ninaithaal",
+      "album": "Bale Pandiya",
+      "score": 55.0
+    },
+    {
+      "title": "Yaarai Enge Vaipadhendru",
+      "album": "Bale Pandiya",
+      "score": 55.0
+    }
+  ],
+  "sample_changes": [
+    {
+      "track_title": "Engirundhaalum Vaazhga",
+      "album_title": "Nenjil Or Aalayam",
+      "old_position": 151,
+      "new_position": 1,
+      "evidence_tier": "tier_1_mega",
+      "score": 70.0
+    },
+    {
+      "track_title": "Enna Ninaithu",
+      "album_title": "Nenjil Or Aalayam",
+      "old_position": 152,
+      "new_position": 2,
+      "evidence_tier": "tier_1_mega",
+      "score": 70.0
+    },
+    {
+      "track_title": "Muthana Muthallavo",
+      "album_title": "Nenjil Or Aalayam",
+      "old_position": 153,
+      "new_position": 3,
+      "evidence_tier": "tier_1_mega",
+      "score": 70.0
+    },
+    {
+      "track_title": "Ninaipadhellam",
+      "album_title": "Nenjil Or Aalayam",
+      "old_position": 154,
+      "new_position": 4,
+      "evidence_tier": "tier_1_mega",
+      "score": 70.0
+    },
+    {
+      "track_title": "Oruvar Vaazhum Aalaiyam",
+      "album_title": "Nenjil Or Aalayam",
+      "old_position": 155,
+      "new_position": 5,
+      "evidence_tier": "tier_1_mega",
+      "score": 70.0
+    },
+    {
+      "track_title": "Sonnathu Neethaana",
+      "album_title": "Nenjil Or Aalayam",
+      "old_position": 156,
+      "new_position": 6,
+      "evidence_tier": "tier_1_mega",
+      "score": 70.0
+    },
+    {
+      "track_title": "Aadhi Manidhan",
+      "album_title": "Bale Pandiya",
+      "old_position": 34,
+      "new_position": 7,
+      "evidence_tier": "tier_1_mega",
+      "score": 55.0
+    },
+    {
+      "track_title": "Athi Kai Kai",
+      "album_title": "Bale Pandiya",
+      "old_position": 35,
+      "new_position": 8,
+      "evidence_tier": "tier_1_mega",
+      "score": 55.0
+    },
+    {
+      "track_title": "Naan Enna Solliviten",
+      "album_title": "Bale Pandiya",
+      "old_position": 36,
+      "new_position": 9,
+      "evidence_tier": "tier_1_mega",
+      "score": 55.0
+    },
+    {
+      "track_title": "Neeye Unakku Endrum",
+      "album_title": "Bale Pandiya",
+      "old_position": 37,
+      "new_position": 10,
+      "evidence_tier": "tier_1_mega",
+      "score": 55.0
+    }
+  ]
+}

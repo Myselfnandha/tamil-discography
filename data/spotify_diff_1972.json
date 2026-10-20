@@ -1,0 +1,124 @@
+{
+  "year": 1972,
+  "total_tracks": 199,
+  "tier_1_count": 6,
+  "tier_2_count": 0,
+  "tier_3_count": 0,
+  "tier_4_count": 0,
+  "unranked_count": 193,
+  "position_changes_count": 199,
+  "sample_tier_1_tracks": [
+    {
+      "title": "Kalaimagal",
+      "album": "Vasantha Maligai",
+      "score": 95.0
+    },
+    {
+      "title": "Yaarukkaaga",
+      "album": "Vasantha Maligai",
+      "score": 70.0
+    },
+    {
+      "title": "O Maanida Jaathiye",
+      "album": "Vasantha Maligai",
+      "score": 70.0
+    },
+    {
+      "title": "Oru Kinnathai",
+      "album": "Vasantha Maligai",
+      "score": 70.0
+    },
+    {
+      "title": "Adiyamma Rajathi",
+      "album": "Vasantha Maligai",
+      "score": 70.0
+    },
+    {
+      "title": "Kudi Magane",
+      "album": "Vasantha Maligai",
+      "score": 70.0
+    }
+  ],
+  "sample_changes": [
+    {
+      "track_title": "Kalaimagal",
+      "album_title": "Vasantha Maligai",
+      "old_position": 191,
+      "new_position": 1,
+      "evidence_tier": "tier_1_mega",
+      "score": 95.0
+    },
+    {
+      "track_title": "Yaarukkaaga",
+      "album_title": "Vasantha Maligai",
+      "old_position": 187,
+      "new_position": 2,
+      "evidence_tier": "tier_1_mega",
+      "score": 70.0
+    },
+    {
+      "track_title": "O Maanida Jaathiye",
+      "album_title": "Vasantha Maligai",
+      "old_position": 188,
+      "new_position": 3,
+      "evidence_tier": "tier_1_mega",
+      "score": 70.0
+    },
+    {
+      "track_title": "Oru Kinnathai",
+      "album_title": "Vasantha Maligai",
+      "old_position": 189,
+      "new_position": 4,
+      "evidence_tier": "tier_1_mega",
+      "score": 70.0
+    },
+    {
+      "track_title": "Adiyamma Rajathi",
+      "album_title": "Vasantha Maligai",
+      "old_position": 190,
+      "new_position": 5,
+      "evidence_tier": "tier_1_mega",
+      "score": 70.0
+    },
+    {
+      "track_title": "Kudi Magane",
+      "album_title": "Vasantha Maligai",
+      "old_position": 192,
+      "new_position": 6,
+      "evidence_tier": "tier_1_mega",
+      "score": 70.0
+    },
+    {
+      "track_title": "Namachivaya Ena",
+      "album_title": "Agathiyar",
+      "old_position": 1,
+      "new_position": 7,
+      "evidence_tier": null,
+      "score": null
+    },
+    {
+      "track_title": "Nagadeivame",
+      "album_title": "Annai Abirami",
+      "old_position": 13,
+      "new_position": 8,
+      "evidence_tier": null,
+      "score": null
+    },
+    {
+      "track_title": "Pathi Naanu Vayathinile",
+      "album_title": "Annamitta Kai",
+      "old_position": 15,
+      "new_position": 9,
+      "evidence_tier": null,
+      "score": null
+    },
+    {
+      "track_title": "Kinnathil Then Eduthu",
+      "album_title": "Appa Tata",
+      "old_position": 22,
+      "new_position": 10,
+      "evidence_tier": null,
+      "score": null
+    }
+  ]
+}

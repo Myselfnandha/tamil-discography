@@ -1,0 +1,4687 @@
+{
+  "year": 1996,
+  "total_albums": 79,
+  "total_tracks": 406,
+  "exported_at": "2026-10-15T10:00:20.665370Z",
+  "albums": [
+    {
+      "id": 304,
+      "year": 1996,
+      "title": "A. R. Rahman",
+      "director": "}",
+      "producer": "",
+      "composer": "",
+      "cast": "",
+      "source_url": "https://en.wikipedia.org/wiki/A._R._Rahman",
+      "created_at": "2026-10-14 12:21:49",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Kadhal Virus",
+          "singers": "Kadhal Virus",
+          "lyricist": "Kadhal Virus",
+          "raga": "",
+          "duration": "Kadhal Virus",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "Bigil",
+          "singers": "Bigil",
+          "lyricist": "Bigil",
+          "raga": "",
+          "duration": "Bigil",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "Aaraattu",
+          "singers": "Aaraattu",
+          "lyricist": "Aaraattu",
+          "raga": "",
+          "duration": "Aaraattu",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "Maamannan",
+          "singers": "Maamannan",
+          "lyricist": "Maamannan",
+          "raga": "",
+          "duration": "Maamannan",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "Ayalaan",
+          "singers": "Ayalaan",
+          "lyricist": "Ayalaan",
+          "raga": "",
+          "duration": "Ayalaan",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 3288,
+      "year": 1996,
+      "title": "Aavathum Pennale Azhivathum Pennale",
+      "director": "Senthilnathan",
+      "producer": "Tamil Annai Cine Creations",
+      "composer": "Bala Bharathi",
+      "cast": "Arun Pandian, Rajashri",
+      "source_url": "https://en.wikipedia.org/wiki/Aavathum_Pennale_Azhivathum_Pennale",
+      "created_at": "2026-10-14 13:32:45",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "S. P. Balasubrahmanyam",
+          "singers": "5:03",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "K. S. Chithra",
+          "singers": "5:02",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "Anuradha Sriram",
+          "singers": "5:14",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "Swarnalatha",
+          "singers": "5:04",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "Mano",
+          "singers": "5:01",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 6,
+          "title": "Bala Bharathi",
+          "singers": "5:21",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 3318,
+      "year": 1996,
+      "title": "Alexander",
+      "director": "Keyaar",
+      "producer": "P. A. Art Productions",
+      "composer": "Karthik Raja",
+      "cast": "Vijayakanth, Sangita",
+      "source_url": "https://en.wikipedia.org/wiki/Alexander_%281996_film%29",
+      "created_at": "2026-10-14 13:33:16",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Bhavatharini, Anupama, Mahanadhi Shobana, Yuvan Shankar Raja, S. P. B. Charan",
+          "singers": "Vaali",
+          "lyricist": "3:36",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "Venkat Prabhu, Karthik Raja, Burns",
+          "singers": "Paarthi Bhaskar",
+          "lyricist": "5:25",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "P. Unnikrishnan, Bhavatharini",
+          "singers": "Paarthi Bhaskar",
+          "lyricist": "4:52",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "Sujatha, Mano",
+          "singers": "Panchu Arunachalam",
+          "lyricist": "4:40",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "Malaysia Vasudevan, Anupama, Mahanadhi Shobana",
+          "singers": "Vaali",
+          "lyricist": "4:44",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 3268,
+      "year": 1996,
+      "title": "Amman Kovil Vaasalile",
+      "director": "Ramarajan",
+      "producer": "Mahalakshmi Film International",
+      "composer": "Sirpy",
+      "cast": "Ramarajan, Sangita",
+      "source_url": "https://en.wikipedia.org/wiki/Amman_Kovil_Vaasalile",
+      "created_at": "2026-10-14 13:32:25",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Malaysia Vasudevan, S. Janaki",
+          "singers": "",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "S. P. Balasubrahmanyam, Sirpy",
+          "singers": "",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "K. S. Chithra",
+          "singers": "",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "S. P. Balasubrahmanyam, K. S. Chithra",
+          "singers": "",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "Mano, Swarnalatha",
+          "singers": "",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 6,
+          "title": "K. S. Chithra, Swarnalatha",
+          "singers": "",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 3316,
+      "year": 1996,
+      "title": "Andha Naal",
+      "director": "Vishnu Priyan",
+      "producer": "Empire Movies",
+      "composer": "Soundaryan",
+      "cast": "Prem, Raja, Mohini",
+      "source_url": "https://en.wikipedia.org/wiki/Andha_Naal",
+      "created_at": "2026-10-14 13:33:15",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Andha Naal",
+          "singers": "K.J.Yesudas",
+          "lyricist": "",
+          "raga": "",
+          "duration": "5:00",
+          "stream_url": "https://music.youtube.com/watch?v=MZOE8QaNntA"
+        },
+        {
+          "track_number": 2,
+          "title": "Adiye Thanni",
+          "singers": "Mano",
+          "lyricist": "",
+          "raga": "",
+          "duration": "5:02",
+          "stream_url": "https://music.youtube.com/watch?v=d4bG84lrPzA"
+        },
+        {
+          "track_number": 3,
+          "title": "Vacha Vacha",
+          "singers": "Anuradha Sriram",
+          "lyricist": "",
+          "raga": "",
+          "duration": "5:12",
+          "stream_url": "https://music.youtube.com/watch?v=apYUKOOB8wc"
+        },
+        {
+          "track_number": 4,
+          "title": "Andha Naal (Swarnalatha)",
+          "singers": "Swarnalatha",
+          "lyricist": "",
+          "raga": "",
+          "duration": "5:00",
+          "stream_url": "https://music.youtube.com/watch?v=QPIrvBVSnpw"
+        },
+        {
+          "track_number": 5,
+          "title": "Yesuve Yesuve",
+          "singers": "Prabhakar, Rajkumar",
+          "lyricist": "",
+          "raga": "",
+          "duration": "1:21",
+          "stream_url": "https://music.youtube.com/watch?v=Q5VL4Nwp9GU"
+        },
+        {
+          "track_number": 6,
+          "title": "Devanin Vasalil",
+          "singers": "Mano, Anuiradha Sriram",
+          "lyricist": "",
+          "raga": "",
+          "duration": "5:06",
+          "stream_url": "https://music.youtube.com/watch?v=zSXTnt5Xsb4"
+        }
+      ]
+    },
+    {
+      "id": 3289,
+      "year": 1996,
+      "title": "Anthimanthaarai",
+      "director": "Bharathiraja",
+      "producer": "Megaa Movies",
+      "composer": "A. R. Rahman",
+      "cast": "Vijayakumar, Jayasudha, Sanghavi",
+      "source_url": "https://en.wikipedia.org/wiki/Anthimanthaarai",
+      "created_at": "2026-10-14 13:32:46",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Bharathiraja",
+          "singers": "",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "Unnikrishnan",
+          "singers": "",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "Instrumental",
+          "singers": "",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "Swarnalatha",
+          "singers": "",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 7,
+          "title": "Sumangali",
+          "singers": "",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 3256,
+      "year": 1996,
+      "title": "Aruva Velu",
+      "director": "P. S. Bharathi Kannan",
+      "producer": "Goodwill Movies",
+      "composer": "Adithyan",
+      "cast": "Nassar, Urvashi",
+      "source_url": "https://en.wikipedia.org/wiki/Aruva_Velu",
+      "created_at": "2026-10-14 13:32:12",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Kaadu Mazha Sollum",
+          "singers": "Adithyan",
+          "lyricist": "Madhurakasi",
+          "raga": "",
+          "duration": "4:48",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "Maruthayee Ninaichu",
+          "singers": "Swarnalatha, Shahul Hameed",
+          "lyricist": "Vairamuthu",
+          "raga": "",
+          "duration": "4:47",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "Rohttu Pakkam",
+          "singers": "S. P. Sailaja",
+          "lyricist": "Vairamuthu",
+          "raga": "",
+          "duration": "5:12",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "Vanthachu Nalla Kalam",
+          "singers": "Mano, Malgudi Subha, Adithyan",
+          "lyricist": "Vairamuthu",
+          "raga": "",
+          "duration": "5:22",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "Yeamma Indha Rathiri",
+          "singers": "Sujatha",
+          "lyricist": "Panchu Arunachalam",
+          "raga": "",
+          "duration": "4:57",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 3292,
+      "year": 1996,
+      "title": "Avathara Purushan",
+      "director": "Pandiyan Arivali",
+      "producer": "Jagannathan Productions",
+      "composer": "Sirpy",
+      "cast": "Ranjith, Anand, Sivaranjani",
+      "source_url": "https://en.wikipedia.org/wiki/Avathara_Purushan",
+      "created_at": "2026-10-14 13:32:50",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Mano",
+          "singers": "4:05",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "Mano, Ashok",
+          "singers": "4:23",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "S. P. Balasubrahmanyam, Sujatha",
+          "singers": "3:18",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "Swarnalatha",
+          "singers": "4:19",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "S. P. Balasubrahmanyam, K. S. Chithra",
+          "singers": "4:58",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 3319,
+      "year": 1996,
+      "title": "Avvai Shanmugi",
+      "director": "K. S. Ravikumar",
+      "producer": "Sree Mahalakshmi Combines",
+      "composer": "Deva",
+      "cast": "Kamal Haasan, Meena, Heera, Gemini Ganesan",
+      "source_url": "https://en.wikipedia.org/wiki/Avvai_Shanmugi",
+      "created_at": "2026-10-14 13:33:18",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Rukku Rukku",
+          "singers": "Kamal Haasan, [[Sujatha Mohan",
+          "lyricist": "",
+          "raga": "",
+          "duration": "5:55",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "Kadhala Kadhala",
+          "singers": "[[Hariharan (singer)",
+          "lyricist": "",
+          "raga": "",
+          "duration": "5:46",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "Kalyanam Katcheri",
+          "singers": "S. P. Balasubrahmanyam",
+          "lyricist": "",
+          "raga": "",
+          "duration": "5:30",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "Velai Velai",
+          "singers": "S. P. Balasubrahmanyam",
+          "lyricist": "",
+          "raga": "",
+          "duration": "5:26",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "Kadhali Kadhali",
+          "singers": "Hariharan",
+          "lyricist": "",
+          "raga": "",
+          "duration": "5:44",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 3257,
+      "year": 1996,
+      "title": "Coimbatore Mappillai",
+      "director": "C. Ranganathan",
+      "producer": "Shree Vijayalakshmi Movieland",
+      "composer": "Vidyasagar",
+      "cast": "Vijay, Sanghavi",
+      "source_url": "https://en.wikipedia.org/wiki/Coimbatore_Mappillai",
+      "created_at": "2026-10-14 13:32:12",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Mano, Swarnalatha",
+          "singers": "Vaali",
+          "lyricist": "4:31",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "Udit Narayan, Sadhana Sargam, Vijay",
+          "singers": "Vaali",
+          "lyricist": "4:31",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "S. P. Balasubrahmanyam",
+          "singers": "P. R. C. Balu",
+          "lyricist": "4:42",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "Hariharan, Sadhana Sargam",
+          "singers": "Vaali",
+          "lyricist": "4:32",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "Vijay, Shahul Hameed",
+          "singers": "Vaali",
+          "lyricist": "4:24",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 3297,
+      "year": 1996,
+      "title": "Crime",
+      "director": "Sukumar",
+      "producer": "United Universal Creations",
+      "composer": "Raja",
+      "cast": "Venki, Shanti",
+      "source_url": "https://en.wikipedia.org/wiki/Crime",
+      "created_at": "2026-10-14 13:32:56",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Crime",
+          "singers": "Rayla",
+          "lyricist": "",
+          "raga": "",
+          "duration": "3:36",
+          "stream_url": "https://music.youtube.com/watch?v=oRrI001DbJ8"
+        }
+      ]
+    },
+    {
+      "id": 3298,
+      "year": 1996,
+      "title": "En Aasai Thangachi",
+      "director": "K. Shanmuga Mani",
+      "producer": "Raams Movies",
+      "composer": "T. Rajendar",
+      "cast": "Ramki, Balambika",
+      "source_url": "https://en.wikipedia.org/wiki/En_Aasai_Thangachi",
+      "created_at": "2026-10-14 13:32:57",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Ettu Patti Kedkum Varai",
+          "singers": "Malaysia Vasudevan, K. S. Chithra",
+          "lyricist": "",
+          "raga": "",
+          "duration": "5:24",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "Indhaa Idukaa",
+          "singers": "Swarnalatha, S. P. Balasubrahmanyam",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:53",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "Kaanangatu",
+          "singers": "Sindhu",
+          "lyricist": "",
+          "raga": "",
+          "duration": "1:22",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "Kandangi",
+          "singers": "Sindhu",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:41",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "Pachai Valai  Eduthu",
+          "singers": "Sindhu, chorus",
+          "lyricist": "",
+          "raga": "",
+          "duration": "1:27",
+          "stream_url": ""
+        },
+        {
+          "track_number": 6,
+          "title": "Pachai Kili",
+          "singers": "Sindhu, S. P. Balasubrahmanyam",
+          "lyricist": "",
+          "raga": "",
+          "duration": "5:12",
+          "stream_url": ""
+        },
+        {
+          "track_number": 7,
+          "title": "Pillayar",
+          "singers": "[[Shobana Vignesh",
+          "lyricist": "",
+          "raga": "",
+          "duration": "6:46",
+          "stream_url": ""
+        },
+        {
+          "track_number": 8,
+          "title": "Ponnumani Kannumani",
+          "singers": "S. P. Balasubrahmanyam, chorus",
+          "lyricist": "",
+          "raga": "",
+          "duration": "5:13",
+          "stream_url": ""
+        },
+        {
+          "track_number": 9,
+          "title": "Vaararu Maapillai",
+          "singers": "S. P. Balasubrahmanyam",
+          "lyricist": "",
+          "raga": "",
+          "duration": "5:33",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 3302,
+      "year": 1996,
+      "title": "Enakkoru Magan Pirappan",
+      "director": "K. R.",
+      "producer": "Pyramid Films International",
+      "composer": "Karthik Raja",
+      "cast": "Ramki, Khushbu",
+      "source_url": "https://en.wikipedia.org/wiki/Enakkoru_Magan_Pirappan",
+      "created_at": "2026-10-14 13:33:00",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "P. Unnikrishnan, Sunandha",
+          "singers": "Arunmozhi",
+          "lyricist": "3:28",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "Sunandha",
+          "singers": "Arunmozhi",
+          "lyricist": "2:02",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "P. Unnikrishnan, Sujatha",
+          "singers": "Arunmozhi",
+          "lyricist": "3:06",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "Bhavatharini, Karthik Raja",
+          "singers": "Arunmozhi",
+          "lyricist": "4:50",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "P. Jayachandran, Bhavatharini",
+          "singers": "Arunmozhi",
+          "lyricist": "4:54",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 6,
+          "title": "Mano, P. Jayachandran",
+          "singers": "Ilandevan",
+          "lyricist": "4:28",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 3327,
+      "year": 1996,
+      "title": "Gnanapazham",
+      "director": "R. P. Vishwam",
+      "producer": "Bagavathi Creations",
+      "composer": "K. Bhagyaraj",
+      "cast": "K. Bhagyaraj, Sukanya",
+      "source_url": "https://en.wikipedia.org/wiki/Gnanapazham",
+      "created_at": "2026-10-14 13:33:27",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Manimaada",
+          "singers": "S. P. Balasubrahmanyam",
+          "lyricist": "Pa. Vijay",
+          "raga": "",
+          "duration": "5:00",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "Marina Beach",
+          "singers": "Malgudi Subha",
+          "lyricist": "Pa. Vijay",
+          "raga": "",
+          "duration": "5:16",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "Onnum Onnum",
+          "singers": "[[Harini (singer)",
+          "lyricist": "Pulamaipithan",
+          "raga": "",
+          "duration": "1:51",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "Unnaipol",
+          "singers": "[[Mano (singer)",
+          "lyricist": "Pa. Vijay",
+          "raga": "",
+          "duration": "4:52",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "Yaarum Illadha",
+          "singers": "[[Sujatha Mohan",
+          "lyricist": "Pa.Vijay",
+          "raga": "",
+          "duration": "5:31",
+          "stream_url": ""
+        },
+        {
+          "track_number": 6,
+          "title": "Hey Sayorana",
+          "singers": "Mano, Suresh Peters, Swarnalatha",
+          "lyricist": "Kalidasan",
+          "raga": "",
+          "duration": "4:46",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 3320,
+      "year": 1996,
+      "title": "Gokulathil Seethai",
+      "director": "Agathiyan",
+      "producer": "Lakshmi Movie Makers",
+      "composer": "Deva",
+      "cast": "Karthik, Suvalakshmi",
+      "source_url": "https://en.wikipedia.org/wiki/Gokulathil_Seethai_%28film%29",
+      "created_at": "2026-10-14 13:33:19",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Andhi Mantharai",
+          "singers": "Suresh Peters, Anuradha Sriram",
+          "lyricist": "",
+          "raga": "",
+          "duration": "5:26",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "Enthan Kural",
+          "singers": "K. S. Chithra",
+          "lyricist": "",
+          "raga": "",
+          "duration": "5:04",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "Nilavae Vaa",
+          "singers": "Krishnaraj",
+          "lyricist": "",
+          "raga": "Male",
+          "duration": "5:16",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "Gokulathu Kanna",
+          "singers": "S. P. Balasubrahmanyam, K. S. Chithra, Baby Deepika, Deva",
+          "lyricist": "",
+          "raga": "",
+          "duration": "5:12",
+          "stream_url": ""
+        },
+        {
+          "track_number": 6,
+          "title": "Sorgam Madhuvil",
+          "singers": "[[Mano (singer)",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:53",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 3328,
+      "year": 1996,
+      "title": "Gopala Gopala",
+      "director": "Pandiarajan",
+      "producer": "Roja Combines",
+      "composer": "Deva",
+      "cast": "Pandiarajan, Khushbu",
+      "source_url": "https://en.wikipedia.org/wiki/Gopala_Gopala_%281996_film%29",
+      "created_at": "2026-10-14 13:33:28",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Enna Annaikki",
+          "singers": "[[Deva (composer)",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:11",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "Kanna Nee Varuvai",
+          "singers": "Anuradha Sriram, Ishrath, Meera Krishnan",
+          "lyricist": "",
+          "raga": "",
+          "duration": "5:24",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "Mr India",
+          "singers": "[[Mano (singer)",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:19",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "Thenkasi Mamanukku",
+          "singers": "Shahul Hameed, Swarnalatha",
+          "lyricist": "",
+          "raga": "",
+          "duration": "3:51",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "Yuddhathil",
+          "singers": "S. P. Balasubrahmanyam, K. S. Chithra",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:27",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 3311,
+      "year": 1996,
+      "title": "Ilamai Rojakkal",
+      "director": "S. Manikandan",
+      "producer": "Vijaya Cine Enterprises",
+      "composer": "Rajamani",
+      "cast": "Bhaskaran, Chandrika",
+      "source_url": "https://en.wikipedia.org/wiki/Ilamai_Rojakkal",
+      "created_at": "2026-10-14 13:33:10",
+      "tracks": []
+    },
+    {
+      "id": 3286,
+      "year": 1996,
+      "title": "Indian",
+      "director": "Shankar",
+      "producer": "Sri Surya Movies",
+      "composer": "A. R. Rahman",
+      "cast": "Kamal Haasan, Manisha Koirala, Urmila Matondkar, Sukanya, Goundamani",
+      "source_url": "https://en.wikipedia.org/wiki/Indian_%281996_film%29",
+      "created_at": "2026-10-14 13:32:43",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Maya Machindra",
+          "singers": "S. P. Balasubrahmanyam, Swarnalatha",
+          "lyricist": "",
+          "raga": "",
+          "duration": "5:37",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "Akadanu Naanga",
+          "singers": "Swarnalatha",
+          "lyricist": "",
+          "raga": "",
+          "duration": "5:44",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "Kappaleri Poyaachu",
+          "singers": "S. P. Balasubrahmanyam, P. Susheela",
+          "lyricist": "",
+          "raga": "",
+          "duration": "6:28",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "Pachai Kiligal",
+          "singers": "K. J. Yesudas, Nirmala Seshadri",
+          "lyricist": "",
+          "raga": "Lyrics:Vairamuthu",
+          "duration": "5:50",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "Telephone Manipol",
+          "singers": "[[Hariharan (singer)",
+          "lyricist": "",
+          "raga": "",
+          "duration": "6:15",
+          "stream_url": ""
+        },
+        {
+          "track_number": 6,
+          "title": "Latka Dikha Diya Humne (version-2)",
+          "singers": "Suchitra Krishnamurthy",
+          "lyricist": "",
+          "raga": "",
+          "duration": "5:48",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 3279,
+      "year": 1996,
+      "title": "Irattai Roja",
+      "director": "Keyaar",
+      "producer": "Devi Kamal Films",
+      "composer": "Ilaiyaraaja",
+      "cast": "Ramki, Khushbu, Urvashi",
+      "source_url": "https://en.wikipedia.org/wiki/Irattai_Roja",
+      "created_at": "2026-10-14 13:32:36",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Mano, [https://www.devieneithiyar.com/profile/ Devie Neithiyar]",
+          "singers": "",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "Malaysia Vasudevan, K. S. Chithra",
+          "singers": "",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "Ilaiyaraaja, Arunmozhi",
+          "singers": "",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "K. S. Chithra, Mano",
+          "singers": "",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "S. P. Balasubrahmanyam",
+          "singers": "",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 6,
+          "title": "Bhavatharini, Mano",
+          "singers": "",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 3304,
+      "year": 1996,
+      "title": "Kaadhal Desam",
+      "director": "Kathir",
+      "producer": "Gentleman Film International",
+      "composer": "A. R. Rahman",
+      "cast": "Vineeth, Abbas, Tabu",
+      "source_url": "https://en.wikipedia.org/wiki/Kaadhal_Desam",
+      "created_at": "2026-10-14 13:33:02",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Mustafaa Mustafaa",
+          "singers": "A. R. Rahman",
+          "lyricist": "",
+          "raga": "",
+          "duration": "6:07",
+          "stream_url": "https://music.youtube.com/watch?v=aH2VAnvUaaU"
+        },
+        {
+          "track_number": 2,
+          "title": "Kalluri Salai",
+          "singers": "A. R. Rahman",
+          "lyricist": "",
+          "raga": "",
+          "duration": "5:53",
+          "stream_url": "https://music.youtube.com/watch?v=H-CMK5toIm0"
+        },
+        {
+          "track_number": 3,
+          "title": "Anbay",
+          "singers": "A. R. Rahman",
+          "lyricist": "",
+          "raga": "",
+          "duration": "5:42",
+          "stream_url": "https://music.youtube.com/watch?v=KxjiPgpVkqc"
+        },
+        {
+          "track_number": 4,
+          "title": "O Vennilla",
+          "singers": "A. R. Rahman",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:58",
+          "stream_url": "https://music.youtube.com/watch?v=WtnvetwiU_4"
+        },
+        {
+          "track_number": 5,
+          "title": "Thendrale",
+          "singers": "A. R. Rahman",
+          "lyricist": "",
+          "raga": "",
+          "duration": "6:38",
+          "stream_url": "https://music.youtube.com/watch?v=nwjZuqTRgIg"
+        },
+        {
+          "track_number": 6,
+          "title": "Hello Doctor",
+          "singers": "A. R. Rahman",
+          "lyricist": "",
+          "raga": "",
+          "duration": "6:20",
+          "stream_url": "https://music.youtube.com/watch?v=HWYfJkvR9fs"
+        }
+      ]
+    },
+    {
+      "id": 4438,
+      "year": 1996,
+      "title": "Kaalam Maari Pochu",
+      "director": "V. Sekhar",
+      "producer": "Thiruvalluvar Kalaikkoodam",
+      "composer": "Deva",
+      "cast": "Pandiarajan, Sangita",
+      "source_url": "https://en.wikipedia.org/wiki/Kaalam_Maari_Pochu_%281996_film%29",
+      "created_at": "2026-10-14 14:01:28",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "K. S. Chithra",
+          "singers": "Vaali",
+          "lyricist": "4:29",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "Mano, Krishnaraj, K. S. Chithra",
+          "singers": "Vairamuthu",
+          "lyricist": "5:01",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "S. P. Balasubrahmanyam, Sindhu",
+          "singers": "Vairamuthu",
+          "lyricist": "5:01",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "S. P. Balasubrahmanyam",
+          "singers": "Vaali",
+          "lyricist": "4:30",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "Vadivelu",
+          "singers": "Vaali",
+          "lyricist": "4:18",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 3295,
+      "year": 1996,
+      "title": "Kadhal Kottai",
+      "director": "Agathiyan",
+      "producer": "Sivashakthi Movie Makers",
+      "composer": "Deva",
+      "cast": "Ajith Kumar, Devayani, Heera",
+      "source_url": "https://en.wikipedia.org/wiki/Kadhal_Kottai",
+      "created_at": "2026-10-14 13:32:53",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Kaalamellam Kadhal",
+          "singers": "P. Unnikrishnan, K. S. Chithra",
+          "lyricist": "Agathiyan",
+          "raga": "",
+          "duration": "5:05",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "Kavalai Padathey",
+          "singers": "[[Deva (composer)",
+          "lyricist": "Agathiyan",
+          "raga": "",
+          "duration": "4:26",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "Mottu Mottu Malaradha",
+          "singers": "Swarnalatha",
+          "lyricist": "Agathiyan",
+          "raga": "",
+          "duration": "4:54",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "Nalam Nalamariya Aval",
+          "singers": "S. P. Balasubrahmanyam, Anuradha Sriram",
+          "lyricist": "Agathiyan",
+          "raga": "Version 1",
+          "duration": "4:48",
+          "stream_url": ""
+        },
+        {
+          "track_number": 6,
+          "title": "Sivappu Lolakku",
+          "singers": "S. P. Balasubrahmanyam",
+          "lyricist": "Ponniyin Selvan",
+          "raga": "",
+          "duration": "5:23",
+          "stream_url": ""
+        },
+        {
+          "track_number": 7,
+          "title": "Vellarikka",
+          "singers": "Deva, Krishnaraj",
+          "lyricist": "Agathiyan",
+          "raga": "",
+          "duration": "4:23",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 3321,
+      "year": 1996,
+      "title": "Kalki",
+      "director": "K. Balachander",
+      "producer": "Kavithalayaa Productions",
+      "composer": "Deva",
+      "cast": "Rahman, Shruti, Geetha, Prakash Raj",
+      "source_url": "https://en.wikipedia.org/wiki/Kalki_%281996_film%29",
+      "created_at": "2026-10-14 13:33:20",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Suresh Peters, Febi Mani",
+          "singers": "05:15",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "K. S. Chithra, Anuradha Sriram",
+          "singers": "06:14",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "Mano, Swarnalatha",
+          "singers": "04:07",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "Sujatha",
+          "singers": "05:05",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "Sudha Ragunathan, K. S. Chithra",
+          "singers": "05:44",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 6,
+          "title": "P. Unnikrishnan",
+          "singers": "04:25",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 7,
+          "title": "K. S. Chithra",
+          "singers": "05:15",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 8,
+          "title": "Mano",
+          "singers": "04:51",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 3273,
+      "year": 1996,
+      "title": "Kalloori Vaasal",
+      "director": "Pavithran",
+      "producer": "Aanand Associates",
+      "composer": "Deva",
+      "cast": "Ajith Kumar, Pooja Bhatt, Prashanth, Devayani",
+      "source_url": "https://en.wikipedia.org/wiki/Kalloori_Vaasal",
+      "created_at": "2026-10-14 13:32:30",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "En Manathai",
+          "singers": "[[Hariharan (singer)",
+          "lyricist": "[[Vaali (poet)",
+          "raga": "",
+          "duration": "5:20",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "Kiss Me",
+          "singers": "P. Unnikrishnan, K. S. Chithra",
+          "lyricist": "Vairamuthu",
+          "raga": "",
+          "duration": "4:42",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "Loyola College",
+          "singers": "[[Mano (singer)",
+          "lyricist": "Vaali",
+          "raga": "",
+          "duration": "4:36",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "Nilagiri",
+          "singers": "Mano, Swarnalatha",
+          "lyricist": "Vaali",
+          "raga": "",
+          "duration": "4:19",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "Super Hit",
+          "singers": "Mano, Anuradha Sriram",
+          "lyricist": "Vairamuthu",
+          "raga": "",
+          "duration": "5:36",
+          "stream_url": ""
+        },
+        {
+          "track_number": 6,
+          "title": "Vanakkiliye",
+          "singers": "S. Janaki",
+          "lyricist": "Vaali",
+          "raga": "",
+          "duration": "5:00",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 3332,
+      "year": 1996,
+      "title": "Karuppu Roja",
+      "director": "J. Paneer",
+      "producer": "Ayngaran International",
+      "composer": "M. S. V. Raja",
+      "cast": "Ramki, Amar Siddique, Yosika, Vineetha",
+      "source_url": "https://en.wikipedia.org/wiki/Karuppu_Roja",
+      "created_at": "2026-10-14 13:33:31",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Mella Chirithal",
+          "singers": "Suresh Peters",
+          "lyricist": "",
+          "raga": "",
+          "duration": "5:03",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "Mangala Roopini",
+          "singers": "K. S. Chithra",
+          "lyricist": "",
+          "raga": "",
+          "duration": "1:25",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "Siraiyil",
+          "singers": "K. S. Chithra",
+          "lyricist": "",
+          "raga": "",
+          "duration": "2:13",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "Karaiyil Oru",
+          "singers": "S. P. Balasubrahmanyam",
+          "lyricist": "",
+          "raga": "",
+          "duration": "5:06",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "Dealiya Poo",
+          "singers": "[[Chandrabose (composer)",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:54",
+          "stream_url": ""
+        },
+        {
+          "track_number": 6,
+          "title": "Thaayin Madiyil",
+          "singers": "P. Jayachandran",
+          "lyricist": "",
+          "raga": "",
+          "duration": "1:24",
+          "stream_url": ""
+        },
+        {
+          "track_number": 7,
+          "title": "Thottu Vidava Naan",
+          "singers": "S. P. Balasubrahmanyam, Swarnalatha",
+          "lyricist": "",
+          "raga": "",
+          "duration": "5:01",
+          "stream_url": ""
+        },
+        {
+          "track_number": 10,
+          "title": "Thaayin Madiyal",
+          "singers": "&nbsp;—",
+          "lyricist": "",
+          "raga": "instrumental",
+          "duration": "1:26",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 3290,
+      "year": 1996,
+      "title": "Katta Panchayathu",
+      "director": "R. Raghu",
+      "producer": "M. R. Enterprises",
+      "composer": "Ilaiyaraaja",
+      "cast": "Karthik, Kanaka",
+      "source_url": "https://en.wikipedia.org/wiki/Katta_Panchayathu",
+      "created_at": "2026-10-14 13:32:47",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Jolly Abraham, Bhavatharini",
+          "singers": "Vaali",
+          "lyricist": "5:10",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "Arunmozhi",
+          "singers": "Muthulingam",
+          "lyricist": "5:02",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "Mano",
+          "singers": "Ponnadiyan",
+          "lyricist": "4:55",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "Ilaiyaraaja",
+          "singers": "Mu. Metha",
+          "lyricist": "3:36",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "Arunmozhi,  [https://www.devieneithiyar.com/profile/ Devie Neithiyar]",
+          "singers": "Kamakodiyan",
+          "lyricist": "4:41",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 3258,
+      "year": 1996,
+      "title": "Kizhakku Mugam",
+      "director": "M. Anna Thurai",
+      "producer": "Thai Films International",
+      "composer": "Adithyan",
+      "cast": "Karthik, Reshma",
+      "source_url": "https://en.wikipedia.org/wiki/Kizhakku_Mugam",
+      "created_at": "2026-10-14 13:32:13",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "K. S. Chithra",
+          "singers": "3:41",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "Shahul Hameed, Sujatha",
+          "singers": "4:18",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "Adithyan",
+          "singers": "4:39",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "P. Unni Krishnan, Sangeetha Sajith",
+          "singers": "4:59",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "K. S. Chithra, Adithyan",
+          "singers": "5:32",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 6,
+          "title": "S. P. Balasubrahmanyam",
+          "singers": "2:20",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 7,
+          "title": "Vasavi",
+          "singers": "4:01",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 8,
+          "title": "Unni Menon",
+          "singers": "3:33",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 3314,
+      "year": 1996,
+      "title": "Kodugal Illatha Kolam",
+      "director": "L. Balu",
+      "producer": "Salem Palanivel Murugan Movies",
+      "composer": "Devaraj",
+      "cast": "Ramakrishnan, Sujatha",
+      "source_url": "https://en.wikipedia.org/wiki/Kodugal_Illatha_Kolam",
+      "created_at": "2026-10-14 13:33:12",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Poo Malarum",
+          "singers": "Vani Jairam, P. Jayachandran, A. Devaraja",
+          "lyricist": "",
+          "raga": "",
+          "duration": "3:19",
+          "stream_url": "https://www.jiosaavn.com/song/poo-malarum/QxJTXz5KDgE"
+        },
+        {
+          "track_number": 2,
+          "title": "Devan Vanthan",
+          "singers": "S. Janaki, A. Devaraja",
+          "lyricist": "",
+          "raga": "",
+          "duration": "3:21",
+          "stream_url": "https://www.jiosaavn.com/song/devan-vanthan/PAYNVxp4XlE"
+        },
+        {
+          "track_number": 3,
+          "title": "Meghangal Odum",
+          "singers": "S. Janaki, T.M. Soundararajan, A. Devaraja",
+          "lyricist": "",
+          "raga": "",
+          "duration": "3:07",
+          "stream_url": "https://www.jiosaavn.com/song/meghangal-odum/CjE0CSZxYXA"
+        },
+        {
+          "track_number": 4,
+          "title": "Ye Vaadi Rajathi",
+          "singers": "S.P. Sailaja, Malaysia Vasudevan, A. Devaraja",
+          "lyricist": "",
+          "raga": "",
+          "duration": "3:13",
+          "stream_url": "https://www.jiosaavn.com/song/ye-vaadi-rajathi/EUUvYhFpZgU"
+        }
+      ]
+    },
+    {
+      "id": 3291,
+      "year": 1996,
+      "title": "Krishna",
+      "director": "Raja Krishnamoorthy",
+      "producer": "Unique Creations",
+      "composer": "S. A. Rajkumar",
+      "cast": "Prashanth, Heera",
+      "source_url": "https://en.wikipedia.org/wiki/Krishna_%281996_Tamil_film%29",
+      "created_at": "2026-10-14 13:32:48",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "S. P. Balasubrahmanyam, Chorus",
+          "singers": "Raja Krishnamoorthy",
+          "lyricist": "03:32",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "S. P. Balasubrahmanyam, Annupamaa",
+          "singers": "Raja Krishnamoorthy",
+          "lyricist": "04:33",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "Mano, Chorus",
+          "singers": "Piraisoodan",
+          "lyricist": "05:00",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "S. A. Rajkumar, K. S. Chithra",
+          "singers": "S. A. Rajkumar",
+          "lyricist": "04:45",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "Shahul Hameed, Chorus",
+          "singers": "Piraisoodan",
+          "lyricist": "03:43",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 6,
+          "title": "Malaysia Vasudevan, P. Jayachandran",
+          "singers": "Raja Krishnamoorthy",
+          "lyricist": "04:33",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 7,
+          "title": "Sujatha",
+          "singers": "S. A. Rajkumar",
+          "lyricist": "04:57",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 8,
+          "title": "Malgudi Subha, Annupamaa",
+          "singers": "S. A. Rajkumar",
+          "lyricist": "04:08",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 3259,
+      "year": 1996,
+      "title": "Love Birds",
+      "director": "P. Vasu",
+      "producer": "Pyramid Films",
+      "composer": "A. R. Rahman",
+      "cast": "Prabhu Deva, Nagma, Vadivelu",
+      "source_url": "https://en.wikipedia.org/wiki/Love_Birds_%281996_film%29",
+      "created_at": "2026-10-14 13:32:15",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Come On Come On (Love Birds / Soundtrack Version)",
+          "singers": "Udit Narayan",
+          "lyricist": "",
+          "raga": "",
+          "duration": "5:22",
+          "stream_url": "https://music.youtube.com/watch?v=iMGpFbwGEWs"
+        },
+        {
+          "track_number": 2,
+          "title": "No Problem (Love Birds / Soundtrack Version)",
+          "singers": "Apache Indian, A. R. Rahman",
+          "lyricist": "",
+          "raga": "",
+          "duration": "6:17",
+          "stream_url": "https://music.youtube.com/watch?v=kGuH6_WLEPM"
+        },
+        {
+          "track_number": 3,
+          "title": "Milgaye Milgaye (Love Birds / Soundtrack Version)",
+          "singers": "Hariharan, Chitra",
+          "lyricist": "",
+          "raga": "",
+          "duration": "7:16",
+          "stream_url": "https://music.youtube.com/watch?v=uvNJpMsx5R8"
+        },
+        {
+          "track_number": 4,
+          "title": "Na Ho Kal (Love Birds / Soundtrack Version)",
+          "singers": "S. P. Balasubrahmanyam, Sujatha",
+          "lyricist": "",
+          "raga": "",
+          "duration": "7:28",
+          "stream_url": "https://music.youtube.com/watch?v=gA6ekOj3u4I"
+        },
+        {
+          "track_number": 5,
+          "title": "Samba Samba (Love Birds / Soundtrack Version)",
+          "singers": "Aslam Mustafa",
+          "lyricist": "",
+          "raga": "",
+          "duration": "5:34",
+          "stream_url": "https://music.youtube.com/watch?v=LaKlkAz0Y_8"
+        }
+      ]
+    },
+    {
+      "id": 3281,
+      "year": 1996,
+      "title": "Maanbumigu Maanavan",
+      "director": "S. A. Chandrasekhar",
+      "producer": "Seventh Channel Communications",
+      "composer": "Deva",
+      "cast": "Vijay, Swapna Bedi",
+      "source_url": "https://en.wikipedia.org/wiki/Maanbumigu_Maanavan",
+      "created_at": "2026-10-14 13:32:38",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Kanmani Subbu",
+          "singers": "5:16",
+          "lyricist": "Suresh Peters",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "Vaali",
+          "singers": "4:51",
+          "lyricist": "Mano, Swarnalatha",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 3265,
+      "year": 1996,
+      "title": "Mahaprabhu",
+      "director": "A. Venkatesh",
+      "producer": "Sri Sai Theja Films",
+      "composer": "Deva",
+      "cast": "Sarath Kumar, Sukanya, Vineetha",
+      "source_url": "https://en.wikipedia.org/wiki/Mahaprabhu_%28film%29",
+      "created_at": "2026-10-14 13:32:21",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "S. Janaki, Shahul Hameed",
+          "singers": "4:39",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "K. S. Chithra, Mano",
+          "singers": "6:02",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "Gangai Amaran, S. Janaki",
+          "singers": "4:43",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "S. Janaki, S. P. Balasubrahmanyam, G. V. Prakash Kumar",
+          "singers": "4:55",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "Mano, Swarnalatha",
+          "singers": "4:20",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 6,
+          "title": "S. P. Balasubrahmanyam, Sunandha",
+          "singers": "4:03",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 3306,
+      "year": 1996,
+      "title": "Manikkam",
+      "director": "K. V. Pandian",
+      "producer": "Amma Creations",
+      "composer": "Karthik Raja",
+      "cast": "Rajkiran, Vanitha Vijayakumar",
+      "source_url": "https://en.wikipedia.org/wiki/Manikkam",
+      "created_at": "2026-10-14 13:33:04",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Sundararae Muzhu",
+          "singers": "S. P. Balasubrahmanyam, Bhavatharini",
+          "lyricist": "Muthulingam",
+          "raga": "",
+          "duration": "Muthulingam",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "Rakkamma Rakkamma",
+          "singers": "S. P. Balasubrahmanyam, Swarnalatha",
+          "lyricist": "Paarthi Bhaskar",
+          "raga": "",
+          "duration": "Paarthi Bhaskar",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "Santhanam Theychachi",
+          "singers": "Bhavatharini",
+          "lyricist": "Paarthi Bhaskar",
+          "raga": "",
+          "duration": "Paarthi Bhaskar",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "Unakku En Rasa",
+          "singers": "P. Susheela",
+          "lyricist": "Vaamanan",
+          "raga": "",
+          "duration": "Vaamanan",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "Thottu Sel Ilam",
+          "singers": "Bhavatharini",
+          "lyricist": "Ilaiyaraaja",
+          "raga": "",
+          "duration": "Ilaiyaraaja",
+          "stream_url": ""
+        },
+        {
+          "track_number": 6,
+          "title": "Shakthi Ulla Thaye",
+          "singers": "S. P. Balasubrahmanyam, Venkat Prabhu",
+          "lyricist": "Gangai Amaran",
+          "raga": "",
+          "duration": "Gangai Amaran",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 3280,
+      "year": 1996,
+      "title": "Mappillai Manasu Poopola",
+      "director": "Kuruvikkarambai Shanmugam",
+      "producer": "Kuru Kalaikkoodam",
+      "composer": "Deva",
+      "cast": "Pandiarajan, Yuvarani",
+      "source_url": "https://en.wikipedia.org/wiki/Mappillai_Manasu_Poopola",
+      "created_at": "2026-10-14 13:32:37",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Krishnaraj, Mano",
+          "singers": "5:32",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "S. P. Balasubrahmanyam, S. P. B. Pallavi",
+          "singers": "4:40",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "Rajagopal, B. S. Sasirekha",
+          "singers": "5:00",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "Krishnaraj, Sindhu",
+          "singers": "5:03",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "Deva",
+          "singers": "4:28",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 3269,
+      "year": 1996,
+      "title": "Meendum Savithri",
+      "director": "Visu",
+      "producer": "Vijaya Combines",
+      "composer": "Devendran",
+      "cast": "Raja, Revathi",
+      "source_url": "https://en.wikipedia.org/wiki/Meendum_Savithri",
+      "created_at": "2026-10-14 13:32:26",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Naatukulla Romba",
+          "singers": "[[Mano (singer)",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:31",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "Pethava Unnai",
+          "singers": "K. J. Yesudas",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:19",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "Avaravar Thalai",
+          "singers": "K. S. Chithra",
+          "lyricist": "",
+          "raga": "",
+          "duration": "3:58",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "Indha Naal",
+          "singers": "Mano",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:58",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "Vel Murugan",
+          "singers": "Mano",
+          "lyricist": "",
+          "raga": "",
+          "duration": "3:48",
+          "stream_url": ""
+        },
+        {
+          "track_number": 6,
+          "title": "Naan Onru Thedi",
+          "singers": "K. S. Chithra",
+          "lyricist": "",
+          "raga": "",
+          "duration": "3:54",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 3305,
+      "year": 1996,
+      "title": "Mettukudi",
+      "director": "Sundar C",
+      "producer": "Ganga Gowri Productions",
+      "composer": "Sirpy",
+      "cast": "Karthik, Nagma, Goundamani",
+      "source_url": "https://en.wikipedia.org/wiki/Mettukudi",
+      "created_at": "2026-10-14 13:33:03",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Anbulla Mannavane",
+          "singers": "[[Mano (singer)",
+          "lyricist": "",
+          "raga": "",
+          "duration": "5:15",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "Velvetta Velvetta",
+          "singers": "Mano, K. S. Chithra",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:59",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "Indha Poonthendral",
+          "singers": "Mano, Sirpy, Israth",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:59",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "Adi Yaaradhu Yaaradhu",
+          "singers": "Mano, K. S. Chithra",
+          "lyricist": "",
+          "raga": "",
+          "duration": "5:00",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "Mana Madurai Gundu Malliye",
+          "singers": "Krishnachander, Swarnalatha",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:55",
+          "stream_url": ""
+        },
+        {
+          "track_number": 6,
+          "title": "Saravanabava",
+          "singers": "Mano",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:48",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 3293,
+      "year": 1996,
+      "title": "Minor Mappillai",
+      "director": "V. C. Guhanathan",
+      "producer": "Victory Movies",
+      "composer": "Isaivanan",
+      "cast": "Ajith Kumar, Keerthana, Subhashri",
+      "source_url": "https://en.wikipedia.org/wiki/Minor_Mappillai",
+      "created_at": "2026-10-14 13:32:51",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Isai Pola Kalai",
+          "singers": "[[Mano (singer)",
+          "lyricist": "",
+          "raga": "",
+          "duration": "5:38",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "Kikku Romba",
+          "singers": "S. P. Balasubrahmanyam",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:23",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "Nethuvara",
+          "singers": "Malaysia Vasudevan",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:34",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "Thanthi Kodu",
+          "singers": "[[Mano (singer)",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:58",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "Then Madurai Malli",
+          "singers": "Mano",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:20",
+          "stream_url": ""
+        },
+        {
+          "track_number": 6,
+          "title": "Va Va Vanam",
+          "singers": "S. P. Balasubrahmanyam",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:37",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 3322,
+      "year": 1996,
+      "title": "Mr. Romeo",
+      "director": "K. S. Ravi",
+      "producer": "Super Good Films",
+      "composer": "A. R. Rahman",
+      "cast": "Prabhu Deva, Madhubala, Shilpa Shetty, Vadivelu",
+      "source_url": "https://en.wikipedia.org/wiki/Mr._Romeo",
+      "created_at": "2026-10-14 13:33:21",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Hariharan, Udit Narayan",
+          "singers": "Vaalee",
+          "lyricist": "5:25",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "Swarnalatha, Unni Menon, Srinivas, Sujatha Mohan",
+          "singers": "Vaalee",
+          "lyricist": "5:40",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "Sangeetha Sajith",
+          "singers": "Vairamuthu",
+          "lyricist": "3:42",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "Ila Arun, Chorus",
+          "singers": "Vairamuthu",
+          "lyricist": "6:21",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "Malaysia Vasudevan, Nagoor Mohammad Ali",
+          "singers": "Vaalee",
+          "lyricist": "5:58",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 3272,
+      "year": 1996,
+      "title": "Musthaffaa",
+      "director": "R. Aravindraj",
+      "producer": "S. G. S. Cine Arts International",
+      "composer": "Vidyasagar",
+      "cast": "Napoleon, Ranjitha",
+      "source_url": "https://en.wikipedia.org/wiki/Musthaffaa",
+      "created_at": "2026-10-14 13:32:30",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Mano, Swarnalatha",
+          "singers": "4:33",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "Mano, Malgudi Subha, Vidyasagar",
+          "singers": "4:22",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "Hariharan, Sadhana Sargam, Santhan, Gopal Sharma",
+          "singers": "4:51",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "Mano, Chorus",
+          "singers": "2:49",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "Swarnalatha",
+          "singers": "4:31",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 3310,
+      "year": 1996,
+      "title": "Namma Ooru Raasa",
+      "director": "Ramarajan",
+      "producer": "Nalini Cine Arts",
+      "composer": "Sirpy",
+      "cast": "Ramarajan, Sangita",
+      "source_url": "https://en.wikipedia.org/wiki/Namma_Ooru_Raasa",
+      "created_at": "2026-10-14 13:33:09",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Mano, K. S. Chithra",
+          "singers": "Kalidasan",
+          "lyricist": "4:57",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "Mano, Sirpy",
+          "singers": "Kalidasan",
+          "lyricist": "4:43",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "Mano, Sujatha Mohan",
+          "singers": "Kalidasan",
+          "lyricist": "4:03",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "Mano",
+          "singers": "Kalidasan",
+          "lyricist": "4:27",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "Sujatha Mohan",
+          "singers": "Muthulingam",
+          "lyricist": "4:55",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 6,
+          "title": "Mano, Sangeetha",
+          "singers": "Muthulingam",
+          "lyricist": "4:40",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 3270,
+      "year": 1996,
+      "title": "Nattupura Pattu",
+      "director": "Kasthuri Raja",
+      "producer": "Kasthoori Manga Creations",
+      "composer": "Ilaiyaraaja",
+      "cast": "Selva, Sivakumar, Khushbu",
+      "source_url": "https://en.wikipedia.org/wiki/Nattupura_Pattu",
+      "created_at": "2026-10-14 13:32:27",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Arunmozhi, [https://www.devieneithiyar.com/ Devie Neithiyar]",
+          "singers": "1:57",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "K. S. Chithra",
+          "singers": "4:31",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "Mano, [https://www.devieneithiyar.com/ Devie Neithiyar]",
+          "singers": "4:49",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "Manorama, K. S. Chithra",
+          "singers": "6:52",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 3323,
+      "year": 1996,
+      "title": "Nethaji",
+      "director": "G. Kicha",
+      "producer": "Kamalam Movies",
+      "composer": "Vidyasagar",
+      "cast": "Sarath Kumar, Lisa Ray",
+      "source_url": "https://en.wikipedia.org/wiki/Nethaji",
+      "created_at": "2026-10-14 13:33:22",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "5:14",
+          "singers": "Vidyasagar, Swarnalatha",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "5:01",
+          "singers": "Vidyasagar, Gopal Rao, Sindhu",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "5:07",
+          "singers": "Anuradha Sriram, Febi Mani, Fiji Mani, Pop Shalini",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "4:52",
+          "singers": "S. P. Balasubrahmanyam, S. Janaki",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "5:06",
+          "singers": "Anuradha Sriram",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 3324,
+      "year": 1996,
+      "title": "Panchalankurichi",
+      "director": "Seeman",
+      "producer": "K. B. Films",
+      "composer": "Deva",
+      "cast": "Prabhu, Madhubala",
+      "source_url": "https://en.wikipedia.org/wiki/Panchalankurichi_%28film%29",
+      "created_at": "2026-10-14 13:33:23",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Aathoram Thopukulae",
+          "singers": "Swarnalatha",
+          "lyricist": "",
+          "raga": "",
+          "duration": "6:13",
+          "stream_url": "https://music.youtube.com/watch?v=IOlvIDvBDfs"
+        },
+        {
+          "track_number": 2,
+          "title": "Ana Aavanna",
+          "singers": "Krishnaraj, Sujatha",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:55",
+          "stream_url": "https://music.youtube.com/watch?v=50oOjBuMlS4"
+        },
+        {
+          "track_number": 3,
+          "title": "Chinna Chinna",
+          "singers": "KS Chitra",
+          "lyricist": "",
+          "raga": "",
+          "duration": "5:08",
+          "stream_url": "https://music.youtube.com/watch?v=_rsBUJFcA5M"
+        },
+        {
+          "track_number": 4,
+          "title": "Chinnavale",
+          "singers": "Krishnaraj, S Janai",
+          "lyricist": "",
+          "raga": "",
+          "duration": "5:41",
+          "stream_url": "https://music.youtube.com/watch?v=vZW3dkMQSjs"
+        },
+        {
+          "track_number": 5,
+          "title": "Katrai Niruthi",
+          "singers": "KS Chitra",
+          "lyricist": "",
+          "raga": "",
+          "duration": "2:37",
+          "stream_url": "https://music.youtube.com/watch?v=4ktc4yqHD58"
+        },
+        {
+          "track_number": 6,
+          "title": "Oru Pakkam Then",
+          "singers": "Krishnaraj, Bhuvana",
+          "lyricist": "",
+          "raga": "",
+          "duration": "2:23",
+          "stream_url": "https://music.youtube.com/watch?v=vfkYPWBYszs"
+        },
+        {
+          "track_number": 7,
+          "title": "Un Uthattora",
+          "singers": "Hariharan, Anuradha Sriram",
+          "lyricist": "",
+          "raga": "",
+          "duration": "6:00",
+          "stream_url": "https://music.youtube.com/watch?v=S8mW3KPdTeU"
+        },
+        {
+          "track_number": 8,
+          "title": "Vanthiyala",
+          "singers": "Suresh Peter, Anuradha Sriram",
+          "lyricist": "",
+          "raga": "",
+          "duration": "5:15",
+          "stream_url": "https://music.youtube.com/watch?v=32bFAqkw0WA"
+        }
+      ]
+    },
+    {
+      "id": 3260,
+      "year": 1996,
+      "title": "Parambarai",
+      "director": "K. S. Ravikumar",
+      "producer": "Malar Films",
+      "composer": "Deva",
+      "cast": "Prabhu, Roja",
+      "source_url": "https://en.wikipedia.org/wiki/Parambarai",
+      "created_at": "2026-10-14 13:32:16",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "S. P. Balasubrahmanyam, Sujatha Mohan",
+          "singers": "5:11",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "Krishnaraj, Shanmugasundari",
+          "singers": "5:15",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "Manorama, K. S. Chithra, Sundararajan",
+          "singers": "4:46",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "Mano, Sujatha Mohan",
+          "singers": "5:08",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "Mano, K. S. Chithra",
+          "singers": "5:09",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 3313,
+      "year": 1996,
+      "title": "Parivattam",
+      "director": "T. K. Rajendran",
+      "producer": "Iyannar Cine Arts",
+      "composer": "Deva",
+      "cast": "Jayaram, Sukanya",
+      "source_url": "https://en.wikipedia.org/wiki/Parivattam",
+      "created_at": "2026-10-14 13:33:11",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Krishnaraj",
+          "singers": "05:15",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "P. Unnikrishnan",
+          "singers": "05:36",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "Krishnaraj, Swarnalatha",
+          "singers": "05:16",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "K. S. Chithra",
+          "singers": "05:00",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "Swarnalatha",
+          "singers": "05:20",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 3329,
+      "year": 1996,
+      "title": "Poomani",
+      "director": "Mu. Kalanjiyam",
+      "producer": "Aananth Movieland",
+      "composer": "Ilaiyaraaja",
+      "cast": "Murali, Devayani",
+      "source_url": "https://en.wikipedia.org/wiki/Poomani_%28film%29",
+      "created_at": "2026-10-14 13:33:28",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "S. P. Balasubrahmanyam",
+          "singers": "Vaali",
+          "lyricist": "02:52",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "Ilaiyaraaja",
+          "singers": "Mu. Metha",
+          "lyricist": "04:44",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "S. P. Balasubrahmanyam, Manivannan",
+          "singers": "Vaali",
+          "lyricist": "04:33",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "K. S. Chithra",
+          "singers": "Kamakodiyan",
+          "lyricist": "03:32",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "Mano, K. S. Chithra",
+          "singers": "Vaali",
+          "lyricist": "05:03",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 6,
+          "title": "Ilaiyaraaja, Sujatha Mohan",
+          "singers": "Palani Bharathi",
+          "lyricist": "05:15",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 3301,
+      "year": 1996,
+      "title": "Poovarasan",
+      "director": "Gokula Krishnan",
+      "producer": "Taj International",
+      "composer": "Ilaiyaraaja",
+      "cast": "Karthik, Rachana Banerjee",
+      "source_url": "https://en.wikipedia.org/wiki/Poovarasan",
+      "created_at": "2026-10-14 13:33:00",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "S P Balasubrahmanyam, K S Chitra",
+          "singers": "5:07",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "S P Balasubrahmanyam",
+          "singers": "4:50",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 6,
+          "title": "Malaysia Vasudevan, [https://www.devieneithiyar.com/profile/ Devie Neithiyar]",
+          "singers": "4:37",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 3271,
+      "year": 1996,
+      "title": "Poove Unakkaga",
+      "director": "Vikraman",
+      "producer": "Super Good Films",
+      "composer": "S. A. Rajkumar",
+      "cast": "Vijay, Sangita",
+      "source_url": "https://en.wikipedia.org/wiki/Poove_Unakkaga_%28film%29",
+      "created_at": "2026-10-14 13:32:28",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Anantham Anantham",
+          "singers": "K. S. Chithra",
+          "lyricist": "Palani Bharathi",
+          "raga": "female",
+          "duration": "06:08",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "Sollamalae",
+          "singers": "[[Sujatha (singer)",
+          "lyricist": "Palani Bharathi",
+          "raga": "",
+          "duration": "04:42",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "Chiclet Chiclet",
+          "singers": "[[Mano (singer)",
+          "lyricist": "S. A. Rajkumar",
+          "raga": "",
+          "duration": "04:25",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "Oh Pyari",
+          "singers": "Adithyan, S. A. Rajkumar, Mohammed Aslam",
+          "lyricist": "[[Vaali (poet)",
+          "raga": "",
+          "duration": "04:19",
+          "stream_url": ""
+        },
+        {
+          "track_number": 6,
+          "title": "Machinichi",
+          "singers": "T. L. Maharajan, Sujatha, Unnikrishnan, Sunanda",
+          "lyricist": "Palani Bharathi",
+          "raga": "",
+          "duration": "03:46",
+          "stream_url": ""
+        },
+        {
+          "track_number": 7,
+          "title": "Idhayangal Naluvuthu",
+          "singers": "Sujatha",
+          "lyricist": "Palani Bharathi",
+          "raga": "",
+          "duration": "03:00",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 4439,
+      "year": 1996,
+      "title": "Priyam",
+      "director": "N. Pandian",
+      "producer": "Kasthuri Film International",
+      "composer": "Vidyasagar",
+      "cast": "Arun Kumar, Mantra",
+      "source_url": "https://en.wikipedia.org/wiki/Priyam_%281996_film%29",
+      "created_at": "2026-10-14 14:01:57",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Vairamuthu",
+          "singers": "",
+          "lyricist": "Mano, [https://www.devieneithiyar.com/profile/ Devie Neithiyar]",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "Ilakkiyan",
+          "singers": "",
+          "lyricist": "Gopal Rao, Sindhu",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 3333,
+      "year": 1996,
+      "title": "Pudhiya Ulagam",
+      "director": "Ilayavan",
+      "producer": "Fathima Nachiyar Films",
+      "composer": "Raj Bhaskar",
+      "cast": "Rioz, Shanthi",
+      "source_url": "https://en.wikipedia.org/wiki/Pudhiya_Ulagam",
+      "created_at": "2026-10-14 13:33:32",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Puthiya Ulagam (Tamil)",
+          "singers": "Kanna",
+          "lyricist": "",
+          "raga": "",
+          "duration": "3:42",
+          "stream_url": "https://music.youtube.com/watch?v=P1zXHxRMeu0"
+        }
+      ]
+    },
+    {
+      "id": 3287,
+      "year": 1996,
+      "title": "Pudhu Nilavu",
+      "director": "Vishnuhasan",
+      "producer": "Rajlakshmi Cine Medias",
+      "composer": "Deva",
+      "cast": "Jayaram, Vineetha",
+      "source_url": "https://en.wikipedia.org/wiki/Pudhu_Nilavu",
+      "created_at": "2026-10-14 13:32:44",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Naughty Girl",
+          "singers": "Suresh Peters, Swarnalatha",
+          "lyricist": "Vairamuthu",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "Pondy Bazaar Roattu",
+          "singers": "[[Mano (singer)",
+          "lyricist": "Kalidasan",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "Pudhu Nilavu Idhu",
+          "singers": "S. Janaki, Chorus",
+          "lyricist": "Vairamuthu",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "Sela Onnu Katti",
+          "singers": "Swarnalatha, Indira",
+          "lyricist": "Vairamuthu",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "Thenpandi Thendral",
+          "singers": "S. P. Balasubrahmanyam, K. S. Chithra",
+          "lyricist": "Vairamuthu",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 6,
+          "title": "Vanna Vanna Pookal",
+          "singers": "Unni Menon, Mano",
+          "lyricist": "Vairamuthu",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 3330,
+      "year": 1996,
+      "title": "Purushan Pondatti",
+      "director": "N. K. Viswanathan",
+      "producer": "Sundar Theatres",
+      "composer": "Sirpy",
+      "cast": "Pandiarajan, Ranjitha",
+      "source_url": "https://en.wikipedia.org/wiki/Purushan_Pondatti",
+      "created_at": "2026-10-14 13:33:29",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Mano, Sangeetha Sajith",
+          "singers": "S. J. Suryah",
+          "lyricist": "4:57",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "Mano, K. S. Chithra",
+          "singers": "Vairamuthu",
+          "lyricist": "4:52",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "Sirpy, K. S. Chithra",
+          "singers": "Vairamuthu",
+          "lyricist": "4:26",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "Maragatha Mani",
+          "singers": "Vairamuthu",
+          "lyricist": "4:06",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 3277,
+      "year": 1996,
+      "title": "Puthiya Parasakthi",
+      "director": "Gowri Rajan",
+      "producer": "Anitha Films",
+      "composer": "Deva",
+      "cast": "Selva, Sukanya, Napoleon",
+      "source_url": "https://en.wikipedia.org/wiki/Puthiya_Parasakthi",
+      "created_at": "2026-10-14 13:32:34",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Kizhakku Veluthu",
+          "singers": "[[Mano (singer)",
+          "lyricist": "Piraisoodan",
+          "raga": "",
+          "duration": "4:56",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "Aathoram Maligai",
+          "singers": "K. S. Chithra, Malaysia Vasudevan",
+          "lyricist": "Vairamuthu",
+          "raga": "",
+          "duration": "5:11",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "Paravaigalae",
+          "singers": "Sabesh",
+          "lyricist": "Kalidasan",
+          "raga": "",
+          "duration": "4:37",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "Manithargale",
+          "singers": "Malaysia Vasudevan",
+          "lyricist": "Kanimozhi",
+          "raga": "",
+          "duration": "4:23",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "Nalla Manam",
+          "singers": "[[Sabesh–Murali",
+          "lyricist": "Chidambaranathan",
+          "raga": "",
+          "duration": "4:41",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 3284,
+      "year": 1996,
+      "title": "Rajali",
+      "director": "Velu Prabhakaran",
+      "producer": "Motherland Movies International",
+      "composer": "Aravind",
+      "cast": "Ramki, Roja",
+      "source_url": "https://en.wikipedia.org/wiki/Rajali",
+      "created_at": "2026-10-14 13:32:41",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Mano, Sindhu",
+          "singers": "",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "Suresh Peters, Sujatha",
+          "singers": "",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "Mansoor Ali Khan, Sujatha",
+          "singers": "",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 3331,
+      "year": 1996,
+      "title": "Selva",
+      "director": "A. Venkatesh",
+      "producer": "A. R. S. International",
+      "composer": "Sirpy",
+      "cast": "Vijay, Swathi",
+      "source_url": "https://en.wikipedia.org/wiki/Selva_%28film%29",
+      "created_at": "2026-10-14 13:33:30",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Vijay, Sirpy, Swarnalatha",
+          "singers": "5:02",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "Mano",
+          "singers": "3:46",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "Suresh Peters, Swarnalatha, Deepika",
+          "singers": "4:41",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "Mano, Sujatha",
+          "singers": "4:46",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "S. P. Balasubrahmanyam, Swarnalatha",
+          "singers": "4:43",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 3325,
+      "year": 1996,
+      "title": "Senathipathi",
+      "director": "M. Rathnakumar",
+      "producer": "Malar Films",
+      "composer": "Deva",
+      "cast": "Sathyaraj, Soundarya, Sukanya",
+      "source_url": "https://en.wikipedia.org/wiki/Senathipathi",
+      "created_at": "2026-10-14 13:33:25",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Chikku Pukku Ponnamma",
+          "singers": "[[Mano (singer)",
+          "lyricist": "Vairamuthu",
+          "raga": "",
+          "duration": "5:03",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "En Idhayathai Thirudivittai",
+          "singers": "Swarnalatha, Mano",
+          "lyricist": "Vairamuthu",
+          "raga": "",
+          "duration": "5:20",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "Moonu Mozhama Malliyappoo",
+          "singers": "S. P. Balasubrahmanyam, K. S. Chithra",
+          "lyricist": "Vairamuthu",
+          "raga": "",
+          "duration": "4:35",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "Palaivana Roja",
+          "singers": "S. P. Balasubrahmanyam, K. S. Chithra",
+          "lyricist": "M. Rathnakumar",
+          "raga": "",
+          "duration": "4:39",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "Yarukkum Thalaivanangaa",
+          "singers": "S. P. Balasubrahmanyam, 'Baby' Deepika, K. S. Chithra",
+          "lyricist": "M. Rathnakumar",
+          "raga": "",
+          "duration": "4:34",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 3285,
+      "year": 1996,
+      "title": "Sengottai",
+      "director": "C. V. Sasikumar",
+      "producer": "Super Good Films",
+      "composer": "Vidyasagar",
+      "cast": "Arjun, Meena, Rambha",
+      "source_url": "https://en.wikipedia.org/wiki/Sengottai_%28film%29",
+      "created_at": "2026-10-14 13:32:42",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "S. P. Balasubrahmanyam, S. Janaki",
+          "singers": "Vairamuthu",
+          "lyricist": "5:19",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "K. S. Chithra, Anuradha Sriram",
+          "singers": "Muthulingam",
+          "lyricist": "4:36",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "Hariharan, Mitali Banerjee Bhawmik",
+          "singers": "Palani Bharathi",
+          "lyricist": "5:06",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "Mano, K. S. Chithra",
+          "singers": "Vaali",
+          "lyricist": "4:06",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "Mano, Swarnalatha",
+          "singers": "Vaali",
+          "lyricist": "4:35",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 3282,
+      "year": 1996,
+      "title": "Siraichalai",
+      "director": "Priyadarshan",
+      "producer": "Pranavam Arts International",
+      "composer": "Ilaiyaraaja",
+      "cast": "Mohanlal, Prabhu, Tabu, Amrish Puri",
+      "source_url": "https://en.wikipedia.org/wiki/Kaalapani",
+      "created_at": "2026-10-14 13:32:39",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Aattirambile Kombile",
+          "singers": "M. G. Sreekumar, K. S. Chithra",
+          "lyricist": "",
+          "raga": "",
+          "duration": "5:01",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "Chempoove Poove",
+          "singers": "M. G. Sreekumar, K. S. Chithra",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:59",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "Kottum Kuzhal Vizhi",
+          "singers": "M. G. Sreekumar, K. S. Chithra, Chorus",
+          "lyricist": "",
+          "raga": "",
+          "duration": "5:43",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "Marikkoodinullil",
+          "singers": "K. S. Chithra, Ilaiyaraaja",
+          "lyricist": "Javed Akhtar",
+          "raga": "",
+          "duration": "5:07",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "Vande Mataram",
+          "singers": "Choir",
+          "lyricist": "Javed Akhtar",
+          "raga": "",
+          "duration": "6:06",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 3307,
+      "year": 1996,
+      "title": "Sivasakthi",
+      "director": "Suresh Krissna",
+      "producer": "M. G. Pictures",
+      "composer": "Deva",
+      "cast": "Sathyaraj, Prabhu, Rambha",
+      "source_url": "https://en.wikipedia.org/wiki/Sivasakthi",
+      "created_at": "2026-10-14 13:33:06",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "S. P. Balasubrahmanyam, Ragini Santhanam",
+          "singers": "4:30",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "S. P. Balasubrahmanyam",
+          "singers": "0:40",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "Swarnalatha, Mano",
+          "singers": "3:10",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "S. P. Balasubrahmanyam, K. S. Chithra",
+          "singers": "3:40",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 3312,
+      "year": 1996,
+      "title": "Subash",
+      "director": "R. V. Udayakumar",
+      "producer": "Sivasree Pictures",
+      "composer": "Vidyasagar",
+      "cast": "Arjun, Revathi",
+      "source_url": "https://en.wikipedia.org/wiki/Subash_%28film%29",
+      "created_at": "2026-10-14 13:33:10",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Mano, Swarnalatha",
+          "singers": "4:29",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "Chorus",
+          "singers": "1:30",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "S. P. Balasubrahmanyam, S. Janaki",
+          "singers": "4:41",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "Vidyasagar, Swarnalatha",
+          "singers": "5:20",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "Arjun, Sujatha",
+          "singers": "4:37",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 6,
+          "title": "S. P. Balasubrahmanyam, K. S. Chithra",
+          "singers": "4:21",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 3275,
+      "year": 1996,
+      "title": "Summa Irunga Machan",
+      "director": "S. N. Prasad",
+      "producer": "Maruthi Art Films",
+      "composer": "Deva",
+      "cast": "Pandiarajan, Pragathi, Divyasri",
+      "source_url": "https://en.wikipedia.org/wiki/Summa_Irunga_Machan",
+      "created_at": "2026-10-14 13:32:32",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Deva",
+          "singers": "3:33",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "Loganathan",
+          "singers": "3:47",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "Sindhu, T. K. Kala, Mano",
+          "singers": "4:04",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "K. S. Chithra, Mano",
+          "singers": "4:03",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "Mano, Swarnalatha",
+          "singers": "4:36",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 3296,
+      "year": 1996,
+      "title": "Sundara Purushan",
+      "director": "D. Sabapathy",
+      "producer": "Super Good Films",
+      "composer": "Sirpy",
+      "cast": "Livingston, Rambha",
+      "source_url": "https://en.wikipedia.org/wiki/Sundara_Purushan_%281996_film%29",
+      "created_at": "2026-10-14 13:32:54",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Malgudi Subha, Sujatha, Mano",
+          "singers": "S. J. Suryah",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "Febi Mani",
+          "singers": "Saravana Gnanam",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "K. S. Chithra",
+          "singers": "Vairamuthu",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "Sirpy, J. Livingston, Geetha",
+          "singers": "Kalidasan",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "Suresh Peters, Swarnalatha",
+          "singers": "S. J. Suryah",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 3276,
+      "year": 1996,
+      "title": "Suriya Raja",
+      "director": "Senthamizh Selvan",
+      "producer": "C. J. Films",
+      "composer": "Mahesh",
+      "cast": "C. S. Thamizh, Preetha",
+      "source_url": "https://en.wikipedia.org/wiki/Suriya_Raja",
+      "created_at": "2026-10-14 13:32:33",
+      "tracks": []
+    },
+    {
+      "id": 3267,
+      "year": 1996,
+      "title": "Take It Easy Urvashi",
+      "director": "K. K. Rajsirpy",
+      "producer": "Kalai Sirpy",
+      "composer": "Soundaryan",
+      "cast": "Vignesh, Amirtha, Rajeshwari",
+      "source_url": "https://en.wikipedia.org/wiki/Take_It_Easy_Urvashi",
+      "created_at": "2026-10-14 13:32:24",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Thoda Vendum",
+          "singers": "[[Mano (singer)",
+          "lyricist": "",
+          "raga": "",
+          "duration": "5:14",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "Oh Urvasiye",
+          "singers": "[[Mano (singer)",
+          "lyricist": "",
+          "raga": "",
+          "duration": "5:04",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "Jollu Mannargalin",
+          "singers": "Shahul Hameed, Manojayan",
+          "lyricist": "",
+          "raga": "",
+          "duration": "5:05",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "Majaa Venuma",
+          "singers": "Malgudi Subha, Annupamaa",
+          "lyricist": "",
+          "raga": "",
+          "duration": "5:02",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "Idhayathil Iruppavale",
+          "singers": "Unni Menon, Swarnalatha",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:56",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 3299,
+      "year": 1996,
+      "title": "Tamizh Selvan",
+      "director": "Bharathiraja",
+      "producer": "Raaj Films International",
+      "composer": "Deva",
+      "cast": "Vijayakanth, Roja",
+      "source_url": "https://en.wikipedia.org/wiki/Tamizh_Selvan",
+      "created_at": "2026-10-14 13:32:58",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Aasa Kepakali",
+          "singers": "K. S. Chithra, P. Unnikrishnan",
+          "lyricist": "[[Vaali (poet)",
+          "raga": "",
+          "duration": "5:13",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "Hawa Hawa",
+          "singers": "[[Mano (singer)",
+          "lyricist": "Vairamuthu",
+          "raga": "",
+          "duration": "4:26",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "Rajasthanu",
+          "singers": "Swarnalatha, Mano",
+          "lyricist": "Vairamuthu",
+          "raga": "",
+          "duration": "4:33",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "Rendu Kannu",
+          "singers": "Krishnaraj, Swarnalatha",
+          "lyricist": "Vairamuthu",
+          "raga": "",
+          "duration": "5:25",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "Unnal Mudiyum",
+          "singers": "S. P. Balasubrahmanyam",
+          "lyricist": "Vairamuthu",
+          "raga": "",
+          "duration": "5:02",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 3315,
+      "year": 1996,
+      "title": "Tata Birla",
+      "director": "C. Ranganathan",
+      "producer": "Shree Vijayalakshmi Movieland",
+      "composer": "Vidyasagar",
+      "cast": "Parthiban, Rachana Banerjee, Goundamani",
+      "source_url": "https://en.wikipedia.org/wiki/Tata_Birla",
+      "created_at": "2026-10-14 13:33:13",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Vidyasagar",
+          "singers": "4:44",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "S. P. Balasubrahmanyam, Vidyasagar",
+          "singers": "4:32",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "S. P. Balasubrahmanyam, Sujatha",
+          "singers": "4:24",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "Mano, Swarnalatha, Vidyasagar",
+          "singers": "3:52",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "Mano, Swarnalatha",
+          "singers": "3:58",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 3261,
+      "year": 1996,
+      "title": "Thayagam",
+      "director": "A. R. Ramesh",
+      "producer": "Seranaadu Movie Creations",
+      "composer": "Deva",
+      "cast": "Vijayakanth, Ranjitha",
+      "source_url": "https://en.wikipedia.org/wiki/Thayagam",
+      "created_at": "2026-10-14 13:32:18",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "K. S. Chithra, Malaysia Vasudevan",
+          "singers": "4:48",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "Mano, K. S. Chithra",
+          "singers": "4:52",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "K. S. Chithra, S. Kuzhanthaivelu",
+          "singers": "5:06",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "Gopal Sharma",
+          "singers": "4:28",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "K. J. Yesudas, K. S. Chithra",
+          "singers": "5:29",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 3262,
+      "year": 1996,
+      "title": "Thirumbi Paar",
+      "director": "Rama Narayanan",
+      "producer": "Sri Thenandal Films",
+      "composer": "Deva",
+      "cast": "Saravanan, Yuvarani",
+      "source_url": "https://en.wikipedia.org/wiki/Thirumbi_Paar_%281996_film%29",
+      "created_at": "2026-10-14 13:32:19",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Mano",
+          "singers": "2:42",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "Krishnaraj",
+          "singers": "4:11",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "K. S. Chithra",
+          "singers": "4:36",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "Sushmitha",
+          "singers": "3:07",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 3317,
+      "year": 1996,
+      "title": "Thuraimugam",
+      "director": "K. Rajeshwar",
+      "producer": "Megnam Productions",
+      "composer": "Adithyan",
+      "cast": "C. Arunpandian, Shobana",
+      "source_url": "https://en.wikipedia.org/wiki/Thuraimugam",
+      "created_at": "2026-10-14 13:33:16",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "K. S. Chithra",
+          "singers": "5:32",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "Suresh Peters, Adithyan",
+          "singers": "5:46",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "M. G. Sundar",
+          "singers": "4:21",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "Suryaraja",
+          "singers": "4:11",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 6,
+          "title": "S. P. Balasubrahmanyam, K. S. Chithra",
+          "singers": "4:11",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 3263,
+      "year": 1996,
+      "title": "Ullathai Allitha",
+      "director": "Sundar C",
+      "producer": "Ganga Gowri Productions",
+      "composer": "Sirpy",
+      "cast": "Karthik, Rambha, Goundamani",
+      "source_url": "https://en.wikipedia.org/wiki/Ullathai_Allitha",
+      "created_at": "2026-10-14 13:32:20",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Adi Anarkali",
+          "singers": "[[Mano (singer)",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:34",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "Azhagiya Laila",
+          "singers": "Mano",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:39",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "Chittu Chittu Kuruvikku",
+          "singers": "Mano, [[Sujatha Mohan",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:29",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "I Love You Love You",
+          "singers": "Mano, K. S. Chithra",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:29",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "Mama Nee Mama",
+          "singers": "Mano, Geetha Sabesh",
+          "lyricist": "",
+          "raga": "",
+          "duration": "5:21",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 3264,
+      "year": 1996,
+      "title": "Vaanmathi",
+      "director": "Agathiyan",
+      "producer": "Sivashakthi Movie Makers",
+      "composer": "Deva",
+      "cast": "Ajith Kumar, Swathi",
+      "source_url": "https://en.wikipedia.org/wiki/Vaanmathi",
+      "created_at": "2026-10-14 13:32:21",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Arunachalam",
+          "singers": "Swarnalatha",
+          "lyricist": "",
+          "raga": "",
+          "duration": "5:02",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "Oru Naalum",
+          "singers": "P. Unnikrishnan, Anuradha Sriram",
+          "lyricist": "",
+          "raga": "",
+          "duration": "5:43",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "Poontha Malli",
+          "singers": "[[Mano (singer)",
+          "lyricist": "",
+          "raga": "",
+          "duration": "5:07",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "Pillayarpatti Hero",
+          "singers": "[[Deva (composer)",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:42",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "Tata Seirra",
+          "singers": "Mano",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:26",
+          "stream_url": ""
+        },
+        {
+          "track_number": 6,
+          "title": "Vaikaaraiyil",
+          "singers": "S. P. Balasubrahmanyam, K. S. Chithra",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:40",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 3274,
+      "year": 1996,
+      "title": "Vaazhga Jananayagam",
+      "director": "E. Ramdoss",
+      "producer": "Raj Kennedy Films",
+      "composer": "Mansoor Ali Khan",
+      "cast": "Mansoor Ali Khan, Pragathi",
+      "source_url": "https://en.wikipedia.org/wiki/Vaazhga_Jananayagam",
+      "created_at": "2026-10-14 13:32:31",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Mano",
+          "singers": "3:38",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "Suresh Peters",
+          "singers": "3:29",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "Antony",
+          "singers": "4:54",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "Malaysia Vasudevan",
+          "singers": "3:33",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "T. S. Raghavendra",
+          "singers": "2:57",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 7,
+          "title": "Malgudi Subha",
+          "singers": "4:22",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 8,
+          "title": "Pazhani",
+          "singers": "3:56",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 3266,
+      "year": 1996,
+      "title": "Vaikarai Pookkal",
+      "director": "E. Mu. Vetrivalan",
+      "producer": "Navachitra Cine Arts",
+      "composer": "Devendran",
+      "cast": "Raja, Rajashri, Ponvannan, Annam",
+      "source_url": "https://en.wikipedia.org/wiki/Vaikarai_Pookkal",
+      "created_at": "2026-10-14 13:32:23",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Uyir Vazhgiren",
+          "singers": "S. P. Balasubrahmanyam",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:19",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "Mannane Endhan",
+          "singers": "[[Mano (singer)",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:29",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "Thean Sinthidum",
+          "singers": "S. Janaki",
+          "lyricist": "",
+          "raga": "",
+          "duration": "2:54",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "Andha Nilavukku Macham Eruka",
+          "singers": "Malgudi Subha",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:53",
+          "stream_url": ""
+        },
+        {
+          "track_number": 6,
+          "title": "Othaya Rettaya",
+          "singers": "Gangai Amaran",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:29",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 3278,
+      "year": 1996,
+      "title": "Vasantha Vaasal",
+      "director": "M. R",
+      "producer": "Kumar Movies",
+      "composer": "Masa",
+      "cast": "Vijay, Swathi",
+      "source_url": "https://en.wikipedia.org/wiki/Vasantha_Vaasal",
+      "created_at": "2026-10-14 13:32:35",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Shahul Hameed, Swarnalatha",
+          "singers": "M. R",
+          "lyricist": "04:58",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "Arunmozhi, K. S. Chithra",
+          "singers": "Masa",
+          "lyricist": "04:44",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "Mano",
+          "singers": "Masa",
+          "lyricist": "04:47",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "S. Janaki, chorus",
+          "singers": "Uma Kannadasan",
+          "lyricist": "04:38",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "Mano, Sindhu",
+          "singers": "Masa",
+          "lyricist": "04:54",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 6,
+          "title": "Arunmozhi",
+          "singers": "Masa",
+          "lyricist": "04:58",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 7,
+          "title": "Mano, Sindu",
+          "singers": "Uma Kannadasan",
+          "lyricist": "04:33",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 3326,
+      "year": 1996,
+      "title": "Vasantham",
+      "director": "T. S. Ravivarman",
+      "producer": "Thirumagal Movieland",
+      "composer": "Ilaiyaraaja",
+      "cast": "Rahman, Nirosha",
+      "source_url": "https://en.wikipedia.org/wiki/Vasantham",
+      "created_at": "2026-10-14 13:33:26",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Ammo Ammayena",
+          "singers": "[[Hariharan (singer)",
+          "lyricist": "Kulasekhar",
+          "raga": "",
+          "duration": "4:47",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "Gaali Chirugaali",
+          "singers": "K. S. Chithra",
+          "lyricist": "[[Sirivennela Sitaramasastri",
+          "raga": "",
+          "duration": "4:34",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "Ninnu Chudaka",
+          "singers": "Hariharan",
+          "lyricist": "Kulasekhar",
+          "raga": "",
+          "duration": "5:13",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "Godaralle Ponge",
+          "singers": "S. P. Balasubrahmanyam",
+          "lyricist": "Kulasekhar",
+          "raga": "",
+          "duration": "4:25",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "O Lolly Popki",
+          "singers": "Shankar Mahadevan",
+          "lyricist": "[[Chandrabose (lyricist)",
+          "raga": "",
+          "duration": "5:37",
+          "stream_url": ""
+        },
+        {
+          "track_number": 6,
+          "title": "Jampanduve",
+          "singers": "Udit Narayan, Sujatha",
+          "lyricist": "Veturi",
+          "raga": "",
+          "duration": "4:58",
+          "stream_url": ""
+        },
+        {
+          "track_number": 7,
+          "title": "O Jabili",
+          "singers": "K. S. Chithra",
+          "lyricist": "Kulasekhar",
+          "raga": "",
+          "duration": "5:16",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 3294,
+      "year": 1996,
+      "title": "Veettukulle Thiruvizha",
+      "director": "K. R. S. Jawahar",
+      "producer": "Sundar Art Film International",
+      "composer": "Deva",
+      "cast": "Anand Babu, Sanghavi, Rohini, Vinodhini",
+      "source_url": "https://en.wikipedia.org/wiki/Veettukulle_Thiruvizha",
+      "created_at": "2026-10-14 13:32:52",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Athai Sutta",
+          "singers": "Swarnalatha, Krishnaraj",
+          "lyricist": "[[Vaali (poet)",
+          "raga": "",
+          "duration": "4:28",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "Rasa Unne Ravikkayin",
+          "singers": "Swarnalatha, [[Sunanda (singer)",
+          "lyricist": "Vaali",
+          "raga": "",
+          "duration": "4:44",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "Pachaikallu Mookkuthi",
+          "singers": "Malaysia Vasudevan, Sunandha",
+          "lyricist": "Vaali",
+          "raga": "",
+          "duration": "5:06",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "Dheivanai Anbu",
+          "singers": "Swarnalatha",
+          "lyricist": "Ponniyin Selvan",
+          "raga": "",
+          "duration": "4:54",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "Oothukottai",
+          "singers": "[[Mano (singer)",
+          "lyricist": "Vaali",
+          "raga": "",
+          "duration": "4:50",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 3300,
+      "year": 1996,
+      "title": "Vetri Mugam",
+      "director": "Thennavan",
+      "producer": "Raja Rajan Cine Arts",
+      "composer": "Vasantha Rajan",
+      "cast": "Vignesh, Keerthana, Roopa Sree",
+      "source_url": "https://en.wikipedia.org/wiki/Vetri_Mugam",
+      "created_at": "2026-10-14 13:32:59",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Vetri Vel Muruga | Tamil Folk Murugan Devotional Song",
+          "singers": "Kailai Suresh",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:18",
+          "stream_url": "https://music.youtube.com/watch?v=9uNxSVeWZvI"
+        }
+      ]
+    },
+    {
+      "id": 3309,
+      "year": 1996,
+      "title": "Vetri Vinayagar",
+      "director": "K. Shankar",
+      "producer": "Ammu Creations",
+      "composer": "M. S. Viswanathan",
+      "cast": "Radha Ravi, Urvashi",
+      "source_url": "https://en.wikipedia.org/wiki/Vetri_Vinayagar",
+      "created_at": "2026-10-14 13:33:08",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Jaganatha Vigneswara",
+          "singers": "",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "Madhane Rathiyae Ennidayae",
+          "singers": "S. P. Balasubrahmanyam, K. S. Chithra",
+          "lyricist": "04:46",
+          "raga": "",
+          "duration": "04:46",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "Omkara Rupathil Porulanavan",
+          "singers": "S. P. Sailaja",
+          "lyricist": "03:35",
+          "raga": "",
+          "duration": "03:35",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "Intha Mattukkaran Pattu Paduvan",
+          "singers": "Swarnalatha",
+          "lyricist": "04:45",
+          "raga": "",
+          "duration": "04:45",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "Poothathellam Kaichathu",
+          "singers": "Swarnalatha",
+          "lyricist": "05:07",
+          "raga": "",
+          "duration": "05:07",
+          "stream_url": ""
+        },
+        {
+          "track_number": 6,
+          "title": "Nithya Sumangali",
+          "singers": "Vani Jairam",
+          "lyricist": "03:57",
+          "raga": "",
+          "duration": "03:57",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 3303,
+      "year": 1996,
+      "title": "Vishwanath",
+      "director": "K. Goutham",
+      "producer": "Janaki Ammal Movies",
+      "composer": "Deva",
+      "cast": "Saravanan, Mohini, Swathi",
+      "source_url": "https://en.wikipedia.org/wiki/Vishwanath",
+      "created_at": "2026-10-14 13:33:01",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Pattampoochi",
+          "singers": "G.V. Prakash Kumar, Sublahshini",
+          "lyricist": "",
+          "raga": "",
+          "duration": "3:29",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "The Wedding Song (Tamil)",
+          "singers": "G.V. Prakash Kumar, Suriya",
+          "lyricist": "",
+          "raga": "",
+          "duration": "3:16",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "The One Rule (Tamil)",
+          "singers": "G.V. Prakash Kumar, Gana Kadhar",
+          "lyricist": "",
+          "raga": "",
+          "duration": "2:49",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "Paalmazhai",
+          "singers": "G.V. Prakash Kumar, Vidya Kalyanaraman",
+          "lyricist": "",
+          "raga": "",
+          "duration": "3:45",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "Uyire Uyire",
+          "singers": "G.V. Prakash Kumar, Aditi Bhavaraju",
+          "lyricist": "",
+          "raga": "",
+          "duration": "3:27",
+          "stream_url": ""
+        },
+        {
+          "track_number": 6,
+          "title": "Aariraro Aariro",
+          "singers": "G.V. Prakash Kumar, Mithran Shenbagaraj, R.P. Krishaang",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:27",
+          "stream_url": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "year": 2026,
+  "total_tracks": 722,
+  "tier_1_count": 0,
+  "tier_2_count": 0,
+  "tier_3_count": 0,
+  "tier_4_count": 0,
+  "unranked_count": 722,
+  "position_changes_count": 722,
+  "sample_tier_1_tracks": [],
+  "sample_changes": [
+    {
+      "track_title": "Kai Valavi Kulunga",
+      "album_title": "Mandaadi",
+      "old_position": null,
+      "new_position": 1,
+      "evidence_tier": null,
+      "score": null
+    },
+    {
+      "track_title": "Thaai Kizhavi Varaa",
+      "album_title": "Thaai Kizhavi",
+      "old_position": null,
+      "new_position": 2,
+      "evidence_tier": null,
+      "score": null
+    },
+    {
+      "track_title": "Dheema",
+      "album_title": "Love Insurance Kompany",
+      "old_position": null,
+      "new_position": 3,
+      "evidence_tier": null,
+      "score": null
+    },
+    {
+      "track_title": "Kapura Gethu \u2013 Promo song",
+      "album_title": "Jockey",
+      "old_position": null,
+      "new_position": 4,
+      "evidence_tier": null,
+      "score": null
+    },
+    {
+      "track_title": "Lava Lava",
+      "album_title": "Lockdown",
+      "old_position": null,
+      "new_position": 5,
+      "evidence_tier": null,
+      "score": null
+    },
+    {
+      "track_title": "Muthal Mottu",
+      "album_title": "Mellisai",
+      "old_position": null,
+      "new_position": 6,
+      "evidence_tier": null,
+      "score": null
+    },
+    {
+      "track_title": "Milira",
+      "album_title": "Red Label",
+      "old_position": null,
+      "new_position": 7,
+      "evidence_tier": null,
+      "score": null
+    },
+    {
+      "track_title": "Aiyo Kadhaley",
+      "album_title": "With Love",
+      "old_position": null,
+      "new_position": 8,
+      "evidence_tier": null,
+      "score": null
+    },
+    {
+      "track_title": "Kaatu Puli Uru Urumma",
+      "album_title": "Kaa \u2013 The Forest",
+      "old_position": null,
+      "new_position": 9,
+      "evidence_tier": null,
+      "score": null
+    },
+    {
+      "track_title": "Raasathi Raasa",
+      "album_title": "My Lord",
+      "old_position": null,
+      "new_position": 10,
+      "evidence_tier": null,
+      "score": null
+    }
+  ]
+}

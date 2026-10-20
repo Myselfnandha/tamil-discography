@@ -1,0 +1,29 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Secret & session tokens
+.spotify_tokens.json
+data/spotify_cookies.json
+.env
+*.secret
+
+# Browser profiles and debug artifacts
+data/tunemymusic_browser_profile/
+data/*.png
+data/*.log
+*.log
+*.png
+*.pre_collision_fix
+
+# Backups and temporary files
+*.bak
+playlists_backup/
+scratch/
+discography.db

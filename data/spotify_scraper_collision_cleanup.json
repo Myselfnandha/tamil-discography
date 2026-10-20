@@ -1,0 +1,28 @@
+[
+  {
+    "playlist": "Ilaiyaraaja Underrated",
+    "uri": "spotify:playlist:0Zd2fc9KJTsRMDy9H2pA4W",
+    "purged_count": 1,
+    "details": [
+      {
+        "name": "Yelelo",
+        "artists": "G. V. Prakash, Megha",
+        "year": 2014,
+        "reason": "Collided Modern Title: 'Yelelo'"
+      }
+    ]
+  },
+  {
+    "playlist": "Ilaiyaraaja",
+    "uri": "spotify:playlist:0vb3r0W9TgbTVONMYVF7fk",
+    "purged_count": 1,
+    "details": [
+      {
+        "name": "Yelelo",
+        "artists": "G. V. Prakash, Megha",
+        "year": 2014,
+        "reason": "Collided Modern Title: 'Yelelo'"
+      }
+    ]
+  }
+]

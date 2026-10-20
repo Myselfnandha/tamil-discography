@@ -1,0 +1,139 @@
+{
+  "year": 1966,
+  "total_tracks": 208,
+  "tier_1_count": 9,
+  "tier_2_count": 0,
+  "tier_3_count": 0,
+  "tier_4_count": 0,
+  "unranked_count": 199,
+  "position_changes_count": 204,
+  "sample_tier_1_tracks": [
+    {
+      "title": "Puthiya Vaanam",
+      "album": "Anbe Vaa",
+      "score": 95.0
+    },
+    {
+      "title": "Adios Good Bye",
+      "album": "Anbe Vaa",
+      "score": 70.0
+    },
+    {
+      "title": "Anbe Vaa",
+      "album": "Anbe Vaa",
+      "score": 70.0
+    },
+    {
+      "title": "Love Birds",
+      "album": "Anbe Vaa",
+      "score": 70.0
+    },
+    {
+      "title": "Naan Paarthathile",
+      "album": "Anbe Vaa",
+      "score": 70.0
+    },
+    {
+      "title": "Naadodi Naadodi",
+      "album": "Anbe Vaa",
+      "score": 70.0
+    },
+    {
+      "title": "Once Apappa",
+      "album": "Anbe Vaa",
+      "score": 70.0
+    },
+    {
+      "title": "Raajaavin Paarvai",
+      "album": "Anbe Vaa",
+      "score": 70.0
+    },
+    {
+      "title": "Vetkamillai",
+      "album": "Anbe Vaa",
+      "score": 70.0
+    }
+  ],
+  "sample_changes": [
+    {
+      "track_title": "Puthiya Vaanam",
+      "album_title": "Anbe Vaa",
+      "old_position": 7,
+      "new_position": 1,
+      "evidence_tier": "tier_1_mega",
+      "score": 95.0
+    },
+    {
+      "track_title": "Adios Good Bye",
+      "album_title": "Anbe Vaa",
+      "old_position": 1,
+      "new_position": 2,
+      "evidence_tier": "tier_1_mega",
+      "score": 70.0
+    },
+    {
+      "track_title": "Anbe Vaa",
+      "album_title": "Anbe Vaa",
+      "old_position": 2,
+      "new_position": 3,
+      "evidence_tier": "tier_1_mega",
+      "score": 70.0
+    },
+    {
+      "track_title": "Love Birds",
+      "album_title": "Anbe Vaa",
+      "old_position": 3,
+      "new_position": 4,
+      "evidence_tier": "tier_1_mega",
+      "score": 70.0
+    },
+    {
+      "track_title": "Naan Paarthathile",
+      "album_title": "Anbe Vaa",
+      "old_position": 4,
+      "new_position": 5,
+      "evidence_tier": "tier_1_mega",
+      "score": 70.0
+    },
+    {
+      "track_title": "Naadodi Naadodi",
+      "album_title": "Anbe Vaa",
+      "old_position": 5,
+      "new_position": 6,
+      "evidence_tier": "tier_1_mega",
+      "score": 70.0
+    },
+    {
+      "track_title": "Once Apappa",
+      "album_title": "Anbe Vaa",
+      "old_position": 6,
+      "new_position": 7,
+      "evidence_tier": "tier_1_mega",
+      "score": 70.0
+    },
+    {
+      "track_title": "Iraivan Irukkindrana",
+      "album_title": "Avan Pithana?",
+      "old_position": 15,
+      "new_position": 11,
+      "evidence_tier": null,
+      "score": null
+    },
+    {
+      "track_title": "Pudhiyadhor Ulagam Seivom",
+      "album_title": "Chandrodayam",
+      "old_position": 20,
+      "new_position": 12,
+      "evidence_tier": null,
+      "score": null
+    },
+    {
+      "track_title": "Manasirukkanum",
+      "album_title": "Chinnanchiru Ulagam",
+      "old_position": 27,
+      "new_position": 13,
+      "evidence_tier": null,
+      "score": null
+    }
+  ]
+}

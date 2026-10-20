@@ -1,0 +1,9 @@
+[Unit]
+Description=Run Tamil Discography Spotify Full Library Sync weekly on Sunday at 08:17 IST
+
+[Timer]
+OnCalendar=Sun *-*-* 08:17:00 Asia/Kolkata
+Persistent=true
+
+[Install]
+WantedBy=timers.target

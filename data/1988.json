@@ -1,0 +1,5436 @@
+{
+  "year": 1988,
+  "total_albums": 100,
+  "total_tracks": 460,
+  "exported_at": "2026-10-15T10:00:20.639537Z",
+  "albums": [
+    {
+      "id": 9282,
+      "year": 1988,
+      "title": "Adhu Antha Kaalam",
+      "director": "Valampuri John",
+      "producer": "",
+      "composer": "Sarath Babu, Lakshmi, Charan Raj, Rajeev",
+      "cast": "Bhanu Revathi Combines",
+      "source_url": "https://en.wikipedia.org/wiki/Adhu_Antha_Kaalam",
+      "created_at": "2026-10-14 19:36:40",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Azhakana Sonthangal",
+          "singers": "K. J. Yesudas, Vani Jairam, Chandrabose",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:40",
+          "stream_url": "https://music.youtube.com/watch?v=eDn0PwvjW80"
+        },
+        {
+          "track_number": 2,
+          "title": "Chinnachiru Vannakili",
+          "singers": "S. P. Balasubrahmanyam, P. Susheela, K. J. Yesudas, Chandrabose",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:42",
+          "stream_url": "https://music.youtube.com/watch?v=BZmhYQ34R2o"
+        },
+        {
+          "track_number": 3,
+          "title": "Pottuerukka Poovirukka",
+          "singers": "K.J.Yesudas, Chandra Bose, Vairamuthu",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:32",
+          "stream_url": "https://music.youtube.com/watch?v=aRIuCBgdRIs"
+        },
+        {
+          "track_number": 4,
+          "title": "Paatukku Na Paatteduppen",
+          "singers": "Malaysia Vasudevan, Chandrabose",
+          "lyricist": "",
+          "raga": "",
+          "duration": "5:53",
+          "stream_url": "https://music.youtube.com/watch?v=a9dZ6AqXiVU"
+        },
+        {
+          "track_number": 5,
+          "title": "Annaiye Annaiye",
+          "singers": "Vairamuthu, Chandrabose, Vani Jairam",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:41",
+          "stream_url": "https://music.youtube.com/watch?v=McQ0x2KZdgo"
+        }
+      ]
+    },
+    {
+      "id": 9283,
+      "year": 1988,
+      "title": "Agni Natchathiram",
+      "director": "Mani Ratnam",
+      "producer": "",
+      "composer": "Ilaiyaraaja",
+      "cast": "Sujatha Productions",
+      "source_url": "https://en.wikipedia.org/wiki/Agni_Natchathiram",
+      "created_at": "2026-10-14 19:36:40",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Vaa Vaa Anbe Anbe",
+          "singers": "Ilaiyaraaja, K.J. Yesudas, K. S. Chithra",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:40",
+          "stream_url": "https://www.jiosaavn.com/song/vaa-vaa-anbe-anbe/GxBdBBhqRgM"
+        },
+        {
+          "track_number": 2,
+          "title": "Ninnukori Varanam",
+          "singers": "Ilaiyaraaja, K. S. Chithra",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:37",
+          "stream_url": "https://www.jiosaavn.com/song/ninnukori-varanam/PxgASwR6TmU"
+        },
+        {
+          "track_number": 3,
+          "title": "Oru Poonga Vanam",
+          "singers": "Ilaiyaraaja, S. Janaki",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:25",
+          "stream_url": "https://www.jiosaavn.com/song/oru-poonga-vanam/OVFeSC14VFY"
+        },
+        {
+          "track_number": 4,
+          "title": "Raaja Raajathi",
+          "singers": "Ilaiyaraaja",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:42",
+          "stream_url": "https://www.jiosaavn.com/song/raaja-raajathi/Ii4PXTpAcEM"
+        },
+        {
+          "track_number": 5,
+          "title": "Roja Poo Adivanthathu",
+          "singers": "Ilaiyaraaja, S. Janaki",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:27",
+          "stream_url": "https://www.jiosaavn.com/song/roja-poo-adivanthathu/Ig1dYEADeQI"
+        },
+        {
+          "track_number": 6,
+          "title": "Thoongatha Vizhigal",
+          "singers": "Ilaiyaraaja, K.J. Yesudas, S. Janaki",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:41",
+          "stream_url": "https://www.jiosaavn.com/song/thoongatha-vizhigal/CBoDREdWen8"
+        }
+      ]
+    },
+    {
+      "id": 9284,
+      "year": 1988,
+      "title": "Anbe En Anbe",
+      "director": "K. Murali Raj",
+      "producer": "",
+      "composer": "Anand, Madhuri",
+      "cast": "Yogalaya Productions",
+      "source_url": "https://en.wikipedia.org/wiki/Anbe_En_Anbe_%28film%29",
+      "created_at": "2026-10-14 19:36:40",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Anbe En Anbe | Tamil Romantic Song",
+          "singers": "TamilDotCom Music",
+          "lyricist": "",
+          "raga": "",
+          "duration": "2:25",
+          "stream_url": "https://music.youtube.com/watch?v=qd-cmTipUpo"
+        }
+      ]
+    },
+    {
+      "id": 9285,
+      "year": 1988,
+      "title": "Annanagar Mudhal Theru",
+      "director": "Balu Anand",
+      "producer": "",
+      "composer": "Sathyaraj, Ambika, Radha, Anand, Janagaraj, Manorama",
+      "cast": "Vivekanandha Film Circuit",
+      "source_url": "https://en.wikipedia.org/wiki/Annanagar_Mudhal_Theru",
+      "created_at": "2026-10-14 19:36:40",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Dhim Dhantaka",
+          "singers": "S.P. Balasubrahmanyam",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:12",
+          "stream_url": "https://music.youtube.com/watch?v=2qfIRfcq2Gc"
+        },
+        {
+          "track_number": 2,
+          "title": "Ennai Kathai Cholla Sonna",
+          "singers": "S.P. Balasubrahmanyam",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:17",
+          "stream_url": "https://music.youtube.com/watch?v=3zgqAjBS2Ls"
+        },
+        {
+          "track_number": 3,
+          "title": "Aai Pachaikkili",
+          "singers": "Vani Jairam",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:33",
+          "stream_url": "https://music.youtube.com/watch?v=TCt_Rwon1ZY"
+        },
+        {
+          "track_number": 4,
+          "title": "Enna Kathai Cholla Sonna",
+          "singers": "K S Chithra",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:17",
+          "stream_url": "https://music.youtube.com/watch?v=IM6lw8HerDo"
+        },
+        {
+          "track_number": 5,
+          "title": "Medhuva Medhuva",
+          "singers": "S.P. Balasubrahmanyam, K S Chithra",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:19",
+          "stream_url": "https://music.youtube.com/watch?v=F2V5qsF8QEw"
+        },
+        {
+          "track_number": 6,
+          "title": "Athandi",
+          "singers": "S.P. Balasubrahmanyam, K S Chithra",
+          "lyricist": "",
+          "raga": "",
+          "duration": "5:10",
+          "stream_url": "https://music.youtube.com/watch?v=QAuQlCmvKEw"
+        }
+      ]
+    },
+    {
+      "id": 9286,
+      "year": 1988,
+      "title": "Chutti Poonai",
+      "director": "Lakshmi Raja Films",
+      "producer": "",
+      "composer": "",
+      "cast": "R. D. Burman",
+      "source_url": "https://en.wikipedia.org/wiki/Chutti_Poonai",
+      "created_at": "2026-10-14 19:36:40",
+      "tracks": []
+    },
+    {
+      "id": 9287,
+      "year": 1988,
+      "title": "Dharmathin Thalaivan",
+      "director": "S. P. Muthuraman",
+      "producer": "",
+      "composer": "Rajinikanth, Prabhu, Suhasini, Khushbu, V. K. Ramasamy, Charle",
+      "cast": "Dhandayuthapani Films",
+      "source_url": "https://en.wikipedia.org/wiki/Dharmathin_Thalaivan",
+      "created_at": "2026-10-14 19:36:40",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Thenmadurai Vaigai Nadhi",
+          "singers": "Ilaiyaraaja, S.P. Balasubrahmanyam, P. Susheela, Malaysia Vasudevan",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:33",
+          "stream_url": "https://music.youtube.com/watch?v=F4HUzUCagYY"
+        },
+        {
+          "track_number": 2,
+          "title": "Muthamizh Kaviyae",
+          "singers": "Ilaiyaraaja, K.J. Yesudas, K.S. Chithra",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:36",
+          "stream_url": "https://music.youtube.com/watch?v=U4BmRLPjZlg"
+        },
+        {
+          "track_number": 3,
+          "title": "Velli Mani Kinnathiley",
+          "singers": "Ilaiyaraaja, Malaysia Vasudevan, Mano, K.S. Chithra",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:35",
+          "stream_url": "https://music.youtube.com/watch?v=61xL48W0t-8"
+        },
+        {
+          "track_number": 4,
+          "title": "Othadi Othadi",
+          "singers": "Ilaiyaraaja, Malaysia Vasudevan, Sunanda",
+          "lyricist": "",
+          "raga": "",
+          "duration": "5:46",
+          "stream_url": "https://music.youtube.com/watch?v=P5-0xmNVFfA"
+        },
+        {
+          "track_number": 5,
+          "title": "Yaaru Yaaru Indha Kizhavan",
+          "singers": "Ilaiyaraaja, Malaysia Vasudevan, Mano",
+          "lyricist": "",
+          "raga": "",
+          "duration": "5:02",
+          "stream_url": "https://music.youtube.com/watch?v=Erf6lK3VDVQ"
+        },
+        {
+          "track_number": 6,
+          "title": "Thenmadurai Vaigai Nadhi (Sad)",
+          "singers": "Ilaiyaraaja, Malaysia Vasudevan, P. Susheela",
+          "lyricist": "",
+          "raga": "",
+          "duration": "6:34",
+          "stream_url": "https://music.youtube.com/watch?v=saOdsKjcOJw"
+        }
+      ]
+    },
+    {
+      "id": 9288,
+      "year": 1988,
+      "title": "Dhayam Onnu",
+      "director": "Selvakumar",
+      "producer": "",
+      "composer": "Arjun, Seetha, Rekha, Nishanthi, Madhuri, Saranya, Pallavi, Senthil, V. K. Ramasamy, Manorama, S. S. Chandran",
+      "cast": "V. N. S. Films",
+      "source_url": "https://en.wikipedia.org/wiki/Dhayam_Onnu",
+      "created_at": "2026-10-14 19:36:40",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Manadhile Oru Paattu (Male)",
+          "singers": "Ilaiyaraaja, S.P. Balasubrahmanyam",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:37",
+          "stream_url": "https://music.youtube.com/watch?v=oaCFuEq4lhM"
+        },
+        {
+          "track_number": 2,
+          "title": "Manadhile Oru Paattu (Duet)",
+          "singers": "Ilaiyaraaja, S.P. Balasubrahmanyam, P. Susheela",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:36",
+          "stream_url": "https://music.youtube.com/watch?v=WNnm5oRrhmE"
+        },
+        {
+          "track_number": 3,
+          "title": "Naane Un Kadhali",
+          "singers": "Ilaiyaraaja, P. Susheela, Mano",
+          "lyricist": "",
+          "raga": "",
+          "duration": "6:02",
+          "stream_url": "https://music.youtube.com/watch?v=2FBi7hukZ94"
+        },
+        {
+          "track_number": 4,
+          "title": "Raathiri Poothathu",
+          "singers": "Ilaiyaraaja, K.S. Chithra",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:42",
+          "stream_url": "https://music.youtube.com/watch?v=nLW2bCiUAAQ"
+        },
+        {
+          "track_number": 5,
+          "title": "Pogathey Sir",
+          "singers": "Ilaiyaraaja, K.S. Chithra",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:28",
+          "stream_url": "https://music.youtube.com/watch?v=8XAOhTeX2YY"
+        },
+        {
+          "track_number": 6,
+          "title": "Kottikidakku",
+          "singers": "Ilaiyaraaja, K.S. Chithra",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:33",
+          "stream_url": "https://music.youtube.com/watch?v=t_TmNXGTCFY"
+        }
+      ]
+    },
+    {
+      "id": 9289,
+      "year": 1988,
+      "title": "En Bommukutty Ammavukku",
+      "director": "Fazil",
+      "producer": "",
+      "composer": "Sathyaraj, Suhasini, Raghuvaran, Rekha, Geetu Mohandas",
+      "cast": "Pavalar Creations",
+      "source_url": "https://en.wikipedia.org/wiki/En_Bommukutty_Ammavukku",
+      "created_at": "2026-10-14 19:36:40",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Chithira Chittugal",
+          "singers": "Ilaiyaraaja, K.S. Chithra",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:37",
+          "stream_url": "https://music.youtube.com/watch?v=b-x0XQPr-Fg"
+        },
+        {
+          "track_number": 2,
+          "title": "Uyire Uyirin",
+          "singers": "Ilaiyaraaja, K.J. Yesudas, K.S. Chithra",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:33",
+          "stream_url": "https://music.youtube.com/watch?v=Lgb-F0CXm8o"
+        },
+        {
+          "track_number": 3,
+          "title": "Kuyile Kuyile",
+          "singers": "Ilaiyaraaja, K.J. Yesudas, K.S. Chithra",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:27",
+          "stream_url": "https://music.youtube.com/watch?v=vPsX0nyLk-E"
+        },
+        {
+          "track_number": 4,
+          "title": "En Patharamathu",
+          "singers": "Ilaiyaraaja, S.P. Balasubrahmanyam, Malaysia Vasudevan",
+          "lyricist": "",
+          "raga": "",
+          "duration": "3:51",
+          "stream_url": "https://music.youtube.com/watch?v=8hmaGwj5D8Q"
+        },
+        {
+          "track_number": 5,
+          "title": "Yaiyaiya Yaiyaiya",
+          "singers": "Ilaiyaraaja, K.S. Chithra, Yuvan Shankar Raja",
+          "lyricist": "",
+          "raga": "",
+          "duration": "1:50",
+          "stream_url": "https://music.youtube.com/watch?v=WxO3mBAY-yw"
+        },
+        {
+          "track_number": 6,
+          "title": "Kanne Navamaniye",
+          "singers": "Ilaiyaraaja",
+          "lyricist": "",
+          "raga": "",
+          "duration": "5:58",
+          "stream_url": "https://music.youtube.com/watch?v=zQKCqiazanA"
+        },
+        {
+          "track_number": 7,
+          "title": "Bommukutty",
+          "singers": "Ilaiyaraaja, K.J. Yesudas",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:30",
+          "stream_url": "https://music.youtube.com/watch?v=hS1ytM6zSiA"
+        },
+        {
+          "track_number": 8,
+          "title": "Nallorgal Unnai",
+          "singers": "Ilaiyaraaja, K.S. Chithra",
+          "lyricist": "",
+          "raga": "",
+          "duration": "0:45",
+          "stream_url": "https://music.youtube.com/watch?v=GbhEeRVSRXM"
+        },
+        {
+          "track_number": 9,
+          "title": "Kuyile Kuyile (Male)",
+          "singers": "Ilaiyaraaja, K.J. Yesudas",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:16",
+          "stream_url": "https://music.youtube.com/watch?v=vPsX0nyLk-E"
+        }
+      ]
+    },
+    {
+      "id": 9290,
+      "year": 1988,
+      "title": "En Jeevan Paduthu",
+      "director": "R. Sundarrajan",
+      "producer": "",
+      "composer": "Karthik, Saranya, Pratap K. Pothen, Kapil Dev, Sudha, Manorama, Kovai Sarala, Chinni Jayanth",
+      "cast": "Panchu Associates",
+      "source_url": "https://en.wikipedia.org/wiki/En_Jeevan_Paduthu",
+      "created_at": "2026-10-14 19:36:40",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Engirundho Azhaikkum",
+          "singers": "Ilaiyaraaja, Lata Mangeshkar",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:39",
+          "stream_url": "https://music.youtube.com/watch?v=AGyIfQdigmY"
+        },
+        {
+          "track_number": 2,
+          "title": "Ore Murai Un Dharisanam",
+          "singers": "Ilaiyaraaja, S. Janaki",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:22",
+          "stream_url": "https://music.youtube.com/watch?v=zQE4crZzn7w"
+        },
+        {
+          "track_number": 3,
+          "title": "Mounam Yen Mounamey",
+          "singers": "Ilaiyaraaja, Mano",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:30",
+          "stream_url": "https://music.youtube.com/watch?v=uxoWiTTGcZ8"
+        },
+        {
+          "track_number": 4,
+          "title": "Aan Pillai Enraal Meesai",
+          "singers": "Ilaiyaraaja, S. Janaki, Mano",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:36",
+          "stream_url": "https://music.youtube.com/watch?v=2sSlBw62BpM"
+        },
+        {
+          "track_number": 5,
+          "title": "Kaadhal Vaanile",
+          "singers": "Ilaiyaraaja, S. Janaki",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:31",
+          "stream_url": "https://music.youtube.com/watch?v=td-21LTsf0s"
+        },
+        {
+          "track_number": 6,
+          "title": "Katti Vechukko",
+          "singers": "Ilaiyaraaja, Malaysia Vasudevan, S. Janaki",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:35",
+          "stream_url": "https://music.youtube.com/watch?v=7YWA9fmWeUc"
+        }
+      ]
+    },
+    {
+      "id": 9291,
+      "year": 1988,
+      "title": "En Thamizh En Makkal",
+      "director": "Santhana Bharathi",
+      "producer": "",
+      "composer": "Sivaji Ganesan, Vadivukkarasi, Pallavi, Nizhalgal Ravi, V. K. Ramasamy, S. S. Chandran, Chinni Jayanth",
+      "cast": "Sivaji Productions",
+      "source_url": "https://en.wikipedia.org/wiki/En_Thamizh_En_Makkal",
+      "created_at": "2026-10-14 19:36:40",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Thamizh Madal",
+          "singers": "Nivas",
+          "lyricist": "",
+          "raga": "",
+          "duration": "2:12",
+          "stream_url": "https://music.youtube.com/watch?v=AfhSsdVh13U"
+        }
+      ]
+    },
+    {
+      "id": 9292,
+      "year": 1988,
+      "title": "En Thangachi Padichava",
+      "director": "P. Vasu",
+      "producer": "",
+      "composer": "Prabhu, Rupini, Chithra, Sudha",
+      "cast": "Sree Rajakaali Amman Enterprises",
+      "source_url": "https://en.wikipedia.org/wiki/En_Thangachi_Padichava",
+      "created_at": "2026-10-14 19:36:40",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Nallakaalam Porandhurichi",
+          "singers": "S.P.B",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:33",
+          "stream_url": "https://music.youtube.com/watch?v=QxpSS6uALYc"
+        },
+        {
+          "track_number": 2,
+          "title": "Sondha Somaya Thooki Thooki",
+          "singers": "K J Yesudas",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:39",
+          "stream_url": "https://music.youtube.com/watch?v=lZHNpi2ApOo"
+        },
+        {
+          "track_number": 3,
+          "title": "Ethirkaalam Eni",
+          "singers": "T M Sounderarajan",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:04",
+          "stream_url": "https://music.youtube.com/watch?v=IW4BhQLgH5A"
+        },
+        {
+          "track_number": 4,
+          "title": "Poovellam Veedhiela",
+          "singers": "Jayachandran",
+          "lyricist": "",
+          "raga": "",
+          "duration": "1:16",
+          "stream_url": "https://music.youtube.com/watch?v=BRGWRSl24JI"
+        },
+        {
+          "track_number": 5,
+          "title": "Summa Summa Enna Paathu",
+          "singers": "Malayasia Vasudevan",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:19",
+          "stream_url": "https://music.youtube.com/watch?v=HbTvxQklnSY"
+        },
+        {
+          "track_number": 6,
+          "title": "Maamanu Solla Oru Aalu",
+          "singers": "Jayachandran",
+          "lyricist": "",
+          "raga": "",
+          "duration": "5:17",
+          "stream_url": "https://music.youtube.com/watch?v=6fcDKXRUfLI"
+        }
+      ]
+    },
+    {
+      "id": 9293,
+      "year": 1988,
+      "title": "En Thangai Kalyani",
+      "director": "T. Rajendar",
+      "producer": "",
+      "composer": "T. Rajendar, Srividya, Vigdass, Sudha, S. S. Chandran, Vennira Aadai Moorthy, Renuka, Silambarasan",
+      "cast": "Chimbu Cine Arts",
+      "source_url": "https://en.wikipedia.org/wiki/En_Thangai_Kalyani",
+      "created_at": "2026-10-14 19:36:40",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Degam Suduguthu Vaadi",
+          "singers": "S.P. Balasubrahmanyam, Chitra",
+          "lyricist": "",
+          "raga": "",
+          "duration": "5:21",
+          "stream_url": "https://music.youtube.com/watch?v=o_cN5okuSYs"
+        },
+        {
+          "track_number": 2,
+          "title": "Ellame En Thangachi",
+          "singers": "Chitra",
+          "lyricist": "",
+          "raga": "",
+          "duration": "3:11",
+          "stream_url": "https://music.youtube.com/watch?v=mB0WAcRwGyw"
+        },
+        {
+          "track_number": 3,
+          "title": "Poo Ondru Valarthen",
+          "singers": "S.P. Balasubrahmanyam",
+          "lyricist": "",
+          "raga": "",
+          "duration": "3:35",
+          "stream_url": "https://music.youtube.com/watch?v=YsWDLnl3dY8"
+        },
+        {
+          "track_number": 4,
+          "title": "Thannandhani Kattukkulle",
+          "singers": "S.P. Balasubrahmanyam, Chitra, Chorus",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:46",
+          "stream_url": "https://music.youtube.com/watch?v=hF4kb3qfN2A"
+        },
+        {
+          "track_number": 5,
+          "title": "Poo Vaangi Vanda Neram",
+          "singers": "S.P. Balasubrahmanyam",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:40",
+          "stream_url": "https://music.youtube.com/watch?v=qfH1CFsOgRE"
+        },
+        {
+          "track_number": 6,
+          "title": "Music Bit",
+          "singers": "T Rajendar M A",
+          "lyricist": "",
+          "raga": "",
+          "duration": "0:54",
+          "stream_url": "https://music.youtube.com/watch?v=PjrAC6Cidf0"
+        },
+        {
+          "track_number": 7,
+          "title": "Viradathil Naanum",
+          "singers": "S.P. Balasubrahmanyam, S. Janaki",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:44",
+          "stream_url": "https://music.youtube.com/watch?v=wws0u_dick4"
+        },
+        {
+          "track_number": 8,
+          "title": "Thangacchikku Seemantham",
+          "singers": "S.P. Balasubrahmanyam",
+          "lyricist": "",
+          "raga": "",
+          "duration": "3:05",
+          "stream_url": "https://music.youtube.com/watch?v=dCXtRi1hYjc"
+        },
+        {
+          "track_number": 9,
+          "title": "En Vazhikkai Selai Pola",
+          "singers": "Chitra",
+          "lyricist": "",
+          "raga": "",
+          "duration": "1:41",
+          "stream_url": "https://music.youtube.com/watch?v=SyCjTMZ5WVU"
+        },
+        {
+          "track_number": 10,
+          "title": "Emmama Saappittan Paadhi",
+          "singers": "Mano, Chitra",
+          "lyricist": "",
+          "raga": "",
+          "duration": "0:59",
+          "stream_url": "https://music.youtube.com/watch?v=9crwt655F0k"
+        },
+        {
+          "track_number": 11,
+          "title": "Thol Meedhu Thaalatta",
+          "singers": "S.P. Balasubrahmanyam, Chitra",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:40",
+          "stream_url": "https://music.youtube.com/watch?v=EQwZkLkAqEg"
+        },
+        {
+          "track_number": 12,
+          "title": "Pottane Moonu Muducchithan",
+          "singers": "S.P. Balasubrahmanyam, Sasirekha",
+          "lyricist": "",
+          "raga": "",
+          "duration": "5:39",
+          "stream_url": "https://music.youtube.com/watch?v=Pm3-7Vka9d8"
+        }
+      ]
+    },
+    {
+      "id": 9294,
+      "year": 1988,
+      "title": "En Uyir Kannamma",
+      "director": "Sivachandran",
+      "producer": "",
+      "composer": "Prabhu, Radha, Lakshmi, V. K. Ramasamy, S. S. Chandran",
+      "cast": "S. K. S. Film Creations",
+      "source_url": "https://en.wikipedia.org/wiki/En_Uyir_Kannamma",
+      "created_at": "2026-10-14 19:36:40",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Yaarai Kaettu",
+          "singers": "Ilaiyaraaja, K.S. Chithra",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:30",
+          "stream_url": "https://music.youtube.com/watch?v=FsJOU8G_z30"
+        },
+        {
+          "track_number": 2,
+          "title": "Salangai Satham",
+          "singers": "Ilaiyaraaja, Malaysia Vasudevan, K.S. Chithra",
+          "lyricist": "",
+          "raga": "",
+          "duration": "1:23",
+          "stream_url": "https://music.youtube.com/watch?v=tR70mUxkh0I"
+        },
+        {
+          "track_number": 3,
+          "title": "Naan Thedum",
+          "singers": "Ilaiyaraaja, Malaysia Vasudevan",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:23",
+          "stream_url": "https://music.youtube.com/watch?v=YWxATGZ0jAo"
+        },
+        {
+          "track_number": 4,
+          "title": "Naadodi Paattukkal",
+          "singers": "Ilaiyaraaja, S.P. Balasubrahmanyam",
+          "lyricist": "",
+          "raga": "",
+          "duration": "3:48",
+          "stream_url": "https://music.youtube.com/watch?v=iRDlQHFjw58"
+        },
+        {
+          "track_number": 5,
+          "title": "Mathalam Kotta",
+          "singers": "Ilaiyaraaja, Malaysia Vasudevan, K.S. Chithra",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:35",
+          "stream_url": "https://music.youtube.com/watch?v=vgDy4b6gHuE"
+        },
+        {
+          "track_number": 6,
+          "title": "Poombaaraiyil",
+          "singers": "Ilaiyaraaja",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:43",
+          "stream_url": "https://music.youtube.com/watch?v=u73-lXQyf2U"
+        }
+      ]
+    },
+    {
+      "id": 9295,
+      "year": 1988,
+      "title": "En Vazhi Thani Vazhi",
+      "director": "V. Azhagappan",
+      "producer": "",
+      "composer": "Raghuvaran, Nishanthi, Geetha, S. S. Chandran",
+      "cast": "Rekha Movies",
+      "source_url": "https://en.wikipedia.org/wiki/En_Vazhi_Thani_Vazhi_%281988_film%29",
+      "created_at": "2026-10-14 19:36:40",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Vetri Selvan",
+          "singers": "Srikanth Deva, Anandhu, Vairamuthu",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:27",
+          "stream_url": "https://music.youtube.com/watch?v=BFN0XK0MJM8"
+        },
+        {
+          "track_number": 2,
+          "title": "Harmoil Thee Vaithai",
+          "singers": "Srikanth Deva, Ramya NSK, Ilaya Kamban",
+          "lyricist": "",
+          "raga": "",
+          "duration": "5:12",
+          "stream_url": "https://music.youtube.com/watch?v=f8E2JrlOQ7Q"
+        },
+        {
+          "track_number": 3,
+          "title": "Thoppul Kodi Sontham",
+          "singers": "Srikanth Deva, Madhu Balakrishnan, Ilaya Kamban",
+          "lyricist": "",
+          "raga": "",
+          "duration": "5:23",
+          "stream_url": "https://music.youtube.com/watch?v=6XxlUhSQKy8"
+        },
+        {
+          "track_number": 4,
+          "title": "Harmoneil Thee Vaiththai Theme",
+          "singers": "Srikanth Deva",
+          "lyricist": "",
+          "raga": "",
+          "duration": "5:13",
+          "stream_url": "https://music.youtube.com/watch?v=4UfYs667TR0"
+        },
+        {
+          "track_number": 5,
+          "title": "Thopulkodi Sontham Theme",
+          "singers": "Srikanth Deva",
+          "lyricist": "",
+          "raga": "",
+          "duration": "5:23",
+          "stream_url": "https://music.youtube.com/watch?v=ksCf8oVyCI8"
+        }
+      ]
+    },
+    {
+      "id": 9296,
+      "year": 1988,
+      "title": "Enga Ooru Kavakkaran",
+      "director": "T. P. Gajendran",
+      "producer": "",
+      "composer": "Ramarajan, Gouthami, S. S. Chandran, Senthil, Kovai Sarala, Y. Vijaya",
+      "cast": "Meenakshi Arts",
+      "source_url": "https://en.wikipedia.org/wiki/Enga_Ooru_Kavakkaran",
+      "created_at": "2026-10-14 19:36:40",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Aasaiyile Pathi Katti",
+          "singers": "Composer: Ilaiyaraaja, Lyricist: Gangai Amaran, Singer: P. Susheela",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:46",
+          "stream_url": "https://music.youtube.com/watch?v=mUIFSeL4yIU"
+        },
+        {
+          "track_number": 2,
+          "title": "Arumbagi Mottagi Poovagi",
+          "singers": "Composer: Ilaiyaraaja, Lyricist: Na. Kamarasan, Singer: Deepan Chakravarthy, P. Susheela",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:28",
+          "stream_url": "https://music.youtube.com/watch?v=n1_b8My3vvA"
+        },
+        {
+          "track_number": 3,
+          "title": "Enga Ooru Kaavalkaaran",
+          "singers": "Composer: Ilaiyaraaja, Lyricist: Gangai Amaran, Singer: Ilaiyaraaja",
+          "lyricist": "",
+          "raga": "",
+          "duration": "3:43",
+          "stream_url": "https://music.youtube.com/watch?v=pIkG_p0l_2Y"
+        },
+        {
+          "track_number": 4,
+          "title": "Jivunu Jivunu",
+          "singers": "Composer: Ilaiyaraaja, Lyricist: Piraisoodan, Singer: Mano, P. Susheela",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:26",
+          "stream_url": "https://music.youtube.com/watch?v=Pz7QmgilnNs"
+        },
+        {
+          "track_number": 5,
+          "title": "Maala Karukkaliley",
+          "singers": "Composer: Ilaiyaraaja, Lyricist: Gangai Amaran, Singer: Mano, P. Susheela",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:14",
+          "stream_url": "https://music.youtube.com/watch?v=3gsWwsMAd70"
+        },
+        {
+          "track_number": 6,
+          "title": "Aasaiyile Pathi Katti (Duet)",
+          "singers": "Composer: Ilaiyaraaja, Lyricist: Gangai Amaran, Singer: Mano, P. Susheela",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:22",
+          "stream_url": "https://music.youtube.com/watch?v=vgCohNhdFvc"
+        },
+        {
+          "track_number": 7,
+          "title": "Siruvani Thanni Kudichu",
+          "singers": "Composer: Ilaiyaraaja, Lyricist: Piraisoodan, Singer: Ilaiyaraaja, S. P. Sailaja, Sunantha",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:06",
+          "stream_url": "https://music.youtube.com/watch?v=fZ9dZWWJXHQ"
+        },
+        {
+          "track_number": 8,
+          "title": "Thopporam",
+          "singers": "Composer: Ilaiyaraaja, Lyricist: Gangai Amaran, Singer: P. Susheela",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:27",
+          "stream_url": "https://music.youtube.com/watch?v=5LUCOdOkNY0"
+        }
+      ]
+    },
+    {
+      "id": 9297,
+      "year": 1988,
+      "title": "Ennai Vittu Pogaathe",
+      "director": "T. K. Bose",
+      "producer": "",
+      "composer": "Ramarajan, Sabitha Anand, Radha Ravi, S. S. Chandran, Senthil",
+      "cast": "Shree Kanagadhara Art Films",
+      "source_url": "https://en.wikipedia.org/wiki/Ennai_Vittu_Pogaathe",
+      "created_at": "2026-10-14 19:36:40",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Valaattum",
+          "singers": "Ilaiyaraaja, Mano, K.S. Chithra",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:19",
+          "stream_url": "https://music.youtube.com/watch?v=gewconACyRs"
+        },
+        {
+          "track_number": 2,
+          "title": "Oorellam",
+          "singers": "Ilaiyaraaja, Malaysia Vasudevan",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:32",
+          "stream_url": "https://music.youtube.com/watch?v=OFJHowZ91iA"
+        },
+        {
+          "track_number": 3,
+          "title": "Oorukkullae",
+          "singers": "Ilaiyaraaja, Malaysia Vasudevan, Saibaba, T. Sunderrajan",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:33",
+          "stream_url": "https://music.youtube.com/watch?v=XKHW1CFmxso"
+        },
+        {
+          "track_number": 4,
+          "title": "Vellai Nirathoru",
+          "singers": "Ilaiyaraaja, S. Janaki",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:34",
+          "stream_url": "https://music.youtube.com/watch?v=hxbBoBs_Zwo"
+        },
+        {
+          "track_number": 5,
+          "title": "Elumbalae",
+          "singers": "Ilaiyaraaja, Saibaba",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:38",
+          "stream_url": "https://music.youtube.com/watch?v=BxpMqBGV4-0"
+        },
+        {
+          "track_number": 6,
+          "title": "Ponna Pola",
+          "singers": "Ilaiyaraaja",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:25",
+          "stream_url": "https://music.youtube.com/watch?v=mcpgd5HHrUE"
+        }
+      ]
+    },
+    {
+      "id": 9298,
+      "year": 1988,
+      "title": "Ganam Courtar Avargale",
+      "director": "Manivannan",
+      "producer": "",
+      "composer": "Sathyaraj, Ambika, Srividya, Janagaraj",
+      "cast": "Kamala Jothi Combines",
+      "source_url": "https://en.wikipedia.org/wiki/Ganam_Courtar_Avargale",
+      "created_at": "2026-10-14 19:36:40",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Patta Patippu",
+          "singers": "S. P. Balasubrahmanyam, Chorus",
+          "lyricist": "Vairamuthu",
+          "raga": "",
+          "duration": "5:51",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "Motta",
+          "singers": "K. S. Chithra",
+          "lyricist": "Vairamuthu",
+          "raga": "",
+          "duration": "4:25",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "Yaaritta Sattam",
+          "singers": "Malaysia Vasudevan",
+          "lyricist": "Vairamuthu",
+          "raga": "",
+          "duration": "4:11",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "Kadal Kavidai",
+          "singers": "S. P. Balasubrahmanyam, K. S. Chithra",
+          "lyricist": "Vairamuthu",
+          "raga": "",
+          "duration": "4:48",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "Aasaikku Pooja",
+          "singers": "S. P. Balasubrahmanyam, K. S. Chithra",
+          "lyricist": "Jevabharathi",
+          "raga": "",
+          "duration": "4:17",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 9299,
+      "year": 1988,
+      "title": "Guru Sishyan",
+      "director": "S. P. Muthuraman",
+      "producer": "",
+      "composer": "Rajinikanth, Prabhu, Gouthami, Seetha, Pandiyan, Cho, Manorama",
+      "cast": "P. A. Art Productions",
+      "source_url": "https://en.wikipedia.org/wiki/Guru_Sishyan_%281988_film%29",
+      "created_at": "2026-10-14 19:36:40",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Vaa Vaa Vanji",
+          "singers": "Ilaiyaraaja, S.P. Balasubrahmanyam, K.S. Chithra",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:29",
+          "stream_url": "https://music.youtube.com/watch?v=D7UhODL1C6k"
+        },
+        {
+          "track_number": 2,
+          "title": "Naarkaalikku Sandai",
+          "singers": "Ilaiyaraaja, Malaysia Vasudevan, Mano",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:30",
+          "stream_url": "https://music.youtube.com/watch?v=PmiwwXkq8Fc"
+        },
+        {
+          "track_number": 3,
+          "title": "Jingidi Jingidi",
+          "singers": "Ilaiyaraaja, Mano, K.S. Chithra",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:27",
+          "stream_url": "https://music.youtube.com/watch?v=LLX1YBA0E3I"
+        },
+        {
+          "track_number": 4,
+          "title": "Kandupidichen",
+          "singers": "Ilaiyaraaja, S.P. Balasubrahmanyam",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:35",
+          "stream_url": "https://music.youtube.com/watch?v=sK6SJR1NKfE"
+        },
+        {
+          "track_number": 5,
+          "title": "Uthama Puthiri",
+          "singers": "Ilaiyaraaja, Swarnalatha",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:13",
+          "stream_url": "https://music.youtube.com/watch?v=mTrXuxcZ0AU"
+        }
+      ]
+    },
+    {
+      "id": 9300,
+      "year": 1988,
+      "title": "Idhu Namma Aalu",
+      "director": "Balakumaran",
+      "producer": "",
+      "composer": "K. Bhagyaraj, Shobana, J. V. Somayajulu, Manorama, Kumarimuthu",
+      "cast": "Bhagavathi Creations",
+      "source_url": "https://en.wikipedia.org/wiki/Idhu_Namma_Aalu_%281988_film%29",
+      "created_at": "2026-10-14 19:36:40",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Kaathaga",
+          "singers": "Silambarasan TR",
+          "lyricist": "",
+          "raga": "",
+          "duration": "3:57",
+          "stream_url": "https://music.youtube.com/watch?v=WWf51yQbQMA"
+        },
+        {
+          "track_number": 2,
+          "title": "King Kong",
+          "singers": "T.R. Kuralarasan, Shruti Hassan, Blaaze, Silambarasan TR",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:41",
+          "stream_url": "https://music.youtube.com/watch?v=jylAtazRrgU"
+        },
+        {
+          "track_number": 3,
+          "title": "Kanne Un Kadhal",
+          "singers": "Yuvan Shankar Raja, Silambarasan TR",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:34",
+          "stream_url": "https://music.youtube.com/watch?v=CiZgvhAY5Js"
+        },
+        {
+          "track_number": 4,
+          "title": "Maaman Waiting",
+          "singers": "T. Rajhenderr, Suchitra, Blaaze, Silambarasan TR",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:01",
+          "stream_url": "https://music.youtube.com/watch?v=NAU9mHZQJLM"
+        },
+        {
+          "track_number": 5,
+          "title": "Oru Thalai Ragam (Simbu Version)",
+          "singers": "Silambarasan TR",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:41",
+          "stream_url": "https://music.youtube.com/watch?v=S_sBR7EEiCg"
+        },
+        {
+          "track_number": 6,
+          "title": "Oru Thalai Ragam",
+          "singers": "Sriram Parthasarathy, Blaaze, Silambarasan TR",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:41",
+          "stream_url": "https://music.youtube.com/watch?v=S_sBR7EEiCg"
+        }
+      ]
+    },
+    {
+      "id": 9301,
+      "year": 1988,
+      "title": "Illam",
+      "director": "I. V. Sasi",
+      "producer": "",
+      "composer": "Sivakumar, Amala, Chandrasekhar, Y. G. Mahendra",
+      "cast": "M. L. G. Creations",
+      "source_url": "https://en.wikipedia.org/wiki/Illam_%28film%29",
+      "created_at": "2026-10-14 19:36:40",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Aadum Paambu",
+          "singers": "Composer: Ilaiyaraaja, Lyricist: Gangai Amaran, Singer: P. Jayachandran, S. P. Sailaja",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:30",
+          "stream_url": "https://music.youtube.com/watch?v=7tPczEbzmBI"
+        },
+        {
+          "track_number": 2,
+          "title": "Manjal Neerattu",
+          "singers": "Composer: Ilaiyaraaja, Lyricist: Gangai Amaran, Singer: K. S. Chithra",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:45",
+          "stream_url": "https://music.youtube.com/watch?v=IW5OsmKNQZ8"
+        },
+        {
+          "track_number": 3,
+          "title": "Nandhavanam Poothirukkudhu",
+          "singers": "Composer: Ilaiyaraaja, Lyricist: Gangai Amaran, Singer: S. P. Balasubrahmanyam",
+          "lyricist": "",
+          "raga": "",
+          "duration": "5:02",
+          "stream_url": "https://music.youtube.com/watch?v=JOro33ZTI6o"
+        },
+        {
+          "track_number": 4,
+          "title": "Puttu Puttu Vaikkatuma",
+          "singers": "Composer: Ilaiyaraaja, Lyricist: Gangai Amaran, Singer: Mano",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:25",
+          "stream_url": "https://music.youtube.com/watch?v=K-7s8GE6RBY"
+        },
+        {
+          "track_number": 5,
+          "title": "The Journey (Title Score)",
+          "singers": "Composer: Ilaiyaraaja",
+          "lyricist": "",
+          "raga": "",
+          "duration": "1:40",
+          "stream_url": "https://music.youtube.com/watch?v=GeFx5QH-uTw"
+        }
+      ]
+    },
+    {
+      "id": 9302,
+      "year": 1988,
+      "title": "Irandil Ondru",
+      "director": "V. Azhagappan",
+      "producer": "",
+      "composer": "Ramki, Nadhiya, Madhuri",
+      "cast": "S. P. T. Films",
+      "source_url": "https://en.wikipedia.org/wiki/Irandil_Ondru",
+      "created_at": "2026-10-14 19:36:40",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Naarinil Poo Thoduthu",
+          "singers": "Ilaiyaraaja, K.S. Chithra",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:33",
+          "stream_url": "https://music.youtube.com/watch?v=by_PmOxdIno"
+        },
+        {
+          "track_number": 2,
+          "title": "Thanga Kudam Edukkum",
+          "singers": "Ilaiyaraaja, Malaysia Vasudevan",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:35",
+          "stream_url": "https://music.youtube.com/watch?v=ISnuypIDYmQ"
+        },
+        {
+          "track_number": 3,
+          "title": "Ingae Ellorum Nallavanga",
+          "singers": "Ilaiyaraaja, Malaysia Vasudevan",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:27",
+          "stream_url": "https://music.youtube.com/watch?v=zyuVK4Ecp-k"
+        },
+        {
+          "track_number": 4,
+          "title": "Kadhalukku Thoodhu",
+          "singers": "Ilaiyaraaja, K.S. Chithra",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:25",
+          "stream_url": "https://music.youtube.com/watch?v=dk_bwRfYNwc"
+        },
+        {
+          "track_number": 5,
+          "title": "Sangeetha Poo Mazhaiyae",
+          "singers": "Ilaiyaraaja, Mano, K.S. Chithra",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:39",
+          "stream_url": "https://music.youtube.com/watch?v=kmleKhwh9c8"
+        },
+        {
+          "track_number": 6,
+          "title": "Oru Vaeti Vandhu Selai",
+          "singers": "Ilaiyaraaja, Mano, K.S. Chithra",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:35",
+          "stream_url": "https://music.youtube.com/watch?v=5XIXY3J5ZLo"
+        },
+        {
+          "track_number": 7,
+          "title": "Dharmarukku Pinn Pirandha",
+          "singers": "Ilaiyaraaja, Kausalya",
+          "lyricist": "",
+          "raga": "",
+          "duration": "0:45",
+          "stream_url": "https://music.youtube.com/watch?v=nIja9gSw37Q"
+        },
+        {
+          "track_number": 8,
+          "title": "Maana Madurai",
+          "singers": "Ilaiyaraaja, B.S. Sasirekha",
+          "lyricist": "",
+          "raga": "",
+          "duration": "1:18",
+          "stream_url": "https://music.youtube.com/watch?v=-sHOG0VTgoY"
+        },
+        {
+          "track_number": 9,
+          "title": "Maana Madurai (Pathos)",
+          "singers": "Ilaiyaraaja, B.S. Sasirekha",
+          "lyricist": "",
+          "raga": "",
+          "duration": "1:25",
+          "stream_url": "https://music.youtube.com/watch?v=wK5ntExLmOg"
+        },
+        {
+          "track_number": 10,
+          "title": "Poovukku Poovu",
+          "singers": "Ilaiyaraaja, Kausalya",
+          "lyricist": "",
+          "raga": "",
+          "duration": "0:39",
+          "stream_url": "https://music.youtube.com/watch?v=srhCSXQ9Vi4"
+        }
+      ]
+    },
+    {
+      "id": 9303,
+      "year": 1988,
+      "title": "Ithu Engal Neethi",
+      "director": "S. A. Chandrasekhar",
+      "producer": "",
+      "composer": "Ramki, Radhika, Nizhalgal Ravi, Vani Viswanath, Raja, S. S. Chandran",
+      "cast": "Lalithanjali Fine Arts",
+      "source_url": "https://en.wikipedia.org/wiki/Ithu_Engal_Neethi",
+      "created_at": "2026-10-14 19:36:40",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Neethi Ithu Engal Neethi",
+          "singers": "Composer: Ilaiyaraaja, Lyricist: Vaali, Singer: Ilaiyaraaja",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:36",
+          "stream_url": "https://music.youtube.com/watch?v=3j4u-dlVJM4"
+        },
+        {
+          "track_number": 2,
+          "title": "Padithen Padithen",
+          "singers": "Composer: Ilaiyaraaja, Lyricist: Vaali, Singer: Mano, K. S. Chithra",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:38",
+          "stream_url": "https://music.youtube.com/watch?v=FhSNOE06BZ0"
+        },
+        {
+          "track_number": 3,
+          "title": "Puthisaali Raaja",
+          "singers": "Composer: Ilaiyaraaja, Lyricist: Vaali, Singer: Mano, K. S. Chithra",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:28",
+          "stream_url": "https://music.youtube.com/watch?v=Lo0NsbAA3no"
+        },
+        {
+          "track_number": 4,
+          "title": "Kadaiya Konjam",
+          "singers": "Composer: Ilaiyaraaja, Lyricist: Vaali, Singer: Malaysia Vasudevan",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:33",
+          "stream_url": "https://music.youtube.com/watch?v=goEVeLdcJdE"
+        },
+        {
+          "track_number": 5,
+          "title": "Unnattam Pillai",
+          "singers": "Composer: Ilaiyaraaja, Lyricist: Vaali, Singer: K. S. Chithra",
+          "lyricist": "",
+          "raga": "",
+          "duration": "0:57",
+          "stream_url": "https://music.youtube.com/watch?v=eDmGyKd1N7Y"
+        }
+      ]
+    },
+    {
+      "id": 9304,
+      "year": 1988,
+      "title": "Ithuthan Arambam",
+      "director": "Raj Barath",
+      "producer": "",
+      "composer": "Pratap K. Pothen",
+      "cast": "Pakshiraja Arts",
+      "source_url": "https://en.wikipedia.org/wiki/Ithuthan_Arambam",
+      "created_at": "2026-10-14 19:36:40",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Ithu Thaan Aarambam (feat. TriplA, Jerome, Prince & JAB)",
+          "singers": "Sam Daniel",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:54",
+          "stream_url": "https://music.youtube.com/watch?v=yrh-1-YxEuU"
+        }
+      ]
+    },
+    {
+      "id": 9305,
+      "year": 1988,
+      "title": "Jadikketha Moodi",
+      "director": "Umesh-Prabhakar",
+      "producer": "",
+      "composer": "Pandiarajan, Pandiyan, Abhinaya, S. S. Chandran, Kovai Sarala",
+      "cast": "Sri Devi Kala Chithra",
+      "source_url": "https://en.wikipedia.org/wiki/Jadikketha_Moodi",
+      "created_at": "2026-10-14 19:36:40",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Thalikattiya Thangakkiliye",
+          "singers": "S.P. Balasubrahmanyam, S. Janaki",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:53",
+          "stream_url": "https://music.youtube.com/watch?v=MbrTCxsNuPk"
+        },
+        {
+          "track_number": 2,
+          "title": "Antha Anbulla Annkili",
+          "singers": "S.P. Balasubrahmanyam, S. Janaki",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:39",
+          "stream_url": "https://music.youtube.com/watch?v=dj2XvQhDyRw"
+        },
+        {
+          "track_number": 3,
+          "title": "Vittu Vittu Thudikithu",
+          "singers": "S.P. Balasubrahmanyam, S. Janaki",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:42",
+          "stream_url": "https://music.youtube.com/watch?v=vhab6Tif9VA"
+        },
+        {
+          "track_number": 4,
+          "title": "Pannendu",
+          "singers": "S.P. Balasubrahmanyam, S. Janaki",
+          "lyricist": "",
+          "raga": "",
+          "duration": "5:08",
+          "stream_url": "https://music.youtube.com/watch?v=IlXy8Mfh4G4"
+        },
+        {
+          "track_number": 5,
+          "title": "Meesavatcha Ambalaikkellam",
+          "singers": "S.P. Balasubrahmanyam",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:22",
+          "stream_url": "https://music.youtube.com/watch?v=f_azcsPD7ZE"
+        }
+      ]
+    },
+    {
+      "id": 9306,
+      "year": 1988,
+      "title": "Jeeva",
+      "director": "Pratap K. Pothen",
+      "producer": "",
+      "composer": "Sathyaraj, Amala, Nizhalgal Ravi, Janagaraj, Silk Smitha",
+      "cast": "Sathya Jyothi Films",
+      "source_url": "https://en.wikipedia.org/wiki/Jeeva_%281988_film%29",
+      "created_at": "2026-10-14 19:36:40",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Ovvundraai Thirudugiraai",
+          "singers": "D. Imman, Karthik, Bhavya Pandit",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:46",
+          "stream_url": "https://music.youtube.com/watch?v=9Pbu22a5u8A"
+        },
+        {
+          "track_number": 2,
+          "title": "Oru Rosa",
+          "singers": "D. Imman, Anthony Daasan, Pooja AV, Madhan Karky",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:09",
+          "stream_url": "https://music.youtube.com/watch?v=6pIoUuZebYc"
+        },
+        {
+          "track_number": 3,
+          "title": "Oruthi Maelae",
+          "singers": "D. Imman, Abhay Jodhpurkar, El Fé Choir, Madhan Karky",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:24",
+          "stream_url": "https://music.youtube.com/watch?v=bMQNtBQIoPI"
+        },
+        {
+          "track_number": 4,
+          "title": "Sangimangi",
+          "singers": "D. Imman, Nivas, Malavika, Tha Mystro",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:45",
+          "stream_url": "https://music.youtube.com/watch?v=VoHXJZECEdY"
+        },
+        {
+          "track_number": 5,
+          "title": "Engae Ponaai",
+          "singers": "D. Imman, S.P. Balasubrahmanyam, Madhan Karky",
+          "lyricist": "",
+          "raga": "",
+          "duration": "3:54",
+          "stream_url": "https://music.youtube.com/watch?v=CwhOMmlbbE0"
+        },
+        {
+          "track_number": 6,
+          "title": "Naetru Naan",
+          "singers": "D. Imman, Sathya Prakash, Madhan Karky",
+          "lyricist": "",
+          "raga": "",
+          "duration": "1:41",
+          "stream_url": "https://music.youtube.com/watch?v=-YtpHE77GS0"
+        },
+        {
+          "track_number": 7,
+          "title": "Ovvundraai Thirudugiraai (Karaoke Version)",
+          "singers": "D. Imman",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:46",
+          "stream_url": "https://music.youtube.com/watch?v=nLtGWW9ZU7U"
+        },
+        {
+          "track_number": 8,
+          "title": "Oruthi Maelae (Karaoke Version)",
+          "singers": "D. Imman",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:22",
+          "stream_url": "https://music.youtube.com/watch?v=Fnq6m332chw"
+        }
+      ]
+    },
+    {
+      "id": 9307,
+      "year": 1988,
+      "title": "Kaalaiyum Neeye Maalaiyum Neeye",
+      "director": "R. Sundarrajan",
+      "producer": "",
+      "composer": "Vijayakanth, Prabhu, Lakshmi, Radhika, Rekha, Senthil",
+      "cast": "Poornachandra Arts",
+      "source_url": "https://en.wikipedia.org/wiki/Kaalaiyum_Neeye_Maalaiyum_Neeye",
+      "created_at": "2026-10-14 19:36:40",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Kuk Kukoo Ena Koovum",
+          "singers": "S.P. Balasubrahmanyam, S. Janaki",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:30",
+          "stream_url": "https://music.youtube.com/watch?v=-znoYSoBHCM"
+        },
+        {
+          "track_number": 2,
+          "title": "Vadi En Chittukuruvi",
+          "singers": "Malaysia Vasudevan, S. Janaki",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:26",
+          "stream_url": "https://music.youtube.com/watch?v=Yei5lG03Qu4"
+        },
+        {
+          "track_number": 3,
+          "title": "Siraiyenil Veenai",
+          "singers": "S. Janaki",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:27",
+          "stream_url": "https://music.youtube.com/watch?v=Moj-vvoeW-k"
+        },
+        {
+          "track_number": 4,
+          "title": "Kalai Neeye ! Malai !",
+          "singers": "S. Janaki",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:38",
+          "stream_url": "https://music.youtube.com/watch?v=F7qTu-xG4uw"
+        },
+        {
+          "track_number": 5,
+          "title": "Sammatham Cholla Vanthal",
+          "singers": "P. Jayachandran, S. Janaki",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:33",
+          "stream_url": "https://music.youtube.com/watch?v=Eaii6i5Ex8A"
+        },
+        {
+          "track_number": 6,
+          "title": "Rathathiriku Konjam",
+          "singers": "K.J. Yesudas",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:52",
+          "stream_url": "https://music.youtube.com/watch?v=eYrU4GT_MEs"
+        }
+      ]
+    },
+    {
+      "id": 9308,
+      "year": 1988,
+      "title": "Kadarkarai Thaagam",
+      "director": "Ilango",
+      "producer": "",
+      "composer": "Anand Babu, Lakshmi, Vaishnavi, Nizhalgal Ravi, S. S. Chandran",
+      "cast": "J. J. Enterprises",
+      "source_url": "https://en.wikipedia.org/wiki/Kadarkarai_Thaagam",
+      "created_at": "2026-10-14 19:36:40",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "O.. My Darling Kuluvaa Kuluvaa",
+          "singers": "S.P. Balasubrahmanyam, Chorus",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:53",
+          "stream_url": "https://music.youtube.com/watch?v=3oW5MpVBIvw"
+        },
+        {
+          "track_number": 2,
+          "title": "Chinna Chinna Mookutthikku",
+          "singers": "S.P. Balasubrahmanyam, Vani Jairam",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:29",
+          "stream_url": "https://music.youtube.com/watch?v=7YkWuqtlRpQ"
+        },
+        {
+          "track_number": 3,
+          "title": "Vizhi Yirandum Meettum Veenai",
+          "singers": "Vani Jairam",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:28",
+          "stream_url": "https://music.youtube.com/watch?v=E9SZLAO9ElE"
+        },
+        {
+          "track_number": 4,
+          "title": "Annachi Annachi",
+          "singers": "Chandra Bose, S. P. Sailaja",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:31",
+          "stream_url": "https://music.youtube.com/watch?v=jHYILpkdqiU"
+        },
+        {
+          "track_number": 5,
+          "title": "Kudukudu Thaattha",
+          "singers": "S.N. Surendar, Chorus",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:44",
+          "stream_url": "https://music.youtube.com/watch?v=XflHnL3CH1o"
+        }
+      ]
+    },
+    {
+      "id": 9309,
+      "year": 1988,
+      "title": "Kai Koduppal Karpagambal",
+      "director": "S. Jagadeesan",
+      "producer": "",
+      "composer": "K. R. Vijaya, Seetha, Rajeev",
+      "cast": "Oaam Selvi Arts",
+      "source_url": "https://en.wikipedia.org/wiki/Kai_Koduppal_Karpagambal",
+      "created_at": "2026-10-14 19:36:40",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Thirai Kondal Vasadayil",
+          "singers": "Sankar, Sirkazhi Govindarajan, Veerasamy, Vani Jairam",
+          "lyricist": "",
+          "raga": "",
+          "duration": "9:57",
+          "stream_url": "https://music.youtube.com/watch?v=-cnp_XsvEAc"
+        },
+        {
+          "track_number": 2,
+          "title": "Theradithan Kizhakkile",
+          "singers": "Sankar, Vaali, P. Susheela",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:39",
+          "stream_url": "https://music.youtube.com/watch?v=XhIyNJyDbeY"
+        },
+        {
+          "track_number": 3,
+          "title": "Aadi Maasa Thiruvizha",
+          "singers": "Sankar, Vaali, Vani Jairam",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:57",
+          "stream_url": "https://music.youtube.com/watch?v=fJs27Vrq5es"
+        },
+        {
+          "track_number": 4,
+          "title": "Mayil Eragal Mella",
+          "singers": "Sankar, Vaali, P. Susheela",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:27",
+          "stream_url": "https://music.youtube.com/watch?v=xpMiG9wN20o"
+        },
+        {
+          "track_number": 5,
+          "title": "Karpagame Karpagame",
+          "singers": "Sirkazhi Govindarajan",
+          "lyricist": "",
+          "raga": "",
+          "duration": "6:09",
+          "stream_url": "https://music.youtube.com/watch?v=bVqFjaEe_eA"
+        }
+      ]
+    },
+    {
+      "id": 9310,
+      "year": 1988,
+      "title": "Kai Naattu",
+      "director": "V. C. Guhanathan",
+      "producer": "",
+      "composer": "[[Chandrabose (composer)",
+      "cast": "Suresh Productions",
+      "source_url": "https://en.wikipedia.org/wiki/Kai_Naattu",
+      "created_at": "2026-10-14 19:36:40",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Kovaila",
+          "singers": "Malaysia Vasudevan",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "Oorengum Unnai",
+          "singers": "Jayachandran, Vani Jairam",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "Podu Podu",
+          "singers": "Malaysia Vasudevan",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "Moottaipoochi",
+          "singers": "Malaysia Vasudevan, Soundararajan",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "Ada Nee",
+          "singers": "Malaysia Vasudevan, S. P. Sailaja",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 9311,
+      "year": 1988,
+      "title": "Kalicharan",
+      "director": "L. Raja",
+      "producer": "",
+      "composer": "[[Chandrabose (composer)",
+      "cast": "Murali Cine Arts",
+      "source_url": "https://en.wikipedia.org/wiki/Kalicharan_%281988_film%29",
+      "created_at": "2026-10-14 19:36:40",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Suriyare",
+          "singers": "Malaysia Vasudevan",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "Vaanam Bhoomi",
+          "singers": "Prabhakar, Sunanda, T. L. Thyagarajan",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "Oorukku Therinjachu",
+          "singers": "Malaysia Vasudevan",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "Thodalam",
+          "singers": "Prabhakar, Vani Jairam",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "Gramathula",
+          "singers": "[[Mano (singer)",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 9312,
+      "year": 1988,
+      "title": "Kaliyugam",
+      "director": "K. Subash",
+      "producer": "",
+      "composer": "Prabhu, Raghuvaran, Amala, Geetha, Janagaraj",
+      "cast": "Anandhi Films",
+      "source_url": "https://en.wikipedia.org/wiki/Kaliyugam_%281988_film%29",
+      "created_at": "2026-10-14 19:36:40",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Yeda Kooda",
+          "singers": "Siddarth Vipin, Steve Vatz, Malavika Manoj",
+          "lyricist": "",
+          "raga": "",
+          "duration": "3:16",
+          "stream_url": "https://music.youtube.com/watch?v=USwEOXin8Bo"
+        },
+        {
+          "track_number": 2,
+          "title": "Ajala Ujala",
+          "singers": "Siddarth Vipin, N.Arunagiri, Marana Gaana Viji",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:15",
+          "stream_url": "https://music.youtube.com/watch?v=ayY0cQONNl4"
+        },
+        {
+          "track_number": 3,
+          "title": "Sirapunji Saalayile",
+          "singers": "Siddarth Vipin, Taaj Noor, Haricharan",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:56",
+          "stream_url": "https://music.youtube.com/watch?v=-VVroIG0TsU"
+        },
+        {
+          "track_number": 4,
+          "title": "Yeno Yeno",
+          "singers": "Siddarth Vipin, Taaj Noor, Rahul Nambiar",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:46",
+          "stream_url": "https://music.youtube.com/watch?v=6WLmQAskHuc"
+        },
+        {
+          "track_number": 5,
+          "title": "Vennayila Alaveduthu",
+          "singers": "Siddarth Vipin, Mukesh",
+          "lyricist": "",
+          "raga": "",
+          "duration": "5:01",
+          "stream_url": "https://music.youtube.com/watch?v=475IqDzgz2M"
+        }
+      ]
+    },
+    {
+      "id": 9313,
+      "year": 1988,
+      "title": "Kalloori Kanavugal",
+      "director": "P. J. Mohan",
+      "producer": "",
+      "composer": "",
+      "cast": "Nava Kavitha Creations",
+      "source_url": "https://en.wikipedia.org/wiki/Kalloori_Kanavugal",
+      "created_at": "2026-10-14 19:36:40",
+      "tracks": []
+    },
+    {
+      "id": 9314,
+      "year": 1988,
+      "title": "Kan Simittum Neram",
+      "director": "Kalaivanan Kannadasan",
+      "producer": "",
+      "composer": "Karthik, Ambika, R. Sarathkumar, S. S. Chandran, Senthil",
+      "cast": "Varalaxmi Creations",
+      "source_url": "https://en.wikipedia.org/wiki/Kan_Simittum_Neram",
+      "created_at": "2026-10-14 19:36:40",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Mamanthan",
+          "singers": "Malaysia Vasudevan, Chitra",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:25",
+          "stream_url": "https://music.youtube.com/watch?v=cUI2IBcLwPY"
+        },
+        {
+          "track_number": 2,
+          "title": "Raagam Pudu Raagam",
+          "singers": "K.J. Yesudas",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:35",
+          "stream_url": "https://music.youtube.com/watch?v=NWvSRc7X0-0"
+        },
+        {
+          "track_number": 3,
+          "title": "Thane Paduthe",
+          "singers": "P. Susheela",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:20",
+          "stream_url": "https://music.youtube.com/watch?v=A--DqCKc67g"
+        },
+        {
+          "track_number": 4,
+          "title": "Vizhigalil Kodi",
+          "singers": "S.P. Balasubrahmanyam, Chitra",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:20",
+          "stream_url": "https://music.youtube.com/watch?v=MuUlFN3_yxQ"
+        }
+      ]
+    },
+    {
+      "id": 9315,
+      "year": 1988,
+      "title": "Katha Nayagan",
+      "director": "Muktha Srinivasan",
+      "producer": "",
+      "composer": "Pandiarajan, S. Ve. Shekher, Rekha, Shobana, S. S. Chandran, Manorama",
+      "cast": "Muktha films",
+      "source_url": "https://en.wikipedia.org/wiki/Katha_Nayagan_%281988_film%29",
+      "created_at": "2026-10-14 19:36:40",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Kathanayagan The Hero",
+          "singers": "Sean Roldan",
+          "lyricist": "",
+          "raga": "",
+          "duration": "2:42",
+          "stream_url": "https://music.youtube.com/watch?v=JwE1fAlcRtc"
+        },
+        {
+          "track_number": 2,
+          "title": "On Nenappu",
+          "singers": "Sean Roldan, Anirudh Ravichander",
+          "lyricist": "",
+          "raga": "",
+          "duration": "3:14",
+          "stream_url": "https://music.youtube.com/watch?v=sPfgySDmSP0"
+        },
+        {
+          "track_number": 3,
+          "title": "Tappu Tippu",
+          "singers": "Sean Roldan, Mukesh",
+          "lyricist": "",
+          "raga": "",
+          "duration": "3:03",
+          "stream_url": "https://music.youtube.com/watch?v=ZEE54rXyAAk"
+        },
+        {
+          "track_number": 4,
+          "title": "Sunday Na Bottle Edu",
+          "singers": "Sean Roldan, Ravi G",
+          "lyricist": "",
+          "raga": "",
+          "duration": "3:16",
+          "stream_url": "https://music.youtube.com/watch?v=wMWq4E7jipE"
+        },
+        {
+          "track_number": 5,
+          "title": "Rise of a Hero (Theme)",
+          "singers": "Sean Roldan",
+          "lyricist": "",
+          "raga": "",
+          "duration": "2:20",
+          "stream_url": "https://music.youtube.com/watch?v=0ufwerZyhKc"
+        }
+      ]
+    },
+    {
+      "id": 9316,
+      "year": 1988,
+      "title": "Kazhugumalai Kallan",
+      "director": "Rajasekhar",
+      "producer": "",
+      "composer": "Charan Raj, Rekha, Disco Shanti",
+      "cast": "Sri Karpaga Vinayaga Film Circuit",
+      "source_url": "https://en.wikipedia.org/wiki/Kazhugumalai_Kallan",
+      "created_at": "2026-10-14 19:36:40",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Uchimalayil Ooriruka",
+          "singers": "Mano",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:29",
+          "stream_url": "https://music.youtube.com/watch?v=eGxaAf-0ITk"
+        },
+        {
+          "track_number": 2,
+          "title": "Kaatiputtan Thanidhan",
+          "singers": "Malayasia Vasudevan",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:01",
+          "stream_url": "https://music.youtube.com/watch?v=qWlMpUzZVWM"
+        },
+        {
+          "track_number": 3,
+          "title": "Nanbargale Nanbargale",
+          "singers": "Prabagaran",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:34",
+          "stream_url": "https://music.youtube.com/watch?v=veXwXYCZn_I"
+        },
+        {
+          "track_number": 4,
+          "title": "Kalyaana Ponnu",
+          "singers": "Malayasia Vasudevan",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:23",
+          "stream_url": "https://music.youtube.com/watch?v=rCoMZKUQ698"
+        },
+        {
+          "track_number": 5,
+          "title": "Oorpesum Ulagam Pesum",
+          "singers": "Malayasia Vasudevan",
+          "lyricist": "",
+          "raga": "",
+          "duration": "3:56",
+          "stream_url": "https://music.youtube.com/watch?v=sF2vahwP-K4"
+        }
+      ]
+    },
+    {
+      "id": 9317,
+      "year": 1988,
+      "title": "Kodi Parakkuthu",
+      "director": "Bharathiraja",
+      "producer": "",
+      "composer": "Rajinikanth, Amala, Sujatha, Janagaraj",
+      "cast": "Manoj creations",
+      "source_url": "https://en.wikipedia.org/wiki/Kodi_Parakkuthu",
+      "created_at": "2026-10-14 19:36:40",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Oh Kathal Ennai",
+          "singers": "S.P. Balasubrahmanyam, K. S. Chithra",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:15",
+          "stream_url": "https://music.youtube.com/watch?v=h4yx4llwrEg"
+        },
+        {
+          "track_number": 2,
+          "title": "Selai Kattum",
+          "singers": "S.P. Balasubrahmanyam, K. S. Chithra",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:50",
+          "stream_url": "https://music.youtube.com/watch?v=LSsAbnxicvQ"
+        },
+        {
+          "track_number": 3,
+          "title": "Annai Madiyil",
+          "singers": "S.P. Balasubrahmanyam",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:31",
+          "stream_url": "https://music.youtube.com/watch?v=Upol42gtk0Q"
+        },
+        {
+          "track_number": 4,
+          "title": "Thondakkulle",
+          "singers": "Malaysia Vasudevan, K. S. Chithra",
+          "lyricist": "",
+          "raga": "",
+          "duration": "6:46",
+          "stream_url": "https://music.youtube.com/watch?v=fjyftrHqOko"
+        }
+      ]
+    },
+    {
+      "id": 9318,
+      "year": 1988,
+      "title": "Koil Mani Osai",
+      "director": "Gangai Amaran",
+      "producer": "",
+      "composer": "Raghuvaran, Pandiyan, Abhinaya, Senthil",
+      "cast": "National Movie Makers",
+      "source_url": "https://en.wikipedia.org/wiki/Koil_Mani_Osai",
+      "created_at": "2026-10-14 19:36:40",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Odapatti Pichamuthu",
+          "singers": "Chitra",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:41",
+          "stream_url": "https://music.youtube.com/watch?v=vZAcgVDe8Ws"
+        },
+        {
+          "track_number": 2,
+          "title": "Aandavan Yaarayoum Vittadhilla",
+          "singers": "K J Yesudas",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:12",
+          "stream_url": "https://music.youtube.com/watch?v=SPSxYjPUFO0"
+        },
+        {
+          "track_number": 3,
+          "title": "Pulla Pulla Vayasu Pulla",
+          "singers": "Mano | Chitra",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:47",
+          "stream_url": "https://music.youtube.com/watch?v=M92PvCSGDDc"
+        },
+        {
+          "track_number": 4,
+          "title": "Gala Gala Galavena",
+          "singers": "Chitra",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:25",
+          "stream_url": "https://music.youtube.com/watch?v=6ReButGUnuM"
+        },
+        {
+          "track_number": 5,
+          "title": "Koora Podavakatti",
+          "singers": "Malayasia Vasudevan",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:42",
+          "stream_url": "https://music.youtube.com/watch?v=q_FdQr6ds1s"
+        }
+      ]
+    },
+    {
+      "id": 9319,
+      "year": 1988,
+      "title": "Kunguma Kodu",
+      "director": "V. Azhagappan",
+      "producer": "",
+      "composer": "Mohan, Suresh, Nalini, Ramya Krishnan, Senthil",
+      "cast": "Mahesh Productions",
+      "source_url": "https://en.wikipedia.org/wiki/Kunguma_Kodu",
+      "created_at": "2026-10-14 19:36:40",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Muppathu Mukkodi",
+          "singers": "S.P.Balasubramanyam, Chitra, Sujatha",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:05",
+          "stream_url": "https://music.youtube.com/watch?v=Ts52t9KUF_E"
+        },
+        {
+          "track_number": 2,
+          "title": "Hey! Raathiye",
+          "singers": "S.P.Balasubramanyam, Chitra, Sujatha",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:48",
+          "stream_url": "https://music.youtube.com/watch?v=X2Xb-Rz0-0I"
+        },
+        {
+          "track_number": 3,
+          "title": "Chinnanchiru Malare",
+          "singers": "S.P.Balasubramanyam, Chitra, Sujatha",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:16",
+          "stream_url": "https://music.youtube.com/watch?v=tDT9mPi7Q6Y"
+        },
+        {
+          "track_number": 4,
+          "title": "Thamarai Poovithazh",
+          "singers": "S.P.Balasubramanyam, Chitra, Sujatha",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:18",
+          "stream_url": "https://music.youtube.com/watch?v=h2Urviq5nAY"
+        },
+        {
+          "track_number": 5,
+          "title": "Vaanam Kottudhu",
+          "singers": "S.P.Balasubramanyam, Chitra, Sujatha",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:35",
+          "stream_url": "https://music.youtube.com/watch?v=zavbluuDnBw"
+        },
+        {
+          "track_number": 6,
+          "title": "Thalattum Nilavukku",
+          "singers": "S.P.Balasubramanyam, Chitra, Sujatha",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:25",
+          "stream_url": "https://music.youtube.com/watch?v=bCj8f9c09qk"
+        }
+      ]
+    },
+    {
+      "id": 9320,
+      "year": 1988,
+      "title": "Maduraikara Thambi",
+      "director": "R. T. Annadurai",
+      "producer": "",
+      "composer": "Ramki, Sri Bharathi, Vijayakumar, Sudhakar, Renuka",
+      "cast": "Anand & Anand Associates",
+      "source_url": "https://en.wikipedia.org/wiki/Maduraikara_Thambi",
+      "created_at": "2026-10-14 19:36:40",
+      "tracks": []
+    },
+    {
+      "id": 9321,
+      "year": 1988,
+      "title": "Makkal Aaniyittaal",
+      "director": "Rama Narayanan",
+      "producer": "",
+      "composer": "Vijayakanth, Rekha, M. K. Stalin",
+      "cast": "Sri Thenandal Films",
+      "source_url": "https://en.wikipedia.org/wiki/Makkal_Aaniyittaal",
+      "created_at": "2026-10-14 19:36:40",
+      "tracks": []
+    },
+    {
+      "id": 9322,
+      "year": 1988,
+      "title": "Manaivi Oru Mandhiri",
+      "director": "Rama Narayanan",
+      "producer": "",
+      "composer": "Ramki, S. Ve. Shekher, Seetha, S. S. Chandran, Senthil, Vennira Aadai Moorthy, Madhuri, Kovai Sarala, Lalitha Kumari",
+      "cast": "Shenbagam Movies",
+      "source_url": "https://en.wikipedia.org/wiki/Manaivi_Oru_Mandhiri",
+      "created_at": "2026-10-14 19:36:40",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Naa Pakamapovana",
+          "singers": "S.P.B",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:22",
+          "stream_url": "https://music.youtube.com/watch?v=8fQJV95IzII"
+        },
+        {
+          "track_number": 2,
+          "title": "Manaive Oru Manthiri",
+          "singers": "S.P.B",
+          "lyricist": "",
+          "raga": "",
+          "duration": "2:40",
+          "stream_url": "https://music.youtube.com/watch?v=0xU7qJyLk4Q"
+        },
+        {
+          "track_number": 3,
+          "title": "Kaadhu Koduthu Ketten",
+          "singers": "Sakthisanmugam",
+          "lyricist": "",
+          "raga": "",
+          "duration": "5:14",
+          "stream_url": "https://music.youtube.com/watch?v=jiFkrLK2PI0"
+        },
+        {
+          "track_number": 4,
+          "title": "Irumbu Pettiyile",
+          "singers": "Malayasia Vasudevan",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:55",
+          "stream_url": "https://music.youtube.com/watch?v=Prs9svEodeg"
+        },
+        {
+          "track_number": 5,
+          "title": "Noorandugal Nee Vazha",
+          "singers": "S.P.B",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:21",
+          "stream_url": "https://music.youtube.com/watch?v=dB-2S_LBuoE"
+        }
+      ]
+    },
+    {
+      "id": 9323,
+      "year": 1988,
+      "title": "Manamagale Vaa",
+      "director": "Panchu Arunachalam",
+      "producer": "",
+      "composer": "Prabhu, Radhika, Goundamani, V. K. Ramasamy, S. S. Chandran, Kovai Sarala, Disco Shanti",
+      "cast": "Rajaa Enterprises",
+      "source_url": "https://en.wikipedia.org/wiki/Manamagale_Vaa",
+      "created_at": "2026-10-14 19:36:40",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Aavaram Poovai",
+          "singers": "Ilaiyaraaja, P. Susheela",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:28",
+          "stream_url": "https://music.youtube.com/watch?v=uI6b3mVGjAo"
+        },
+        {
+          "track_number": 2,
+          "title": "Kannimanam",
+          "singers": "Ilaiyaraaja, S. Janaki",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:24",
+          "stream_url": "https://music.youtube.com/watch?v=F254wM4AVfQ"
+        },
+        {
+          "track_number": 3,
+          "title": "Ponmaanai Polaadum",
+          "singers": "Ilaiyaraaja, Malaysia Vasudevan, K.S. Chithra",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:33",
+          "stream_url": "https://music.youtube.com/watch?v=56oiZrgalWA"
+        },
+        {
+          "track_number": 4,
+          "title": "Tell Me",
+          "singers": "Ilaiyaraaja, Arunmozhi",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:24",
+          "stream_url": "https://music.youtube.com/watch?v=ruGV-DbFmc8"
+        },
+        {
+          "track_number": 5,
+          "title": "Thanniye",
+          "singers": "Ilaiyaraaja, K.S. Chithra",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:19",
+          "stream_url": "https://music.youtube.com/watch?v=NUPWNqjzydA"
+        }
+      ]
+    },
+    {
+      "id": 9324,
+      "year": 1988,
+      "title": "Manasukkul Mathappu",
+      "director": "Robert–Rajasekar",
+      "producer": "",
+      "composer": "Prabhu, Saranya, Lizy, Sarath Babu, Janagaraj, Sachu",
+      "cast": "Ownland Arts",
+      "source_url": "https://en.wikipedia.org/wiki/Manasukkul_Mathappu",
+      "created_at": "2026-10-14 19:36:40",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Ponman Kuyil",
+          "singers": "S. A. Rajkumar, S. P. Balasubrahmanyam",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:19",
+          "stream_url": "https://music.youtube.com/watch?v=Omyl4fXdNPI"
+        },
+        {
+          "track_number": 2,
+          "title": "Poonthendrale",
+          "singers": "K. S. Chithra, S.A. Rajkumar",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:46",
+          "stream_url": "https://music.youtube.com/watch?v=ZK5LkbmbFSw"
+        },
+        {
+          "track_number": 3,
+          "title": "Poonthendrale Nee",
+          "singers": "S.A. Rajkumar, P. Jayachandran, Sunanda",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:16",
+          "stream_url": "https://music.youtube.com/watch?v=YsOrQQMaJWo"
+        },
+        {
+          "track_number": 4,
+          "title": "Vaa Kanmani",
+          "singers": "S.A. Rajkumar",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:29",
+          "stream_url": "https://music.youtube.com/watch?v=oi2k2loCCQo"
+        },
+        {
+          "track_number": 5,
+          "title": "Yaar Yaar Inge",
+          "singers": "S. P. Balasubrahmanyam, S.A. Rajkumar",
+          "lyricist": "",
+          "raga": "",
+          "duration": "3:26",
+          "stream_url": "https://music.youtube.com/watch?v=cYiKOMHN0r0"
+        }
+      ]
+    },
+    {
+      "id": 9325,
+      "year": 1988,
+      "title": "Mappillai Sir",
+      "director": "D. S. Balagan",
+      "producer": "",
+      "composer": "Mohan, Visu, Rekha, Jayanthi, Kismu, Sumithra",
+      "cast": "Lakshmi Raja Films",
+      "source_url": "https://en.wikipedia.org/wiki/Mappillai_Sir",
+      "created_at": "2026-10-14 19:36:40",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Aaru Padai",
+          "singers": "Mani Sharma, Vijay Yesudas, Mukesh",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:55",
+          "stream_url": "https://music.youtube.com/watch?v=H7cFlw3H8Mo"
+        },
+        {
+          "track_number": 2,
+          "title": "Love Love",
+          "singers": "Mani Sharma, Rahul Nambiar, Rita",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:42",
+          "stream_url": "https://music.youtube.com/watch?v=y2IzhnOGbrw"
+        },
+        {
+          "track_number": 3,
+          "title": "Onnu Rendu",
+          "singers": "Mani Sharma, Mukesh, Saindhavi",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:24",
+          "stream_url": "https://music.youtube.com/watch?v=NGAZ92NP_rY"
+        },
+        {
+          "track_number": 4,
+          "title": "Ready Readya",
+          "singers": "Mani Sharma, K.G. Ranjith, Saindhavi",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:31",
+          "stream_url": "https://music.youtube.com/watch?v=QJpfQdFFSWE"
+        },
+        {
+          "track_number": 5,
+          "title": "Ennoda Rasi (Remix)",
+          "singers": "Mani Sharma, K.G. Ranjith",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:26",
+          "stream_url": "https://music.youtube.com/watch?v=xjTtHP0FAi0"
+        },
+        {
+          "track_number": 6,
+          "title": "Ready Readya (Remix)",
+          "singers": "Mani Sharma, K.G. Ranjith, Saindhavi",
+          "lyricist": "",
+          "raga": "",
+          "duration": "3:45",
+          "stream_url": "https://music.youtube.com/watch?v=pR5feZpqk7o"
+        },
+        {
+          "track_number": 7,
+          "title": "Mappillai Theme",
+          "singers": "Mani Sharma",
+          "lyricist": "",
+          "raga": "",
+          "duration": "2:07",
+          "stream_url": "https://music.youtube.com/watch?v=kTntRLLpBlk"
+        }
+      ]
+    },
+    {
+      "id": 9326,
+      "year": 1988,
+      "title": "Melam Kottu Thali Kattu",
+      "director": "Deenadayal",
+      "producer": "",
+      "composer": "Ramarajan, Pandiyan, Saranya, Lalitha Kumari, S. S. Chandran, Kovai Sarala, Chinni Jayanth",
+      "cast": "Sri Devi Bagavathy Films",
+      "source_url": "https://en.wikipedia.org/wiki/Melam_Kottu_Thali_Kattu_%28film%29",
+      "created_at": "2026-10-14 19:36:40",
+      "tracks": []
+    },
+    {
+      "id": 9327,
+      "year": 1988,
+      "title": "Muthal Paavam",
+      "director": "P. Chandrakumar",
+      "producer": "",
+      "composer": "Vimal Raj, Abhilasha",
+      "cast": "Super Film International",
+      "source_url": "https://en.wikipedia.org/wiki/Adipapam",
+      "created_at": "2026-10-14 19:36:40",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "P Jayachandran",
+          "singers": "",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "K. J. Yesudas",
+          "singers": "",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "Chorus, Krishnachandran",
+          "singers": "",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 9328,
+      "year": 1988,
+      "title": "Naan Sonnathey Sattam",
+      "director": "Rameshraj",
+      "producer": "",
+      "composer": "Charan Raj, Rekha",
+      "cast": "Sri Mathralaya Chithralaya",
+      "source_url": "https://en.wikipedia.org/wiki/Naan_Sonnathey_Sattam",
+      "created_at": "2026-10-14 19:36:40",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Adhikaalai Neram",
+          "singers": "Ilaiyaraaja, S.P. Balasubrahmanyam, Asha Bhosle",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:40",
+          "stream_url": "https://music.youtube.com/watch?v=r_2_rSPsDJM"
+        },
+        {
+          "track_number": 2,
+          "title": "Kaithaalam",
+          "singers": "Ilaiyaraaja, S.P. Balasubrahmanyam, Asha Bhosle",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:36",
+          "stream_url": "https://music.youtube.com/watch?v=vZGoHyZY5Uc"
+        },
+        {
+          "track_number": 3,
+          "title": "Kanna Unthan",
+          "singers": "Ilaiyaraaja, S.P. Balasubrahmanyam, Asha Bhosle",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:33",
+          "stream_url": "https://music.youtube.com/watch?v=W4MQ4SL8-4U"
+        },
+        {
+          "track_number": 4,
+          "title": "Kolaigal",
+          "singers": "Ilaiyaraaja",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:15",
+          "stream_url": "https://music.youtube.com/watch?v=meXk43GT4zQ"
+        },
+        {
+          "track_number": 5,
+          "title": "Oru Devathai",
+          "singers": "Ilaiyaraaja, S.P. Balasubrahmanyam, Asha Bhosle",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:49",
+          "stream_url": "https://music.youtube.com/watch?v=1lhAlc3aJBw"
+        },
+        {
+          "track_number": 6,
+          "title": "Unnai Suttrum Kaathadi",
+          "singers": "Ilaiyaraaja, Asha Bhosle",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:36",
+          "stream_url": "https://music.youtube.com/watch?v=w8DYrhLzP1Y"
+        }
+      ]
+    },
+    {
+      "id": 9329,
+      "year": 1988,
+      "title": "Nallavan",
+      "director": "S. P. Muthuraman",
+      "producer": "",
+      "composer": "Vijayakanth, Radhika, M. N. Nambiar, S. S. Chandran, Janagaraj, Vani Viswanath, Disco Shanti",
+      "cast": "Kalaippuli International",
+      "source_url": "https://en.wikipedia.org/wiki/Nallavan_%281988_film%29",
+      "created_at": "2026-10-14 19:36:40",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Vetrimala Vetridhan",
+          "singers": "S.P.B",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:34",
+          "stream_url": "https://music.youtube.com/watch?v=bwB5Ws_4wbc"
+        },
+        {
+          "track_number": 2,
+          "title": "Vaanmegam",
+          "singers": "S.P.B",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:37",
+          "stream_url": "https://music.youtube.com/watch?v=J2T6SyJeKG4"
+        },
+        {
+          "track_number": 3,
+          "title": "Aaraaro Naan",
+          "singers": "S.P.B",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:32",
+          "stream_url": "https://music.youtube.com/watch?v=di3ZYxlPcmE"
+        },
+        {
+          "track_number": 4,
+          "title": "Vaanam Boomi",
+          "singers": "S.P.B",
+          "lyricist": "",
+          "raga": "",
+          "duration": "6:11",
+          "stream_url": "https://music.youtube.com/watch?v=Ky8anVl6iOc"
+        },
+        {
+          "track_number": 5,
+          "title": "Ullathil Ondru",
+          "singers": "S. P. Sailaja",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:34",
+          "stream_url": "https://music.youtube.com/watch?v=-72bu-6uQ-g"
+        },
+        {
+          "track_number": 6,
+          "title": "Mellam Kotti",
+          "singers": "Malayasia Vasudevan",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:31",
+          "stream_url": "https://music.youtube.com/watch?v=z2SyyQvH8Ho"
+        }
+      ]
+    },
+    {
+      "id": 9330,
+      "year": 1988,
+      "title": "Namma Ooru Nayagan",
+      "director": "Yaar Kannan",
+      "producer": "",
+      "composer": "Ramarajan, Gouthami, K. R. Vijaya, Sripriya, Senthil, Kovai Sarala",
+      "cast": "Olympic Cinemas",
+      "source_url": "https://en.wikipedia.org/wiki/Namma_Ooru_Nayagan",
+      "created_at": "2026-10-14 19:36:40",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Vaa Vaa Vasanthame",
+          "singers": "Rajesh Kanna, Mano, Uma Ramanan",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:16",
+          "stream_url": "https://music.youtube.com/watch?v=laUFqHT9TOI"
+        },
+        {
+          "track_number": 2,
+          "title": "Jannaluku Pakathiley",
+          "singers": "Rajesh Kanna, Ramesh",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:52",
+          "stream_url": "https://music.youtube.com/watch?v=QSEkGSmsE-c"
+        },
+        {
+          "track_number": 3,
+          "title": "Vaadi Patti Sandhaiyale",
+          "singers": "Rajesh Kanna, T. K. S. Natarajan, Uma Ramanan",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:17",
+          "stream_url": "https://music.youtube.com/watch?v=oVW_1AS_mM4"
+        },
+        {
+          "track_number": 4,
+          "title": "Vaanathile Nelava Vechcha",
+          "singers": "Rajesh Kanna, Malaysia Vasudevan",
+          "lyricist": "",
+          "raga": "",
+          "duration": "5:33",
+          "stream_url": "https://music.youtube.com/watch?v=WmqI-tsFcPg"
+        },
+        {
+          "track_number": 5,
+          "title": "Therattam Nee Nadantha",
+          "singers": "Rajesh Kanna, Ramesh",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:54",
+          "stream_url": "https://music.youtube.com/watch?v=ztmlyeIf9zk"
+        },
+        {
+          "track_number": 6,
+          "title": "Kannamma Kannamma",
+          "singers": "Rajesh Kanna, Ramesh",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:35",
+          "stream_url": "https://music.youtube.com/watch?v=vdUFTMNoSN4"
+        },
+        {
+          "track_number": 7,
+          "title": "Rasave Rasave",
+          "singers": "Rajesh Kanna, Uma Ramanan",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:37",
+          "stream_url": "https://music.youtube.com/watch?v=lrPn_MDI3Xw"
+        }
+      ]
+    },
+    {
+      "id": 9331,
+      "year": 1988,
+      "title": "Neruppu Nila",
+      "director": "Rama Narayanan",
+      "producer": "",
+      "composer": "Raja, Ranjini, Viji, S. S. Chandran",
+      "cast": "S. R. Combines",
+      "source_url": "https://en.wikipedia.org/wiki/Neruppu_Nila",
+      "created_at": "2026-10-14 19:36:40",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Uyire Uyire",
+          "singers": "S.P. Balasubrahmanyam, Vani Jairam",
+          "lyricist": "",
+          "raga": "",
+          "duration": "5:11",
+          "stream_url": "https://music.youtube.com/watch?v=nvp3EjtRUaE"
+        },
+        {
+          "track_number": 2,
+          "title": "Nikki Nikki",
+          "singers": "Sagari",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:36",
+          "stream_url": "https://music.youtube.com/watch?v=Wq-unb9uTW8"
+        },
+        {
+          "track_number": 3,
+          "title": "He Potte Pulle",
+          "singers": "Ramesh, Manjula",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:46",
+          "stream_url": "https://music.youtube.com/watch?v=xdayXLHFHvw"
+        },
+        {
+          "track_number": 4,
+          "title": "Shakthi Shakthi Om",
+          "singers": "S. Janaki",
+          "lyricist": "",
+          "raga": "",
+          "duration": "3:47",
+          "stream_url": "https://music.youtube.com/watch?v=TZJq283QXT4"
+        }
+      ]
+    },
+    {
+      "id": 9332,
+      "year": 1988,
+      "title": "Nethiyadi",
+      "director": "Pandiarajan",
+      "producer": "",
+      "composer": "Pandiarajan",
+      "cast": "Avinash Arts",
+      "source_url": "https://en.wikipedia.org/wiki/Nethiyadi",
+      "created_at": "2026-10-14 19:36:40",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Malaysia Vasudevan and Chorus",
+          "singers": "2:21",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "P. Jayachandran, S. P. Sailaja",
+          "singers": "3:44",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "S. P. Balasubrahmanyam and Chorus",
+          "singers": "4:24",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "P. Susheela",
+          "singers": "2:34",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "Mano, S. Janaki",
+          "singers": "4:04",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 6,
+          "title": "S. P. Balasubrahmanyam, K. S. Chithra",
+          "singers": "4:05",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 9333,
+      "year": 1988,
+      "title": "Oomai Kuyil",
+      "director": "M. R. Yogaraj",
+      "producer": "",
+      "composer": "M. R. Yogaraj, Ilavarasi, Devi Bala",
+      "cast": "Indralaya Films",
+      "source_url": "https://en.wikipedia.org/wiki/Oomai_Kuyil_%281988_film%29",
+      "created_at": "2026-10-14 19:36:40",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Eraiva Yen Intha Sothanai",
+          "singers": "Chandrabose, Malaysia Vasudevan",
+          "lyricist": "",
+          "raga": "",
+          "duration": "5:10",
+          "stream_url": "https://music.youtube.com/watch?v=3s8aGh3wmc8"
+        },
+        {
+          "track_number": 2,
+          "title": "Kannam Sivanthathu",
+          "singers": "Chandrabose, Malaysia Vasudevan, Vani Jairam",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:29",
+          "stream_url": "https://music.youtube.com/watch?v=fehG1_fekEE"
+        },
+        {
+          "track_number": 3,
+          "title": "Nadu Rathiri Samathiley",
+          "singers": "Chandra Bose, S.P. Balasubrahmanyam, S. Janaki",
+          "lyricist": "",
+          "raga": "",
+          "duration": "5:19",
+          "stream_url": "https://music.youtube.com/watch?v=8qDaQypebB0"
+        },
+        {
+          "track_number": 4,
+          "title": "Poo Mudikanum",
+          "singers": "Chandrabose, S. P. Balasubrahmanyam, K. S. Chithra",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:29",
+          "stream_url": "https://music.youtube.com/watch?v=u6uk_6OIJyY"
+        },
+        {
+          "track_number": 5,
+          "title": "Yen Rasathi Nee Vazhanum",
+          "singers": "Chandrabose, K. S. Chithra, S.P. Balasubrahmanyam",
+          "lyricist": "",
+          "raga": "",
+          "duration": "5:50",
+          "stream_url": "https://music.youtube.com/watch?v=jndctCs5cMk"
+        },
+        {
+          "track_number": 6,
+          "title": "Aara Oodum Neerey",
+          "singers": "Chandrabose, S. Janaki",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:17",
+          "stream_url": "https://music.youtube.com/watch?v=BKz4cIQMfxQ"
+        }
+      ]
+    },
+    {
+      "id": 9334,
+      "year": 1988,
+      "title": "Oomai Thurai",
+      "director": "K. G. Rajasekharan",
+      "producer": "",
+      "composer": "",
+      "cast": "Surya Pictures",
+      "source_url": "https://en.wikipedia.org/wiki/Oomai_Thurai",
+      "created_at": "2026-10-14 19:36:40",
+      "tracks": []
+    },
+    {
+      "id": 9335,
+      "year": 1988,
+      "title": "Oorai Therinjikitten",
+      "director": "Kalaippuli G. Sekaran",
+      "producer": "",
+      "composer": "Pandiarajan, Pallavi, Jaishankar, Senthil",
+      "cast": "Cineco Films",
+      "source_url": "https://en.wikipedia.org/wiki/Oorai_Therinjikitten",
+      "created_at": "2026-10-14 19:36:40",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Malaysia Vasudevan and Chorus",
+          "singers": "4:47",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "Jayachandran",
+          "singers": "4:33",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "Mano, Chorus",
+          "singers": "4:26",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "S. P. Balasubrahmanyam, S. Janaki",
+          "singers": "5:01",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 9336,
+      "year": 1988,
+      "title": "Oruvar Vaazhum Aalayam",
+      "director": "Shanmugapriyan",
+      "producer": "",
+      "composer": "Sivakumar, Prabhu, Rahman, Raadhu, Senthil",
+      "cast": "Royal Cine Creations",
+      "source_url": "https://en.wikipedia.org/wiki/Oruvar_Vaazhum_Aalayam",
+      "created_at": "2026-10-14 19:36:40",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Nee Pournami",
+          "singers": "Ilaiyaraaja, K.J. Yesudas",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:30",
+          "stream_url": "https://music.youtube.com/watch?v=ully8xFZQ0k"
+        },
+        {
+          "track_number": 2,
+          "title": "Singaara Pennoruthi",
+          "singers": "Ilaiyaraaja, Mano",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:24",
+          "stream_url": "https://music.youtube.com/watch?v=f_gUkSdvSnc"
+        },
+        {
+          "track_number": 3,
+          "title": "Baby",
+          "singers": "Ilaiyaraaja, Anuradha",
+          "lyricist": "",
+          "raga": "",
+          "duration": "3:27",
+          "stream_url": "https://music.youtube.com/watch?v=qo_UZeCGdbw"
+        },
+        {
+          "track_number": 4,
+          "title": "Malaiyoram Mayile",
+          "singers": "Ilaiyaraaja, Malaysia Vasudevan, K.S. Chithra",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:27",
+          "stream_url": "https://music.youtube.com/watch?v=AksuxT2-GGs"
+        },
+        {
+          "track_number": 5,
+          "title": "Uyire Uyire",
+          "singers": "Ilaiyaraaja, K.J. Yesudas, S. Janaki",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:30",
+          "stream_url": "https://music.youtube.com/watch?v=y3CoBFfbCgc"
+        },
+        {
+          "track_number": 6,
+          "title": "Vaanin Devi",
+          "singers": "Ilaiyaraaja, S.P. Balasubrahmanyam, S. Janaki",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:28",
+          "stream_url": "https://music.youtube.com/watch?v=eJI6OgZXnKI"
+        },
+        {
+          "track_number": 7,
+          "title": "Pallaviye Charanam",
+          "singers": "Ilaiyaraaja, S.P. Balasubrahmanyam, K.S. Chithra",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:32",
+          "stream_url": "https://music.youtube.com/watch?v=-hOtv73LaEU"
+        }
+      ]
+    },
+    {
+      "id": 9337,
+      "year": 1988,
+      "title": "Paadatha Thenikkal",
+      "director": "V. M. C. Haneefa",
+      "producer": "",
+      "composer": "Sivakumar, Radhika, Baby Sujitha",
+      "cast": "Poompuhar Productions",
+      "source_url": "https://en.wikipedia.org/wiki/Paadatha_Thenikkal",
+      "created_at": "2026-10-14 19:36:40",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Vannanilavae (Female)",
+          "singers": "Ilaiyaraaja, K.S. Chithra",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:19",
+          "stream_url": "https://music.youtube.com/watch?v=2tiFgEoqv0Y"
+        },
+        {
+          "track_number": 2,
+          "title": "Aadhi Andham",
+          "singers": "Ilaiyaraaja, P. Susheela, Krishnamoorthy",
+          "lyricist": "",
+          "raga": "",
+          "duration": "6:07",
+          "stream_url": "https://music.youtube.com/watch?v=gyv2I8oFg_E"
+        },
+        {
+          "track_number": 3,
+          "title": "Darr Darr Doctor",
+          "singers": "Ilaiyaraaja, S.P. Balasubrahmanyam",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:15",
+          "stream_url": "https://music.youtube.com/watch?v=MFGJ2wA4LT0"
+        },
+        {
+          "track_number": 4,
+          "title": "Vaadagai Veedu",
+          "singers": "Ilaiyaraaja, Vani Jairam, Mano",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:32",
+          "stream_url": "https://music.youtube.com/watch?v=1K-UTSm6ZEE"
+        },
+        {
+          "track_number": 5,
+          "title": "Vannanilavae (Male)",
+          "singers": "Ilaiyaraaja, K.J. Yesudas",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:28",
+          "stream_url": "https://music.youtube.com/watch?v=a4mqB9x6Ydw"
+        }
+      ]
+    },
+    {
+      "id": 9338,
+      "year": 1988,
+      "title": "Paarthal Pasu",
+      "director": "K. S. Gopalakrishnan",
+      "producer": "",
+      "composer": "Ramarajan, Chandrasekhar, Pallavi, Sri Bharathi, Dharani, S. S. Chandran, Senthil",
+      "cast": "C. R. Production",
+      "source_url": "https://en.wikipedia.org/wiki/Paarthal_Pasu",
+      "created_at": "2026-10-14 19:36:40",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "En Rasa Yaro",
+          "singers": "Ilaiyaraaja, K.S. Chithra",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:43",
+          "stream_url": "https://music.youtube.com/watch?v=HMchA1BnURg"
+        },
+        {
+          "track_number": 2,
+          "title": "Sinnamani Ponnumani",
+          "singers": "Ilaiyaraaja, S.P. Sailaja",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:38",
+          "stream_url": "https://music.youtube.com/watch?v=_2C9Ksn4c1g"
+        },
+        {
+          "track_number": 3,
+          "title": "Aadai Maatra",
+          "singers": "Ilaiyaraaja, K.S. Chithra",
+          "lyricist": "",
+          "raga": "",
+          "duration": "3:39",
+          "stream_url": "https://music.youtube.com/watch?v=DqYFGx48Bmw"
+        }
+      ]
+    },
+    {
+      "id": 9339,
+      "year": 1988,
+      "title": "Paasa Paravaigal",
+      "director": "V. M. C. Haneefa",
+      "producer": "",
+      "composer": "Sivakumar, Mohan, Lakshmi, Radhika, S. S. Chandran",
+      "cast": "Poompuhar Productions",
+      "source_url": "https://en.wikipedia.org/wiki/Paasa_Paravaigal",
+      "created_at": "2026-10-14 19:36:40",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Thenpandi Thamizhe",
+          "singers": "Composer: Ilaiyaraaja, Lyricist: Gangai Amaran, Singer: K. J. Yesudas, K. S. Chithra",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:40",
+          "stream_url": "https://music.youtube.com/watch?v=wcQje2Ven-U"
+        },
+        {
+          "track_number": 2,
+          "title": "Maappillaye Maappillaye",
+          "singers": "Composer: Ilaiyaraaja, Lyricist: Gangai Amaran, Singer: Ilaiyaraaja, Malaysia Vasudevan",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:31",
+          "stream_url": "https://music.youtube.com/watch?v=t3rabPQn7lw"
+        },
+        {
+          "track_number": 3,
+          "title": "Thenpandi Thamizhe (Pathos)",
+          "singers": "Composer: Ilaiyaraaja, Lyricist: Gangai Amaran, Singer: K. J. Yesudas",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:30",
+          "stream_url": "https://music.youtube.com/watch?v=85waIShS8cc"
+        }
+      ]
+    },
+    {
+      "id": 9340,
+      "year": 1988,
+      "title": "Paatti Sollai Thattathe",
+      "director": "Rajasekhar",
+      "producer": "",
+      "composer": "Pandiarajan, Urvashi, Manorama, S. S. Chandran, Silk Smitha, Disco Shanti",
+      "cast": "AVM Productions",
+      "source_url": "https://en.wikipedia.org/wiki/Paatti_Sollai_Thattathe",
+      "created_at": "2026-10-14 19:36:40",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Vannathi Poochi",
+          "singers": "S. P. Balasubrahmanyam, K. S. Chithra, Chandrabose, Vairamuthu",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:11",
+          "stream_url": "https://music.youtube.com/watch?v=UNZBY1NrOKc"
+        },
+        {
+          "track_number": 2,
+          "title": "Salaam Sadukudu",
+          "singers": "Chandrabose, Malaysia Vasudevan, S. P. Sailaja, Vairamuthu",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:37",
+          "stream_url": "https://music.youtube.com/watch?v=yr0tWfECjfg"
+        },
+        {
+          "track_number": 3,
+          "title": "Vethala Madichi Kodutha(From\"Pattisollai Thattadhe\")",
+          "singers": "S. P. Balasubrahmanyam, K. S. Chithra",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:35",
+          "stream_url": "https://music.youtube.com/watch?v=-x9QoGfpoEE"
+        },
+        {
+          "track_number": 4,
+          "title": "Vethala Madichi Kodukka Aasaiya",
+          "singers": "S. P. Balasubrahmanyam, K. S. Chithra, Chandrabose, Vairamuthu",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:35",
+          "stream_url": "https://music.youtube.com/watch?v=BQ65P4EzLMM"
+        },
+        {
+          "track_number": 5,
+          "title": "Car Car Super Car",
+          "singers": "Vairamuthu, Chandrabose",
+          "lyricist": "",
+          "raga": "",
+          "duration": "1:36",
+          "stream_url": "https://music.youtube.com/watch?v=h1uWQEdk1Vg"
+        },
+        {
+          "track_number": 6,
+          "title": "Delhikku Raja Analum",
+          "singers": "Manorama, Chandrabose, Vairamuthu",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:23",
+          "stream_url": "https://music.youtube.com/watch?v=U6HPBI5Ymic"
+        },
+        {
+          "track_number": 7,
+          "title": "Patta Padippu Padichu",
+          "singers": "Chandrabose, Malaysia Vasudevan, Vairamuthu",
+          "lyricist": "",
+          "raga": "",
+          "duration": "5:31",
+          "stream_url": "https://music.youtube.com/watch?v=7g_VLts-EKY"
+        }
+      ]
+    },
+    {
+      "id": 9341,
+      "year": 1988,
+      "title": "Paimara Kappal",
+      "director": "K. Radha",
+      "producer": "",
+      "composer": "S. S. R. Rajendrakumar, Pallavi, Janagaraj, Kalaiselvi, Chandrasekhar",
+      "cast": "Nirmala Aajaa Creations",
+      "source_url": "https://en.wikipedia.org/wiki/Paimara_Kappal",
+      "created_at": "2026-10-14 19:36:40",
+      "tracks": []
+    },
+    {
+      "id": 9342,
+      "year": 1988,
+      "title": "Palaivanathil Pattamoppchi",
+      "director": "Durai",
+      "producer": "",
+      "composer": "",
+      "cast": "Sunitha Cine Arts",
+      "source_url": "https://en.wikipedia.org/wiki/Palaivanathil_Pattamoppchi",
+      "created_at": "2026-10-14 19:36:40",
+      "tracks": []
+    },
+    {
+      "id": 9343,
+      "year": 1988,
+      "title": "Paravaigal Palavitham",
+      "director": "Robert–Rajasekar",
+      "producer": "",
+      "composer": "Ramki, Nirosha, Janagaraj, Thara",
+      "cast": "Esskay Film Combines",
+      "source_url": "https://en.wikipedia.org/wiki/Paravaigal_Palavitham",
+      "created_at": "2026-10-14 19:36:40",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Swarnalatha, Mano, Dinesh",
+          "singers": "",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "S. P. Balasubrahmanyam",
+          "singers": "",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "Malaysia Vasudevan",
+          "singers": "",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "S. P. Sailaja, Malaysia Vasudevan",
+          "singers": "",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 9344,
+      "year": 1988,
+      "title": "Paris Paris",
+      "director": "Rajan",
+      "producer": "",
+      "composer": "Senthil, V. K. Ramasamy",
+      "cast": "Cowjoy Enterprises",
+      "source_url": "https://en.wikipedia.org/wiki/Paris_Paris_%28film%29",
+      "created_at": "2026-10-14 19:36:40",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Paris, voici Paris",
+          "singers": "Tino Rossi",
+          "lyricist": "",
+          "raga": "",
+          "duration": "3:01",
+          "stream_url": "https://music.youtube.com/watch?v=Jbhw6ABrujk"
+        }
+      ]
+    },
+    {
+      "id": 9345,
+      "year": 1988,
+      "title": "Pattikaatu Thambi",
+      "director": "Senthilnathan",
+      "producer": "",
+      "composer": "Arjun, Nirosha, Chandrasekhar, Sabitha Anand, Senthil",
+      "cast": "Anbalaya Films",
+      "source_url": "https://en.wikipedia.org/wiki/Pattikaatu_Thambi",
+      "created_at": "2026-10-14 19:36:40",
+      "tracks": []
+    },
+    {
+      "id": 9346,
+      "year": 1988,
+      "title": "Penmani Aval Kanmani",
+      "director": "Visu",
+      "producer": "",
+      "composer": "Visu, Pratap K. Pothen, Seetha, Kismu, Dhilip, Ilavarasan, Ramesh Aravind, Madhuri, Aruna, Manorama, Vadivukkarasi, Kamala Kamesh",
+      "cast": "Kavithalayaa Productions",
+      "source_url": "https://en.wikipedia.org/wiki/Penmani_Aval_Kanmani",
+      "created_at": "2026-10-14 19:36:40",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Mongililaik Kaadukale",
+          "singers": "S.P. Balasubrahmanyam",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:33",
+          "stream_url": "https://music.youtube.com/watch?v=yNzJenaE37A"
+        },
+        {
+          "track_number": 2,
+          "title": "Naanum Oru Raakkozhithan",
+          "singers": "S.P. Balasubrahmanyam, Malaysia Vasudevan",
+          "lyricist": "",
+          "raga": "",
+          "duration": "3:53",
+          "stream_url": "https://music.youtube.com/watch?v=Iky9hrkHj1I"
+        },
+        {
+          "track_number": 3,
+          "title": "Penmani Ava Kanmani",
+          "singers": "S.P. Balasubrahmanyam",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:12",
+          "stream_url": "https://music.youtube.com/watch?v=1-BSu5lmJLE"
+        },
+        {
+          "track_number": 4,
+          "title": "Aarambame Ippathannu",
+          "singers": "Malaysia Vasudevan, T.L. Magarajan, S. P. Sailaja",
+          "lyricist": "",
+          "raga": "",
+          "duration": "7:57",
+          "stream_url": "https://music.youtube.com/watch?v=GR4DeDtKoGg"
+        }
+      ]
+    },
+    {
+      "id": 9347,
+      "year": 1988,
+      "title": "Poo Pootha Nandhavanam",
+      "director": "B. V. Balaguru",
+      "producer": "",
+      "composer": "Shridhar, Saritha, Goundamani",
+      "cast": "Sri Amman Creation",
+      "source_url": "https://en.wikipedia.org/wiki/Poo_Pootha_Nandhavanam",
+      "created_at": "2026-10-14 19:36:40",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Naan Jeyichchu Kaatturen",
+          "singers": "Malaysia Vasudevan, S Janaki",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:02",
+          "stream_url": "https://music.youtube.com/watch?v=1GSLfS43Kog"
+        },
+        {
+          "track_number": 2,
+          "title": "Kanna Unakku",
+          "singers": "S Janaki",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:21",
+          "stream_url": "https://music.youtube.com/watch?v=0UfpwpKjd8o"
+        },
+        {
+          "track_number": 3,
+          "title": "Enga Chinna Raja",
+          "singers": "S Janaki",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:41",
+          "stream_url": "https://music.youtube.com/watch?v=rP1MficDg-E"
+        }
+      ]
+    },
+    {
+      "id": 9348,
+      "year": 1988,
+      "title": "Poonthotta Kaavalkaaran",
+      "director": "Senthilnathan",
+      "producer": "",
+      "composer": "Vijayakanth, Radhika, Anand, Vani Viswanath, S. S. Chandran",
+      "cast": "Tamil Annai Cine Creations",
+      "source_url": "https://en.wikipedia.org/wiki/Poonthotta_Kaavalkaaran",
+      "created_at": "2026-10-14 19:36:40",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "En Uyire Vaa",
+          "singers": "Ilaiyaraaja, S.P. Balasubrahmanyam, K.S. Chithra",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:32",
+          "stream_url": "https://music.youtube.com/watch?v=4KXCd8NXyX4"
+        },
+        {
+          "track_number": 2,
+          "title": "Adi Kaana Karunguyile",
+          "singers": "Ilaiyaraaja, K.J. Yesudas",
+          "lyricist": "",
+          "raga": "",
+          "duration": "5:12",
+          "stream_url": "https://music.youtube.com/watch?v=U3nX3xqpkMY"
+        },
+        {
+          "track_number": 3,
+          "title": "Kaavalkaara Kaavalkaara",
+          "singers": "Ilaiyaraaja",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:02",
+          "stream_url": "https://music.youtube.com/watch?v=AeQ9uGhqEkM"
+        },
+        {
+          "track_number": 4,
+          "title": "Paadadha Themmaangu",
+          "singers": "Ilaiyaraaja, S.P. Balasubrahmanyam",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:46",
+          "stream_url": "https://music.youtube.com/watch?v=-PjZIQDMT6A"
+        },
+        {
+          "track_number": 5,
+          "title": "Paaramal Paartha Nenjam",
+          "singers": "Ilaiyaraaja, Mano, K.S. Chithra",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:26",
+          "stream_url": "https://music.youtube.com/watch?v=nscW8qcV9PA"
+        },
+        {
+          "track_number": 6,
+          "title": "Sindhiya Venmani",
+          "singers": "Ilaiyaraaja, K.J. Yesudas, P. Susheela",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:24",
+          "stream_url": "https://music.youtube.com/watch?v=Z6JJaBMwV4I"
+        }
+      ]
+    },
+    {
+      "id": 9349,
+      "year": 1988,
+      "title": "Poovizhi Raja",
+      "director": "Santhana Bharathi",
+      "producer": "",
+      "composer": "Prabhu, Ramki, Nishanthi, Senthil, Chinni Jayanth",
+      "cast": "S. M. Art Films",
+      "source_url": "https://en.wikipedia.org/wiki/Poovizhi_Raja",
+      "created_at": "2026-10-14 19:36:40",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Vaanil Vattamadippom",
+          "singers": "S.P. Balasubrahmanyam, Vani Jairam",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:34",
+          "stream_url": "https://music.youtube.com/watch?v=maC2yk7reAU"
+        },
+        {
+          "track_number": 2,
+          "title": "Eerachelai",
+          "singers": "S.P. Balasubrahmanyam, K. S. Chithra",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:17",
+          "stream_url": "https://music.youtube.com/watch?v=nhtBPejxG0E"
+        },
+        {
+          "track_number": 3,
+          "title": "Chinnanjiru Koottukkulle",
+          "singers": "S.P. Balasubrahmanyam",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:47",
+          "stream_url": "https://music.youtube.com/watch?v=5xavIk8_pvE"
+        },
+        {
+          "track_number": 4,
+          "title": "Oh Nenjodu Raagam",
+          "singers": "K.J. Yesudas, K. S. Chithra",
+          "lyricist": "",
+          "raga": "",
+          "duration": "5:19",
+          "stream_url": "https://music.youtube.com/watch?v=tGQas84BLLU"
+        },
+        {
+          "track_number": 5,
+          "title": "Ye Maama Onakku",
+          "singers": "Malaysia Vasudevan, Vani Jairam",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:05",
+          "stream_url": "https://music.youtube.com/watch?v=JInDLPP6trU"
+        }
+      ]
+    },
+    {
+      "id": 9350,
+      "year": 1988,
+      "title": "Poovukkul Boogambam",
+      "director": "D. R. Thyagarajan",
+      "producer": "",
+      "composer": "Thiagarajan, Parvathi, Charan Raj",
+      "cast": "Lakshmi Shanthi Movies",
+      "source_url": "https://en.wikipedia.org/wiki/Poovukkul_Boogambam",
+      "created_at": "2026-10-14 19:36:40",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Anbe Oru Aasai Geettham",
+          "singers": "Sangeetharajan, S. P. Balasubrahmanyam, Gangai Amaran",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:41",
+          "stream_url": "https://music.youtube.com/watch?v=ldB7jUqYFUE"
+        },
+        {
+          "track_number": 2,
+          "title": "Naal Naal Varudhu",
+          "singers": "Sangeetharajan, Uma Ramanan, Gangai Amaran",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:14",
+          "stream_url": "https://music.youtube.com/watch?v=gMA0NzvnJvQ"
+        },
+        {
+          "track_number": 3,
+          "title": "Nadu Nadu Adhuthane Veedu",
+          "singers": "Sangeetharajan, S. P. Balasubrahmanyam, Gangai Amaran",
+          "lyricist": "",
+          "raga": "",
+          "duration": "5:06",
+          "stream_url": "https://music.youtube.com/watch?v=m-a3O2Vp1N0"
+        },
+        {
+          "track_number": 4,
+          "title": "Oru Kaalam Varum",
+          "singers": "Sangeetharajan, K. J. Yesudas, Gangai Amaran",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:58",
+          "stream_url": "https://music.youtube.com/watch?v=d7gjtEh7MBs"
+        },
+        {
+          "track_number": 5,
+          "title": "Dethi Sollattuma",
+          "singers": "Sangeetharajan, K. S. Chithra, Gangai Amaran",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:16",
+          "stream_url": "https://music.youtube.com/watch?v=-1BlOtvkh5Y"
+        },
+        {
+          "track_number": 6,
+          "title": "Thalie Seiyattuma",
+          "singers": "Sangeetharajan, S. P. Balasubrahmanyam, K. S. Chithra, Gangai Amaran",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:16",
+          "stream_url": "https://music.youtube.com/watch?v=E1xfdD0DkIM"
+        }
+      ]
+    },
+    {
+      "id": 9351,
+      "year": 1988,
+      "title": "Poovum Puyalum",
+      "director": "S. A. Chandrasekhar",
+      "producer": "",
+      "composer": "Sivakumar, Charan Raj, Radhika, Madhuri, Senthil",
+      "cast": "Semba Movies",
+      "source_url": "https://en.wikipedia.org/wiki/Poovum_Puyalum",
+      "created_at": "2026-10-14 19:36:40",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Manmathane",
+          "singers": "S. P. Shailaja",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:15",
+          "stream_url": "https://music.youtube.com/watch?v=E0j10oYQ33Y"
+        },
+        {
+          "track_number": 2,
+          "title": "Thalattum",
+          "singers": "S A Rajkumar",
+          "lyricist": "",
+          "raga": "",
+          "duration": "3:53",
+          "stream_url": "https://music.youtube.com/watch?v=7eaL7v8CEcw"
+        },
+        {
+          "track_number": 3,
+          "title": "Vaa Thambi",
+          "singers": "Malaysia Vasudevan Chorus",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:13",
+          "stream_url": "https://music.youtube.com/watch?v=GZF1yrIMy5M"
+        },
+        {
+          "track_number": 4,
+          "title": "Vadakkathu",
+          "singers": "Uma Ramanan",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:44",
+          "stream_url": "https://music.youtube.com/watch?v=qIkFihtMi9g"
+        },
+        {
+          "track_number": 5,
+          "title": "Eruthe",
+          "singers": "K. S. Chithra",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:22",
+          "stream_url": "https://music.youtube.com/watch?v=SOupGh6xucA"
+        }
+      ]
+    },
+    {
+      "id": 9352,
+      "year": 1988,
+      "title": "Puthiya Vaanam",
+      "director": "R. V. Udayakumar",
+      "producer": "",
+      "composer": "Sivaji Ganesan, Sathyaraj, Rupini, Gouthami, Janagaraj, Kuyili, Disco Shanti",
+      "cast": "Sathya Movies",
+      "source_url": "https://en.wikipedia.org/wiki/Puthiya_Vaanam",
+      "created_at": "2026-10-14 19:36:40",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Puthiya Vaanam - Trap Mix",
+          "singers": "Ooratti, T.M. Soundararajan, M.S. Viswanathan",
+          "lyricist": "",
+          "raga": "",
+          "duration": "1:16",
+          "stream_url": "https://music.youtube.com/watch?v=yeN5iKJUJvQ"
+        }
+      ]
+    },
+    {
+      "id": 9353,
+      "year": 1988,
+      "title": "Raasave Unnai Nambi",
+      "director": "K. J. Bose",
+      "producer": "",
+      "composer": "Ramarajan, Rekha, Saritha, Radha Ravi",
+      "cast": "Red Sun Art Creations",
+      "source_url": "https://en.wikipedia.org/wiki/Raasave_Unnai_Nambi",
+      "created_at": "2026-10-14 19:36:40",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Kaalai Nera Raagame",
+          "singers": "Ilaiyaraaja, K.S. Chithra",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:17",
+          "stream_url": "https://music.youtube.com/watch?v=4LH04OVhB4s"
+        },
+        {
+          "track_number": 2,
+          "title": "Raasathi Manasula",
+          "singers": "Ilaiyaraaja, P. Susheela, Mano",
+          "lyricist": "",
+          "raga": "",
+          "duration": "5:14",
+          "stream_url": "https://music.youtube.com/watch?v=v-Cn6hXIp9o"
+        },
+        {
+          "track_number": 3,
+          "title": "Raasathi Manasula (Sad)",
+          "singers": "Ilaiyaraaja, P. Susheela",
+          "lyricist": "",
+          "raga": "",
+          "duration": "5:13",
+          "stream_url": "https://music.youtube.com/watch?v=qb0bI-wFfi0"
+        },
+        {
+          "track_number": 4,
+          "title": "Kamma Karai Oram",
+          "singers": "Ilaiyaraaja, Malaysia Vasudevan, K.S. Chithra",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:33",
+          "stream_url": "https://music.youtube.com/watch?v=iimMnN0ehOY"
+        },
+        {
+          "track_number": 5,
+          "title": "Mayilaattam Paathuputtu",
+          "singers": "Ilaiyaraaja, Malaysia Vasudevan, Gangai Amaren",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:35",
+          "stream_url": "https://music.youtube.com/watch?v=1YTHgtbcCnw"
+        },
+        {
+          "track_number": 6,
+          "title": "Seethaikoru",
+          "singers": "Ilaiyaraaja, Mano",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:48",
+          "stream_url": "https://music.youtube.com/watch?v=SGN8aJzB3Tw"
+        }
+      ]
+    },
+    {
+      "id": 9354,
+      "year": 1988,
+      "title": "Raththa Dhanam",
+      "director": "Sivachandran",
+      "producer": "",
+      "composer": "Prabhu, Lakshmi, Gouthami, Chandrasekhar, Pratap K. Pothen, Sadhana, Nizhalgal Ravi, S. S. Chandran, Y. Vijaya, Disco Shanti",
+      "cast": "Kavitha Chitra Films",
+      "source_url": "https://en.wikipedia.org/wiki/Raththa_Dhanam",
+      "created_at": "2026-10-14 19:36:40",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Sayangalam Naangal",
+          "singers": "S.P. Balasubrahmanyam, S.N. Surendar, Uma Ramanan",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:21",
+          "stream_url": "https://music.youtube.com/watch?v=-8V8kVk0GZw"
+        },
+        {
+          "track_number": 2,
+          "title": "Neelu Konham Isthava",
+          "singers": "Malaysia Vasudevan, K.S. Chithra",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:51",
+          "stream_url": "https://music.youtube.com/watch?v=3XQpM173YXo"
+        },
+        {
+          "track_number": 3,
+          "title": "Koyilgalum Churchugalum",
+          "singers": "S.P. Balasubrahmanyam, P. Susheela",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:53",
+          "stream_url": "https://music.youtube.com/watch?v=TKtIzc_zV5c"
+        },
+        {
+          "track_number": 4,
+          "title": "Poonthegangal",
+          "singers": "S. P. Shailaja",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:31",
+          "stream_url": "https://music.youtube.com/watch?v=NF_cuzae9-A"
+        }
+      ]
+    },
+    {
+      "id": 9355,
+      "year": 1988,
+      "title": "Rayilukku Neramachu",
+      "director": "Bharathi Mohan",
+      "producer": "",
+      "composer": "Ramarajan, Nishanthi, Pandiyan, Madhuri, S. S. Chandran, V. K. Ramasamy, Manorama",
+      "cast": "Shri Shanthalaya Productions",
+      "source_url": "https://en.wikipedia.org/wiki/Rayilukku_Neramachu",
+      "created_at": "2026-10-14 19:36:40",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Poravale",
+          "singers": "S.P.B | Swarnalatha",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:08",
+          "stream_url": "https://music.youtube.com/watch?v=3a244sZaMD4"
+        },
+        {
+          "track_number": 2,
+          "title": "Raja Ragam",
+          "singers": "S.P.B | Chitra",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:04",
+          "stream_url": "https://music.youtube.com/watch?v=3TLQWef-LCI"
+        },
+        {
+          "track_number": 3,
+          "title": "Aatha",
+          "singers": "S. P. Sailaja",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:52",
+          "stream_url": "https://music.youtube.com/watch?v=0-iiUYb7wZc"
+        },
+        {
+          "track_number": 4,
+          "title": "Yelamali Kaathu",
+          "singers": "S.A.Rajkumar | Ramesh",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:05",
+          "stream_url": "https://music.youtube.com/watch?v=IkUByKA531I"
+        },
+        {
+          "track_number": 5,
+          "title": "Deviyar",
+          "singers": "Rajkumar Bharathi",
+          "lyricist": "",
+          "raga": "",
+          "duration": "1:18",
+          "stream_url": "https://music.youtube.com/watch?v=Lpyh36HB6-w"
+        },
+        {
+          "track_number": 6,
+          "title": "Aathangarai",
+          "singers": "M.Vasudevan",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:33",
+          "stream_url": "https://music.youtube.com/watch?v=mB2YebnKgdY"
+        },
+        {
+          "track_number": 7,
+          "title": "Thanni Eraikaiyila",
+          "singers": "Rajkumar Bharathi",
+          "lyricist": "",
+          "raga": "",
+          "duration": "1:20",
+          "stream_url": "https://music.youtube.com/watch?v=snqDOurv2q8"
+        },
+        {
+          "track_number": 8,
+          "title": "Poravanthan",
+          "singers": "P. Sushila",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:05",
+          "stream_url": "https://music.youtube.com/watch?v=f63zP4eljRE"
+        }
+      ]
+    },
+    {
+      "id": 9356,
+      "year": 1988,
+      "title": "Rendum Rendum Anju",
+      "director": "Jayabharathi",
+      "producer": "",
+      "composer": "Sarath Babu, Ambika, Chandrasekhar, Senthil",
+      "cast": "Dhanalakshmi Movie Makers",
+      "source_url": "https://en.wikipedia.org/wiki/Rendum_Rendum_Anju",
+      "created_at": "2026-10-14 19:36:40",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Gaana Karunkuyile",
+          "singers": "Gangai Amaran, Malaysia Vasudevan, Mano, K.S. Chithra",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:14",
+          "stream_url": "https://music.youtube.com/watch?v=lyv8fjCkvz4"
+        },
+        {
+          "track_number": 2,
+          "title": "Panneer Poovin",
+          "singers": "Gangai Amaran, K.S. Chithra",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:29",
+          "stream_url": "https://music.youtube.com/watch?v=7--yG8nBRI4"
+        },
+        {
+          "track_number": 3,
+          "title": "Edhukkum Oru",
+          "singers": "Gangai Amaran, K.S. Chithra",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:00",
+          "stream_url": "https://music.youtube.com/watch?v=zidSDE576MI"
+        },
+        {
+          "track_number": 4,
+          "title": "Valarpirai",
+          "singers": "Gangai Amaran, Mano",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:22",
+          "stream_url": "https://music.youtube.com/watch?v=AS2cIC_r8lY"
+        }
+      ]
+    },
+    {
+      "id": 9357,
+      "year": 1988,
+      "title": "Sahadevan Mahadevan",
+      "director": "Rama Narayanan",
+      "producer": "",
+      "composer": "Mohan, S. Ve. Shekher, Pallavi, Madhuri, S. S. Chandran, Kovai Sarala",
+      "cast": "Sri Thenandal Films",
+      "source_url": "https://en.wikipedia.org/wiki/Sahadevan_Mahadevan",
+      "created_at": "2026-10-14 19:36:40",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Devaloga Indhiran",
+          "singers": "Mano",
+          "lyricist": "",
+          "raga": "",
+          "duration": "5:07",
+          "stream_url": "https://music.youtube.com/watch?v=bQ4cGEZ4YWE"
+        },
+        {
+          "track_number": 2,
+          "title": "Oru Gigu Gigu",
+          "singers": "S.P.B",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:44",
+          "stream_url": "https://music.youtube.com/watch?v=jfsnyguUA2M"
+        },
+        {
+          "track_number": 3,
+          "title": "Aayiram Poigal",
+          "singers": "Sakthisanmugam",
+          "lyricist": "",
+          "raga": "",
+          "duration": "8:17",
+          "stream_url": "https://music.youtube.com/watch?v=QOjQE_Rbf8Q"
+        },
+        {
+          "track_number": 4,
+          "title": "Raja Raja Sozhandhan",
+          "singers": "Mano | Prabagaran",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:54",
+          "stream_url": "https://music.youtube.com/watch?v=uW4NUz3Dga4"
+        },
+        {
+          "track_number": 5,
+          "title": "Sirikanum Sirikanum",
+          "singers": "Seerkazhi Sivachidambaram",
+          "lyricist": "",
+          "raga": "",
+          "duration": "3:02",
+          "stream_url": "https://music.youtube.com/watch?v=vBuoAWdmT6A"
+        }
+      ]
+    },
+    {
+      "id": 9358,
+      "year": 1988,
+      "title": "Sakkarai Panthal",
+      "director": "Gangai Amaran",
+      "producer": "",
+      "composer": "Charan Raj, Nishanthi, Chandrasekhar, Goundamani, Senthil, Kovai Sarala",
+      "cast": "Meenakshi Arts",
+      "source_url": "https://en.wikipedia.org/wiki/Sakkarai_Panthal",
+      "created_at": "2026-10-14 19:36:40",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Vedham",
+          "singers": "Ilaiyaraaja",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:01",
+          "stream_url": "https://music.youtube.com/watch?v=H-T7pv4vHY4"
+        },
+        {
+          "track_number": 2,
+          "title": "Urumunnu",
+          "singers": "Ilaiyaraaja, Malaysia Vasudevan, K.S. Chithra",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:31",
+          "stream_url": "https://music.youtube.com/watch?v=_VDMeLgVI6A"
+        },
+        {
+          "track_number": 3,
+          "title": "Sollatuma",
+          "singers": "Ilaiyaraaja, Sunanda",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:27",
+          "stream_url": "https://music.youtube.com/watch?v=nzsarrK8VRQ"
+        },
+        {
+          "track_number": 4,
+          "title": "Mazhai Megam",
+          "singers": "Ilaiyaraaja, Asha Bhosle",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:38",
+          "stream_url": "https://music.youtube.com/watch?v=3ltzKSV8l5M"
+        },
+        {
+          "track_number": 5,
+          "title": "Anbenum",
+          "singers": "Ilaiyaraaja, Sugandha",
+          "lyricist": "",
+          "raga": "",
+          "duration": "1:28",
+          "stream_url": "https://music.youtube.com/watch?v=_Ul52yhoLvg"
+        }
+      ]
+    },
+    {
+      "id": 9359,
+      "year": 1988,
+      "title": "Sathyaa",
+      "director": "Suresh Krissna",
+      "producer": "",
+      "composer": "Kamal Haasan, Amala, Rajesh, Janagaraj, Anand",
+      "cast": "Raaj Kamal Films International",
+      "source_url": "https://en.wikipedia.org/wiki/Sathyaa",
+      "created_at": "2026-10-14 19:36:40",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Nagaru Nagaru",
+          "singers": "Ilaiyaraaja, Lalitha Sagari, T. Sunderrajan, Saibaba",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:30",
+          "stream_url": "https://music.youtube.com/watch?v=kWqIcV2HmWQ"
+        },
+        {
+          "track_number": 2,
+          "title": "Potta Padiyudhu",
+          "singers": "Ilaiyaraaja, Kamal Haasan, T. Sunderrajan, Saibaba",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:51",
+          "stream_url": "https://music.youtube.com/watch?v=lF8KTvgPgZI"
+        },
+        {
+          "track_number": 3,
+          "title": "Valaiyosai",
+          "singers": "Ilaiyaraaja, S.P. Balasubrahmanyam, Lata Mangeshkar",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:35",
+          "stream_url": "https://music.youtube.com/watch?v=qMVnZQUYELQ"
+        },
+        {
+          "track_number": 4,
+          "title": "Sathya Score",
+          "singers": "Ilaiyaraaja",
+          "lyricist": "",
+          "raga": "",
+          "duration": "1:33",
+          "stream_url": "https://music.youtube.com/watch?v=wkYAS5cyHgA"
+        }
+      ]
+    },
+    {
+      "id": 9360,
+      "year": 1988,
+      "title": "Senthoora Poove",
+      "director": "P. R. Devaraj",
+      "producer": "",
+      "composer": "Vijayakanth, Ramki, Nirosha, Chandrasekhar, Senthil",
+      "cast": "Tamil Ponni Art",
+      "source_url": "https://en.wikipedia.org/wiki/Senthoora_Poove",
+      "created_at": "2026-10-14 19:36:40",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Sendhoora Poove",
+          "singers": "S.P.B",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:35",
+          "stream_url": "https://music.youtube.com/watch?v=CXQzee1zIY4"
+        },
+        {
+          "track_number": 2,
+          "title": "Kiliye Ilang Kiliye",
+          "singers": "Malayasia Vasudevan",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:57",
+          "stream_url": "https://music.youtube.com/watch?v=UVX4prTDUQ0"
+        },
+        {
+          "track_number": 3,
+          "title": "Sodhanai Theeravillai",
+          "singers": "Jayachandran",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:35",
+          "stream_url": "https://music.youtube.com/watch?v=n0a8KAk5GZk"
+        },
+        {
+          "track_number": 4,
+          "title": "Chinna Kannan",
+          "singers": "S.P.B",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:05",
+          "stream_url": "https://music.youtube.com/watch?v=CWv211cTIVI"
+        },
+        {
+          "track_number": 5,
+          "title": "Vaadi Pulla",
+          "singers": "Malayasia Vasudevan",
+          "lyricist": "",
+          "raga": "",
+          "duration": "3:34",
+          "stream_url": "https://music.youtube.com/watch?v=PbfXQb082Pc"
+        },
+        {
+          "track_number": 6,
+          "title": "Varape Thalaiyaane",
+          "singers": "Ragavendhaer",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:17",
+          "stream_url": "https://music.youtube.com/watch?v=cZ3Z58QBqv0"
+        },
+        {
+          "track_number": 7,
+          "title": "Muthu Mani Pallaaku",
+          "singers": "Sasireka",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:51",
+          "stream_url": "https://music.youtube.com/watch?v=MX6_EGnzDIk"
+        },
+        {
+          "track_number": 8,
+          "title": "Aathukulle Yelelo",
+          "singers": "Ragavendhaer",
+          "lyricist": "",
+          "raga": "",
+          "duration": "1:31",
+          "stream_url": "https://music.youtube.com/watch?v=XA3koKWe-WM"
+        }
+      ]
+    },
+    {
+      "id": 9361,
+      "year": 1988,
+      "title": "Shenbagamae Shenbagamae",
+      "director": "Gangai Amaran",
+      "producer": "",
+      "composer": "Ramarajan, Rekha, Silk Smitha, Chandrasekhar, Senthil, S. S. Chandran, Kovai Sarala",
+      "cast": "Sri Lakshmana Films",
+      "source_url": "https://en.wikipedia.org/wiki/Shenbagamae_Shenbagamae",
+      "created_at": "2026-10-14 19:36:40",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Manja Podi",
+          "singers": "Ilaiyaraaja, S.P. Balasubrahmanyam",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:41",
+          "stream_url": "https://music.youtube.com/watch?v=yfrZneKG7V8"
+        },
+        {
+          "track_number": 2,
+          "title": "Pathinaaru Vayasu",
+          "singers": "Ilaiyaraaja, Malaysia Vasudevan",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:16",
+          "stream_url": "https://music.youtube.com/watch?v=Lj6eXwNOnvI"
+        },
+        {
+          "track_number": 3,
+          "title": "Vasalile Poosani Poo",
+          "singers": "Ilaiyaraaja, S.P. Balasubrahmanyam, S. Janaki",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:36",
+          "stream_url": "https://music.youtube.com/watch?v=G3FUduc1DKM"
+        },
+        {
+          "track_number": 4,
+          "title": "Thaen Pazhani Aandavane",
+          "singers": "Ilaiyaraaja, S. Janaki, Malaysia Vasudevan",
+          "lyricist": "",
+          "raga": "",
+          "duration": "7:58",
+          "stream_url": "https://music.youtube.com/watch?v=ZY7Qn01_qMs"
+        },
+        {
+          "track_number": 5,
+          "title": "Vezhuthu Kattikida",
+          "singers": "Ilaiyaraaja",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:29",
+          "stream_url": "https://music.youtube.com/watch?v=Dxs-3EP2-8c"
+        },
+        {
+          "track_number": 6,
+          "title": "Saami En Thaali",
+          "singers": "Ilaiyaraaja, K.S. Chithra",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:31",
+          "stream_url": "https://music.youtube.com/watch?v=CmSEfLMkKOs"
+        }
+      ]
+    },
+    {
+      "id": 9362,
+      "year": 1988,
+      "title": "Sigappu Thali",
+      "director": "R.Thyagarajan",
+      "producer": "",
+      "composer": "Shankar–Ganesh",
+      "cast": "Lakshmi Raja Films",
+      "source_url": "https://en.wikipedia.org/wiki/Sigappu_Thali",
+      "created_at": "2026-10-14 19:36:40",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Odathanni",
+          "singers": "K. J. Yesudas, K. S. Chithra",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "Nee Than Thotta",
+          "singers": "S. Janaki",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "Thillalangadi",
+          "singers": "S. P. Balasubrahmanyam, S. P. Sailaja",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "Maadham Mummari",
+          "singers": "Malaysia Vasudevan",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 9363,
+      "year": 1988,
+      "title": "Solla Thudikuthu Manasu",
+      "director": "B. Lenin",
+      "producer": "",
+      "composer": "Karthik, Priyasri, Radha Ravi, Vennira Aadai Moorthy, Charle",
+      "cast": "Maruthi Movie Arts",
+      "source_url": "https://en.wikipedia.org/wiki/Solla_Thudikuthu_Manasu",
+      "created_at": "2026-10-14 19:36:40",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Kuyilukoru",
+          "singers": "Ilaiyaraaja, Malaysia Vasudevan",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:39",
+          "stream_url": "https://music.youtube.com/watch?v=wHJ233Vkga0"
+        },
+        {
+          "track_number": 2,
+          "title": "Enathu Vizhi",
+          "singers": "Ilaiyaraaja, P. Jayachandran, S. Janaki",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:29",
+          "stream_url": "https://music.youtube.com/watch?v=UV8jE1I7fn0"
+        },
+        {
+          "track_number": 3,
+          "title": "Poove Sempoove (Male)",
+          "singers": "Ilaiyaraaja, K.J. Yesudas",
+          "lyricist": "",
+          "raga": "",
+          "duration": "5:33",
+          "stream_url": "https://music.youtube.com/watch?v=wEm5HS2Ceqw"
+        },
+        {
+          "track_number": 4,
+          "title": "Poove Sempoove (Female)",
+          "singers": "Ilaiyaraaja, Sunandha",
+          "lyricist": "",
+          "raga": "",
+          "duration": "5:40",
+          "stream_url": "https://music.youtube.com/watch?v=aGBmuZj_bEE"
+        },
+        {
+          "track_number": 5,
+          "title": "Thaen Mozhi",
+          "singers": "Ilaiyaraaja, Mano",
+          "lyricist": "",
+          "raga": "",
+          "duration": "5:24",
+          "stream_url": "https://music.youtube.com/watch?v=DGBEFNPPtI8"
+        },
+        {
+          "track_number": 6,
+          "title": "Vayakatti Vayathakatti",
+          "singers": "Ilaiyaraaja",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:35",
+          "stream_url": "https://music.youtube.com/watch?v=tQys-Hnfzx4"
+        }
+      ]
+    },
+    {
+      "id": 9364,
+      "year": 1988,
+      "title": "Soora Samhaaram",
+      "director": "Chitra Lakshmanan",
+      "producer": "",
+      "composer": "Kamal Haasan, Nirosha, Madhuri, Nizhalgal Ravi, Pallavi, Janagaraj",
+      "cast": "Gayathri Films",
+      "source_url": "https://en.wikipedia.org/wiki/Soora_Samhaaram",
+      "created_at": "2026-10-14 19:36:40",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Naan Enbadhu Nee Allavo",
+          "singers": "Ilaiyaraaja, Arunmozhi, K.S. Chithra",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:43",
+          "stream_url": "https://music.youtube.com/watch?v=ZATtGGy7xoU"
+        },
+        {
+          "track_number": 2,
+          "title": "Vedhalam Vandhirikkudhu",
+          "singers": "Ilaiyaraaja, Mano, S.P. Sailaja",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:36",
+          "stream_url": "https://music.youtube.com/watch?v=JVpf8nJXFXM"
+        },
+        {
+          "track_number": 3,
+          "title": "Neela Kuyilae Solai Kuyilae",
+          "singers": "Ilaiyaraaja, Arunmozhi, K.S. Chithra",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:30",
+          "stream_url": "https://music.youtube.com/watch?v=F9Pf7WsiQvQ"
+        },
+        {
+          "track_number": 4,
+          "title": "Aadum Neram Idhudhaan",
+          "singers": "Ilaiyaraaja, P. Susheela",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:46",
+          "stream_url": "https://music.youtube.com/watch?v=K6ZP0G8Agho"
+        }
+      ]
+    },
+    {
+      "id": 9365,
+      "year": 1988,
+      "title": "Sudhanthira Naattin Adimaigal",
+      "director": "S. A. Chandrasekhar",
+      "producer": "",
+      "composer": "Charan Raj, Radhika, Nizhalgal Ravi",
+      "cast": "Kathambari Creations",
+      "source_url": "https://en.wikipedia.org/wiki/Sudhanthira_Naattin_Adimaigal",
+      "created_at": "2026-10-14 19:36:40",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Ponno Maniyo",
+          "singers": "Mano, K. S. Chithra",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:44",
+          "stream_url": "https://music.youtube.com/watch?v=veDyy47URcs"
+        },
+        {
+          "track_number": 2,
+          "title": "Nadu Kettu Ponathalea",
+          "singers": "S. P. Balasubrahmanyam",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:42",
+          "stream_url": "https://music.youtube.com/watch?v=ewfu66ScuOA"
+        },
+        {
+          "track_number": 3,
+          "title": "En Annai Thesamea",
+          "singers": "K. S. Chithra",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:55",
+          "stream_url": "https://music.youtube.com/watch?v=N66j8r3d1Bs"
+        },
+        {
+          "track_number": 4,
+          "title": "Enna Patacha Sami",
+          "singers": "Mano, K. S. Chithra",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:54",
+          "stream_url": "https://music.youtube.com/watch?v=TRkn5_Y43n4"
+        }
+      ]
+    },
+    {
+      "id": 9366,
+      "year": 1988,
+      "title": "Thaai Paasam",
+      "director": "R. Krishnamoorthy",
+      "producer": "",
+      "composer": "Arjun, Rupini, Srividya, Jaishankar, S. S. Chandran",
+      "cast": "Rathna Movies",
+      "source_url": "https://en.wikipedia.org/wiki/Thaai_Paasam",
+      "created_at": "2026-10-14 19:36:40",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Thaai Paasam",
+          "singers": "Sanathan Shree Krishnan, Vasantha Sankarraman",
+          "lyricist": "",
+          "raga": "",
+          "duration": "3:02",
+          "stream_url": "https://www.jiosaavn.com/song/thaai-paasam/O1kqejdBcEc"
+        }
+      ]
+    },
+    {
+      "id": 9367,
+      "year": 1988,
+      "title": "Thaimel Aanai",
+      "director": "L. Raja",
+      "producer": "",
+      "composer": "Arjun, Raghuvaran, B. Saroja Devi, Ranjini, Madhuri, Vani Viswanath, Kismu, S. S. Chandran, Senthil",
+      "cast": "AVM Productions",
+      "source_url": "https://en.wikipedia.org/wiki/Thaimel_Aanai",
+      "created_at": "2026-10-14 19:36:40",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Yentha Kadai Solla",
+          "singers": "K. J. Yesudas, Chandra Bose, Vairamuthu",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:17",
+          "stream_url": "https://music.youtube.com/watch?v=hFSOp9IRpGo"
+        },
+        {
+          "track_number": 2,
+          "title": "Chinna Kanna Chella Kanna",
+          "singers": "K. S. Chithra, Chandra Bose, Vairamuthu",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:27",
+          "stream_url": "https://music.youtube.com/watch?v=aDPI1Qsqjxo"
+        },
+        {
+          "track_number": 3,
+          "title": "Sangu Chakra Sami Vanthu",
+          "singers": "Malaysia Vasudevan, M. S. Rajeswari, Chandra Bose, Vairamuthu",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:56",
+          "stream_url": "https://music.youtube.com/watch?v=ArMMg8Zers0"
+        },
+        {
+          "track_number": 4,
+          "title": "Poona Poora Vittitu Avana",
+          "singers": "Malaysia Vasudevan, S. P. Sailaja, Chandra Bose, Vairamuthu",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:25",
+          "stream_url": "https://music.youtube.com/watch?v=U8PLdzGVGP0"
+        },
+        {
+          "track_number": 5,
+          "title": "Chinna Kanna Chella Kanna (Slow)",
+          "singers": "K. S. Chithra, Chandra Bose, Vairamuthu",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:15",
+          "stream_url": "https://music.youtube.com/watch?v=48dZ5QE852k"
+        },
+        {
+          "track_number": 6,
+          "title": "Chinna Kanna Chella Kanna (Male)",
+          "singers": "S. P. Balasubrahmanyam, Chandra Bose, Vairamuthu",
+          "lyricist": "",
+          "raga": "",
+          "duration": "3:47",
+          "stream_url": "https://music.youtube.com/watch?v=DgVkXj0BAJs"
+        },
+        {
+          "track_number": 7,
+          "title": "Hey Mallikai Poo Poothirukku(From\"Thaimel Aanai\")",
+          "singers": "S. P. Balasubrahmanyam, S. Janaki",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:07",
+          "stream_url": "https://music.youtube.com/watch?v=2n24DQvjVtU"
+        },
+        {
+          "track_number": 8,
+          "title": "Vaaika Varabukulla Vayasupulla",
+          "singers": "Malaysia Vasudevan, Vani Jairam, Chandra Bose, Vairamuthu",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:44",
+          "stream_url": "https://music.youtube.com/watch?v=108qOKmbN10"
+        }
+      ]
+    },
+    {
+      "id": 9368,
+      "year": 1988,
+      "title": "Thambi Thanga Kambi",
+      "director": "K. Shankar",
+      "producer": "",
+      "composer": "Vijayakanth, Lakshmi, Rekha, Ramya Krishnan, Manorama, Senthil, Kovai Sarala",
+      "cast": "Sankaralaya Pictures",
+      "source_url": "https://en.wikipedia.org/wiki/Thambi_Thanga_Kambi",
+      "created_at": "2026-10-14 19:36:40",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Sri Ranjani Yen Sivaranjani",
+          "singers": "K.J. Yesudas, K. S. Chithra, Gangai Amaran, Vali",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:46",
+          "stream_url": "https://music.youtube.com/watch?v=hMRuCrsojbE"
+        },
+        {
+          "track_number": 2,
+          "title": "Naan Paadinal Thirakkum",
+          "singers": "Vani Jairam, Gangai Amaran, Vali, Pulamaipithan",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:31",
+          "stream_url": "https://music.youtube.com/watch?v=xg2LoTLVclg"
+        },
+        {
+          "track_number": 3,
+          "title": "Kaala Konchum Virichivetchu",
+          "singers": "Vani Jairam, Gangai Amaran, Vali, Pulamaipithan",
+          "lyricist": "",
+          "raga": "",
+          "duration": "0:53",
+          "stream_url": "https://music.youtube.com/watch?v=q020cfM_Yh8"
+        },
+        {
+          "track_number": 4,
+          "title": "Thai Kulatha Parada",
+          "singers": "S. P. Balasubrahmanyam, Gangai Amaran, Vali, Pulamaipithan",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:56",
+          "stream_url": "https://music.youtube.com/watch?v=RtfTNs92_6I"
+        },
+        {
+          "track_number": 5,
+          "title": "Aaiyram Thalaimurai Ketkum",
+          "singers": "K.J. Yesudas, K. S. Chithra, Manoj Giyan, Vairamuthu",
+          "lyricist": "",
+          "raga": "",
+          "duration": "3:54",
+          "stream_url": "https://music.youtube.com/watch?v=DPrWoKSCSJY"
+        },
+        {
+          "track_number": 6,
+          "title": "Ethu Vayil Adikkum Neram",
+          "singers": "S. P. Sailaja, Vali, Pulamaipithan, Muthulingam",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:01",
+          "stream_url": "https://music.youtube.com/watch?v=5K-Pe3hpbJ4"
+        },
+        {
+          "track_number": 7,
+          "title": "Naan Manamagale",
+          "singers": "S. P. Sailaja, Vali, Pulamaipithan, Muthulingam",
+          "lyricist": "",
+          "raga": "",
+          "duration": "3:10",
+          "stream_url": "https://music.youtube.com/watch?v=AYcgLCPatkU"
+        }
+      ]
+    },
+    {
+      "id": 9369,
+      "year": 1988,
+      "title": "Thanga Kalasam",
+      "director": "London Gopal",
+      "producer": "",
+      "composer": "Pandian, Sudha Chandran, S. Ve. Shekher, Sri Jaya, Manorama, Senthil, Y. Vijaya",
+      "cast": "Sudha Screen",
+      "source_url": "https://en.wikipedia.org/wiki/Thanga_Kalasam",
+      "created_at": "2026-10-14 19:36:40",
+      "tracks": []
+    },
+    {
+      "id": 9370,
+      "year": 1988,
+      "title": "Thappu Kanakku",
+      "director": "Jeeva Balan",
+      "producer": "",
+      "composer": "Charan Raj, Madhuri, Chandrasekhar, Asha Rani",
+      "cast": "Balan Pictures",
+      "source_url": "https://en.wikipedia.org/wiki/Thappu_Kanakku",
+      "created_at": "2026-10-14 19:36:40",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Kathuvandu Nambapakkam",
+          "singers": "M. S. Viswanathan, S. P. Balasubrahmanyam, Vaali, Kamakodiyan",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:52",
+          "stream_url": "https://music.youtube.com/watch?v=4l32_1rTJQk"
+        },
+        {
+          "track_number": 2,
+          "title": "Ethu Veanum Eduthukkava",
+          "singers": "M. S. Viswanathan, S. P. Balasubrahmanyam, S. Janaki, Vaali",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:52",
+          "stream_url": "https://music.youtube.com/watch?v=urWhsaqHj10"
+        },
+        {
+          "track_number": 3,
+          "title": "Oru Poovai Pondra Poovai Eval",
+          "singers": "M. S. Viswanathan, S. P. Balasubrahmanyam, K. S. Chithra, Vaali",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:41",
+          "stream_url": "https://music.youtube.com/watch?v=8TP5q8al9Hs"
+        },
+        {
+          "track_number": 4,
+          "title": "O Yen Nanbane Va Va",
+          "singers": "M. S. Viswanathan, S. P. Balasubrahmanyam, Vaali, Kamakodiyan",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:01",
+          "stream_url": "https://music.youtube.com/watch?v=-PIj5aOSIAg"
+        },
+        {
+          "track_number": 5,
+          "title": "O Yen Nanbane Va Va (Speed)",
+          "singers": "M. S. Viswanathan, S. P. Balasubrahmanyam, Vaali, Kamakodiyan",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:41",
+          "stream_url": "https://music.youtube.com/watch?v=oIC4oqrFEvA"
+        }
+      ]
+    },
+    {
+      "id": 9371,
+      "year": 1988,
+      "title": "Thenpandi Seemayile",
+      "director": "C. P. Kollappan",
+      "producer": "",
+      "composer": "Vijayakanth, Radhika, Chandrasekhar, Pandian, Seetha, Madhuri, S. S. Chandran, Kovai Sarala, Baby Sujitha",
+      "cast": "Uzhaippalar Films",
+      "source_url": "https://en.wikipedia.org/wiki/Thenpandi_Seemayile",
+      "created_at": "2026-10-14 19:36:40",
+      "tracks": []
+    },
+    {
+      "id": 9372,
+      "year": 1988,
+      "title": "Therkathi Kallan",
+      "director": "P. Kalaimani",
+      "producer": "",
+      "composer": "Vijayakanth, Radhika, Sulakshana, Madhuri, V. K. Ramasamy, S. S. Chandran, Janagaraj",
+      "cast": "Everest Films",
+      "source_url": "https://en.wikipedia.org/wiki/Therkathi_Kallan",
+      "created_at": "2026-10-14 19:36:40",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Thillaa Taangu",
+          "singers": "Ilaiyaraaja, Malaysia Vasudevan, K.S. Chithra",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:36",
+          "stream_url": "https://music.youtube.com/watch?v=-WzL_4MVJPM"
+        },
+        {
+          "track_number": 2,
+          "title": "Radha Azhaikkiraal",
+          "singers": "Ilaiyaraaja, S. Janaki",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:31",
+          "stream_url": "https://music.youtube.com/watch?v=tZmO8mJ0wOg"
+        },
+        {
+          "track_number": 3,
+          "title": "Pottu Vachi",
+          "singers": "Ilaiyaraaja, S.P. Balasubrahmanyam",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:34",
+          "stream_url": "https://music.youtube.com/watch?v=3Tpkgb0Cucc"
+        },
+        {
+          "track_number": 4,
+          "title": "Kannukkulle",
+          "singers": "Ilaiyaraaja, S. Janaki",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:42",
+          "stream_url": "https://music.youtube.com/watch?v=jARGXSoKiCs"
+        },
+        {
+          "track_number": 5,
+          "title": "Indhiran Kettadhu",
+          "singers": "Ilaiyaraaja, K.S. Chithra",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:20",
+          "stream_url": "https://music.youtube.com/watch?v=kjbfx2PIPPY"
+        }
+      ]
+    },
+    {
+      "id": 9373,
+      "year": 1988,
+      "title": "Ullathil Nalla Ullam",
+      "director": "Manivannan",
+      "producer": "",
+      "composer": "Vijayakanth, Radha, Radha Ravi, Madhuri, Janagaraj, Senthil, Kamala Kamesh, Disco Shanti",
+      "cast": "Ajantha Creations",
+      "source_url": "https://en.wikipedia.org/wiki/Ullathil_Nalla_Ullam",
+      "created_at": "2026-10-14 19:36:40",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Tholil Vizhum Maalaye",
+          "singers": "S.P. Balasubrahmanyam, S. Janaki",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:28",
+          "stream_url": "https://music.youtube.com/watch?v=l6MCFuo5-3g"
+        },
+        {
+          "track_number": 2,
+          "title": "Pottalum Erale",
+          "singers": "S.P. Balasubrahmanyam",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:44",
+          "stream_url": "https://music.youtube.com/watch?v=d3xxW5zMUJU"
+        },
+        {
+          "track_number": 3,
+          "title": "Naan Enna Pade",
+          "singers": "S.P. Balasubrahmanyam, S. Janaki",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:44",
+          "stream_url": "https://music.youtube.com/watch?v=Z0ICW9rsoUQ"
+        },
+        {
+          "track_number": 4,
+          "title": "Vettina Thappu Ille",
+          "singers": "S.P. Balasubrahmanyam",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:35",
+          "stream_url": "https://music.youtube.com/watch?v=1r7bPUmD0TY"
+        },
+        {
+          "track_number": 5,
+          "title": "Ponnupaakka Vareegala",
+          "singers": "Malaysia Vasudevan",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:17",
+          "stream_url": "https://music.youtube.com/watch?v=Viu3VVKSYQ8"
+        }
+      ]
+    },
+    {
+      "id": 9374,
+      "year": 1988,
+      "title": "Unnal Mudiyum Thambi",
+      "director": "K. Balachander",
+      "producer": "",
+      "composer": "Kamal Haasan, Gemini Ganesan, Seetha, Manorama, Janagaraj",
+      "cast": "Kavithalayaa Productions",
+      "source_url": "https://en.wikipedia.org/wiki/Unnal_Mudiyum_Thambi",
+      "created_at": "2026-10-14 19:36:40",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Unnal Mudiyum Thambi",
+          "singers": "Ilaiyaraaja, S.P. Balasubrahmanyam",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:30",
+          "stream_url": "https://music.youtube.com/watch?v=YavbfY9PWGQ"
+        },
+        {
+          "track_number": 2,
+          "title": "Idhazhil Kadhai Ezhudhum",
+          "singers": "Ilaiyaraaja, S.P. Balasubrahmanyam, K.S. Chithra",
+          "lyricist": "",
+          "raga": "",
+          "duration": "5:22",
+          "stream_url": "https://music.youtube.com/watch?v=LOzDW3PMdNQ"
+        },
+        {
+          "track_number": 3,
+          "title": "Enna Samayalo",
+          "singers": "Ilaiyaraaja, S.P. Balasubrahmanyam, K.S. Chithra, Sunandha",
+          "lyricist": "",
+          "raga": "",
+          "duration": "5:47",
+          "stream_url": "https://music.youtube.com/watch?v=bsMWuC7xXEI"
+        },
+        {
+          "track_number": 4,
+          "title": "Akkam Pakkam Parada",
+          "singers": "Ilaiyaraaja, S.P. Balasubrahmanyam",
+          "lyricist": "",
+          "raga": "",
+          "duration": "2:52",
+          "stream_url": "https://music.youtube.com/watch?v=hD3Ii3xuYUQ"
+        },
+        {
+          "track_number": 5,
+          "title": "Punjai Undu",
+          "singers": "Ilaiyaraaja, S.P. Balasubrahmanyam",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:16",
+          "stream_url": "https://music.youtube.com/watch?v=p4YTlxYbGlM"
+        },
+        {
+          "track_number": 6,
+          "title": "Nee Ondru Dhaan",
+          "singers": "Ilaiyaraaja, K.J. Yesudas",
+          "lyricist": "",
+          "raga": "",
+          "duration": "3:49",
+          "stream_url": "https://music.youtube.com/watch?v=0ApszvnYHE4"
+        },
+        {
+          "track_number": 7,
+          "title": "Maanida Sevai",
+          "singers": "Ilaiyaraaja, K.J. Yesudas",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:21",
+          "stream_url": "https://music.youtube.com/watch?v=KdlVCsiwm9Y"
+        }
+      ]
+    },
+    {
+      "id": 9375,
+      "year": 1988,
+      "title": "Urimai Geetham",
+      "director": "R. V. Udayakumar",
+      "producer": "",
+      "composer": "Manoj–Gyan",
+      "cast": "Sivasri Pictures",
+      "source_url": "https://en.wikipedia.org/wiki/Urimai_Geetham",
+      "created_at": "2026-10-14 19:36:40",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Ponmaanney",
+          "singers": "S. P. Balasubrahmanyam, K. S. Chithra",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:15",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "Vidukathai",
+          "singers": "S. P. Balasubrahmanyam, Uma Ramanan",
+          "lyricist": "",
+          "raga": "",
+          "duration": "1:59",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "Mella Mella",
+          "singers": "S. P. Balasubrahmanyam, Vidya",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:19",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "Santhakadai",
+          "singers": "Malaysia Vasudevan, S. N. Surendar, B. S. Sasirekha",
+          "lyricist": "",
+          "raga": "",
+          "duration": "3:46",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "Anju Viral",
+          "singers": "P. Jayachandran, S. Janaki, Udayakumar",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:06",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 9376,
+      "year": 1988,
+      "title": "Uzhaithu Vaazha Vendum",
+      "director": "Ameerjan",
+      "producer": "",
+      "composer": "Vijayakanth, Radhika, Vidhyashree, Radha Ravi, S. S. Chandran, Senthil",
+      "cast": "Motherland Pictures",
+      "source_url": "https://en.wikipedia.org/wiki/Uzhaithu_Vaazha_Vendum",
+      "created_at": "2026-10-14 19:36:40",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Muthukkal Pathikkatha Kannil",
+          "singers": "K.J. Yesudas, Chitra",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:15",
+          "stream_url": "https://music.youtube.com/watch?v=SaBtu4N7JCo"
+        },
+        {
+          "track_number": 2,
+          "title": "Bhoomi Yenna Bhoomi",
+          "singers": "Malaysia Vasudevan",
+          "lyricist": "",
+          "raga": "",
+          "duration": "5:48",
+          "stream_url": "https://music.youtube.com/watch?v=lwWYvWQd4s4"
+        },
+        {
+          "track_number": 3,
+          "title": "Life Is Funny",
+          "singers": "Anuradha Paudwal, S.P. Balasubrahmanyam",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:58",
+          "stream_url": "https://music.youtube.com/watch?v=X7282ZyJdjM"
+        },
+        {
+          "track_number": 4,
+          "title": "Ponmangani Idu Ini En Magani",
+          "singers": "S.P. Balasubrahmanyam, Chitra, Dinesh, Sundarrajan",
+          "lyricist": "",
+          "raga": "",
+          "duration": "5:43",
+          "stream_url": "https://music.youtube.com/watch?v=249vChMK0Sk"
+        },
+        {
+          "track_number": 5,
+          "title": "Vangi Vanden",
+          "singers": "K.J. Yesudas",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:43",
+          "stream_url": "https://music.youtube.com/watch?v=ygm1UX8dWWM"
+        },
+        {
+          "track_number": 6,
+          "title": "Vennilavai Mudal Naal",
+          "singers": "S.P. Balasubrahmanyam",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:39",
+          "stream_url": "https://music.youtube.com/watch?v=O-YPfsXGlNw"
+        }
+      ]
+    },
+    {
+      "id": 9377,
+      "year": 1988,
+      "title": "Vacha Kuri Thappathu",
+      "director": "M. R. Vijaychander",
+      "producer": "",
+      "composer": "Chandrasekhar, Ramya Krishnan",
+      "cast": "S. P. Pushparaj",
+      "source_url": "https://en.wikipedia.org/wiki/Vacha_Kuri_Thappathu",
+      "created_at": "2026-10-14 19:36:40",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Yamma Yamma Thaangaadamma",
+          "singers": "Malaysia Vasudevan, S.P. Shailaja",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:11",
+          "stream_url": "https://music.youtube.com/watch?v=spyl6oF1ACk"
+        },
+        {
+          "track_number": 2,
+          "title": "Raapodhu Poo Pookka",
+          "singers": "S.P. Shailaja",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:22",
+          "stream_url": "https://music.youtube.com/watch?v=8pgwXUu9FxY"
+        },
+        {
+          "track_number": 3,
+          "title": "Aathula Paadhi Sethula Paadhi",
+          "singers": "Ganesh, Sagari",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:45",
+          "stream_url": "https://music.youtube.com/watch?v=6CtXnH28UnI"
+        },
+        {
+          "track_number": 4,
+          "title": "Ottada Ottada Kambatthula",
+          "singers": "S.P. Shailaja",
+          "lyricist": "",
+          "raga": "",
+          "duration": "3:38",
+          "stream_url": "https://music.youtube.com/watch?v=ialGtoQWdQE"
+        }
+      ]
+    },
+    {
+      "id": 9378,
+      "year": 1988,
+      "title": "Valaikaapu",
+      "director": "A. Jayaraman",
+      "producer": "",
+      "composer": "Sathyan, Jeevitha, Senthil",
+      "cast": "Kavitha Chitra Combines",
+      "source_url": "https://en.wikipedia.org/wiki/Valaikaapu_%28film%29",
+      "created_at": "2026-10-14 19:36:40",
+      "tracks": []
+    },
+    {
+      "id": 9379,
+      "year": 1988,
+      "title": "Vasanthi",
+      "director": "Chitralaya Gopu",
+      "producer": "",
+      "composer": "Mohan, Madhuri, Devi Lalitha, Manorama, S. S. Chandran",
+      "cast": "AVM Productions",
+      "source_url": "https://en.wikipedia.org/wiki/Vasanthi_%281988_film%29",
+      "created_at": "2026-10-14 19:36:40",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Ravivarman Yezhuthatha Kalaiyo",
+          "singers": "Vairamuthu, K. J. Yesudas, Chandrabose",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:15",
+          "stream_url": "https://music.youtube.com/watch?v=WUnkApsgQyM"
+        },
+        {
+          "track_number": 2,
+          "title": "Santhosham Kaanadha Vazhvunda",
+          "singers": "Chandrabose, K. S. Chithra, Vairamuthu",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:38",
+          "stream_url": "https://music.youtube.com/watch?v=DgpcbBM5vxs"
+        },
+        {
+          "track_number": 3,
+          "title": "Vazhkaiyo Kaiyelea Vaanamo",
+          "singers": "Vairamuthu, Chandrabose, S. P. Balasubrahmanyam",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:27",
+          "stream_url": "https://music.youtube.com/watch?v=3EDTvBib9Y4"
+        },
+        {
+          "track_number": 4,
+          "title": "Murungaka Pavaka Vendaka",
+          "singers": "Chandrabose, S. P. Sailaja, Vairamuthu",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:03",
+          "stream_url": "https://music.youtube.com/watch?v=wQUJBwVNM70"
+        },
+        {
+          "track_number": 5,
+          "title": "Ku Ku Ku Kulirudhu Dhegam(From\"Vasanthi\")",
+          "singers": "Vani Jairam",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:31",
+          "stream_url": "https://music.youtube.com/watch?v=aD_8YInPbQ8"
+        },
+        {
+          "track_number": 6,
+          "title": "Santhosham Kaanadha",
+          "singers": "Chandrabose, K. J. Yesudas, Vairamuthu",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:33",
+          "stream_url": "https://music.youtube.com/watch?v=45JUpBo2Xfc"
+        }
+      ]
+    },
+    {
+      "id": 9380,
+      "year": 1988,
+      "title": "Veedu",
+      "director": "Balu Mahendra",
+      "producer": "",
+      "composer": "Archana, Bhanu Chander, Chokkalinga Bhagavathar",
+      "cast": "Sri Kala International",
+      "source_url": "https://en.wikipedia.org/wiki/Veedu",
+      "created_at": "2026-10-14 19:36:40",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Myavu Myavu",
+          "singers": "P. Jayachandran",
+          "lyricist": "",
+          "raga": "",
+          "duration": "2:39",
+          "stream_url": "https://music.youtube.com/watch?v=79LkcqpyqEo"
+        },
+        {
+          "track_number": 2,
+          "title": "Poornendu Deepam",
+          "singers": "P. Susheela",
+          "lyricist": "",
+          "raga": "",
+          "duration": "3:26",
+          "stream_url": "https://music.youtube.com/watch?v=01u4wfqh5TE"
+        },
+        {
+          "track_number": 3,
+          "title": "Kanangangi",
+          "singers": "K.j. Yesudas",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:28",
+          "stream_url": "https://music.youtube.com/watch?v=zCBp8pF2mdY"
+        },
+        {
+          "track_number": 4,
+          "title": "Choodullakulirinu",
+          "singers": "K.j. Yesudas, P. Madhuri",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:38",
+          "stream_url": "https://music.youtube.com/watch?v=NFkbim4Ie0M"
+        },
+        {
+          "track_number": 5,
+          "title": "Veedu Veedu",
+          "singers": "K.j. Yesudas",
+          "lyricist": "",
+          "raga": "",
+          "duration": "2:55",
+          "stream_url": "https://music.youtube.com/watch?v=ehs0M9aRD4k"
+        }
+      ]
+    },
+    {
+      "id": 9381,
+      "year": 1988,
+      "title": "Veedu Manaivi Makkal",
+      "director": "T. P. Gajendran",
+      "producer": "",
+      "composer": "Visu, K. R. Vijaya, S. Ve. Shekher, Seetha, Anand Babu, Ganga, Lalitha Kumari",
+      "cast": "Sri Thenandal Films",
+      "source_url": "https://en.wikipedia.org/wiki/Veedu_Manaivi_Makkal",
+      "created_at": "2026-10-14 19:36:40",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Kaadhal Kaadhal",
+          "singers": "K.J. Yesudas",
+          "lyricist": "",
+          "raga": "",
+          "duration": "3:12",
+          "stream_url": "https://music.youtube.com/watch?v=vS2sPw5JKLE"
+        },
+        {
+          "track_number": 2,
+          "title": "Sengallai Thookara",
+          "singers": "Malaysia Vasudevan, Uma Ramanan",
+          "lyricist": "",
+          "raga": "",
+          "duration": "3:14",
+          "stream_url": "https://music.youtube.com/watch?v=B7pnBUbaFSA"
+        },
+        {
+          "track_number": 3,
+          "title": "Nam Veeduthan",
+          "singers": "Mano Vishu Vani Jayaram Latha",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:57",
+          "stream_url": "https://music.youtube.com/watch?v=HcEwmtXHt-c"
+        },
+        {
+          "track_number": 4,
+          "title": "Veedu Manaivi Makkal",
+          "singers": "S.P. Balasubrahmanyam",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:04",
+          "stream_url": "https://music.youtube.com/watch?v=d26JkpJxKQQ"
+        },
+        {
+          "track_number": 5,
+          "title": "Thotathellam",
+          "singers": "S.P. Balasubrahmanyam",
+          "lyricist": "",
+          "raga": "",
+          "duration": "3:59",
+          "stream_url": "https://music.youtube.com/watch?v=Bl9SpTcR6fU"
+        }
+      ]
+    }
+  ]
+}

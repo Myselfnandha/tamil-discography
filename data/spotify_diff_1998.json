@@ -1,0 +1,144 @@
+{
+  "year": 1998,
+  "total_tracks": 391,
+  "tier_1_count": 10,
+  "tier_2_count": 0,
+  "tier_3_count": 0,
+  "tier_4_count": 0,
+  "unranked_count": 381,
+  "position_changes_count": 391,
+  "sample_tier_1_tracks": [
+    {
+      "title": "Kannodu Kaanbadhellam",
+      "album": "Jeans",
+      "score": 105.0
+    },
+    {
+      "title": "Poovukkul Olinthirukkum (Adhisayam)",
+      "album": "Jeans",
+      "score": 95.0
+    },
+    {
+      "title": "Enakke Enakka (Hairabba)",
+      "album": "Jeans",
+      "score": 70.0
+    },
+    {
+      "title": "Columbus Columbus",
+      "album": "Jeans",
+      "score": 70.0
+    },
+    {
+      "title": "Varayo Thozhi",
+      "album": "Jeans",
+      "score": 70.0
+    },
+    {
+      "title": "Anbe Anbe",
+      "album": "Jeans",
+      "score": 70.0
+    },
+    {
+      "title": "Love Theme",
+      "album": "Jeans",
+      "score": 70.0
+    },
+    {
+      "title": "Punnagayil Thee Mooti",
+      "album": "Jeans",
+      "score": 70.0
+    },
+    {
+      "title": "Jeans Pantukulle",
+      "album": "Cheran Chozhan Pandian",
+      "score": 70.0
+    },
+    {
+      "title": "Podu Jeans",
+      "album": "Guru Paarvai",
+      "score": 70.0
+    }
+  ],
+  "sample_changes": [
+    {
+      "track_title": "Kannodu Kaanbadhellam",
+      "album_title": "Jeans",
+      "old_position": 93,
+      "new_position": 1,
+      "evidence_tier": "tier_1_mega",
+      "score": 105.0
+    },
+    {
+      "track_title": "Poovukkul Olinthirukkum (Adhisayam)",
+      "album_title": "Jeans",
+      "old_position": 92,
+      "new_position": 2,
+      "evidence_tier": "tier_1_mega",
+      "score": 95.0
+    },
+    {
+      "track_title": "Enakke Enakka (Hairabba)",
+      "album_title": "Jeans",
+      "old_position": 90,
+      "new_position": 3,
+      "evidence_tier": "tier_1_mega",
+      "score": 70.0
+    },
+    {
+      "track_title": "Columbus Columbus",
+      "album_title": "Jeans",
+      "old_position": 91,
+      "new_position": 4,
+      "evidence_tier": "tier_1_mega",
+      "score": 70.0
+    },
+    {
+      "track_title": "Varayo Thozhi",
+      "album_title": "Jeans",
+      "old_position": 94,
+      "new_position": 5,
+      "evidence_tier": "tier_1_mega",
+      "score": 70.0
+    },
+    {
+      "track_title": "Anbe Anbe",
+      "album_title": "Jeans",
+      "old_position": 95,
+      "new_position": 6,
+      "evidence_tier": "tier_1_mega",
+      "score": 70.0
+    },
+    {
+      "track_title": "Love Theme",
+      "album_title": "Jeans",
+      "old_position": null,
+      "new_position": 7,
+      "evidence_tier": "tier_1_mega",
+      "score": 70.0
+    },
+    {
+      "track_title": "Punnagayil Thee Mooti",
+      "album_title": "Jeans",
+      "old_position": 96,
+      "new_position": 8,
+      "evidence_tier": "tier_1_mega",
+      "score": 70.0
+    },
+    {
+      "track_title": "Jeans Pantukulle",
+      "album_title": "Cheran Chozhan Pandian",
+      "old_position": 18,
+      "new_position": 9,
+      "evidence_tier": "tier_1_mega",
+      "score": 70.0
+    },
+    {
+      "track_title": "Podu Jeans",
+      "album_title": "Guru Paarvai",
+      "old_position": 73,
+      "new_position": 10,
+      "evidence_tier": "tier_1_mega",
+      "score": 70.0
+    }
+  ]
+}

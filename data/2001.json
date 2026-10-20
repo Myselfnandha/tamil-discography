@@ -1,0 +1,5261 @@
+{
+  "year": 2001,
+  "total_albums": 80,
+  "total_tracks": 469,
+  "exported_at": "2026-10-15T10:00:20.728290Z",
+  "albums": [
+    {
+      "id": 3642,
+      "year": 2001,
+      "title": "12B",
+      "director": "Jeeva",
+      "producer": "Film Works",
+      "composer": "",
+      "cast": "Shaam, Simran, Jyothika",
+      "source_url": "https://en.wikipedia.org/wiki/12B",
+      "created_at": "2026-10-14 13:39:29",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Love Pannu (Oru Punnagai Poove)",
+          "singers": "[[KK (singer)",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:40",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "Sariya Thavara",
+          "singers": "Samantha Edward, Febi Mani, Mathangai",
+          "lyricist": "[[Vaali (poet)",
+          "raga": "",
+          "duration": "5:02",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "Mutham Mutham",
+          "singers": "[[KK (singer)",
+          "lyricist": "",
+          "raga": "",
+          "duration": "5:02",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "Poove Vai Pesum Pothu",
+          "singers": "Mahalakshmi Iyer, Harish Raghavendra",
+          "lyricist": "",
+          "raga": "",
+          "duration": "5:48",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "Jothi Neranjava",
+          "singers": "Sukhwinder Singh, Febi Mani",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:46",
+          "stream_url": ""
+        },
+        {
+          "track_number": 6,
+          "title": "Anandam",
+          "singers": "Premgi Amaren, Clinton Cerejo",
+          "lyricist": "",
+          "raga": "Instrumental",
+          "duration": "2:17",
+          "stream_url": ""
+        },
+        {
+          "track_number": 7,
+          "title": "O Nenjae",
+          "singers": "Sujatha Rao",
+          "lyricist": "",
+          "raga": "",
+          "duration": "1:47",
+          "stream_url": ""
+        },
+        {
+          "track_number": 8,
+          "title": "Oru Paarvai Paar",
+          "singers": "[[Karthik (singer)",
+          "lyricist": "",
+          "raga": "",
+          "duration": "2:22",
+          "stream_url": ""
+        },
+        {
+          "track_number": 9,
+          "title": "Party Music",
+          "singers": "",
+          "lyricist": "",
+          "raga": "Instrumental, Shehnai&nbsp;– S. Ballesh",
+          "duration": "1:32",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 506,
+      "year": 2001,
+      "title": "Aalavandhaan",
+      "director": "V Creations",
+      "producer": "style=\"text-align:right; background:#ccc;\" |",
+      "composer": "",
+      "cast": "",
+      "source_url": "https://en.wikipedia.org/wiki/Aalavandhaan",
+      "created_at": "2026-10-14 12:31:49",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Africa Kaattu Puli",
+          "singers": "Nandini Srikar",
+          "lyricist": "[[Vaali (poet)",
+          "raga": "",
+          "duration": "4:57",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "Aalavandhan",
+          "singers": "Shankar Mahadevan",
+          "lyricist": "Vairamuthu",
+          "raga": "",
+          "duration": "3:19",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "Kadavul Paadhi",
+          "singers": "Kamal Haasan, Nandini",
+          "lyricist": "Vaali",
+          "raga": "",
+          "duration": "3:14",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "Siri Siri",
+          "singers": "Kamal Haasan, Mahalakshmi Iyer",
+          "lyricist": "Vairamuthu",
+          "raga": "",
+          "duration": "6:23",
+          "stream_url": ""
+        },
+        {
+          "track_number": 6,
+          "title": "Un Azhagukku",
+          "singers": "Shankar Mahadevan, Sujatha Mohan",
+          "lyricist": "Vairamuthu",
+          "raga": "",
+          "duration": "6:46",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 3645,
+      "year": 2001,
+      "title": "Aalavandhan",
+      "director": "Suresh Krishna",
+      "producer": "V Creations",
+      "composer": "",
+      "cast": "Kamal Haasan, Raveena Tandon, Manisha Koirala",
+      "source_url": "https://en.wikipedia.org/wiki/Aalavandhan",
+      "created_at": "2026-10-14 13:39:34",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Africa Kaattu Puli",
+          "singers": "Nandini Srikar",
+          "lyricist": "[[Vaali (poet)",
+          "raga": "",
+          "duration": "4:57",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "Aalavandhan",
+          "singers": "Shankar Mahadevan",
+          "lyricist": "Vairamuthu",
+          "raga": "",
+          "duration": "3:19",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "Kadavul Paadhi",
+          "singers": "Kamal Haasan, Nandini",
+          "lyricist": "Vaali",
+          "raga": "",
+          "duration": "3:14",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "Siri Siri",
+          "singers": "Kamal Haasan, Mahalakshmi Iyer",
+          "lyricist": "Vairamuthu",
+          "raga": "",
+          "duration": "6:23",
+          "stream_url": ""
+        },
+        {
+          "track_number": 6,
+          "title": "Un Azhagukku",
+          "singers": "Shankar Mahadevan, Sujatha Mohan",
+          "lyricist": "Vairamuthu",
+          "raga": "",
+          "duration": "6:46",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 3619,
+      "year": 2001,
+      "title": "Aanandham",
+      "director": "N. Lingusamy",
+      "producer": "Super Good Films",
+      "composer": "",
+      "cast": "Mammootty, Murali, Devayani, Rambha, Abbas, Sneha",
+      "source_url": "https://en.wikipedia.org/wiki/Aanandham",
+      "created_at": "2026-10-14 13:39:00",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Aasai Aasaiyai",
+          "singers": "K. J. Yesudas",
+          "lyricist": "Kalaikumar",
+          "raga": "",
+          "duration": "5:43",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "Adi Koochatha",
+          "singers": "Sukhwinder Singh, Swarnalatha",
+          "lyricist": "Kalaikumar",
+          "raga": "",
+          "duration": "3:54",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "Gokulathu Radhai",
+          "singers": "Unni Menon, [[Sujatha Mohan",
+          "lyricist": "Pa. Vijay",
+          "raga": "",
+          "duration": "5:15",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "Enna Idhuvo",
+          "singers": "[[Hariharan (singer)",
+          "lyricist": "[[Viveka (lyricist)",
+          "raga": "",
+          "duration": "4:34",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "Kalyana Vaanil",
+          "singers": "Unni Menon, Sujatha",
+          "lyricist": "Tholkapiyan",
+          "raga": "",
+          "duration": "4:17",
+          "stream_url": ""
+        },
+        {
+          "track_number": 6,
+          "title": "Pallangkuzhiyin",
+          "singers": "P. Unnikrishnan, [[Harini (singer)",
+          "lyricist": "Yugabharathi",
+          "raga": "",
+          "duration": "5:04",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 3646,
+      "year": 2001,
+      "title": "Aandan Adimai",
+      "director": "Manivannan",
+      "producer": "KDK International Films",
+      "composer": "",
+      "cast": "Sathyaraj, Suvalakshmi, Divya Unni",
+      "source_url": "https://en.wikipedia.org/wiki/Aandan_Adimai",
+      "created_at": "2026-10-14 13:39:35",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Anne Anne",
+          "singers": "Shankar Mahadevan",
+          "lyricist": "Muthulingam",
+          "raga": "",
+          "duration": "Muthulingam",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "Enna Enna Paada",
+          "singers": "Bhavatharini, Harini",
+          "lyricist": "Thamarai",
+          "raga": "",
+          "duration": "Thamarai",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "Undhan Rajyathil",
+          "singers": "Ilaiyaraaja",
+          "lyricist": "Mu. Metha",
+          "raga": "",
+          "duration": "Mu. Metha",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "Nammava",
+          "singers": "Madhu Balakrishnan, Shanmugasundari",
+          "lyricist": "Vaali",
+          "raga": "",
+          "duration": "Vaali",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "Thillu Mullu",
+          "singers": "Madhu Balakrishnan, Pushpavanam Kuppusamy",
+          "lyricist": "Pulamaipithan",
+          "raga": "",
+          "duration": "Pulamaipithan",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 3638,
+      "year": 2001,
+      "title": "Alli Thandha Vaanam",
+      "director": "Sridhar Prasad",
+      "producer": "Roja Combines",
+      "composer": "",
+      "cast": "Prabhu Deva, Laila, Murali",
+      "source_url": "https://en.wikipedia.org/wiki/Alli_Thandha_Vaanam",
+      "created_at": "2026-10-14 13:39:24",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Chennai Pattanam (Kasu Kasu)",
+          "singers": "Udit Narayan, Shruthi Haasan",
+          "lyricist": "[[Kabilan (lyricist)",
+          "raga": "",
+          "duration": "4:44",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "Kannalay Miya Miya",
+          "singers": "Unni Menon, Srivardhini",
+          "lyricist": "Arivumathi",
+          "raga": "",
+          "duration": "4:54",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "Thom Thom",
+          "singers": "[[Hariharan (singer)",
+          "lyricist": "Arivumathi",
+          "raga": "",
+          "duration": "4:57",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "Chikku Chikku Joy",
+          "singers": "[[Tippu (singer)",
+          "lyricist": "Palani Bharathi",
+          "raga": "",
+          "duration": "4:25",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "Anthi Karukkayilae",
+          "singers": "Swarnalatha",
+          "lyricist": "Arivumathi",
+          "raga": "",
+          "duration": "2:35",
+          "stream_url": ""
+        },
+        {
+          "track_number": 6,
+          "title": "Thattan Kidaikaiyiliyo",
+          "singers": "Swarnalatha",
+          "lyricist": "Arivumathi",
+          "raga": "",
+          "duration": "3:15",
+          "stream_url": ""
+        },
+        {
+          "track_number": 7,
+          "title": "Vaadi Vaadi Naattu Katta",
+          "singers": "Shankar Mahadevan, Sujatha Mohan",
+          "lyricist": "Arivumathi",
+          "raga": "",
+          "duration": "4:25",
+          "stream_url": ""
+        },
+        {
+          "track_number": 8,
+          "title": "Chennai Pattanam",
+          "singers": "[[Karthik (singer)",
+          "lyricist": "Kabilan",
+          "raga": "film version",
+          "duration": "4:44",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 3616,
+      "year": 2001,
+      "title": "Asathal",
+      "director": "P. Vasu",
+      "producer": "Maala Creations",
+      "composer": "",
+      "cast": "Sathyaraj, Ramya Krishnan, Vadivelu",
+      "source_url": "https://en.wikipedia.org/wiki/Asathal",
+      "created_at": "2026-10-14 13:38:57",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Srinivas",
+          "singers": "Gangai Amaran",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "Mano",
+          "singers": "Snehan",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "Anuradha Sriram \nS. P. Balasubrahmanyam",
+          "singers": "Kalaikumar",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "Ganga, Tippu",
+          "singers": "Gangai Amaran",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "P. Unnikrishnan",
+          "singers": "Gangai Amaran",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 3644,
+      "year": 2001,
+      "title": "Asokavanam",
+      "director": "Thakkali Srinivasan",
+      "producer": "Housefull Pictures",
+      "composer": "Balabharathy",
+      "cast": "Livingston, Rajashri, Sriman",
+      "source_url": "https://en.wikipedia.org/wiki/Asokavanam_%282001_film%29",
+      "created_at": "2026-10-14 13:39:32",
+      "tracks": []
+    },
+    {
+      "id": 3652,
+      "year": 2001,
+      "title": "Azhagana Naatkal",
+      "director": "Sundar C.",
+      "producer": "Gowthami Arts",
+      "composer": "",
+      "cast": "Karthik, Rambha, Mumtaj",
+      "source_url": "https://en.wikipedia.org/wiki/Azhagana_Naatkal",
+      "created_at": "2026-10-14 13:39:45",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Tippu, \"Mahanadhi\" Shobana",
+          "singers": "Pa. Vijay",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "Sujatha, S. P. B. Charan",
+          "singers": "Pa. Vijay",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "Hariharan, Shaisan",
+          "singers": "Pa. Vijay",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "Mano, Anuradha Sriram",
+          "singers": "Pa. Vijay",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "Shankar Mahadevan, Sujatha",
+          "singers": "Kalaikumar",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 6,
+          "title": "Malgudi Subha",
+          "singers": "Pa. Vijay",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 545,
+      "year": 2001,
+      "title": "Babu Ganesh",
+      "director": "}",
+      "producer": "",
+      "composer": "",
+      "cast": "",
+      "source_url": "https://en.wikipedia.org/wiki/Babu_Ganesh",
+      "created_at": "2026-10-14 12:32:33",
+      "tracks": []
+    },
+    {
+      "id": 502,
+      "year": 2001,
+      "title": "Badri",
+      "director": "P. A. Arun Prasad",
+      "producer": "Sri Venkateswara Art Films",
+      "composer": "",
+      "cast": "Vijay, Bhoomika, Monal",
+      "source_url": "https://en.wikipedia.org/wiki/Badri_%282001_film%29",
+      "created_at": "2026-10-14 12:31:45",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Travelling Soldier",
+          "singers": "Ramana Gogula",
+          "lyricist": "",
+          "raga": "",
+          "duration": "04:05",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "Adi Jivunnu Jivunnu",
+          "singers": "Ramana Gogula, Devi Sri Prasad",
+          "lyricist": "",
+          "raga": "",
+          "duration": "02:04",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "Salaam Maharasa",
+          "singers": "Devan Ekambaram, Priya Himesh",
+          "lyricist": "",
+          "raga": "",
+          "duration": "02:21",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "Ennoda Laila",
+          "singers": "[[C. Joseph Vijay",
+          "lyricist": "",
+          "raga": "",
+          "duration": "05:13",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "Kalakalakudhu",
+          "singers": "[[Mano (singer)",
+          "lyricist": "",
+          "raga": "",
+          "duration": "05:04",
+          "stream_url": ""
+        },
+        {
+          "track_number": 7,
+          "title": "Kadhal Solvadhu",
+          "singers": "[[Srinivas (singer)",
+          "lyricist": "",
+          "raga": "",
+          "duration": "04:34",
+          "stream_url": ""
+        },
+        {
+          "track_number": 8,
+          "title": "Angel Vandhaaley",
+          "singers": "Devi Sri Prasad, [[K. S. Chithra",
+          "lyricist": "",
+          "raga": "",
+          "duration": "04:45",
+          "stream_url": ""
+        },
+        {
+          "track_number": 9,
+          "title": "King Of Chennai",
+          "singers": "Devi Sri Prasad",
+          "lyricist": "",
+          "raga": "",
+          "duration": "04:17",
+          "stream_url": ""
+        },
+        {
+          "track_number": 10,
+          "title": "Stella Maris Laara",
+          "singers": "[[Tippu (singer)",
+          "lyricist": "",
+          "raga": "",
+          "duration": "01:44",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 3637,
+      "year": 2001,
+      "title": "Chocklet",
+      "director": "A.Venkatesh",
+      "producer": "Movie Magic",
+      "composer": "",
+      "cast": "Prashanth, Jaya Re, Mumtaj",
+      "source_url": "https://en.wikipedia.org/wiki/Chocklet",
+      "created_at": "2026-10-14 13:39:23",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Anjumani",
+          "singers": "Mathangi",
+          "lyricist": "Vaali",
+          "raga": "",
+          "duration": "Vaali",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "Dhuryodhana Dhuryodhana",
+          "singers": "Shankar Mahadevan, Mahalakshmi Iyer",
+          "lyricist": "Vaali",
+          "raga": "",
+          "duration": "Vaali",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "Hosima Hosima",
+          "singers": "Devan Ekambaram, Anupama",
+          "lyricist": "Vaali",
+          "raga": "",
+          "duration": "Vaali",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "Kappaleh Kappaleh",
+          "singers": "Hariharan, Mahalakshmi Iyer",
+          "lyricist": "Vaali",
+          "raga": "",
+          "duration": "Vaali",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "Kokaragiri",
+          "singers": "Sabesh–Murali, Mathangi",
+          "lyricist": "Vaali",
+          "raga": "",
+          "duration": "Vaali",
+          "stream_url": ""
+        },
+        {
+          "track_number": 6,
+          "title": "Malai Malai",
+          "singers": "Anuradha Sriram, A. R. Reihana",
+          "lyricist": "Vaali",
+          "raga": "",
+          "duration": "Vaali",
+          "stream_url": ""
+        },
+        {
+          "track_number": 7,
+          "title": "En Nizhalai",
+          "singers": "Srikanth, Timmy, Mathangi",
+          "lyricist": "Vaali",
+          "raga": "",
+          "duration": "Vaali",
+          "stream_url": ""
+        },
+        {
+          "track_number": 8,
+          "title": "Oru Five Star Paarvai",
+          "singers": "Niruban",
+          "lyricist": "Vaali",
+          "raga": "",
+          "duration": "Vaali",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 501,
+      "year": 2001,
+      "title": "Citizen",
+      "director": "Saravana Subbiah",
+      "producer": "NIC Arts",
+      "composer": "",
+      "cast": "Ajith Kumar, Vasundhara Das, Meena, Nagma",
+      "source_url": "https://en.wikipedia.org/wiki/Citizen_%282001_film%29",
+      "created_at": "2026-10-14 12:31:44",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Australia Desam",
+          "singers": "[[Hariharan (singer)",
+          "lyricist": "",
+          "raga": "",
+          "duration": "6:46",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "Merkey Vidhaitha",
+          "singers": "[[Tippu (singer)",
+          "lyricist": "",
+          "raga": "",
+          "duration": "6:13",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "Pookara Pookara",
+          "singers": "Shankar Mahadevan, Vasundhara Das",
+          "lyricist": "",
+          "raga": "",
+          "duration": "6:20",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "Chikkimukki Kallu",
+          "singers": "Shankar Mahadevan, Sadhana Sargam",
+          "lyricist": "",
+          "raga": "",
+          "duration": "6:51",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "I Like You",
+          "singers": "Vasundhara Das",
+          "lyricist": "",
+          "raga": "",
+          "duration": "6:53",
+          "stream_url": ""
+        },
+        {
+          "track_number": 6,
+          "title": "Merkey Vidhaitha Sooriyaney",
+          "singers": "Shankar Mahadevan",
+          "lyricist": "",
+          "raga": "",
+          "duration": "6:13",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 500,
+      "year": 2001,
+      "title": "Dheena",
+      "director": "A. R. Murugadoss",
+      "producer": "Vijayam Cine Combines",
+      "composer": "",
+      "cast": "Ajith Kumar, Suresh Gopi, Laila",
+      "source_url": "https://en.wikipedia.org/wiki/Dheena",
+      "created_at": "2026-10-14 12:31:43",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Kathal Website Ondru",
+          "singers": "Shankar Mahadevan, [[Harini (singer)",
+          "lyricist": "[[Vaali (poet)",
+          "raga": "",
+          "duration": "5:34",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "Nee Illai Endraal",
+          "singers": "Murugan M. Iyer, Bhavatharini, Yuvan Shankar Raja",
+          "lyricist": "Vaali",
+          "raga": "",
+          "duration": "5:24",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "Sollamal Thottu Chellum Thendral",
+          "singers": "[[Hariharan (singer)",
+          "lyricist": "Vijay Sagar",
+          "raga": "",
+          "duration": "5:24",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "Vathikuchi Pathikadhuda",
+          "singers": "S. P. Balasubrahmanyam",
+          "lyricist": "Vaali",
+          "raga": "",
+          "duration": "4:45",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "En Nenjil Mingle Aanaley",
+          "singers": "Harish Raghavendra",
+          "lyricist": "Vijay Sagar",
+          "raga": "",
+          "duration": "4:17",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 3626,
+      "year": 2001,
+      "title": "Dhill",
+      "director": "Dharani",
+      "producer": "Lakshmi Productions",
+      "composer": "",
+      "cast": "Vikram, Laila, Vivek",
+      "source_url": "https://en.wikipedia.org/wiki/Dhill",
+      "created_at": "2026-10-14 13:39:08",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Dhill Dhill",
+          "singers": "Timmy, Sriram Parthasarathy, [[Ranjith (actor)",
+          "lyricist": "Pa. Vijay",
+          "raga": "",
+          "duration": "4:08",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "Kannukulle",
+          "singers": "Manikka Vinayagam",
+          "lyricist": "Arivumathi",
+          "raga": "",
+          "duration": "4:45",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "Machan Meesai",
+          "singers": "Pushpa Anand",
+          "lyricist": "Pa. Vijay",
+          "raga": "",
+          "duration": "4:51",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "Oh Nanbane",
+          "singers": "[[Karthik (singer)",
+          "lyricist": "Arivumathi",
+          "raga": "",
+          "duration": "5:25",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "Un Samayal Arayil",
+          "singers": "P. Unnikrishnan, Sujatha Mohan",
+          "lyricist": "[[Kabilan (lyricist)",
+          "raga": "",
+          "duration": "4:52",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 3624,
+      "year": 2001,
+      "title": "Dosth",
+      "director": "S. A. Chandrasekhar",
+      "producer": "Lakshmi Movie Makers",
+      "composer": "",
+      "cast": "Sarath Kumar, Abhirami, Raghuvaran, Prakash Raj",
+      "source_url": "https://en.wikipedia.org/wiki/Dosth_%282001_Tamil_film%29",
+      "created_at": "2026-10-14 13:39:06",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Swarnalatha, Arunmozhi",
+          "singers": "06:40",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "Sukhwinder Singh",
+          "singers": "04:58",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "Anuradha Sriram",
+          "singers": "06:11",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "Baby Vaishali, S. P. Balasubrahmanyam, K. S. Chithra",
+          "singers": "05:52",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "Anuradha Sriram, Devan",
+          "singers": "06:00",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 3611,
+      "year": 2001,
+      "title": "Dumm Dumm Dumm",
+      "director": "Azhagam Perumal",
+      "producer": "Madras Talkies",
+      "composer": "KARTHIK RAJA",
+      "cast": "R. Madhavan, Jyothika, Vivek, Kalpana",
+      "source_url": "https://en.wikipedia.org/wiki/Dumm_Dumm_Dumm",
+      "created_at": "2026-10-14 13:38:52",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "RAGASIYAMAAI",
+          "singers": "HARIHARAN, RAMANATHAN, Sadhana Sargam",
+          "lyricist": "",
+          "raga": "",
+          "duration": "5:04",
+          "stream_url": "https://music.youtube.com/watch?v=cTl6KdH1u3Q"
+        },
+        {
+          "track_number": 2,
+          "title": "UN PERAI SONNALE",
+          "singers": "UNNIKRISHNAN, Sadhana Sargam",
+          "lyricist": "",
+          "raga": "",
+          "duration": "5:59",
+          "stream_url": "https://music.youtube.com/watch?v=XTupxn5cHvk"
+        },
+        {
+          "track_number": 3,
+          "title": "ATTHAAN VARUVAAGA",
+          "singers": "TIPPU, T K KARTHICK, MALGUDI SUBHA, HARINI, CHITRA SIVARAMAN",
+          "lyricist": "",
+          "raga": "",
+          "duration": "5:26",
+          "stream_url": "https://music.youtube.com/watch?v=ORnl9xFSgus"
+        },
+        {
+          "track_number": 4,
+          "title": "DHESINGU RAJA",
+          "singers": "HARISH RAGHAVENDRA",
+          "lyricist": "",
+          "raga": "",
+          "duration": "5:01",
+          "stream_url": "https://music.youtube.com/watch?v=fNAaHQYBOhY"
+        },
+        {
+          "track_number": 5,
+          "title": "KRISHNA KRISHNA",
+          "singers": "HARISH RAGHAVENDRA, T. K. KARTHICK, FEBIMANI",
+          "lyricist": "",
+          "raga": "",
+          "duration": "5:11",
+          "stream_url": "https://music.youtube.com/watch?v=ayc3v6VVHiQ"
+        },
+        {
+          "track_number": 6,
+          "title": "SUTRUM BHOOMI",
+          "singers": "HARINI, CHORUS",
+          "lyricist": "",
+          "raga": "",
+          "duration": "5:02",
+          "stream_url": "https://music.youtube.com/watch?v=DMHiht_SPaY"
+        }
+      ]
+    },
+    {
+      "id": 3615,
+      "year": 2001,
+      "title": "En Iniya Pon Nilavae",
+      "director": "Balu Mahendra",
+      "producer": "SDR Movies",
+      "composer": "",
+      "cast": "Pandiarajan, Mounika",
+      "source_url": "https://en.wikipedia.org/wiki/En_Iniya_Pon_Nilavae",
+      "created_at": "2026-10-14 13:38:56",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Thalirkalil Pookkal",
+          "singers": "K. J. Yesudas",
+          "lyricist": "K. J. Yesudas",
+          "raga": "",
+          "duration": "K. J. Yesudas",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "Kadhal Ninaive",
+          "singers": "K. J. Yesudas",
+          "lyricist": "K. J. Yesudas",
+          "raga": "",
+          "duration": "K. J. Yesudas",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "Sillendra Malare",
+          "singers": "K. S. Chithra",
+          "lyricist": "K. S. Chithra",
+          "raga": "",
+          "duration": "K. S. Chithra",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "Poo Vendume",
+          "singers": "Vani Jairam, S. P. Balasubrahmanyam",
+          "lyricist": "Vani Jairam, S. P. Balasubrahmanyam",
+          "raga": "",
+          "duration": "Vani Jairam, S. P. Balasubrahmanyam",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "Pudhu Kadalai",
+          "singers": "L. R. Eswari",
+          "lyricist": "L. R. Eswari",
+          "raga": "",
+          "duration": "L. R. Eswari",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 3607,
+      "year": 2001,
+      "title": "En Purushan Kuzhandhai Maadhiri",
+      "director": "S. P. Rajkumar",
+      "producer": "RR Movie Makers",
+      "composer": "",
+      "cast": "Livingston, Devayani, Vindhya",
+      "source_url": "https://en.wikipedia.org/wiki/En_Purushan_Kuzhandhai_Maadhiri",
+      "created_at": "2026-10-14 13:38:46",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Sabesh, Krishnaraj",
+          "singers": "S. P. Rajkumar",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "Hariharan, Anuradha Sriram",
+          "singers": "Kamakodiyan",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "P. Unnikrishnan, Sathya",
+          "singers": "Kamakodiyan",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "Vadivelu",
+          "singers": "Karupur' Ramu",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "Mano, Anuradha Sriram",
+          "singers": "Kalaikumar",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 6,
+          "title": "Deva",
+          "singers": "Kalaikumar",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 3602,
+      "year": 2001,
+      "title": "Engalukkum Kaalam Varum",
+      "director": "Bala Rooban",
+      "producer": "Anbalaya Films",
+      "composer": "",
+      "cast": "Livingston, Kausalya, Vivek,  Vadivelu",
+      "source_url": "https://en.wikipedia.org/wiki/Engalukkum_Kaalam_Varum_%282001_film%29",
+      "created_at": "2026-10-14 13:38:41",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Sirkazhi G. Sivachidambaram, Swarnalatha",
+          "singers": "Kalidasan",
+          "lyricist": "3:54",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "A. L. Raghavan, Swarnalatha",
+          "singers": "Kalidasan",
+          "lyricist": "3:55",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "Mano",
+          "singers": "Ponniyin Selvan",
+          "lyricist": "5:06",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "Deva",
+          "singers": "Piraisoodan",
+          "lyricist": "4:13",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "Sabesh",
+          "singers": "Kalidasan",
+          "lyricist": "4:56",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 6,
+          "title": "Anuradha Sriram",
+          "singers": "P. Vijay",
+          "lyricist": "5:09",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 499,
+      "year": 2001,
+      "title": "Friends",
+      "director": "Siddique",
+      "producer": "Swargachitra",
+      "composer": "",
+      "cast": "Vijay, Suriya, Devayani, Vijayalakshmi, Vadivelu",
+      "source_url": "https://en.wikipedia.org/wiki/Friends_%282001_film%29",
+      "created_at": "2026-10-14 12:31:41",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Thendral Varum",
+          "singers": "Bhavatharini, [[Hariharan (singer)",
+          "lyricist": "",
+          "raga": "",
+          "duration": "05:03",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "Kuyilikku Koo Koo",
+          "singers": "[[Hariharan (singer)",
+          "lyricist": "",
+          "raga": "",
+          "duration": "05:06",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "Rukku Rukku",
+          "singers": "Vijay Yesudas, Sowmya Raoh, Yuvan Shankar Raja",
+          "lyricist": "",
+          "raga": "",
+          "duration": "04:30",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "Manjal Poosum Vaanam",
+          "singers": "[[Sujatha Mohan",
+          "lyricist": "",
+          "raga": "",
+          "duration": "05:08",
+          "stream_url": ""
+        },
+        {
+          "track_number": 6,
+          "title": "Penkaloda Potti",
+          "singers": "[[Sujatha Mohan",
+          "lyricist": "",
+          "raga": "",
+          "duration": "05:02",
+          "stream_url": ""
+        },
+        {
+          "track_number": 7,
+          "title": "Poonkatrae",
+          "singers": "[[Hariharan (singer)",
+          "lyricist": "",
+          "raga": "",
+          "duration": "05:26",
+          "stream_url": ""
+        },
+        {
+          "track_number": 8,
+          "title": "Vaanam Perusuthan",
+          "singers": "Vijay Yesudas, Arunmozhi, S. P. Balasubrahmanyam",
+          "lyricist": "",
+          "raga": "",
+          "duration": "05:10",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 547,
+      "year": 2001,
+      "title": "Harris Jayaraj",
+      "director": "}",
+      "producer": "",
+      "composer": "",
+      "cast": "",
+      "source_url": "https://en.wikipedia.org/wiki/Harris_Jayaraj",
+      "created_at": "2026-10-14 12:32:37",
+      "tracks": [
+        {
+          "track_number": 2,
+          "title": "Majunu •",
+          "singers": "Majnu (Telugu)",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "12B •",
+          "singers": "12B (Telugu)Do Raaste 12B (Hindi)",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "Samurai •",
+          "singers": "Samurai (Telugu)Samurai: Ek Yodha (Hindi)",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 7,
+          "title": "Saamy •",
+          "singers": "Swamy IPS (Telugu)Policewala Gunda 3 (Hindi)",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 8,
+          "title": "Kaakha Kaakha •",
+          "singers": "Gharshana (2004)♦ (Telugu)Force (2011)♦# (Hindi)",
+          "lyricist": "Filmfare Award for Best Music Director – TamilTamil Nadu Award for Best Music DirectorITFA Award for Best Music Director\nReused one song from Rehnaa Hai Terre Dil Mein",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 10,
+          "title": "Chellamae •",
+          "singers": "Prema Chadarangam (Telugu)",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 11,
+          "title": "Arasatchi •",
+          "singers": "",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 12,
+          "title": "Arul •",
+          "singers": "Akhandudu (Telugu)",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 14,
+          "title": "Ullam Ketkumae •",
+          "singers": "Preminchi Choodu (Telugu)",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 15,
+          "title": "Anniyan •",
+          "singers": "Aparichithudu (Telugu)Aparichit (2006) (Hindi)",
+          "lyricist": "Filmfare Award for Best Music Director – TamilTamil Nadu Award for Best Music Director",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 16,
+          "title": "Ghajini •",
+          "singers": "Ghajini (Telugu)",
+          "lyricist": "Filmfare Special Award - SouthTamil Nadu Award for Best Music DirectorITFA Award for Best Music Director",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 18,
+          "title": "Kumaran",
+          "singers": "Sainikudu • (Telugu)",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 20,
+          "title": "Unnale Unnale •",
+          "singers": "Neevalle Neevalle (Telugu)",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 21,
+          "title": "Vetri Thirumagan (2008)",
+          "singers": "Munna • (Telugu)Munna (Malayalam)",
+          "lyricist": "Reused one song from Pachakili Muthucharam",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 23,
+          "title": "Satyam •",
+          "singers": "Salute  (Telugu)",
+          "lyricist": "25th Film",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 24,
+          "title": "Dhaam Dhoom •",
+          "singers": "Rakshakudu (Telugu)",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 25,
+          "title": "Vaaranam Aayiram •",
+          "singers": "Surya S/O Krishnan (Telugu)",
+          "lyricist": "Filmfare Award for Best Music Director – TamilVijay Award for Best Music DirectorITFA Award for Best Music Director",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 27,
+          "title": "Aadhavan •",
+          "singers": "Ghatikudu (Telugu)",
+          "lyricist": "Vijay Award for Best Music Director",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 29,
+          "title": "Engeyum Kadhal •",
+          "singers": "Ninnu Chooste Love Vastundi (Telugu)",
+          "lyricist": "Vijay Music Award for Best Music Director",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 31,
+          "title": "7 Aum Arivu •",
+          "singers": "Seventh Sense (Telugu)7 Aum Arivu (Malayalam)Chennai v/s China (Hindi)",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 32,
+          "title": "Nanban •",
+          "singers": "Snehithudu (Telugu)",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 34,
+          "title": "Maattrraan •",
+          "singers": "Brothers (Telugu)Maattrraan (Malayalam)No 1 Judwaa (2014) (Hindi)",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 35,
+          "title": "Thuppakki •",
+          "singers": "Thuppakki (Telugu)",
+          "lyricist": "SIIMA Award for Best Music Director – TamilThe background score went on to be reused in the Bengali remake, Game (2014).",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 37,
+          "title": "Endrendrum Punnagai •",
+          "singers": "Chirunavvula Chirujallu (Telugu)",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 39,
+          "title": "Yaan •",
+          "singers": "Nene (Telugu)",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 40,
+          "title": "Anegan •",
+          "singers": "Anekudu (Telugu)",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 41,
+          "title": "Nannbenda •",
+          "singers": "Good Evening (Telugu)",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 43,
+          "title": "Gethu •",
+          "singers": "",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 45,
+          "title": "S3 •",
+          "singers": "Yamudu 3 (Telugu)",
+          "lyricist": "The background score went on to be reused in the Hindi remake, Romeo S3 (2025).",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 47,
+          "title": "Spyder •",
+          "singers": "Spyder • (Telugu)\nSpyder (Malayalam, Hindi, Kannada)",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 49,
+          "title": "Kaappaan •",
+          "singers": "Bandobast (Telugu)Kaappaan (Malayalam)Rowdy Rakshak (Hindi)",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 3647,
+      "year": 2001,
+      "title": "Kaatrukkenna Veli",
+      "director": "Pugazhendhi Thangaraj",
+      "producer": "Thaai Movie Makers",
+      "composer": "",
+      "cast": "Sujitha, Sriman, Khushbu, C. Arunpandian",
+      "source_url": "https://en.wikipedia.org/wiki/Kaatrukkenna_Veli",
+      "created_at": "2026-10-14 13:39:36",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Uma Ramanan, Sunandha",
+          "singers": "0:33",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "Uma Ramanan",
+          "singers": "1:28",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 538,
+      "year": 2001,
+      "title": "Kabadi Kabadi",
+      "director": "Pandiarajan",
+      "producer": "Saranya Cine Creations",
+      "composer": "",
+      "cast": "Pandiarajan, Sangeetha",
+      "source_url": "https://en.wikipedia.org/wiki/Kabadi_Kabadi_%282001_film%29",
+      "created_at": "2026-10-14 12:32:24",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Mano, Meera Krishnan",
+          "singers": "Vairamuthu",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "Mano, Sujatha",
+          "singers": "Vairamuthu",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "Deva, Krishnaraj",
+          "singers": "Vairamuthu",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "Samsuddin",
+          "singers": "Vairamuthu",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 3653,
+      "year": 2001,
+      "title": "Kadal Pookkal",
+      "director": "Bharathiraja",
+      "producer": "Sivasakthi Movie Makers",
+      "composer": "",
+      "cast": "Murali, Manoj Bharathiraja, Sindhu Menon, Prathyusha, Uma",
+      "source_url": "https://en.wikipedia.org/wiki/Kadal_Pookkal",
+      "created_at": "2026-10-14 13:39:45",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Sathya, Krishnaraj",
+          "singers": "",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "Unni Menon, Swarnalatha, Srinivas",
+          "singers": "",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "Malaysia Vasudevan, Ganga",
+          "singers": "",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "Deva, Ganga",
+          "singers": "",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "Harini, P. Unnikrishnan",
+          "singers": "",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 6,
+          "title": "Anuradha Sriram, Unni Menon",
+          "singers": "",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 3630,
+      "year": 2001,
+      "title": "Kalakalappu",
+      "director": "Vishwa",
+      "producer": "Kalaignar Kalaikoodam",
+      "composer": "",
+      "cast": "Napoleon, Jaya Seal, Vijayalakshmi",
+      "source_url": "https://en.wikipedia.org/wiki/Kalakalappu_%282001_film%29",
+      "created_at": "2026-10-14 13:39:16",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Amrutha Kadalea",
+          "singers": "Naveen, Sushmitha",
+          "lyricist": "Na. Muthukumar",
+          "raga": "",
+          "duration": "05:18",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "Bubblu Bubblu",
+          "singers": "Sabesh, Jayalakshmi",
+          "lyricist": "Kalidasan",
+          "raga": "",
+          "duration": "04:32",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "Meesakara Meesakara",
+          "singers": "Anuradha Sriram",
+          "lyricist": "Kasthuri Raja",
+          "raga": "",
+          "duration": "05:08",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "Ottava Sinungi",
+          "singers": "Krishnaraj, Anuradha Sriram",
+          "lyricist": "Pa. Vijay",
+          "raga": "",
+          "duration": "04:59",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "Pongalukku Vangithanda",
+          "singers": "Krishnaraj, S. Sathya",
+          "lyricist": "Kalidasan",
+          "raga": "",
+          "duration": "04:44",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 3631,
+      "year": 2001,
+      "title": "Kanna Unnai Thedukiren",
+      "director": "Jeeva Selvaraj",
+      "producer": "Iswarya Films International",
+      "composer": "",
+      "cast": "Sathyan, Suvalakshmi, Anju Aravind",
+      "source_url": "https://en.wikipedia.org/wiki/Kanna_Unnai_Thedukiren",
+      "created_at": "2026-10-14 13:39:17",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Koil Mani Kettanae",
+          "singers": "Swarnalatha, P. Unnikrishnan",
+          "lyricist": "Mu. Metha",
+          "raga": "",
+          "duration": "Mu. Metha",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "Konjum Kuyil Pattu",
+          "singers": "Anuradha Sriram, Harini",
+          "lyricist": "Pulamaipithan",
+          "raga": "",
+          "duration": "Pulamaipithan",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "Oor Urangum Nerathil",
+          "singers": "Hariharan",
+          "lyricist": "Palani Bharathi",
+          "raga": "",
+          "duration": "Palani Bharathi",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "Rasathi Rasathi",
+          "singers": "Anuradha Sriram, Harini, Arunmozhi",
+          "lyricist": "Pulamaipithan",
+          "raga": "",
+          "duration": "Pulamaipithan",
+          "stream_url": ""
+        },
+        {
+          "track_number": 6,
+          "title": "Vanji Kodi",
+          "singers": "Hariharan, Bhavatharini",
+          "lyricist": "Palani Bharathi",
+          "raga": "",
+          "duration": "Palani Bharathi",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 3654,
+      "year": 2001,
+      "title": "Kasi",
+      "director": "Vinayan",
+      "producer": "Sunitha Productions",
+      "composer": "",
+      "cast": "Vikram, Kavya Madhavan, Kaveri",
+      "source_url": "https://en.wikipedia.org/wiki/Kasi_%28film%29",
+      "created_at": "2026-10-14 13:39:46",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Aathorathile Aalamaram",
+          "singers": "[[Hariharan (singer)",
+          "lyricist": "Pulamaipithan",
+          "raga": "",
+          "duration": "5:11",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "En Mana Vaanil",
+          "singers": "Hariharan",
+          "lyricist": "Mu. Metha",
+          "raga": "",
+          "duration": "5:39",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "Maanu Tholu",
+          "singers": "Hariharan",
+          "lyricist": "Pulamaipithan",
+          "raga": "",
+          "duration": "5:07",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "Naan Kaanum Ulagangal",
+          "singers": "Hariharan",
+          "lyricist": "Mu. Metha",
+          "raga": "",
+          "duration": "4:33",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "Punniyam Thedi Kasikku",
+          "singers": "Hariharan",
+          "lyricist": "Palani Bharathi",
+          "raga": "",
+          "duration": "4:53",
+          "stream_url": ""
+        },
+        {
+          "track_number": 6,
+          "title": "Rokkam Irukura Makkal",
+          "singers": "Hariharan, [[Sujatha Mohan",
+          "lyricist": "Mu. Metha",
+          "raga": "",
+          "duration": "4:59",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 3655,
+      "year": 2001,
+      "title": "Kottai Mariamman",
+      "director": "Rama Narayanan",
+      "producer": "Shyaamala Art Pictures",
+      "composer": "",
+      "cast": "Karan, Devayani, Roja",
+      "source_url": "https://en.wikipedia.org/wiki/Kottai_Mariamman",
+      "created_at": "2026-10-14 13:39:47",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Deva",
+          "singers": "",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "Swarnalatha",
+          "singers": "",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "K. S. Chitra",
+          "singers": "",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "Anuradha Sriram",
+          "singers": "",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 6,
+          "title": "Vaishali Unnikrishnan",
+          "singers": "",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 7,
+          "title": "Instrumental",
+          "singers": "",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 3621,
+      "year": 2001,
+      "title": "Krishna Krishna",
+      "director": "S. V. Sekhar",
+      "producer": "Media Dreams",
+      "composer": "",
+      "cast": "S. V. Sekhar, Sukanya, Ramesh Khanna",
+      "source_url": "https://en.wikipedia.org/wiki/Krishna_Krishna",
+      "created_at": "2026-10-14 13:39:03",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Aandavan Namaku",
+          "singers": "Piraisoodan",
+          "lyricist": "4:54",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "Moodu Vandhachu",
+          "singers": "Kovi Kovan",
+          "lyricist": "4:34",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "Naan Orakkannal",
+          "singers": "Kirithaya",
+          "lyricist": "3:32",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "Solliyadi Solliyadi",
+          "singers": "Kalidasan",
+          "lyricist": "4:06",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "Thalli Vechu",
+          "singers": "S. Ve. Shekher",
+          "lyricist": "4:01",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 3622,
+      "year": 2001,
+      "title": "Kunguma Pottu Gounder",
+      "director": "G. Sai Suresh",
+      "producer": "Ganga Gowri Productions",
+      "composer": "",
+      "cast": "Sathyaraj, Rambha, Kausalya, Goundamani",
+      "source_url": "https://en.wikipedia.org/wiki/Kunguma_Pottu_Gounder",
+      "created_at": "2026-10-14 13:39:04",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Mano",
+          "singers": "Palani Bharathi",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "Krishnaraj",
+          "singers": "Palani Bharathi",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "P. Unnikrishnan, Anuradha Sriram",
+          "singers": "Palani Bharathi",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "Mano, Anuradha Sriram",
+          "singers": "Palani Bharathi",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "P. Unnikrishnan",
+          "singers": "Ra. Ravishankar",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 3632,
+      "year": 2001,
+      "title": "Kutty",
+      "director": "Janaki Vishwanathan",
+      "producer": "Sruthika Foundations",
+      "composer": "Devi Sri Prasad",
+      "cast": "P. Shwetha, Ramesh Aravind, Easwari Rao",
+      "source_url": "https://en.wikipedia.org/wiki/Kutty_%282001_film%29",
+      "created_at": "2026-10-14 13:39:18",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Lifey Jollyda",
+          "singers": "Devi Sri Prasad, Reyna",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:51",
+          "stream_url": "https://music.youtube.com/watch?v=ak2paMExppY"
+        },
+        {
+          "track_number": 2,
+          "title": "Feel My Love",
+          "singers": "Devi Sri Prasad, Kay Kay",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:56",
+          "stream_url": "https://music.youtube.com/watch?v=K5RJOa76thY"
+        },
+        {
+          "track_number": 3,
+          "title": "Nee Kadhalikkum ponnu",
+          "singers": "Devi Sri Prasad, Mukesh",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:27",
+          "stream_url": "https://music.youtube.com/watch?v=Fm9gHTsXDw8"
+        },
+        {
+          "track_number": 4,
+          "title": "Yaaro En Nenjai",
+          "singers": "Devi Sri Prasad, Sagar, Sumangali, Thamarai",
+          "lyricist": "",
+          "raga": "",
+          "duration": "5:09",
+          "stream_url": "https://music.youtube.com/watch?v=ExVaiQ1xV5g"
+        },
+        {
+          "track_number": 5,
+          "title": "Feel My Love (D - Plugged)",
+          "singers": "Devi Sri Prasad, Kay Kay",
+          "lyricist": "",
+          "raga": "",
+          "duration": "3:28",
+          "stream_url": "https://music.youtube.com/watch?v=6lq2Q32iykc"
+        },
+        {
+          "track_number": 6,
+          "title": "Kannu Rendum",
+          "singers": "Devi Sri Prasad, Priya Ramesh, Mukesh, Viveka",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:45",
+          "stream_url": "https://music.youtube.com/watch?v=7qRynMAmmZY"
+        }
+      ]
+    },
+    {
+      "id": 3612,
+      "year": 2001,
+      "title": "Little John",
+      "director": "Singeetham Srinivasa Rao",
+      "producer": "Media Dreams",
+      "composer": "Pravin Mani",
+      "cast": "Bentley Mitchum, Jyothika, Prakash Raj",
+      "source_url": "https://en.wikipedia.org/wiki/Little_John_%28film%29",
+      "created_at": "2026-10-14 13:38:53",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Hey Hey Tum Ho",
+          "singers": "Srinivas, Sujatha",
+          "lyricist": "",
+          "raga": "",
+          "duration": "5:39",
+          "stream_url": "https://music.youtube.com/watch?v=u4SKWhpIXEg"
+        },
+        {
+          "track_number": 2,
+          "title": "Baila Re Baila",
+          "singers": "Clinton Cerejo, K.s. Chithra",
+          "lyricist": "",
+          "raga": "",
+          "duration": "5:02",
+          "stream_url": "https://music.youtube.com/watch?v=sExVh3tn24w"
+        },
+        {
+          "track_number": 3,
+          "title": "Laila Laila",
+          "singers": "Vasundhara Das",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:36",
+          "stream_url": "https://music.youtube.com/watch?v=RWLGJ3BxsbY"
+        },
+        {
+          "track_number": 4,
+          "title": "Jag Hai Chidi",
+          "singers": "Shankar Mahadevan",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:05",
+          "stream_url": "https://music.youtube.com/watch?v=6N6D4KAitCs"
+        },
+        {
+          "track_number": 5,
+          "title": "Jung Hai",
+          "singers": "Shankar Mahadevan",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:09",
+          "stream_url": "https://music.youtube.com/watch?v=o7MPiomumE4"
+        },
+        {
+          "track_number": 6,
+          "title": "Aaj Main Gavoon",
+          "singers": "Alka Yagnik",
+          "lyricist": "",
+          "raga": "",
+          "duration": "5:43",
+          "stream_url": "https://music.youtube.com/watch?v=Rz5KMZi3fJg"
+        },
+        {
+          "track_number": 8,
+          "title": "Gone Case",
+          "singers": "Hansel, Gretel",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:25",
+          "stream_url": "https://music.youtube.com/watch?v=hXLMuXqdCMw"
+        }
+      ]
+    },
+    {
+      "id": 3597,
+      "year": 2001,
+      "title": "Looty",
+      "director": "Parameshwar",
+      "producer": "Evergreen Movie International",
+      "composer": "",
+      "cast": "Sathyaraj, Roja, Mumtaj, Vadivelu, Vivek",
+      "source_url": "https://en.wikipedia.org/wiki/Looty",
+      "created_at": "2026-10-14 13:38:35",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Swarnalatha",
+          "singers": "Kavi Markandeyar",
+          "lyricist": "5:24",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "Anuradha Sriram, Krishnaraj",
+          "singers": "Vaali",
+          "lyricist": "5:26",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "S. P. Balasubrahmanyam, K. S. Chithra",
+          "singers": "Vaali",
+          "lyricist": "4:56",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "Mano, Swarnalatha",
+          "singers": "Vaali",
+          "lyricist": "5:34",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "Deva",
+          "singers": "Vaali",
+          "lyricist": "5:47",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 6,
+          "title": "Vadivelu, Sabesh",
+          "singers": "Vaali",
+          "lyricist": "4:30",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 3623,
+      "year": 2001,
+      "title": "Love Channel",
+      "director": "R. S. Kumaresan",
+      "producer": "Akshayaa Movies",
+      "composer": "",
+      "cast": "Eashwar, Monika",
+      "source_url": "https://en.wikipedia.org/wiki/Love_Channel",
+      "created_at": "2026-10-14 13:39:06",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Desingu Raja",
+          "singers": "Pa. Vijay",
+          "lyricist": "5:55",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "Enge Ennathu Vennila",
+          "singers": "Kalaikumar",
+          "lyricist": "6:08",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "Odatha Odathada",
+          "singers": "Palani Bharathi",
+          "lyricist": "6:48",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "Cherry Cherry",
+          "singers": "Pa. Vijay",
+          "lyricist": "5:36",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "Sudithar Soodi Vantha",
+          "singers": "Pa. Vijay",
+          "lyricist": "5:56",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 6,
+          "title": "Ultra Modern",
+          "singers": "Palani Bharathi",
+          "lyricist": "6:32",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 3656,
+      "year": 2001,
+      "title": "Love Marriage",
+      "director": "K. Subash",
+      "producer": "GK Entertainments",
+      "composer": "",
+      "cast": "Vikram Krishna, Ranjana",
+      "source_url": "https://en.wikipedia.org/wiki/Love_Marriage_%282001_film%29",
+      "created_at": "2026-10-14 13:39:49",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Tippu",
+          "singers": "Palani Bharathi",
+          "lyricist": "05:57",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "Naveen Madhav, Anuradha Sriram",
+          "singers": "Na. Muthukumar",
+          "lyricist": "06:28",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "Krishnaraj, Swarnalatha",
+          "singers": "Na. Muthukumar",
+          "lyricist": "05:30",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "Karthik, Sujatha",
+          "singers": "Thamarai",
+          "lyricist": "06:13",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "Mano, Krishnaraj",
+          "singers": "Gangai Amaran",
+          "lyricist": "05:18",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 3625,
+      "year": 2001,
+      "title": "Lovely",
+      "director": "Shakti Chidambaram",
+      "producer": "Evergreen Film International",
+      "composer": "",
+      "cast": "Karthik, Malavika, Monal",
+      "source_url": "https://en.wikipedia.org/wiki/Lovely_%282001_film%29",
+      "created_at": "2026-10-14 13:39:07",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Srinivas, Harini",
+          "singers": "Pa. Vijay",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "Anuradha Sriram",
+          "singers": "Palani Bharathi",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "P. Unnikrishnan, Anuradha Sriram",
+          "singers": "P. Vijay",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "Krishnaraj, Anuradha Sriram",
+          "singers": "Palani Bharathi",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "Hariharan, Sujatha",
+          "singers": "P. Vijay",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 6,
+          "title": "Hariharan",
+          "singers": "P. Vijay",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 3639,
+      "year": 2001,
+      "title": "Maayan",
+      "director": "Nassar",
+      "producer": "Ganaa Film Makers",
+      "composer": "",
+      "cast": "Nassar, Roja, Ranjitha",
+      "source_url": "https://en.wikipedia.org/wiki/Maayan_%28film%29",
+      "created_at": "2026-10-14 13:39:25",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Ganga",
+          "singers": "Thamarai",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "Srinivas",
+          "singers": "Ingulab",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "S. Janaki",
+          "singers": "Pulamaipithan",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "Harini",
+          "singers": "Palani Bharathi",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "Vadivelu",
+          "singers": "Chidambaranathan",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 6,
+          "title": "Swarnalatha",
+          "singers": "Thamarai",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 3657,
+      "year": 2001,
+      "title": "Majunu",
+      "director": "Ravichandran",
+      "producer": "Cee I TV Entertainments",
+      "composer": "",
+      "cast": "Prashanth, Rinke Khanna, Rati Agnihotri, Sonu Sood",
+      "source_url": "https://en.wikipedia.org/wiki/Majunu",
+      "created_at": "2026-10-14 13:39:49",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Gulmohar Malare",
+          "singers": "[[Hariharan (singer)",
+          "lyricist": "Vairamuthu",
+          "raga": "",
+          "duration": "5:27",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "Hari Gori",
+          "singers": "[[Tippu (singer)",
+          "lyricist": "Thamarai",
+          "raga": "",
+          "duration": "2:59",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "Mudhal Kanave",
+          "singers": "Harish Raghavendra, Bombay Jayashree, O. S. Arun",
+          "lyricist": "Vairamuthu",
+          "raga": "",
+          "duration": "5:11",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "Pada Pada Pattampoochi",
+          "singers": "Shankar Mahadevan, Kavita Krishnamurthy",
+          "lyricist": "Vairamuthu",
+          "raga": "",
+          "duration": "6:27",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "Mercury Mele",
+          "singers": "Devan Ekambaram, P. Unnikrishnan",
+          "lyricist": "Vairamuthu",
+          "raga": "",
+          "duration": "5:30",
+          "stream_url": ""
+        },
+        {
+          "track_number": 6,
+          "title": "Pinju Thendrale",
+          "singers": "M. G. Sreekumar, Sandhya",
+          "lyricist": "Vairamuthu",
+          "raga": "",
+          "duration": "5:20",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 3648,
+      "year": 2001,
+      "title": "Manadhai Thirudivittai",
+      "director": "R. D. Narayanamurthy",
+      "producer": "KRG Movies",
+      "composer": "",
+      "cast": "Prabhu Deva, Kausalya, Gayatri Jayaraman",
+      "source_url": "https://en.wikipedia.org/wiki/Manadhai_Thirudivittai",
+      "created_at": "2026-10-14 13:39:38",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "All Day Jolly Day",
+          "singers": "Shankar Mahadevan, Yuvan Shankar Raja",
+          "lyricist": "Pa. Vijay",
+          "raga": "",
+          "duration": "4:29",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "Azhagaana Sooriyan",
+          "singers": "Sujatha Mohan",
+          "lyricist": "Pa. Vijay",
+          "raga": "",
+          "duration": "4:20",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "Colour Colour",
+          "singers": "[[Chitra Iyer",
+          "lyricist": "Kalai Kumar",
+          "raga": "",
+          "duration": "5:37",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "Kutti Kutti Pani Thuliye",
+          "singers": "Sadhana Sargam",
+          "lyricist": "Pa. Vijay",
+          "raga": "",
+          "duration": "4:23",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "Manja Kaattu Maina",
+          "singers": "[[Karthik (singer)",
+          "lyricist": "V. Elango",
+          "raga": "",
+          "duration": "5:41",
+          "stream_url": ""
+        },
+        {
+          "track_number": 6,
+          "title": "Sadugudugudu Aadathey",
+          "singers": "[[Hariharan (singer)",
+          "lyricist": "Pa. Vijay",
+          "raga": "",
+          "duration": "4:56",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 3660,
+      "year": 2001,
+      "title": "Maname Mayangathe",
+      "director": "Shapeer Kumar",
+      "producer": "Welcome Films",
+      "composer": "",
+      "cast": "Padmaja, Hema, Meenu",
+      "source_url": "https://en.wikipedia.org/wiki/Maname_Mayangathe",
+      "created_at": "2026-10-14 13:39:52",
+      "tracks": []
+    },
+    {
+      "id": 3617,
+      "year": 2001,
+      "title": "Middle Class Madhavan",
+      "director": "T. P. Gajendran",
+      "producer": "KRG Movies",
+      "composer": "",
+      "cast": "Prabhu, Abhirami, Manivannan, Vadivelu, Vivek",
+      "source_url": "https://en.wikipedia.org/wiki/Middle_Class_Madhavan",
+      "created_at": "2026-10-14 13:38:58",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "En Success Theriyadha",
+          "singers": "[[Harini (singer)",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "Hamma Hamma",
+          "singers": "[[Srinivas (singer)",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "Ammamma Thaankaadhu",
+          "singers": "[[Hariharan (singer)",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "Pakkam Nikkum Nila",
+          "singers": "[[Mano (singer)",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "Maappillai Otta",
+          "singers": "Malaysia Vasudevan, Revathi Sankaran, Mano, Swarnalatha",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 504,
+      "year": 2001,
+      "title": "Minnale",
+      "director": "Gautham Vasudev Menon",
+      "producer": "Cee I TV Entertainments",
+      "composer": "Harris Jayaraj",
+      "cast": "R. Madhavan, Reemma Sen, Abbas, Nagesh",
+      "source_url": "https://en.wikipedia.org/wiki/Minnale",
+      "created_at": "2026-10-14 12:31:47",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Poopol Poopol (instrumental)",
+          "singers": "Tippu,karthik",
+          "lyricist": "",
+          "raga": "",
+          "duration": "1:57",
+          "stream_url": "https://music.youtube.com/watch?v=dhzYaRx7HpM"
+        },
+        {
+          "track_number": 2,
+          "title": "Venmathiye",
+          "singers": "Tippu",
+          "lyricist": "",
+          "raga": "",
+          "duration": "5:27",
+          "stream_url": "https://music.youtube.com/watch?v=hAn7lF4oAw0"
+        },
+        {
+          "track_number": 3,
+          "title": "Ooh Mama",
+          "singers": "Tippu",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:40",
+          "stream_url": "https://music.youtube.com/watch?v=PbRRAzNPMvU"
+        },
+        {
+          "track_number": 4,
+          "title": "Maddy Maddy",
+          "singers": "Timmy, Karthik",
+          "lyricist": "",
+          "raga": "",
+          "duration": "1:15",
+          "stream_url": "https://music.youtube.com/watch?v=8adXnJQz1y0"
+        },
+        {
+          "track_number": 5,
+          "title": "Azhagiya Theeye",
+          "singers": "Harish Raghavendra, Timmy",
+          "lyricist": "",
+          "raga": "",
+          "duration": "5:56",
+          "stream_url": "https://music.youtube.com/watch?v=UvYP7Mx_GP8"
+        },
+        {
+          "track_number": 6,
+          "title": "Verenna (ivan Yaro)",
+          "singers": "P. Unnikrishnan, Harini",
+          "lyricist": "",
+          "raga": "",
+          "duration": "5:25",
+          "stream_url": "https://music.youtube.com/watch?v=NivQ_dJVkbk"
+        },
+        {
+          "track_number": 7,
+          "title": "Nenjai Poopol",
+          "singers": "Harish Raghavendra",
+          "lyricist": "",
+          "raga": "",
+          "duration": "1:01",
+          "stream_url": "https://music.youtube.com/watch?v=htse-TJ4LNA"
+        },
+        {
+          "track_number": 8,
+          "title": "Vaseegara",
+          "singers": "Bombay Jayashri",
+          "lyricist": "",
+          "raga": "",
+          "duration": "5:00",
+          "stream_url": "https://music.youtube.com/watch?v=PYgcJpC6WAQ"
+        },
+        {
+          "track_number": 9,
+          "title": "Ore Nyabagam",
+          "singers": "Devan Ekambaram",
+          "lyricist": "",
+          "raga": "",
+          "duration": "1:54",
+          "stream_url": "https://music.youtube.com/watch?v=ErR1MgdYGrY"
+        }
+      ]
+    },
+    {
+      "id": 3643,
+      "year": 2001,
+      "title": "Mitta Miraasu",
+      "director": "Kalanjiyam",
+      "producer": "Udhayam International Films",
+      "composer": "Various Artists",
+      "cast": "Prabhu, Roja Selvamani, Napoleon, Mumtaj",
+      "source_url": "https://en.wikipedia.org/wiki/Mitta_Miraasu",
+      "created_at": "2026-10-14 13:39:31",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Jal Jal En",
+          "singers": "Shankar Mahadevan",
+          "lyricist": "",
+          "raga": "",
+          "duration": "6:40",
+          "stream_url": "https://music.youtube.com/watch?v=xfi8gYFkLMs"
+        },
+        {
+          "track_number": 2,
+          "title": "Adiyae Adiyae",
+          "singers": "Chitra",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:40",
+          "stream_url": "https://music.youtube.com/watch?v=ZdLQMm3jrk8"
+        },
+        {
+          "track_number": 3,
+          "title": "Mitta Mirasu",
+          "singers": "Chorus, Mano",
+          "lyricist": "",
+          "raga": "",
+          "duration": "5:29",
+          "stream_url": "https://music.youtube.com/watch?v=AX6TTZST7pU"
+        },
+        {
+          "track_number": 4,
+          "title": "Vanna Killae",
+          "singers": "Srinivas, Sujatha.",
+          "lyricist": "",
+          "raga": "",
+          "duration": "6:44",
+          "stream_url": "https://music.youtube.com/watch?v=zVRNiyji8i0"
+        },
+        {
+          "track_number": 6,
+          "title": "Kichu Kichu Pannada",
+          "singers": "Srinivas",
+          "lyricist": "",
+          "raga": "",
+          "duration": "5:48",
+          "stream_url": "https://music.youtube.com/watch?v=hccl-uyVB80"
+        }
+      ]
+    },
+    {
+      "id": 3598,
+      "year": 2001,
+      "title": "Nageswari",
+      "director": "Rama Narayanan",
+      "producer": "Sri Thenandal Films",
+      "composer": "",
+      "cast": "Ramya Krishnan, Karan, Prithviraj, Vadivelu, Vivek",
+      "source_url": "https://en.wikipedia.org/wiki/Nageswari",
+      "created_at": "2026-10-14 13:38:35",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Vadivelu, Anuradha Sriram",
+          "singers": "Kalidasan",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "Febi Mani",
+          "singers": "Pa. Vijay",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "Anuradha Sriram",
+          "singers": "Kalidasan",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "Vadivelu, Swarnalatha",
+          "singers": "Muthulingam",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "K. S. Chithra",
+          "singers": "Kalidasan",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 3649,
+      "year": 2001,
+      "title": "Nandhaa",
+      "director": "Bala",
+      "producer": "Aparajith Films",
+      "composer": "",
+      "cast": "Suriya, Laila, Rajkiran",
+      "source_url": "https://en.wikipedia.org/wiki/Nandhaa",
+      "created_at": "2026-10-14 13:39:39",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "S. P. Balasubrahmanyam, Malgudi Subha",
+          "singers": "Palani Bharathi",
+          "lyricist": "5:47",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "P. Unnikrishnan",
+          "singers": "Na. Muthukumar",
+          "lyricist": "3:35",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "Ilaiyaraaja",
+          "singers": "Pulamaipithan",
+          "lyricist": "4:09",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "Rajalakshmi, Srimathumitha & Chorus*",
+          "singers": "Aandaal",
+          "lyricist": "2:49",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "Anuradha Sriram, Srimathumitha & Chorus*",
+          "singers": "Thamarai",
+          "lyricist": "4:06",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 508,
+      "year": 2001,
+      "title": "Narasimha",
+      "director": "Thirupathisamy",
+      "producer": "Captain Cine Creations",
+      "composer": "",
+      "cast": "Vijayakanth, Isha Koppikar, Ramya Krishnan",
+      "source_url": "https://en.wikipedia.org/wiki/Narasimha_%282001_film%29",
+      "created_at": "2026-10-14 12:31:52",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Shankar Mahadevan, Harini",
+          "singers": "P. Vijay",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "Shankar Mahadevan",
+          "singers": "Kabilan",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "Saisivan, Mahalakshmi Iyer",
+          "singers": "Yugabharathi",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "Kalpana Raghavendar, Prathap Chandran",
+          "singers": "Kabilan",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "Harini, Kalpana Raghavendar",
+          "singers": "Vaali",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 3610,
+      "year": 2001,
+      "title": "Natchatra Kadhal",
+      "director": "Nayakam",
+      "producer": "NRI Films International",
+      "composer": "Rajesh Ramanath",
+      "cast": "Ajay, Bhavana, Subbalakshmi, Ashok Rao",
+      "source_url": "https://en.wikipedia.org/wiki/Natchatra_Kadhal",
+      "created_at": "2026-10-14 13:38:49",
+      "tracks": []
+    },
+    {
+      "id": 3601,
+      "year": 2001,
+      "title": "Nila Kaalam",
+      "director": "Gandhi Krishna",
+      "producer": "Media Dreams",
+      "composer": "Original Songs: BharaniBackground score:Sangeetha Rajan",
+      "cast": "Master Dinesh, Master Udayaraj, Baby Ranjini, Roja",
+      "source_url": "https://en.wikipedia.org/wiki/Nila_Kaalam",
+      "created_at": "2026-10-14 13:38:39",
+      "tracks": []
+    },
+    {
+      "id": 3608,
+      "year": 2001,
+      "title": "Ninaikkatha Naalillai",
+      "director": "A. L. Raja",
+      "producer": "KRP Productions",
+      "composer": "",
+      "cast": "R. Parthiban, Rahman, Devayani, Kaveri",
+      "source_url": "https://en.wikipedia.org/wiki/Ninaikkatha_Naalillai",
+      "created_at": "2026-10-14 13:38:47",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Mano, K. S. Chithra",
+          "singers": "Viveka",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "P. Unnikrishnan, Saisan",
+          "singers": "Tholkappiyan",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "Sabesh, Devan",
+          "singers": "Ponniyin Selvan",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "Mano, Anuradha Sriram",
+          "singers": "Kalidasan",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 3650,
+      "year": 2001,
+      "title": "Paarthale Paravasam",
+      "director": "K. Balachandar",
+      "producer": "Kavithalayaa Productions",
+      "composer": "",
+      "cast": "R. Madhavan, Simran, Sneha, Lawrence Raghavendra",
+      "source_url": "https://en.wikipedia.org/wiki/Paarthale_Paravasam",
+      "created_at": "2026-10-14 13:39:40",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Neevena Jatheeya",
+          "singers": "Balaram, K.S. Chitra",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "Manmadha Masam",
+          "singers": "Shankar Mahadevan, Nithyasree Mahadevan",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "Cheliya Kushalama",
+          "singers": "S.P. Balasubramaniam, Sadhana Sargam",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "Aksharalu Rendaina",
+          "singers": "[[Harini (singer)",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "Paravasam Paravasam",
+          "singers": "A.R. Rehna, Ganga, Febi, Poornima",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 6,
+          "title": "Atisaya Parinayam",
+          "singers": "Kalyani Menon, Sujatha Mohan, Sriram Narayan, Sriram Parthasarathy",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 7,
+          "title": "Nadiri Dinna",
+          "singers": "Shankar Mahadevan, S.P. Sailaja",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 3609,
+      "year": 2001,
+      "title": "Paarvai Ondre Podhume",
+      "director": "Murali Krishna",
+      "producer": "Amudha Movie Makers",
+      "composer": "",
+      "cast": "Kunal, Monal, Karan",
+      "source_url": "https://en.wikipedia.org/wiki/Paarvai_Ondre_Podhume",
+      "created_at": "2026-10-14 13:38:48",
+      "tracks": [
+        {
+          "track_number": 2,
+          "title": "Thuli Thuliyaai Kottum Mazhai",
+          "singers": "Hariharan, Swarnalatha",
+          "lyricist": "Pa. Vijay",
+          "raga": "",
+          "duration": "6:07",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "Kaadhal Pannaadheenga",
+          "singers": "Krishnaraj",
+          "lyricist": "Bharani",
+          "raga": "",
+          "duration": "1:19",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "Theme Music, \"Dhumthakku Dhumthakku",
+          "singers": "Krishnaraj, Malgudi Subha, Sumitra",
+          "lyricist": "Bharani",
+          "raga": "",
+          "duration": "1:32",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "Nee Paarthuttu Ponaalum",
+          "singers": "Krishnaraj, Sumitra",
+          "lyricist": "Bharani",
+          "raga": "",
+          "duration": "4:10",
+          "stream_url": ""
+        },
+        {
+          "track_number": 6,
+          "title": "Thirudiya Idhayathai Thiruppi",
+          "singers": "Harish Raghavendra, K. S. Chithra",
+          "lyricist": "Bharani",
+          "raga": "",
+          "duration": "4:51",
+          "stream_url": ""
+        },
+        {
+          "track_number": 7,
+          "title": "Thirumba Thirumba",
+          "singers": "Harini, P. Unnikrishnan",
+          "lyricist": "Pa. Vijay",
+          "raga": "",
+          "duration": "5:17",
+          "stream_url": ""
+        },
+        {
+          "track_number": 8,
+          "title": "Yen Asaindhaadum",
+          "singers": "S. Janaki, P. Unnikrishnan",
+          "lyricist": "Pa. Vijay",
+          "raga": "",
+          "duration": "5:16",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 3641,
+      "year": 2001,
+      "title": "Pandavar Bhoomi",
+      "director": "Cheran",
+      "producer": "Media Dreams",
+      "composer": "",
+      "cast": "Arun Vijay, Shamitha, Rajkiran",
+      "source_url": "https://en.wikipedia.org/wiki/Pandavar_Bhoomi",
+      "created_at": "2026-10-14 13:39:27",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Aei Samba",
+          "singers": "T. L. Maharajan, Malgudi Subha, Yugendran",
+          "lyricist": "Pa. Vijay",
+          "raga": "",
+          "duration": "03:55",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "Avaravar Vazhkaiyil",
+          "singers": "[[Bharadwaj (composer)",
+          "lyricist": "Snehan",
+          "raga": "",
+          "duration": "05:18",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "Azhagana Thadu Maatram",
+          "singers": "Reshmi",
+          "lyricist": "Snehan",
+          "raga": "",
+          "duration": "01:19",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "Chinna Vayasula",
+          "singers": "Bharadwaj",
+          "lyricist": "Snehan",
+          "raga": "",
+          "duration": "01:09",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "Kaviyan Kaviyan Bharathi",
+          "singers": "K. S. Chithra",
+          "lyricist": "Vairamuthu",
+          "raga": "",
+          "duration": "05:14",
+          "stream_url": ""
+        },
+        {
+          "track_number": 6,
+          "title": "Malargalai Padaitha",
+          "singers": "[[Srinivas (singer)",
+          "lyricist": "",
+          "raga": "",
+          "duration": "05:58",
+          "stream_url": ""
+        },
+        {
+          "track_number": 7,
+          "title": "Thozha Thozha Kanavu",
+          "singers": "[[Chitra Iyer",
+          "lyricist": "Snehan",
+          "raga": "",
+          "duration": "04:49",
+          "stream_url": ""
+        },
+        {
+          "track_number": 8,
+          "title": "Thaye Unnaiye",
+          "singers": "Bharadwaj",
+          "lyricist": "Snehan",
+          "raga": "",
+          "duration": "02:23",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 3604,
+      "year": 2001,
+      "title": "Piriyadha Varam Vendum",
+      "director": "Kamal",
+      "producer": "Nekhela Enterprises",
+      "composer": "",
+      "cast": "Prashanth, Shalini, Jomol",
+      "source_url": "https://en.wikipedia.org/wiki/Piriyadha_Varam_Vendum",
+      "created_at": "2026-10-14 13:38:43",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Azhagu Ponnu",
+          "singers": "Anuradha Sriram, [[Devan Ekambaram",
+          "lyricist": "Palani Bharathi",
+          "raga": "",
+          "duration": "4:10",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "Dikki Dikki Lona",
+          "singers": "[[Sujatha Mohan",
+          "lyricist": "Pa. Vijay",
+          "raga": "",
+          "duration": "4:31",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "Privondrai Santhithen",
+          "singers": "[[Hariharan (singer)",
+          "lyricist": "Arivumathi",
+          "raga": "",
+          "duration": "4:38",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "Vasco Da Gama",
+          "singers": "[[Devan Ekambaram",
+          "lyricist": "Pa. Vijay",
+          "raga": "",
+          "duration": "4:22",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "Vidaikodu Vidaikodu",
+          "singers": "P. Unnikrishnan, Swarnalatha",
+          "lyricist": "Palani Bharathi",
+          "raga": "",
+          "duration": "4:24",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 3651,
+      "year": 2001,
+      "title": "Ponnana Neram",
+      "director": "Raviraj",
+      "producer": "Alamelu Pictures",
+      "composer": "",
+      "cast": "Ramarajan, Prathyusha",
+      "source_url": "https://en.wikipedia.org/wiki/Ponnana_Neram",
+      "created_at": "2026-10-14 13:39:43",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Naan Ready",
+          "singers": "Palakkad Sreeram",
+          "lyricist": "Kamakodiyan",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "Hello Hai Mamo",
+          "singers": "Harini, V. V. Prasanna",
+          "lyricist": "Kamakodiyan",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "Kolusu Kolusu",
+          "singers": "Yugendran, Gopika",
+          "lyricist": "Kamakodiyan",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "Thimu Thimu Roja",
+          "singers": "Anuradha Sriram",
+          "lyricist": "Pa. Vijay",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "Machanin",
+          "singers": "Karma",
+          "lyricist": "Kamakodiyan",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 3627,
+      "year": 2001,
+      "title": "Poove Pen Poove",
+      "director": "K. Purushothaman",
+      "producer": "GVS Films",
+      "composer": "Illayaraja",
+      "cast": "Ishaq Hussaini, Abitha",
+      "source_url": "https://en.wikipedia.org/wiki/Poove_Pen_Poove",
+      "created_at": "2026-10-14 13:39:12",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Ada Kakka Poonai",
+          "singers": "Minmini, Sindhu",
+          "lyricist": "",
+          "raga": "",
+          "duration": "5:11",
+          "stream_url": "https://music.youtube.com/watch?v=gjvlu_n-flg"
+        },
+        {
+          "track_number": 2,
+          "title": "Oh Yen Poovae",
+          "singers": "S Janaki",
+          "lyricist": "",
+          "raga": "",
+          "duration": "5:04",
+          "stream_url": "https://music.youtube.com/watch?v=0-NEn_HQi3Q"
+        },
+        {
+          "track_number": 3,
+          "title": "Pani Peyum",
+          "singers": "Minmini",
+          "lyricist": "",
+          "raga": "",
+          "duration": "5:11",
+          "stream_url": "https://music.youtube.com/watch?v=ifZty-WgFng"
+        },
+        {
+          "track_number": 4,
+          "title": "Sinegathin Pooncholai",
+          "singers": "KJ Yesudas",
+          "lyricist": "",
+          "raga": "",
+          "duration": "5:09",
+          "stream_url": "https://music.youtube.com/watch?v=dxiKgVKgZNA"
+        },
+        {
+          "track_number": 5,
+          "title": "Solai Poothendralil(KJ Jesudas)",
+          "singers": "KJ Yesudas",
+          "lyricist": "",
+          "raga": "",
+          "duration": "5:19",
+          "stream_url": "https://music.youtube.com/watch?v=d4cgZTSP18I"
+        },
+        {
+          "track_number": 6,
+          "title": "Solai Poothendralil(S.Janaki)",
+          "singers": "S Janaki",
+          "lyricist": "",
+          "raga": "",
+          "duration": "5:22",
+          "stream_url": "https://music.youtube.com/watch?v=caPe7zo4KSU"
+        }
+      ]
+    },
+    {
+      "id": 503,
+      "year": 2001,
+      "title": "Poovellam Un Vaasam",
+      "director": "Oscar Films",
+      "producer": "align=\"right\" |",
+      "composer": "",
+      "cast": "",
+      "source_url": "https://en.wikipedia.org/wiki/Poovellam_Un_Vaasam",
+      "created_at": "2026-10-14 12:31:46",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Kaadhal Vandhadhum",
+          "singers": "K. J. Yesudas, Sadhana Sargam",
+          "lyricist": "",
+          "raga": "",
+          "duration": "5:35",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "Pudhu Malar Thottu",
+          "singers": "Sriram Parthasarathy",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:42",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "Thirumana Malargal",
+          "singers": "Swarnalatha",
+          "lyricist": "",
+          "raga": "",
+          "duration": "6:14",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "Thalaattum Kaatre",
+          "singers": "Shankar Mahadevan",
+          "lyricist": "",
+          "raga": "",
+          "duration": "5:25",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "Chella Namm Veettukku",
+          "singers": "Malaysia Vasudevan, Sujatha Mohan, Harish Raghavendra, Sangeetha Sajith",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:51",
+          "stream_url": ""
+        },
+        {
+          "track_number": 6,
+          "title": "Yukthaamukhi",
+          "singers": "[[Devan Ekambaram",
+          "lyricist": "",
+          "raga": "",
+          "duration": "5:37",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 3634,
+      "year": 2001,
+      "title": "Poovellam Un Vasam",
+      "director": "Ezhil",
+      "producer": "Oscar Films",
+      "composer": "",
+      "cast": "Ajith Kumar, Jyothika, Sivakumar, Nagesh",
+      "source_url": "https://en.wikipedia.org/wiki/Poovellam_Un_Vasam",
+      "created_at": "2026-10-14 13:39:20",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Kaadhal Vandhadhum",
+          "singers": "K. J. Yesudas, Sadhana Sargam",
+          "lyricist": "",
+          "raga": "",
+          "duration": "5:35",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "Pudhu Malar Thottu",
+          "singers": "Sriram Parthasarathy",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:42",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "Thirumana Malargal",
+          "singers": "Swarnalatha",
+          "lyricist": "",
+          "raga": "",
+          "duration": "6:14",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "Thalaattum Kaatre",
+          "singers": "Shankar Mahadevan",
+          "lyricist": "",
+          "raga": "",
+          "duration": "5:25",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "Chella Namm Veettukku",
+          "singers": "Malaysia Vasudevan, Sujatha Mohan, Harish Raghavendra, Sangeetha Sajith",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:51",
+          "stream_url": ""
+        },
+        {
+          "track_number": 6,
+          "title": "Yukthaamukhi",
+          "singers": "[[Devan Ekambaram",
+          "lyricist": "",
+          "raga": "",
+          "duration": "5:37",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 3599,
+      "year": 2001,
+      "title": "Pullanalum Pondatti",
+      "director": "Adade Manohar",
+      "producer": "Jai Santoshi Maa Arts",
+      "composer": "",
+      "cast": "Adade Manohar, Viji",
+      "source_url": "https://en.wikipedia.org/wiki/Pullanalum_Pondatti",
+      "created_at": "2026-10-14 13:38:36",
+      "tracks": []
+    },
+    {
+      "id": 3659,
+      "year": 2001,
+      "title": "Ref",
+      "director": "",
+      "producer": "",
+      "composer": "Bae B Ronn!e",
+      "cast": "",
+      "source_url": "https://en.wikipedia.org/wiki/Ref",
+      "created_at": "2026-10-14 13:39:51",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Ref",
+          "singers": "Bae B Ronn!e",
+          "lyricist": "",
+          "raga": "",
+          "duration": "1:18",
+          "stream_url": "https://music.youtube.com/watch?v=5jCmRVIATkE"
+        }
+      ]
+    },
+    {
+      "id": 3605,
+      "year": 2001,
+      "title": "Rishi",
+      "director": "Sundar C.",
+      "producer": "P. A. Art Productions",
+      "composer": "",
+      "cast": "Sarath Kumar, Meena, Sanghavi",
+      "source_url": "https://en.wikipedia.org/wiki/Rishi_%282001_film%29",
+      "created_at": "2026-10-14 13:38:44",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Hariharan, S. Janaki",
+          "singers": "Palani Bharathi",
+          "lyricist": "4:56",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "Anuradha Sriram",
+          "singers": "Pa. Vijay",
+          "lyricist": "4:37",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "Hariharan",
+          "singers": "Panchu Arunachalam",
+          "lyricist": "5:36",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "Sujatha",
+          "singers": "Panchu Arunachalam",
+          "lyricist": "5:35",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "Shankar Mahadevan",
+          "singers": "Pa. Vijay",
+          "lyricist": "3:57",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 6,
+          "title": "S. P. B. Charan, Sujatha",
+          "singers": "Palani Bharathi",
+          "lyricist": "4:22",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 3636,
+      "year": 2001,
+      "title": "Samudhiram",
+      "director": "K. S. Ravikumar",
+      "producer": "Super Good Films",
+      "composer": "",
+      "cast": "Sarath Kumar, Murali, Abhirami, Manoj, Sindhu Menon, Monal",
+      "source_url": "https://en.wikipedia.org/wiki/Samudhiram",
+      "created_at": "2026-10-14 13:39:22",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Kaa Vitta",
+          "singers": "[[Mano (singer)",
+          "lyricist": "Pa. Vijay",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "Kandupidi",
+          "singers": "[[Hariharan (singer)",
+          "lyricist": "Ilaiyakamban",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "Azhagana Chinna Devathai",
+          "singers": "Shankar Mahadevan, Harini",
+          "lyricist": "Kalaikumar",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "Vidiya Vidiya",
+          "singers": "Udit Narayan, Sadhana Sargam",
+          "lyricist": "[[Viveka (lyricist)",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "Pineapple Vannathodu",
+          "singers": "Shankar Mahadevan, Sujatha Mohan",
+          "lyricist": "Pa Vijay",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 546,
+      "year": 2001,
+      "title": "Santhosh Sivan",
+      "director": "}",
+      "producer": "",
+      "composer": "",
+      "cast": "",
+      "source_url": "https://en.wikipedia.org/wiki/Santhosh_Sivan",
+      "created_at": "2026-10-14 12:32:36",
+      "tracks": [
+        {
+          "track_number": 2,
+          "title": "Oru Maymasa Pulariyil",
+          "singers": "",
+          "lyricist": "",
+          "raga": "",
+          "duration": "Malayalam",
+          "stream_url": ""
+        },
+        {
+          "track_number": 6,
+          "title": "Raakh",
+          "singers": "",
+          "lyricist": "Hindi",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 8,
+          "title": "Midhya",
+          "singers": "",
+          "lyricist": "",
+          "raga": "",
+          "duration": "Malayalam",
+          "stream_url": ""
+        },
+        {
+          "track_number": 9,
+          "title": "Indrajaalam",
+          "singers": "",
+          "lyricist": "",
+          "raga": "",
+          "duration": "Malayalam",
+          "stream_url": ""
+        },
+        {
+          "track_number": 10,
+          "title": "Sunday 7 PM",
+          "singers": "",
+          "lyricist": "",
+          "raga": "",
+          "duration": "Malayalam",
+          "stream_url": ""
+        },
+        {
+          "track_number": 11,
+          "title": "Dr. Pasupathy",
+          "singers": "",
+          "lyricist": "",
+          "raga": "",
+          "duration": "Malayalam",
+          "stream_url": ""
+        },
+        {
+          "track_number": 12,
+          "title": "Appu",
+          "singers": "",
+          "lyricist": "Shot first schedule",
+          "raga": "",
+          "duration": "Malayalam",
+          "stream_url": ""
+        },
+        {
+          "track_number": 14,
+          "title": "Thalapathi",
+          "singers": "",
+          "lyricist": "Tamil",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 16,
+          "title": "Aham",
+          "singers": "",
+          "lyricist": "Malayalam",
+          "raga": "",
+          "duration": "Kerala State Film Award for Best Cinematography",
+          "stream_url": ""
+        },
+        {
+          "track_number": 17,
+          "title": "Yodha",
+          "singers": "",
+          "lyricist": "Malayalam",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 19,
+          "title": "Gandharvam",
+          "singers": "",
+          "lyricist": "Malayalam",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 22,
+          "title": "Barsaat",
+          "singers": "",
+          "lyricist": "Hindi",
+          "raga": "",
+          "duration": "Filmfare Award for Best Cinematography",
+          "stream_url": ""
+        },
+        {
+          "track_number": 23,
+          "title": "Indira",
+          "singers": "",
+          "lyricist": "Tamil",
+          "raga": "",
+          "duration": "Tamil Nadu State Film Award for Best Cinematographer",
+          "stream_url": ""
+        },
+        {
+          "track_number": 25,
+          "title": "Halo",
+          "singers": "",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 27,
+          "title": "Darmiyan",
+          "singers": "",
+          "lyricist": "Hindi",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 29,
+          "title": "The Terrorist",
+          "singers": "",
+          "lyricist": "",
+          "raga": "",
+          "duration": "Tamil",
+          "stream_url": ""
+        },
+        {
+          "track_number": 30,
+          "title": "Malli",
+          "singers": "",
+          "lyricist": "",
+          "raga": "",
+          "duration": "Tamil",
+          "stream_url": ""
+        },
+        {
+          "track_number": 33,
+          "title": "Pukar",
+          "singers": "",
+          "lyricist": "",
+          "raga": "",
+          "duration": "Hindi",
+          "stream_url": ""
+        },
+        {
+          "track_number": 34,
+          "title": "Fiza",
+          "singers": "",
+          "lyricist": "",
+          "raga": "",
+          "duration": "Hindi",
+          "stream_url": ""
+        },
+        {
+          "track_number": 38,
+          "title": "Aparichithan",
+          "singers": "",
+          "lyricist": "Malayalam",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 39,
+          "title": "Bride and Prejudice",
+          "singers": "",
+          "lyricist": "English",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 41,
+          "title": "Navarasa",
+          "singers": "",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 42,
+          "title": "The Mistress of Spices",
+          "singers": "",
+          "lyricist": "English",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 44,
+          "title": "Before the Rains",
+          "singers": "",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 47,
+          "title": "Raavanan",
+          "singers": "",
+          "lyricist": "Tamil",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 49,
+          "title": "Urumi",
+          "singers": "",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 50,
+          "title": "Indian Rupee",
+          "singers": "",
+          "lyricist": "National Film Award for Best Feature Film in Malayalam",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 53,
+          "title": "Ceylon",
+          "singers": "",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 55,
+          "title": "Anjaan",
+          "singers": "",
+          "lyricist": "Tamil",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 57,
+          "title": "Spyder",
+          "singers": "",
+          "lyricist": "TeluguTamil",
+          "raga": "",
+          "duration": "Debut in Telugu cinema.",
+          "stream_url": ""
+        },
+        {
+          "track_number": 63,
+          "title": "Abhayam Thedi Veendum",
+          "singers": "",
+          "lyricist": "",
+          "raga": "",
+          "duration": "Malayalam",
+          "stream_url": ""
+        },
+        {
+          "track_number": 64,
+          "title": "Barroz",
+          "singers": "",
+          "lyricist": "",
+          "raga": "",
+          "duration": "Malayalam",
+          "stream_url": ""
+        },
+        {
+          "track_number": 66,
+          "title": "Batwara 1947",
+          "singers": "",
+          "lyricist": "",
+          "raga": "",
+          "duration": "Hindi",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 3613,
+      "year": 2001,
+      "title": "Seerivarum Kaalai",
+      "director": "Ramarajan",
+      "producer": "Kanna Cine Arts",
+      "composer": "",
+      "cast": "Ramarajan, Abitha",
+      "source_url": "https://en.wikipedia.org/wiki/Seerivarum_Kaalai",
+      "created_at": "2026-10-14 13:38:54",
+      "tracks": [
+        {
+          "track_number": 2,
+          "title": "Em Manasiley",
+          "singers": "Mano, Sujatha",
+          "lyricist": "Muthulingam",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "Kaalaiyan Varaanda",
+          "singers": "Malaysia Vasudevan",
+          "lyricist": "Gangai Amaran",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "Nalla Pillaiya",
+          "singers": "Srinivas",
+          "lyricist": "Pulamaipithan",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "Raathiri Nadu Raathiri",
+          "singers": "S. P. B. Charan, Harini",
+          "lyricist": "Rajarishi",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 6,
+          "title": "Re Re Retaikkili\" (Lady)",
+          "singers": "K. S. Chithra",
+          "lyricist": "Gangai Amaran",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 7,
+          "title": "Re Re Retaikkili\" (Men)",
+          "singers": "S. P. Balasubrahmanyam",
+          "lyricist": "Gangai Amaran",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 8,
+          "title": "Thuninja Thuninja",
+          "singers": "Mano, Krishnaraj",
+          "lyricist": "Pulamaipithan",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 507,
+      "year": 2001,
+      "title": "Shahjahan",
+      "director": "Ravi",
+      "producer": "Super Good Films",
+      "composer": "",
+      "cast": "Vijay, Richa Pallod",
+      "source_url": "https://en.wikipedia.org/wiki/Shahjahan_%28film%29",
+      "created_at": "2026-10-14 12:31:51",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Achchacho Punnagai",
+          "singers": "Udit Narayan, Kavita Krishnamurthy",
+          "lyricist": "Vairamuthu",
+          "raga": "",
+          "duration": "Vairamuthu",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "Kadhal Oru",
+          "singers": "KK",
+          "lyricist": "Vairamuthu",
+          "raga": "",
+          "duration": "Vairamuthu",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "Manidha Manidha",
+          "singers": "Srinivas",
+          "lyricist": "Vairamuthu",
+          "raga": "",
+          "duration": "Vairamuthu",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "May Madham",
+          "singers": "Devan Ekambaram, Sujatha Mohan",
+          "lyricist": "Vairamuthu",
+          "raga": "",
+          "duration": "Vairamuthu",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "Mellinamae Mellinamae",
+          "singers": "Harish Raghavendra",
+          "lyricist": "Vairamuthu",
+          "raga": "",
+          "duration": "Vairamuthu",
+          "stream_url": ""
+        },
+        {
+          "track_number": 6,
+          "title": "Minnalai Pidithu",
+          "singers": "Unni Menon",
+          "lyricist": "Vairamuthu",
+          "raga": "",
+          "duration": "Vairamuthu",
+          "stream_url": ""
+        },
+        {
+          "track_number": 7,
+          "title": "Sarakku Vachirukken",
+          "singers": "Shankar Mahadevan, Radhika Shashi",
+          "lyricist": "Vairamuthu",
+          "raga": "",
+          "duration": "Vairamuthu",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 3618,
+      "year": 2001,
+      "title": "Sigamani Ramamani",
+      "director": "Visu",
+      "producer": "Raj Co",
+      "composer": "",
+      "cast": "Visu, S. V. Sekhar, Urvashi",
+      "source_url": "https://en.wikipedia.org/wiki/Sigamani_Ramamani",
+      "created_at": "2026-10-14 13:38:59",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Chandrabose",
+          "singers": "Kamakodiyan",
+          "lyricist": "04:52",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "P. Unnikrishnan",
+          "singers": "Muthulingam",
+          "lyricist": "04:38",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "Nithyasree Mahadevan",
+          "singers": "Piraisoodan",
+          "lyricist": "04:46",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "Harini, Chandrabose",
+          "singers": "08:41",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "Seerkazhi Sivachidambaram, Palakkad Sriram",
+          "singers": "",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 3620,
+      "year": 2001,
+      "title": "Sonnal Thaan Kaadhala",
+      "director": "T. Rajendar",
+      "producer": "Simbu Cine Arts",
+      "composer": "",
+      "cast": "T. Rajendar, Murali, Roja",
+      "source_url": "https://en.wikipedia.org/wiki/Sonnal_Thaan_Kaadhala",
+      "created_at": "2026-10-14 13:39:01",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Chukkumala Chukkumala",
+          "singers": "Silambarasan, [[Tippu (singer)",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "Kaathalikka Theriyuma",
+          "singers": "Krishnaraj, T. Rajendar",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "Mullaaga Kuththakoodaathu",
+          "singers": "Silambarasan",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "Rosaappoove",
+          "singers": "Balesh, K. J. Yesudas",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "Sonnalthaan",
+          "singers": "K. S. Chithra, [[Hariharan (singer)",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 6,
+          "title": "Sonnalthan",
+          "singers": "Hariharan",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 7,
+          "title": "Vaada Vaada",
+          "singers": "",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 8,
+          "title": "Vela Vela",
+          "singers": "T. Rajendar, Shankar Mahadevan",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 3614,
+      "year": 2001,
+      "title": "Sri Raja Rajeshwari",
+      "director": "Bharathi Kannan",
+      "producer": "Sri Thenandal Films",
+      "composer": "",
+      "cast": "Ramki, Ramya Krishnan, Sanghavi, Bhanupriya",
+      "source_url": "https://en.wikipedia.org/wiki/Sri_Raja_Rajeshwari",
+      "created_at": "2026-10-14 13:38:55",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "K. S. Chithra,",
+          "singers": "Kalidasan",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "Sirkazhi G. Sivachidambaram",
+          "singers": "Bharathiputhiran",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "K. S. Chithra",
+          "singers": "Kalidasan",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "Anuradha Sriram, Krishnaraj",
+          "singers": "Viveka",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "Anuradha Sriram",
+          "singers": "Viveka",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 6,
+          "title": "Kovai Kamala, Krishnaraj",
+          "singers": "Kalidasan",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 3628,
+      "year": 2001,
+      "title": "Star",
+      "director": "Praveen Gandhi",
+      "producer": "Sri Subajothi Movies",
+      "composer": "",
+      "cast": "Prashanth, Jyothika, Raghuvaran",
+      "source_url": "https://en.wikipedia.org/wiki/Star_%282001_film%29",
+      "created_at": "2026-10-14 13:39:13",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Manasukkul Oru Puyal",
+          "singers": "S. P. Balasubrahmanyam, Sadhana Sargam, Srinivas",
+          "lyricist": "Vairamuthu",
+          "raga": "",
+          "duration": "5:11",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "Thom Karuvil Irundom",
+          "singers": "Surjo Bhattacharya, Shankar Mahadevan",
+          "lyricist": "Vairamuthu",
+          "raga": "",
+          "duration": "5:28",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "Rasiga Rasiga",
+          "singers": "S. P. Balasubrahmanyam, Sujatha Mohan",
+          "lyricist": "Piraisoodan",
+          "raga": "",
+          "duration": "6:53",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "Machha Machhiniye",
+          "singers": "Unni Menon, Ganga Sitharasu",
+          "lyricist": "Vairamuthu",
+          "raga": "",
+          "duration": "5:01",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "Adi Nenthikkitten",
+          "singers": "Karthik, Chitra Sivaraman",
+          "lyricist": "Palani Bharathi",
+          "raga": "",
+          "duration": "6:15",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 3629,
+      "year": 2001,
+      "title": "Super Kudumbam",
+      "director": "R. K. Kalaimani",
+      "producer": "Mahalakshmi Films",
+      "composer": "",
+      "cast": "Prabhu, Roja, Prathyusha",
+      "source_url": "https://en.wikipedia.org/wiki/Super_Kudumbam",
+      "created_at": "2026-10-14 13:39:15",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Vittu Vittu",
+          "singers": "P. Unnikrishnan, Sujatha",
+          "lyricist": "Kalaikumar",
+          "raga": "",
+          "duration": "Kalaikumar",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "Millenium Figuregalae",
+          "singers": "Krishnaraj",
+          "lyricist": "Vivek",
+          "raga": "",
+          "duration": "Vivek",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "Yenthen Selaiyum",
+          "singers": "Harini, Srinivas",
+          "lyricist": "Piraisoodan",
+          "raga": "",
+          "duration": "Piraisoodan",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "Uyirae En Uyirai",
+          "singers": "Swarnalatha",
+          "lyricist": "Piraisoodan",
+          "raga": "",
+          "duration": "Piraisoodan",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "Sri Rangantha",
+          "singers": "Swarnalatha, S. Balamurugan",
+          "lyricist": "Muthulingam",
+          "raga": "",
+          "duration": "Muthulingam",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 3606,
+      "year": 2001,
+      "title": "Thaalikaatha Kaaliamman",
+      "director": "Somasundar",
+      "producer": "Sunar Theatres",
+      "composer": "",
+      "cast": "Prabhu, Kausalya, Sanghavi",
+      "source_url": "https://en.wikipedia.org/wiki/Thaalikaatha_Kaaliamman",
+      "created_at": "2026-10-14 13:38:45",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "K. S. Chithra",
+          "singers": "R.Ravishankar",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "P. Unnikrishnan, Anuradha Sriram",
+          "singers": "Palani Bharathi",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "Hariharan, Sujatha",
+          "singers": "KalaiKumar",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "S. P. Balasubrahmanyam, K. S. Chithra",
+          "singers": "Pa.Vijay",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "Malgudi Subha",
+          "singers": "Kalidasan",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 505,
+      "year": 2001,
+      "title": "Thavasi",
+      "director": "Udayasankar",
+      "producer": "GJ Cinema",
+      "composer": "",
+      "cast": "Vijayakanth, Soundarya, Jayasudha, Prathyusha",
+      "source_url": "https://en.wikipedia.org/wiki/Thavasi",
+      "created_at": "2026-10-14 12:31:48",
+      "tracks": [
+        {
+          "track_number": 2,
+          "title": "Thanthana Thanthana Thaimasam",
+          "singers": "K. J. Yesudas, Sadhana Sargam",
+          "lyricist": "P. Vijay",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "Desingh Raja Thaan",
+          "singers": "S. P. Balasubrahmanyam, Sujatha Mohan",
+          "lyricist": "P. Vijay",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "Yelai Imayamalai",
+          "singers": "Manickka Vinayakam",
+          "lyricist": "P. Vijay",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "Ethanai Ethanai",
+          "singers": "Shankar Mahadevan, S. Janaki",
+          "lyricist": "Kabilan",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 6,
+          "title": "Panjaangam Paarakadhe",
+          "singers": "Srivardhini, Chitra Sivaraman, Shankar Mahadevan",
+          "lyricist": "Palani Bharathi",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 3661,
+      "year": 2001,
+      "title": "Theerpugal Maatrapadalaam",
+      "director": "M. K. Arunthavaraj",
+      "producer": "Aum Devalayaa Cine Creations",
+      "composer": "",
+      "cast": "Babu Ganesh, Vichithra",
+      "source_url": "https://en.wikipedia.org/wiki/Theerpugal_Maatrapadalaam",
+      "created_at": "2026-10-14 13:39:53",
+      "tracks": []
+    },
+    {
+      "id": 3603,
+      "year": 2001,
+      "title": "Ullam Kollai Poguthae",
+      "director": "Sundar C.",
+      "producer": "Lakshmi Movie Makers",
+      "composer": "",
+      "cast": "Prabhu Deva, Anjala Zhaveri, Karthik",
+      "source_url": "https://en.wikipedia.org/wiki/Ullam_Kollai_Poguthae",
+      "created_at": "2026-10-14 13:38:42",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Uyirae Enuyirae",
+          "singers": "Hariharan",
+          "lyricist": "Pa. Vijay",
+          "raga": "",
+          "duration": "Pa. Vijay",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "Puyale Puyale",
+          "singers": "Udit Narayan",
+          "lyricist": "Pa. Vijay",
+          "raga": "",
+          "duration": "Pa. Vijay",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "Oru Palaivanathai",
+          "singers": "Hariharan",
+          "lyricist": "Pa. Vijay",
+          "raga": "",
+          "duration": "Pa. Vijay",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "Kinguda Kinguda",
+          "singers": "Mano, Prabhudeva, Yuvan Shankar Raja",
+          "lyricist": "Kalaikumar",
+          "raga": "",
+          "duration": "Kalaikumar",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "Anjala Anjala",
+          "singers": "Devan Ekambaram, Harini",
+          "lyricist": "Kalaikumar",
+          "raga": "",
+          "duration": "Kalaikumar",
+          "stream_url": ""
+        },
+        {
+          "track_number": 6,
+          "title": "Kavithaigal Sollava",
+          "singers": "S. P. Balasubrahmanyam, Sujatha",
+          "lyricist": "Pa. Vijay",
+          "raga": "",
+          "duration": "Pa. Vijay",
+          "stream_url": ""
+        },
+        {
+          "track_number": 7,
+          "title": "Kavthaigal Sollava\" II",
+          "singers": "Hariharan",
+          "lyricist": "Pa. Vijay",
+          "raga": "",
+          "duration": "Pa. Vijay",
+          "stream_url": ""
+        },
+        {
+          "track_number": 8,
+          "title": "Kathavai Naan",
+          "singers": "Karthik Raja, Hariharan",
+          "lyricist": "Pa. Vijay",
+          "raga": "",
+          "duration": "Pa. Vijay",
+          "stream_url": ""
+        },
+        {
+          "track_number": 9,
+          "title": "Anbe Anbe",
+          "singers": "P. Unnikrishnan",
+          "lyricist": "Pa. Vijay",
+          "raga": "",
+          "duration": "Pa. Vijay",
+          "stream_url": ""
+        },
+        {
+          "track_number": 10,
+          "title": "Adadaa Adadaa",
+          "singers": "Karthik Raja",
+          "lyricist": "Pa. Vijay",
+          "raga": "",
+          "duration": "Pa. Vijay",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 3600,
+      "year": 2001,
+      "title": "Vaanchinathan",
+      "director": "Shaji Kailas",
+      "producer": "Roja Combines",
+      "composer": "",
+      "cast": "Vijayakanth, Sakshi Shivanand, Ramya Krishnan",
+      "source_url": "https://en.wikipedia.org/wiki/Vaanchinathan",
+      "created_at": "2026-10-14 13:38:38",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Adi Rendu",
+          "singers": "P. Unnikrishnan, Bhavatharini",
+          "lyricist": "Na. Muthukumar",
+          "raga": "",
+          "duration": "Na. Muthukumar",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "Amul Baby",
+          "singers": "Sujatha, Shaan",
+          "lyricist": "Snehan",
+          "raga": "",
+          "duration": "Snehan",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "Sirikkum Sirippil",
+          "singers": "Swarnalatha, Harish Raghavendra",
+          "lyricist": "Snehan",
+          "raga": "",
+          "duration": "Snehan",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "Muthamida Vendum",
+          "singers": "Harini, Srinivas",
+          "lyricist": "Snehan",
+          "raga": "",
+          "duration": "Snehan",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "Roja Vanna Roja",
+          "singers": "K. J. Yesudas",
+          "lyricist": "Muthu Vijayan",
+          "raga": "",
+          "duration": "Muthu Vijayan",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 3658,
+      "year": 2001,
+      "title": "Vadagupatti Maapillai",
+      "director": "V. C. Guhanathan",
+      "producer": "Chitramala Combines",
+      "composer": "Sirpy",
+      "cast": "Hamsavardhan, Reshma, Vivek, Vadivelu",
+      "source_url": "https://en.wikipedia.org/wiki/Vadagupatti_Maapillai",
+      "created_at": "2026-10-14 13:39:50",
+      "tracks": []
+    },
+    {
+      "id": 3635,
+      "year": 2001,
+      "title": "Vedham",
+      "director": "Arjun",
+      "producer": "Sree Raam Films International",
+      "composer": "",
+      "cast": "Arjun, Vineeth, Sakshi Shivanand, Divya Unni",
+      "source_url": "https://en.wikipedia.org/wiki/Vedham",
+      "created_at": "2026-10-14 13:39:21",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Shankar Mahadevan, Swarnalatha",
+          "singers": "Pa. Vijay",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "S. P. Balasubrahmanyam",
+          "singers": "Pa. Vijay",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "Hariharan, Mahalakshmi Iyer",
+          "singers": "Vairamuthu",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "Hariharan, Sujatha",
+          "singers": "Pa. Vijay",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "Shankar Mahadevan",
+          "singers": "Pa. Vijay",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 6,
+          "title": "Annupamaa, Sriram Parthasarathy",
+          "singers": "Pa. Vijay",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 3640,
+      "year": 2001,
+      "title": "Veettoda Mappillai",
+      "director": "V. Sekhar",
+      "producer": "Thiruvalluvar Kalaikoodam",
+      "composer": "",
+      "cast": "Napoleon, Roja",
+      "source_url": "https://en.wikipedia.org/wiki/Veettoda_Mappillai",
+      "created_at": "2026-10-14 13:39:26",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Jayalakshmi, Krishnaraj, Sabesan",
+          "singers": "Kalidasan",
+          "lyricist": "5:24",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "S. P. Balasubrahmanyam, K. S. Chithra",
+          "singers": "Arivumathi",
+          "lyricist": "5:39",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "Krishnaraj",
+          "singers": "Arivumathi",
+          "lyricist": "5:03",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "K. S. Chithra, Krishnaraj, Sabesan",
+          "singers": "Muthulingam",
+          "lyricist": "4:35",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 517,
+      "year": 2001,
+      "title": "Vinnukum Mannukum",
+      "director": "Rajakumaran",
+      "producer": "Super Good Films",
+      "composer": "",
+      "cast": "Vikram, Sarathkumar, Devayani, Khushbu",
+      "source_url": "https://en.wikipedia.org/wiki/Vinnukum_Mannukum",
+      "created_at": "2026-10-14 12:32:00",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "P. Unnikrishnan, Sujatha",
+          "singers": "Viveka",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "K. S. Chithra, Arunmozhi",
+          "singers": "Kalaikumar",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "S. P. Balasubrahmanyam, Febi Mani",
+          "singers": "R.Ravishankar",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "Krishnaraj, Mano",
+          "singers": "Manavai Ponmanikkam",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "K. S. Chithra, Sirpy",
+          "singers": "",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 6,
+          "title": "Sujatha",
+          "singers": "P. Vijay",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 7,
+          "title": "S. P. Balasubrahmanyam, Sujatha",
+          "singers": "P. Vijay",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 3633,
+      "year": 2001,
+      "title": "Viswanathan Ramamoorthy",
+      "director": "Rama Narayanan",
+      "producer": "Sri Thenandal Films",
+      "composer": "",
+      "cast": "Ramki, Roja, Vivek, Vindhya",
+      "source_url": "https://en.wikipedia.org/wiki/Viswanathan_Ramamoorthy_%28film%29",
+      "created_at": "2026-10-14 13:39:19",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Vairathil Mazhai",
+          "singers": "Anuradha Sriram",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "Thirupathi Malaikku",
+          "singers": "Nithyasree Mahadevan",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "Naan Superstar",
+          "singers": "Sujatha",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "Hey Rama",
+          "singers": "Srinivas, Supraja",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "Cinema Cinema",
+          "singers": "Deva",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        }
+      ]
+    }
+  ]
+}

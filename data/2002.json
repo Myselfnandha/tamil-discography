@@ -1,0 +1,5557 @@
+{
+  "year": 2002,
+  "total_albums": 86,
+  "total_tracks": 493,
+  "exported_at": "2026-10-15T10:00:20.743313Z",
+  "albums": [
+    {
+      "id": 3686,
+      "year": 2002,
+      "title": "123",
+      "director": "K. Subash",
+      "producer": "Sidhesh Films",
+      "composer": "",
+      "cast": "Prabhu Deva, Jyothika, Raju Sundaram, Nagendra Prasad",
+      "source_url": "https://en.wikipedia.org/wiki/123_%28film%29",
+      "created_at": "2026-10-14 13:40:33",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Adada Nadandhu Varaa",
+          "singers": "Shankar Mahadevan, Anuradha Sriram",
+          "lyricist": "Victor",
+          "raga": "",
+          "duration": "3:16",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "April Mazhai",
+          "singers": "Anuradha Sriram",
+          "lyricist": "Thamarai",
+          "raga": "",
+          "duration": "5:42",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "Hey Penne",
+          "singers": "Suresh Peters, Unni Menon, [[Karthik (singer)",
+          "lyricist": "Kalaikumar",
+          "raga": "",
+          "duration": "5:42",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "Kanchivaram Povom",
+          "singers": "[[Mano (singer)",
+          "lyricist": "Deva",
+          "raga": "",
+          "duration": "5:24",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "Un Perai",
+          "singers": "[[Karthik (singer)",
+          "lyricist": "Kalaikumar",
+          "raga": "",
+          "duration": "5:15",
+          "stream_url": ""
+        },
+        {
+          "track_number": 6,
+          "title": "Konjum Konjum",
+          "singers": "Suresh Peters, Anuradha Sriram",
+          "lyricist": "Kalaikumar",
+          "raga": "",
+          "duration": "5:42",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 3702,
+      "year": 2002,
+      "title": "Album",
+      "director": "Vasanthabalan",
+      "producer": "Kavithalayaa Productions",
+      "composer": "",
+      "cast": "Aryan Rajesh, Shrutika",
+      "source_url": "https://en.wikipedia.org/wiki/Album_%282002_film%29",
+      "created_at": "2026-10-14 13:40:59",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Thathalikudhey",
+          "singers": "[[Karthik (singer)",
+          "lyricist": "Paarthi Bhaskar",
+          "raga": "",
+          "duration": "5:12",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "Chellame Chellam",
+          "singers": "[[Hariharan (singer)",
+          "lyricist": "Na. Muthukumar",
+          "raga": "",
+          "duration": "5:13",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "Kadhal Vanoli",
+          "singers": "Harish Raghavendra, [[Sujatha Mohan",
+          "lyricist": "Na. Muthukumar",
+          "raga": "",
+          "duration": "6:18",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "Muttaikull",
+          "singers": "Bhavatharini, Chorus",
+          "lyricist": "Na. Muthukumar",
+          "raga": "",
+          "duration": "2:03",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "Pillai Thamarai",
+          "singers": "Madhu Balakrishnan",
+          "lyricist": "[[Kabilan (lyricist)",
+          "raga": "",
+          "duration": "5:18",
+          "stream_url": ""
+        },
+        {
+          "track_number": 6,
+          "title": "Thaazhampoo",
+          "singers": "Ilaiyaraaja, Sadhana Sargam",
+          "lyricist": "Na. Muthukumar",
+          "raga": "",
+          "duration": "4:47",
+          "stream_url": ""
+        },
+        {
+          "track_number": 7,
+          "title": "Nilave Nilave",
+          "singers": "Tippu, Shankar Mahadevan, Chorus",
+          "lyricist": "Thamarai",
+          "raga": "",
+          "duration": "5:19",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 3668,
+      "year": 2002,
+      "title": "Alli Arjuna",
+      "director": "Saran",
+      "producer": "Janani Art Creations",
+      "composer": "",
+      "cast": "Manoj Bharathiraja, Richa Pallod, Preetha",
+      "source_url": "https://en.wikipedia.org/wiki/Alli_Arjuna",
+      "created_at": "2026-10-14 13:40:03",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Sollayo Solaikilli",
+          "singers": "S. P. Balasubramanyam, Swarnalatha, S. Janaki",
+          "lyricist": "Vairamuthu",
+          "raga": "",
+          "duration": "Vairamuthu",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "Shingu Lingu (Roja Solladi)",
+          "singers": "K. S. Chithra",
+          "lyricist": "Vairamuthu",
+          "raga": "",
+          "duration": "Vairamuthu",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "Onne Onne",
+          "singers": "Sadhana Sargam, Shankar Mahadevan",
+          "lyricist": "Arivumathi",
+          "raga": "",
+          "duration": "Arivumathi",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "Osaka Morayaa",
+          "singers": "Vasundhara Das, Karthik",
+          "lyricist": "Vairamuthu",
+          "raga": "",
+          "duration": "Vairamuthu",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "Endhan Nenjil",
+          "singers": "S. Janaki, Srinivas",
+          "lyricist": "Vairamuthu",
+          "raga": "",
+          "duration": "Vairamuthu",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 3673,
+      "year": 2002,
+      "title": "Amaiyappa",
+      "director": "Rama Murugapandian",
+      "producer": "Ampa Pictures",
+      "composer": "",
+      "cast": "Ponnambalam, Roshini, Mahanadi Shankar",
+      "source_url": "https://en.wikipedia.org/wiki/Amaiyappa",
+      "created_at": "2026-10-14 13:40:09",
+      "tracks": []
+    },
+    {
+      "id": 3703,
+      "year": 2002,
+      "title": "Andipatti Arasampatti",
+      "director": "Dhananjeyan",
+      "producer": "Meena Cine Combines",
+      "composer": "Rock Rownder",
+      "cast": "Pandiarajan, Mansoor Ali Khan, Visalini, Srilekha",
+      "source_url": "https://en.wikipedia.org/wiki/Andipatti_Arasampatti",
+      "created_at": "2026-10-14 13:41:02",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Tippu",
+          "singers": "Rock Rownder",
+          "lyricist": "Rock Rownder",
+          "raga": "",
+          "duration": "5:21",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "Krishnaraj",
+          "singers": "Rock Rownder",
+          "lyricist": "Rock Rownder",
+          "raga": "",
+          "duration": "3:55",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "Rock Rownder",
+          "singers": "Rock Rownder",
+          "lyricist": "Rock Rownder",
+          "raga": "",
+          "duration": "4:03",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "Anuradha Sriram",
+          "singers": "Rock Rownder",
+          "lyricist": "Rock Rownder",
+          "raga": "",
+          "duration": "4:03",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "Sri Ram",
+          "singers": "Rock Rownder",
+          "lyricist": "Rock Rownder",
+          "raga": "",
+          "duration": "3:12",
+          "stream_url": ""
+        },
+        {
+          "track_number": 6,
+          "title": "Malgudi Subha",
+          "singers": "Rock Rownder",
+          "lyricist": "Rock Rownder",
+          "raga": "",
+          "duration": "3:01",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 3704,
+      "year": 2002,
+      "title": "April Maadhathil",
+      "director": "S. S. Stanley",
+      "producer": "G. J. Cinema",
+      "composer": "",
+      "cast": "Srikanth, Sneha",
+      "source_url": "https://en.wikipedia.org/wiki/April_Maadhathil",
+      "created_at": "2026-10-14 13:41:11",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Yeh Nenje",
+          "singers": "Harish Raghavendra, Sadhana Sargam",
+          "lyricist": "Thamarai",
+          "raga": "",
+          "duration": "5:11",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "Azhagaana Aangal",
+          "singers": "Prasanna",
+          "lyricist": "Palani Bharathi",
+          "raga": "",
+          "duration": "4:27",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "Kanavugal Pookkum",
+          "singers": "S. P. Balasubrahmanyam, Pop Shalini",
+          "lyricist": "Na. Muthukumar",
+          "raga": "",
+          "duration": "4:32",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "Manasae Manasae",
+          "singers": "Karthik",
+          "lyricist": "Pa. Vijay",
+          "raga": "",
+          "duration": "4:58",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "Poi Solla Manasukku",
+          "singers": "Yuvan Shankar Raja",
+          "lyricist": "Snehan",
+          "raga": "",
+          "duration": "5:05",
+          "stream_url": ""
+        },
+        {
+          "track_number": 6,
+          "title": "Sight Adippom",
+          "singers": "Silambarasan, Karthik",
+          "lyricist": "Pa. Vijay",
+          "raga": "",
+          "duration": "4:27",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 3698,
+      "year": 2002,
+      "title": "Arputham",
+      "director": "R. S. Venkatesh",
+      "producer": "Super Good Films",
+      "composer": "",
+      "cast": "Raghava Lawrence, Anu Prabhakar, Kunal",
+      "source_url": "https://en.wikipedia.org/wiki/Arputham",
+      "created_at": "2026-10-14 13:40:53",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Aaha Anandham",
+          "singers": "Shankar Mahadevan",
+          "lyricist": "Pa. Vijay",
+          "raga": "",
+          "duration": "5:15",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "Nee Malaraa Malaraa",
+          "singers": "Unni Krishnan & K. S. Chithra",
+          "lyricist": "Pa. Vijay",
+          "raga": "",
+          "duration": "4:33",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "Pandibazaaril",
+          "singers": "Harish Raghavendra",
+          "lyricist": "Vaigundhavasan",
+          "raga": "",
+          "duration": "5:38",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "Pothunda Pothunda",
+          "singers": "[[Tippu (singer)",
+          "lyricist": "Pa. Vijay",
+          "raga": "",
+          "duration": "5:20",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "Thattu Thattu",
+          "singers": "S. P. Balasubrahmanyam",
+          "lyricist": "Na. Muthukumar",
+          "raga": "",
+          "duration": "4:21",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 3669,
+      "year": 2002,
+      "title": "Azhagi",
+      "director": "Thangar Bachan",
+      "producer": "Udayageetha Cine Creations",
+      "composer": "",
+      "cast": "Parthiban, Nandita Das, Devayani",
+      "source_url": "https://en.wikipedia.org/wiki/Azhagi_%282002_film%29",
+      "created_at": "2026-10-14 13:40:04",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Ilaiyaraaja",
+          "singers": "",
+          "lyricist": "Sadhana Sargam",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "Palani Bharathi",
+          "singers": "",
+          "lyricist": "Bhavatharini, Chorus",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "Karunanithi",
+          "singers": "",
+          "lyricist": "P. Unnikrishnan, Sadhana Sargam, Malgudi Subha",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 549,
+      "year": 2002,
+      "title": "Baba",
+      "director": "Suresh Krishna",
+      "producer": "Lotus International",
+      "composer": "",
+      "cast": "Rajinikanth, Manisha Koirala, Ashish Vidyarthi",
+      "source_url": "https://en.wikipedia.org/wiki/Baba_%282002_film%29",
+      "created_at": "2026-10-14 12:32:40",
+      "tracks": [
+        {
+          "track_number": 2,
+          "title": "Baba Theme\" (\"Ekam Eva Adhvitheyam\")",
+          "singers": "Srinivas",
+          "lyricist": "Vairamuthu",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "Dippu Dippu",
+          "singers": "Shankar Mahadevan",
+          "lyricist": "Vairamuthu",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "Kichchu Tha",
+          "singers": "S. P. Balasubrahmanyam, Reena Bhardwaj, Rajinikanth",
+          "lyricist": "Vairamuthu",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "Maya Maya",
+          "singers": "Karthik, Sujatha Mohan",
+          "lyricist": "Vaali",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 6,
+          "title": "Rajyama Illai Emaiyama - Version 1",
+          "singers": "P. Jayachandran",
+          "lyricist": "Vaali",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 7,
+          "title": "Sakthi Kodu",
+          "singers": "Karthik",
+          "lyricist": "Vairamuthu",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 8,
+          "title": "Rajyama Illai Emaiyama - Version 2",
+          "singers": "P. Jayachandran",
+          "lyricist": "Vaali",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 9,
+          "title": "Baba Rap",
+          "singers": "Blaaze",
+          "lyricist": "Blaaze",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 556,
+      "year": 2002,
+      "title": "Bagavathi",
+      "director": "A. Venkatesh",
+      "producer": "Lakshmi Movie Makers",
+      "composer": "",
+      "cast": "Vijay, Reemma Sen, Jai, Monika",
+      "source_url": "https://en.wikipedia.org/wiki/Bagavathi",
+      "created_at": "2026-10-14 12:32:49",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "July Malargale",
+          "singers": "[[Karthik (singer)",
+          "lyricist": "Pa. Vijay",
+          "raga": "",
+          "duration": "4:45",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "Achamillai",
+          "singers": "Shankar Mahadevan",
+          "lyricist": "Snehan",
+          "raga": "",
+          "duration": "3:43",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "Kai... Kai..",
+          "singers": "Shankar Mahadevan, Anuradha Sriram",
+          "lyricist": "Kalai Kumar",
+          "raga": "",
+          "duration": "4:19",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "Saiyo Saiyo",
+          "singers": "Timmi, Sadhana Sargam",
+          "lyricist": "Na. Muthukumar",
+          "raga": "",
+          "duration": "5:23",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "Allu Allu",
+          "singers": "Udit Narayan",
+          "lyricist": "[[Vaali (poet)",
+          "raga": "",
+          "duration": "5:20",
+          "stream_url": ""
+        },
+        {
+          "track_number": 6,
+          "title": "Coca Cola (Podango Podango)",
+          "singers": "Vadivelu, [[C. Joseph Vijay",
+          "lyricist": "Kalai Kumar",
+          "raga": "",
+          "duration": "4:19",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 3706,
+      "year": 2002,
+      "title": "Bala",
+      "director": "Deepak",
+      "producer": "Goldmine Pictures",
+      "composer": "",
+      "cast": "Shaam, Meera Jasmine",
+      "source_url": "https://en.wikipedia.org/wiki/Bala_%282002_film%29",
+      "created_at": "2026-10-14 13:41:18",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Bailamo Bailamo",
+          "singers": "Yuvan Shankar Raja",
+          "lyricist": "Pa. Vijay",
+          "raga": "",
+          "duration": "4:20",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "Poopoovai",
+          "singers": "Unni Menon, [[Ganga Sitharasu",
+          "lyricist": "Pa. Vijay",
+          "raga": "",
+          "duration": "4:55",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "Theendi Theendi",
+          "singers": "P. Unnikrishnan, Sujatha Mohan",
+          "lyricist": "Arivumathi",
+          "raga": "",
+          "duration": "4:10",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "Vaanathu Poochi",
+          "singers": "[[Karthik (singer)",
+          "lyricist": "[[Kabilan (lyricist)",
+          "raga": "",
+          "duration": "4:30",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "En Kannai",
+          "singers": "Shankar Mahadevan",
+          "lyricist": "Palani Bharathi",
+          "raga": "",
+          "duration": "4:13",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 621,
+      "year": 2002,
+      "title": "Bharadwaj",
+      "director": "}",
+      "producer": "",
+      "composer": "",
+      "cast": "",
+      "source_url": "https://en.wikipedia.org/wiki/Bharadwaj_%28composer%29",
+      "created_at": "2026-10-14 12:34:01",
+      "tracks": [
+        {
+          "track_number": 5,
+          "title": "Pooveli",
+          "singers": "",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 7,
+          "title": "Amarkkalam",
+          "singers": "",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 9,
+          "title": "Penngal",
+          "singers": "",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 11,
+          "title": "Pandavar Bhoomi",
+          "singers": "",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 13,
+          "title": "Roja Kootam",
+          "singers": "",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 14,
+          "title": "Gemini",
+          "singers": "Filmfare Award for Best Music Director",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 15,
+          "title": "Raajjiyam",
+          "singers": "",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 16,
+          "title": "Thamizh",
+          "singers": "",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 17,
+          "title": "Enge Enadhu Kavithai",
+          "singers": "",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 18,
+          "title": "Jjunction",
+          "singers": "",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 19,
+          "title": "I Love You Da",
+          "singers": "25th film",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 21,
+          "title": "Anbe Anbe",
+          "singers": "",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 22,
+          "title": "Jay Jay",
+          "singers": "",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 24,
+          "title": "Kadhal Dot Com",
+          "singers": "",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 25,
+          "title": "Vasool Raja MBBS",
+          "singers": "",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 26,
+          "title": "Oru Murai Sollividu",
+          "singers": "",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 27,
+          "title": "Attahasam",
+          "singers": "",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 28,
+          "title": "Dreams",
+          "singers": "",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 29,
+          "title": "Amma Appa Chellam",
+          "singers": "",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 30,
+          "title": "Jananam",
+          "singers": "",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 32,
+          "title": "Mannin Maindhan",
+          "singers": "",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 33,
+          "title": "Priyasakhi",
+          "singers": "",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 34,
+          "title": "February 14",
+          "singers": "",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 35,
+          "title": "Anda Naal Nyabagam",
+          "singers": "",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 36,
+          "title": "Kundakka Mandakka",
+          "singers": "",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 37,
+          "title": "Ulla Kadathal",
+          "singers": "",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 39,
+          "title": "Thirupathi",
+          "singers": "",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 40,
+          "title": "Thiruttu Payale",
+          "singers": "",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 41,
+          "title": "Jambhavan",
+          "singers": "",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 42,
+          "title": "Vattaram",
+          "singers": "50th film",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 44,
+          "title": "Pirappu",
+          "singers": "",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 45,
+          "title": "Pallikoodam",
+          "singers": "",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 46,
+          "title": "Onbadhu Roobai Nottu",
+          "singers": "",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 49,
+          "title": "Manjal Veiyil",
+          "singers": "",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 50,
+          "title": "Solla Solla Inikkum",
+          "singers": "",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 51,
+          "title": "Kathalukku Maranamillai",
+          "singers": "No theatrical release",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 53,
+          "title": "Kalavadiya Pozhudugal",
+          "singers": "Released in 2017",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 56,
+          "title": "Aranmanai",
+          "singers": "",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 57,
+          "title": "Azhagiya Pandipuram",
+          "singers": "",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 3676,
+      "year": 2002,
+      "title": "Charlie Chaplin",
+      "director": "Sakthi Chidambaram",
+      "producer": "Roja Combines",
+      "composer": "",
+      "cast": "Prabhu, Prabhu Deva, Abhirami, Gayathri Raguram",
+      "source_url": "https://en.wikipedia.org/wiki/Charlie_Chaplin_%282002_film%29",
+      "created_at": "2026-10-14 13:40:14",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Ava Kannapaatha",
+          "singers": "S. P. Balasubrahmanyam, Harish Raghavendra",
+          "lyricist": "Pa. Vijay",
+          "raga": "",
+          "duration": "5:05",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "Kannadi Selai Katti",
+          "singers": "Krishnaraj, Swarnalatha, [[Karthik (singer)",
+          "lyricist": "Palani Bharathi",
+          "raga": "",
+          "duration": "5:39",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "Mammu Mammu",
+          "singers": "[[Tippu (singer)",
+          "lyricist": "Pa. Vijay",
+          "raga": "",
+          "duration": "2:42",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "Mudhalaam Sandhippil",
+          "singers": "P. Unnikrishnan, Swarnalatha",
+          "lyricist": "Pa. Vijay",
+          "raga": "",
+          "duration": "5:06",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "Ponnu Oruthi Summa",
+          "singers": "Tippu, Anuradha Sriram",
+          "lyricist": "Snehan",
+          "raga": "",
+          "duration": "5:09",
+          "stream_url": ""
+        },
+        {
+          "track_number": 6,
+          "title": "Shansha Shalpashaa",
+          "singers": "Tippu, Harini",
+          "lyricist": "Sakthi Chidambaram",
+          "raga": "",
+          "duration": "4:05",
+          "stream_url": ""
+        },
+        {
+          "track_number": 7,
+          "title": "Vaarthai Thavari Ponathanaley",
+          "singers": "Harish Raghavendra",
+          "lyricist": "[[Kabilan (lyricist)",
+          "raga": "",
+          "duration": "3:07",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 3687,
+      "year": 2002,
+      "title": "Devan",
+      "director": "Arun Pandian",
+      "producer": "Friends Creations",
+      "composer": "",
+      "cast": "Vijayakanth, Arun Pandian, Meena, Kausalya",
+      "source_url": "https://en.wikipedia.org/wiki/Devan_%28film%29",
+      "created_at": "2026-10-14 13:40:34",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Intha Ezhai Geetham",
+          "singers": "Ilaiyaraaja",
+          "lyricist": "Palani Bharathi",
+          "raga": "",
+          "duration": "Palani Bharathi",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "Kanda Kanda Pasanga",
+          "singers": "S. N. Surendar, P. Unnikrishnan",
+          "lyricist": "Palani Bharathi",
+          "raga": "",
+          "duration": "Palani Bharathi",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "Sexy Bomb",
+          "singers": "Mathangi, Ganga, Viji Manuel",
+          "lyricist": "Palani Bharathi",
+          "raga": "",
+          "duration": "Palani Bharathi",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "Teenagela",
+          "singers": "Mathangi, Febi Mani",
+          "lyricist": "Palani Bharathi",
+          "raga": "",
+          "duration": "Palani Bharathi",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "Thaalaattum Kaatre",
+          "singers": "Sujatha, Hariharan",
+          "lyricist": "Palani Bharathi",
+          "raga": "",
+          "duration": "Palani Bharathi",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 3675,
+      "year": 2002,
+      "title": "Dhaya",
+      "director": "Senthil Kumar",
+      "producer": "Duet Movies",
+      "composer": "",
+      "cast": "Prakash Raj, Meena, Raghuvaran",
+      "source_url": "https://en.wikipedia.org/wiki/Dhaya_%28film%29",
+      "created_at": "2026-10-14 13:40:11",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Annathe Nadantha",
+          "singers": "[[Tippu (singer)",
+          "lyricist": "Snehan",
+          "raga": "",
+          "duration": "04:55",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "Dhaya Dhaya",
+          "singers": "Manikka Vinayagam, Bharadwaj",
+          "lyricist": "Snehan",
+          "raga": "",
+          "duration": "04:22",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "Aan Azhaga",
+          "singers": "P. Unnikrishnan, Sujatha Mohan",
+          "lyricist": "Snehan",
+          "raga": "",
+          "duration": "04:42",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "Kadavulai Parthathillai",
+          "singers": "Bharadwaj",
+          "lyricist": "Nandalala",
+          "raga": "",
+          "duration": "02:39",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "Thorakatha Pottiye",
+          "singers": "Anuradha Sriram, Manikka Vinayagam",
+          "lyricist": "Pa. Vijay",
+          "raga": "",
+          "duration": "04:31",
+          "stream_url": ""
+        },
+        {
+          "track_number": 6,
+          "title": "Guru Brahma Guru Vishnuee",
+          "singers": "Reshmi, Chorus",
+          "lyricist": "Snehan",
+          "raga": "",
+          "duration": "03:23",
+          "stream_url": ""
+        },
+        {
+          "track_number": 7,
+          "title": "Dhaya Dhaya Oorellam",
+          "singers": "Tippu, Chorus",
+          "lyricist": "Snehan",
+          "raga": "",
+          "duration": "04:40",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 3710,
+      "year": 2002,
+      "title": "En Kadhali",
+      "director": "Malai",
+      "producer": "",
+      "composer": "Sathish Rajasekhar",
+      "cast": "SBS Art Productions",
+      "source_url": "https://en.wikipedia.org/wiki/En_Kadhali",
+      "created_at": "2026-10-14 13:41:26",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "En Kadhali",
+          "singers": "Sathish Rajasekhar",
+          "lyricist": "",
+          "raga": "",
+          "duration": "3:54",
+          "stream_url": "https://music.youtube.com/watch?v=h54QkQhLppo"
+        }
+      ]
+    },
+    {
+      "id": 594,
+      "year": 2002,
+      "title": "En Mana Vaanil",
+      "director": "Vinayan",
+      "producer": "Oscar Films",
+      "composer": "",
+      "cast": "Jayasurya, Kavya Madhavan",
+      "source_url": "https://en.wikipedia.org/wiki/En_Mana_Vaanil",
+      "created_at": "2026-10-14 12:33:27",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Enna Solli Paduvatho",
+          "singers": "[[Hariharan (singer)",
+          "lyricist": "Palani Bharathi",
+          "raga": "",
+          "duration": "4:55",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "Kuthu Kuthu",
+          "singers": "[[Karthik (singer)",
+          "lyricist": "[[Muthulingam (poet)",
+          "raga": "",
+          "duration": "4:28",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "Roatoram",
+          "singers": "K. J. Yesudas, Shruti Haasan",
+          "lyricist": "Mu. Metha",
+          "raga": "",
+          "duration": "5:02",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "Unnai Kannum Pothu",
+          "singers": "Hariharan, Karthik",
+          "lyricist": "Palani Bharathi",
+          "raga": "",
+          "duration": "5:54",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "Unnai Thedi",
+          "singers": "Hariharan",
+          "lyricist": "Palani Bharathi",
+          "raga": "",
+          "duration": "5:04",
+          "stream_url": ""
+        },
+        {
+          "track_number": 7,
+          "title": "Vayasu Vantha",
+          "singers": "Napoleon, Biju, S. N. Surendar, Swarna Latha",
+          "lyricist": "Palani Bharathi",
+          "raga": "",
+          "duration": "4:47",
+          "stream_url": ""
+        },
+        {
+          "track_number": 8,
+          "title": "Muthu Muthu",
+          "singers": "Karthik, Bhavatharini",
+          "lyricist": "Palani Bharathi",
+          "raga": "",
+          "duration": "5:07",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 3685,
+      "year": 2002,
+      "title": "Enge Enadhu Kavithai",
+      "director": "Aravind",
+      "producer": "Ashco Media Arts",
+      "composer": "",
+      "cast": "Kunal, Rathi, Krishna Abhishek",
+      "source_url": "https://en.wikipedia.org/wiki/Enge_Enadhu_Kavithai",
+      "created_at": "2026-10-14 13:40:32",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Aararivu Manushanukku",
+          "singers": "S. P. Balasubrahmanyam",
+          "lyricist": "S. P. Balasubrahmanyam",
+          "raga": "",
+          "duration": "S. P. Balasubrahmanyam",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "Aayiram Aandugal",
+          "singers": "Reshmi, Srinivas",
+          "lyricist": "Reshmi, Srinivas",
+          "raga": "",
+          "duration": "Reshmi, Srinivas",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "Irumanam Sernthu",
+          "singers": "P. Unnikrishnan",
+          "lyricist": "P. Unnikrishnan",
+          "raga": "",
+          "duration": "P. Unnikrishnan",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "Naan Thediya Kavithai",
+          "singers": "Bharadwaj, Sujatha",
+          "lyricist": "Bharadwaj, Sujatha",
+          "raga": "",
+          "duration": "Bharadwaj, Sujatha",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "Pattu Nirathil",
+          "singers": "Bharadwaj, Tippu",
+          "lyricist": "Bharadwaj, Tippu",
+          "raga": "",
+          "duration": "Bharadwaj, Tippu",
+          "stream_url": ""
+        },
+        {
+          "track_number": 6,
+          "title": "Unnai Paarthal",
+          "singers": "Sheela Raman",
+          "lyricist": "Sheela Raman",
+          "raga": "",
+          "duration": "Sheela Raman",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 3688,
+      "year": 2002,
+      "title": "Ezhumalai",
+      "director": "Arjun",
+      "producer": "Sri Venkateswara Production",
+      "composer": "",
+      "cast": "Arjun, Simran, Gajala, Mumtaj",
+      "source_url": "https://en.wikipedia.org/wiki/Ezhumalai",
+      "created_at": "2026-10-14 13:40:35",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "S. P. Balasubrahmanyam, Sujatha",
+          "singers": "Vaali",
+          "lyricist": "05:21",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "Karthik, K. S. Chithra",
+          "singers": "Vaali",
+          "lyricist": "05:28",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "S. P. Balasubrahmanyam, Swarnalatha",
+          "singers": "Vaali",
+          "lyricist": "05:07",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "Shankar Mahadevan, Sujatha",
+          "singers": "Vaali",
+          "lyricist": "04:23",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "Mallikarjun, Harini",
+          "singers": "Thamarai",
+          "lyricist": "04:34",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 3717,
+      "year": 2002,
+      "title": "February 6",
+      "director": "Rahasyam",
+      "producer": "Raaz",
+      "composer": "Hindi",
+      "cast": "Vikram Bhatt",
+      "source_url": "https://en.wikipedia.org/wiki/February_6",
+      "created_at": "2026-10-14 13:41:32",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "February 6 feat. Mert Harmankaya (feat. Mert Harmankaya)",
+          "singers": "Some People",
+          "lyricist": "",
+          "raga": "",
+          "duration": "6:05",
+          "stream_url": "https://music.youtube.com/watch?v=Syke1pSePOI"
+        }
+      ]
+    },
+    {
+      "id": 600,
+      "year": 2002,
+      "title": "Five Star",
+      "director": "Susi Ganesan",
+      "producer": "Madras Talkies",
+      "composer": "",
+      "cast": "Prasanna, Kanika, Krishna",
+      "source_url": "https://en.wikipedia.org/wiki/Five_Star_%28film%29",
+      "created_at": "2026-10-14 12:33:33",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Srinivas, Sujatha",
+          "singers": "",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "Karthik, Mathangi, Nitish, Jayashree, Arsith",
+          "singers": "",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "Chandana Bala",
+          "singers": "",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "Parasuram Radha",
+          "singers": "",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "Instrumental",
+          "singers": "",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 6,
+          "title": "P. Unnikrishnan",
+          "singers": "",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 7,
+          "title": "Anuradha Sriram, Shubha Mudgal, Timmy, Chinmayi",
+          "singers": "",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 8,
+          "title": "Devan Ekambaram, Kanika",
+          "singers": "",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 603,
+      "year": 2002,
+      "title": "Game",
+      "director": "John Amritraj",
+      "producer": "Srimasani Amman Pictures",
+      "composer": "Jakes Bejoy",
+      "cast": "Karthik, Radha, Divya Dutta",
+      "source_url": "https://en.wikipedia.org/wiki/Game_%282002_film%29",
+      "created_at": "2026-10-14 12:33:38",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "High Stakes",
+          "singers": "Jakes Bejoy, Brodha V, Vignesh Ramakrishna, Shridhar Ramesh",
+          "lyricist": "",
+          "raga": "",
+          "duration": "3:11",
+          "stream_url": "https://music.youtube.com/watch?v=HpnbKioa83A"
+        },
+        {
+          "track_number": 2,
+          "title": "Arugey Arugey",
+          "singers": "Jakes Bejoy, Armaan Malik, Vignesh Ramakrishna",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:25",
+          "stream_url": "https://music.youtube.com/watch?v=-i-mQR0e4MM"
+        },
+        {
+          "track_number": 3,
+          "title": "Loser Song",
+          "singers": "Jakes Bejoy, Benny Dayal, Vignesh Ramakrishna",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:34",
+          "stream_url": "https://music.youtube.com/watch?v=YmqjBUXWxtQ"
+        }
+      ]
+    },
+    {
+      "id": 551,
+      "year": 2002,
+      "title": "Gemini",
+      "director": "Saran",
+      "producer": "AVM Productions",
+      "composer": "R.P.Patnaik",
+      "cast": "Vikram, Kiran, Kalabhavan Mani",
+      "source_url": "https://en.wikipedia.org/wiki/Gemini_%282002_film%29",
+      "created_at": "2026-10-14 12:32:43",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Cheli Chedugudu Gemini",
+          "singers": "S. P. Balasubrahmanyam, Anuradha Sriram",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:04",
+          "stream_url": "https://music.youtube.com/watch?v=IZmq94T0PG4"
+        },
+        {
+          "track_number": 2,
+          "title": "Pulalo Tene Prema",
+          "singers": "Rajesh",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:17",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "Dil Diwana Main Hasina",
+          "singers": "Usha Munukutla",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:16",
+          "stream_url": "https://music.youtube.com/watch?v=e18sHzPJ0QM"
+        },
+        {
+          "track_number": 4,
+          "title": "Chukkallokekkinadu",
+          "singers": "Vandemataram Srinivas",
+          "lyricist": "",
+          "raga": "",
+          "duration": "3:01",
+          "stream_url": "https://music.youtube.com/watch?v=uym4WV-WgDs"
+        },
+        {
+          "track_number": 5,
+          "title": "Brahma O Brahma",
+          "singers": "S. P. Balasubrahmanyam",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:14",
+          "stream_url": ""
+        },
+        {
+          "track_number": 6,
+          "title": "Bhandame Mullu",
+          "singers": "R. P. Patnaik",
+          "lyricist": "",
+          "raga": "",
+          "duration": "2:36",
+          "stream_url": ""
+        },
+        {
+          "track_number": 7,
+          "title": "Nadaka Chuste Vayyaram",
+          "singers": "Shankar Mahadevan, Usha Munukutla",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:15",
+          "stream_url": "https://music.youtube.com/watch?v=8YuANhcist0"
+        }
+      ]
+    },
+    {
+      "id": 3711,
+      "year": 2002,
+      "title": "Gowri",
+      "director": "A. C. Tirulokchandar",
+      "producer": "",
+      "composer": "Sankar-Ganesh",
+      "cast": "Cine Bharath",
+      "source_url": "https://en.wikipedia.org/wiki/Gowri",
+      "created_at": "2026-10-14 13:41:26",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Achchuvellakatti",
+          "singers": "Malaysia Vasudevan, S. Janaki, Sankar-Ganesh",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:58",
+          "stream_url": "https://www.jiosaavn.com/song/achchuvellakatti/ISAvXgEIGnE"
+        },
+        {
+          "track_number": 2,
+          "title": "Oorvalam Pogum",
+          "singers": "Vani Jairam, Sankar-Ganesh",
+          "lyricist": "",
+          "raga": "",
+          "duration": "3:00",
+          "stream_url": "https://www.jiosaavn.com/song/oorvalam-pogum/QzceSR5FR2I"
+        },
+        {
+          "track_number": 3,
+          "title": "Gokula Krishnan",
+          "singers": "P. Susheela, Sankar-Ganesh",
+          "lyricist": "",
+          "raga": "",
+          "duration": "3:30",
+          "stream_url": "https://www.jiosaavn.com/song/gokula-krishnan/NwUFQDJidQc"
+        }
+      ]
+    },
+    {
+      "id": 608,
+      "year": 2002,
+      "title": "Gummalam",
+      "director": "Sughi S. Moorthy",
+      "producer": "Sharmadha Productions",
+      "composer": "Gandhidasan",
+      "cast": "Mithun Tejaswi, Rathi",
+      "source_url": "https://en.wikipedia.org/wiki/Gummalam",
+      "created_at": "2026-10-14 12:33:46",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Thitranga Thitranga",
+          "singers": "Tippu",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:50",
+          "stream_url": "https://music.youtube.com/watch?v=Yl6UpT5K9VY"
+        },
+        {
+          "track_number": 2,
+          "title": "Dhimsukattai",
+          "singers": "Timmy",
+          "lyricist": "",
+          "raga": "",
+          "duration": "3:28",
+          "stream_url": "https://music.youtube.com/watch?v=wzN19EUDviQ"
+        },
+        {
+          "track_number": 3,
+          "title": "Kasamusa Kasamusa",
+          "singers": "Tippu",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:33",
+          "stream_url": "https://music.youtube.com/watch?v=bhBBC_XG1P0"
+        },
+        {
+          "track_number": 4,
+          "title": "Yaaro Yaaro - Unnimenon",
+          "singers": "Unni Menon",
+          "lyricist": "",
+          "raga": "",
+          "duration": "3:40",
+          "stream_url": "https://music.youtube.com/watch?v=YVwAMzMqSFI"
+        },
+        {
+          "track_number": 5,
+          "title": "Kaatru Kaatru",
+          "singers": "Sujatha",
+          "lyricist": "",
+          "raga": "",
+          "duration": "5:16",
+          "stream_url": "https://music.youtube.com/watch?v=wHleJDactHY"
+        },
+        {
+          "track_number": 6,
+          "title": "Yaaro Yaaro",
+          "singers": "Gandhidasan",
+          "lyricist": "",
+          "raga": "",
+          "duration": "3:05",
+          "stream_url": "https://music.youtube.com/watch?v=go6nX5g-vEQ"
+        },
+        {
+          "track_number": 7,
+          "title": "Ovvurunnalum",
+          "singers": "P. Unni Krishnan",
+          "lyricist": "",
+          "raga": "",
+          "duration": "2:02",
+          "stream_url": "https://music.youtube.com/watch?v=MhEW-m-dY2Q"
+        },
+        {
+          "track_number": 8,
+          "title": "Chinna Chinnadhaai",
+          "singers": "Anuradha Sriram, Ajay Karthik",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:29",
+          "stream_url": "https://music.youtube.com/watch?v=avhBJkkzhwE"
+        },
+        {
+          "track_number": 9,
+          "title": "Yudham Mudiyavillaiyaa",
+          "singers": "Padayappa Sriram",
+          "lyricist": "",
+          "raga": "",
+          "duration": "1:18",
+          "stream_url": "https://music.youtube.com/watch?v=nrWmU0BwsrQ"
+        }
+      ]
+    },
+    {
+      "id": 3692,
+      "year": 2002,
+      "title": "Guruvamma",
+      "director": "Thamarai Sendhoorapandi",
+      "producer": "Sheem Work Media",
+      "composer": "Sagithya",
+      "cast": "Livingston, Devayani",
+      "source_url": "https://en.wikipedia.org/wiki/Guruvamma",
+      "created_at": "2026-10-14 13:40:42",
+      "tracks": []
+    },
+    {
+      "id": 609,
+      "year": 2002,
+      "title": "I Love You Da",
+      "director": "C. Rajadurai",
+      "producer": "Guru Films",
+      "composer": "",
+      "cast": "Raju Sundaram, Simran",
+      "source_url": "https://en.wikipedia.org/wiki/I_Love_You_Da",
+      "created_at": "2026-10-14 12:33:47",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Tippu",
+          "singers": "Snehan",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "Shankar Mahadevan",
+          "singers": "Snehan",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "Yugendran, Pop Shalini",
+          "singers": "P. Vijay",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "Karthik, Pop Shalini",
+          "singers": "Vairamuthu",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "Mathangi",
+          "singers": "P. Vijay",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 6,
+          "title": "Bharadwaj",
+          "singers": "Vairamuthu",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 7,
+          "title": "Hariharan",
+          "singers": "Vairamuthu",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 8,
+          "title": "Reshmi",
+          "singers": "Snehan",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 9,
+          "title": "Mano, Bharadwaj",
+          "singers": "Vairamuthu",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 10,
+          "title": "Josh Neelam, Srinivas",
+          "singers": "Snehan",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 3708,
+      "year": 2002,
+      "title": "Iravu Padagan",
+      "director": "Roshan",
+      "producer": "Tamizhalaya Cine Circuit",
+      "composer": "Rajeshkhanna",
+      "cast": "Babu Ganesh, Gumtaj",
+      "source_url": "https://en.wikipedia.org/wiki/Iravu_Padagan",
+      "created_at": "2026-10-14 13:41:23",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Chinna Chinna Solleduthu",
+          "singers": "Krisharaj, Chorus",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:05",
+          "stream_url": "https://music.youtube.com/watch?v=vvF9TvZZjYY"
+        },
+        {
+          "track_number": 2,
+          "title": "Kaadhalicha Pachaikiliye",
+          "singers": "Unni Menon",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:16",
+          "stream_url": "https://music.youtube.com/watch?v=2h6fVjle3nk"
+        },
+        {
+          "track_number": 3,
+          "title": "Kendai Meenu",
+          "singers": "TKS Natrajan",
+          "lyricist": "",
+          "raga": "",
+          "duration": "5:06",
+          "stream_url": "https://music.youtube.com/watch?v=mkpMm5bDhuM"
+        },
+        {
+          "track_number": 4,
+          "title": "Mazhaithuli Mazhaithuli",
+          "singers": "Anuradha Sriram",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:46",
+          "stream_url": "https://music.youtube.com/watch?v=lvVkwXoAe9s"
+        },
+        {
+          "track_number": 5,
+          "title": "Minnal Mannil (D)",
+          "singers": "P Unnikrishnan, Swarnalatha",
+          "lyricist": "",
+          "raga": "",
+          "duration": "3:56",
+          "stream_url": "https://music.youtube.com/watch?v=iMwjYWF1VtQ"
+        },
+        {
+          "track_number": 6,
+          "title": "Nagathukku Mogamadi",
+          "singers": "Krisharaj",
+          "lyricist": "",
+          "raga": "",
+          "duration": "3:50",
+          "stream_url": "https://music.youtube.com/watch?v=CjJBpUrL5V0"
+        }
+      ]
+    },
+    {
+      "id": 3712,
+      "year": 2002,
+      "title": "Isthri",
+      "director": "Anil",
+      "producer": "",
+      "composer": "Magic Cryptic Box",
+      "cast": "Saravana Film Creations",
+      "source_url": "https://en.wikipedia.org/wiki/Isthri",
+      "created_at": "2026-10-14 13:41:27",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Motion Pluck",
+          "singers": "Magic Cryptic Box",
+          "lyricist": "",
+          "raga": "",
+          "duration": "3:36",
+          "stream_url": "https://music.youtube.com/watch?v=cetluiLMt6A"
+        },
+        {
+          "track_number": 2,
+          "title": "Change the Mood",
+          "singers": "Magic Cryptic Box",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:22",
+          "stream_url": "https://music.youtube.com/watch?v=aSyGK9cLJW4"
+        },
+        {
+          "track_number": 3,
+          "title": "Rush",
+          "singers": "Magic Cryptic Box",
+          "lyricist": "",
+          "raga": "",
+          "duration": "3:03",
+          "stream_url": "https://music.youtube.com/watch?v=A2AbyLtbAbM"
+        }
+      ]
+    },
+    {
+      "id": 3694,
+      "year": 2002,
+      "title": "Ivan",
+      "director": "R. Parthiban",
+      "producer": "Bioscope Film Framers",
+      "composer": "",
+      "cast": "R. Parthiban, Soundarya, Meena",
+      "source_url": "https://en.wikipedia.org/wiki/Ivan_%282002_film%29",
+      "created_at": "2026-10-14 13:40:47",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Appadi Pakrathuna",
+          "singers": "Mathangi, P. Unnikrishnan",
+          "lyricist": "Palani Bharathi",
+          "raga": "",
+          "duration": "05:55",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "Bhajanai Seivom",
+          "singers": "S. N. Surendar, Arunmozhi, Febi Mani",
+          "lyricist": "Ilaiyaraaja",
+          "raga": "",
+          "duration": "01:03",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "Ennai Yenna Seithai Vengulalae",
+          "singers": "Sudha Ragunathan",
+          "lyricist": "Vaali",
+          "raga": "",
+          "duration": "06:18",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "Enakkinai Yaar",
+          "singers": "Sudha Ragunathan",
+          "lyricist": "Muthulingam",
+          "raga": "",
+          "duration": "01:09",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "Kannan Nee En",
+          "singers": "Sudha Ragunathan",
+          "lyricist": "Muthulingam",
+          "raga": "",
+          "duration": "04:51",
+          "stream_url": ""
+        },
+        {
+          "track_number": 6,
+          "title": "Male Toppula",
+          "singers": "Karthik, Malgudi Subha",
+          "lyricist": "Kabilan",
+          "raga": "",
+          "duration": "04:40",
+          "stream_url": ""
+        },
+        {
+          "track_number": 7,
+          "title": "Pattukku Pogathinga",
+          "singers": "Arunmozhi",
+          "lyricist": "Ilaiyaraaja",
+          "raga": "",
+          "duration": "00:47",
+          "stream_url": ""
+        },
+        {
+          "track_number": 8,
+          "title": "Thoolu Thoolu",
+          "singers": "Karthik, Sujatha",
+          "lyricist": "Na. Muthukumar",
+          "raga": "",
+          "duration": "04:43",
+          "stream_url": ""
+        },
+        {
+          "track_number": 9,
+          "title": "Ulagame Nee",
+          "singers": "Palakkad Sreeram",
+          "lyricist": "Mu. Metha",
+          "raga": "",
+          "duration": "05:03",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 3705,
+      "year": 2002,
+      "title": "Jaya",
+      "director": "Rathnaraj",
+      "producer": "Ratna Films",
+      "composer": "",
+      "cast": "Ramya Krishnan, Sherin, Sriman",
+      "source_url": "https://en.wikipedia.org/wiki/Jaya_%28film%29",
+      "created_at": "2026-10-14 13:41:15",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Berla Berla",
+          "singers": "Anuradha Sriram",
+          "lyricist": "Kabilan",
+          "raga": "",
+          "duration": "Kabilan",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "Gundu Banagara Goli",
+          "singers": "Manikka Vinayagam",
+          "lyricist": "Pa. Vijay",
+          "raga": "",
+          "duration": "Pa. Vijay",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "Jinjinna Jinjinna",
+          "singers": "Sujatha, Sumitra",
+          "lyricist": "Thamarai",
+          "raga": "",
+          "duration": "Thamarai",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "Nilave Nilave",
+          "singers": "K. S. Chithra",
+          "lyricist": "Thamarai",
+          "raga": "",
+          "duration": "Thamarai",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "Tension Tension",
+          "singers": "Anuradha Sriram",
+          "lyricist": "Newton",
+          "raga": "",
+          "duration": "Newton",
+          "stream_url": ""
+        },
+        {
+          "track_number": 6,
+          "title": "Velli Kolusu Mani",
+          "singers": "Srinivas",
+          "lyricist": "Palani Bharathi",
+          "raga": "",
+          "duration": "Palani Bharathi",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 3701,
+      "year": 2002,
+      "title": "Jjunction",
+      "director": "R. S. Ramanathan",
+      "producer": "Hi-Tec Media",
+      "composer": "",
+      "cast": "Abhinay, Kanishka Sodhi, Aamna Sharif",
+      "source_url": "https://en.wikipedia.org/wiki/Jjunction",
+      "created_at": "2026-10-14 13:40:58",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Srinivas, Reshmi",
+          "singers": "Newton",
+          "lyricist": "4:29",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "Yugendran",
+          "singers": "Snehan",
+          "lyricist": "4:32",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "Praveen",
+          "singers": "Annamalai",
+          "lyricist": "4:36",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "Balram, Srilekha Parthasarathy",
+          "singers": "Piraisoodan",
+          "lyricist": "4:07",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "Prashanthini",
+          "singers": "Viveka",
+          "lyricist": "4:38",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 3680,
+      "year": 2002,
+      "title": "Junior Senior",
+      "director": "J. Suresh",
+      "producer": "Sakthi International",
+      "composer": "",
+      "cast": "Mammooty, Hamsavardhan, Charulatha, Leena",
+      "source_url": "https://en.wikipedia.org/wiki/Junior_Senior_%282002_film%29",
+      "created_at": "2026-10-14 13:40:25",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "P. Unnikrishnan",
+          "singers": "V. Ilango",
+          "lyricist": "4:20",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "Vijay Yesudas",
+          "singers": "Pa. Vijay",
+          "lyricist": "1:48",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "Yuvan Shankar Raja, Yugendran, Premji Amaran",
+          "singers": "Pa. Vijay",
+          "lyricist": "4:18",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "Srinivas, Tippu",
+          "singers": "Pa. Vijay",
+          "lyricist": "4:35",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "Chitra Sivaraman",
+          "singers": "Pa. Vijay",
+          "lyricist": "4:23",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 6,
+          "title": "S. P. Balasubrahmanyam, Swarnalatha",
+          "singers": "Pa. Vijay",
+          "lyricist": "3:36",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 604,
+      "year": 2002,
+      "title": "Kadhal Azhivathillai",
+      "director": "T. Rajendar",
+      "producer": "Simbhu Cine Arts",
+      "composer": "",
+      "cast": "Simbhu, Charmy",
+      "source_url": "https://en.wikipedia.org/wiki/Kadhal_Azhivathillai",
+      "created_at": "2026-10-14 12:33:40",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Pilaiyar Suzhi",
+          "singers": "Shankar Mahadevan",
+          "lyricist": "06:32",
+          "raga": "",
+          "duration": "06:32",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "Paarkadha Podhu Podhu",
+          "singers": "P. Unnikrishnan, Silambarasan",
+          "lyricist": "06:08",
+          "raga": "",
+          "duration": "06:08",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "Kadhal Azhivathilai",
+          "singers": "S. P. Balasubrahmanyam",
+          "lyricist": "06:51",
+          "raga": "",
+          "duration": "06:51",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "Jothikava",
+          "singers": "Silambarasan",
+          "lyricist": "05:01",
+          "raga": "",
+          "duration": "05:01",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "Clinton Magalo",
+          "singers": "Silambarasan",
+          "lyricist": "06:40",
+          "raga": "",
+          "duration": "06:40",
+          "stream_url": ""
+        },
+        {
+          "track_number": 6,
+          "title": "Maara Maara",
+          "singers": "Tippu, Anupama",
+          "lyricist": "06:24",
+          "raga": "",
+          "duration": "06:24",
+          "stream_url": ""
+        },
+        {
+          "track_number": 7,
+          "title": "Evanthan",
+          "singers": "S. P. Balasubrahmanyam",
+          "lyricist": "05:47",
+          "raga": "",
+          "duration": "05:47",
+          "stream_url": ""
+        },
+        {
+          "track_number": 8,
+          "title": "En Manasil",
+          "singers": "Prasanna Rao, Srivardhini",
+          "lyricist": "06:09",
+          "raga": "",
+          "duration": "06:09",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 3707,
+      "year": 2002,
+      "title": "Kadhal Virus",
+      "director": "Kathir",
+      "producer": "Sound & Light Studios",
+      "composer": "",
+      "cast": "Richard Rishi, Sridevi Vijayakumar, Abbas",
+      "source_url": "https://en.wikipedia.org/wiki/Kadhal_Virus",
+      "created_at": "2026-10-14 13:41:20",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Vasundhara Das",
+          "singers": "Pa. Vijay",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "P. Unnikrishnan, Harini",
+          "singers": "Vairamuthu",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "Srinivas, Karthik",
+          "singers": "Vaalee",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "S. P. Balasubrahmanyam, Swarnalatha",
+          "singers": "Pa. Vijay",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "Silambarasan, Tippu",
+          "singers": "Vaalee",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 6,
+          "title": "Mano, Clinton Cerejo",
+          "singers": "Vaalee",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 3709,
+      "year": 2002,
+      "title": "Kalai Kalluri",
+      "director": "Chandrasekhar",
+      "producer": "Gold Star Pictures",
+      "composer": "",
+      "cast": "Madoo, Swetha Rao",
+      "source_url": "https://en.wikipedia.org/wiki/Kalai_Kalluri",
+      "created_at": "2026-10-14 13:41:24",
+      "tracks": []
+    },
+    {
+      "id": 3677,
+      "year": 2002,
+      "title": "Kamarasu",
+      "director": "P. C. Anbazhagan",
+      "producer": "Shanthi Vanaraja Films",
+      "composer": "",
+      "cast": "Murali, Laila, Chandrasekhar, Srividya",
+      "source_url": "https://en.wikipedia.org/wiki/Kamarasu",
+      "created_at": "2026-10-14 13:40:15",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Swarnalatha S.P.Balasubramanyam",
+          "singers": "Mu. Metha",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "K. S. Chithra, P. Unnikrishnan",
+          "singers": "Muthulingam",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "Hariharan",
+          "singers": "Arivumathi",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "S. A. Rajkumar, Mano, Swarnalatha",
+          "singers": "Mu. Metha",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "Nagore E. M. Hanifa",
+          "singers": "Mu. Metha",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 6,
+          "title": "K. S. Chithra, S. P. Balasubrahmanyam",
+          "singers": "Mu. Metha",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 7,
+          "title": "Krishnaraj, Sujatha",
+          "singers": "Kalidasan",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 555,
+      "year": 2002,
+      "title": "Kannathil Muthamittal",
+      "director": "Mani Ratnam",
+      "producer": "Madras Talkies",
+      "composer": "",
+      "cast": "R. Madhavan, Simran, Nandita Das",
+      "source_url": "https://en.wikipedia.org/wiki/Kannathil_Muthamittal",
+      "created_at": "2026-10-14 12:32:47",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Vellai Pookal",
+          "singers": "A. R. Rahman",
+          "lyricist": "",
+          "raga": "",
+          "duration": "5:18",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "Sundari",
+          "singers": "[[Hariharan (singer)",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:52",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "Oru Dheivam Thantha Poove",
+          "singers": "P. Jayachandran, [[Chinmayi Sripada",
+          "lyricist": "",
+          "raga": "Male",
+          "duration": "6:37",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "Signore Signore (lyrics:B.H.Abdul Hameed)",
+          "singers": "Swarnalatha, [[Anupama (singer)",
+          "lyricist": "",
+          "raga": "",
+          "duration": "3:31",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "Vidai Kodu Engal Naadae",
+          "singers": "M. S. Viswanathan, Balram, Febi Mani, A. R. Reihana, Manikka Vinayagam",
+          "lyricist": "",
+          "raga": "",
+          "duration": "6:12",
+          "stream_url": ""
+        },
+        {
+          "track_number": 7,
+          "title": "Sattena Nenaindhadhu Nenjam",
+          "singers": "Minmini",
+          "lyricist": "",
+          "raga": "",
+          "duration": "2:07",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 3693,
+      "year": 2002,
+      "title": "Karmegham",
+      "director": "S. P. Rajkumar",
+      "producer": "SSR Movies",
+      "composer": "",
+      "cast": "Mammooty, Abhirami",
+      "source_url": "https://en.wikipedia.org/wiki/Karmegham",
+      "created_at": "2026-10-14 13:40:45",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Unni Menon, Antara Chowdhury",
+          "singers": "Arivumathi",
+          "lyricist": "4:44",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "Vidyasagar",
+          "singers": "Yugabharathi",
+          "lyricist": "3:48",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "Shankar Mahadevan, Sri Vardhini",
+          "singers": "Palani Bharathi",
+          "lyricist": "4:18",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "Malathy Lakshman, Gopal Sharma",
+          "singers": "Pa. Vijay",
+          "lyricist": "4:41",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "Malathi Lakshman",
+          "singers": "Pa. Vijay",
+          "lyricist": "4:41",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 6,
+          "title": "Manikka Vinayagam, Swarnalatha",
+          "singers": "Palani Bharathi",
+          "lyricist": "4:37",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 3697,
+      "year": 2002,
+      "title": "King",
+      "director": "Prabu Solomon",
+      "producer": "Indian Theatre Production",
+      "composer": "",
+      "cast": "Vikram, Sneha",
+      "source_url": "https://en.wikipedia.org/wiki/King_%282002_film%29",
+      "created_at": "2026-10-14 13:40:52",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Achuvellam Pacharisi",
+          "singers": "Shankar Mahadevan, Mahalakshmi Iyer",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:43",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "Gongura Gongura",
+          "singers": "[[Mathangi Jagdish",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:01",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "Kadhalagi Kadhalagi",
+          "singers": "P. Unnikrishnan, [[Sujatha Mohan",
+          "lyricist": "",
+          "raga": "",
+          "duration": "5:12",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "Kalathai Mathikindra",
+          "singers": "[[Karthik (singer)",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:20",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "Kulu Kulu Kaatre",
+          "singers": "[[Tippu (singer)",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:01",
+          "stream_url": ""
+        },
+        {
+          "track_number": 6,
+          "title": "Loveaagi En Nenje",
+          "singers": "Tippu",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:34",
+          "stream_url": ""
+        },
+        {
+          "track_number": 7,
+          "title": "Sagiye Pohathe Pohathe",
+          "singers": "[[Devan Ekambaram",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:20",
+          "stream_url": ""
+        },
+        {
+          "track_number": 8,
+          "title": "Saturday Sunday",
+          "singers": "Clinton",
+          "lyricist": "",
+          "raga": "",
+          "duration": "5:12",
+          "stream_url": ""
+        },
+        {
+          "track_number": 9,
+          "title": "Summa Siri Siri",
+          "singers": "Murugesh, Febi Mani",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:53",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 3699,
+      "year": 2002,
+      "title": "Maaran",
+      "director": "A. Jawahar",
+      "producer": "Power Media",
+      "composer": "",
+      "cast": "Sathyaraj, Seetha, Abhinayashree",
+      "source_url": "https://en.wikipedia.org/wiki/Maaran_%282002_film%29",
+      "created_at": "2026-10-14 13:40:55",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Unni Menon, Sujatha Mohan",
+          "singers": "5:07",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "S. P. B. Charan, Mathangi",
+          "singers": "4:08",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "Unni Menon",
+          "singers": "5:33",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "Anuradha Sriram",
+          "singers": "5:14",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "Silambarasan",
+          "singers": "4:59",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 613,
+      "year": 2002,
+      "title": "Mounam Pesiyadhe",
+      "director": "Ameer",
+      "producer": "Aparajeeth Films",
+      "composer": "",
+      "cast": "Suriya, Trisha, Laila",
+      "source_url": "https://en.wikipedia.org/wiki/Mounam_Pesiyadhe",
+      "created_at": "2026-10-14 12:33:51",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Shankar Mahadevan",
+          "singers": "Kamakodiyan",
+          "lyricist": "4:45",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "Hariharan, Yuvan Shankar Raja",
+          "singers": "Pudhuvai Nambi",
+          "lyricist": "5:16",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "Karthik",
+          "singers": "Snehan",
+          "lyricist": "4:29",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "Hariharan, Shankar Mahadevan",
+          "singers": "Snehan",
+          "lyricist": "4:13",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "Manikka Vinayagam, Malgudi Subha",
+          "singers": "Vaali",
+          "lyricist": "3:50",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 6,
+          "title": "Nidhesh Gopalan, Yuvan Shankar Raja",
+          "singers": "Vaali",
+          "lyricist": "4:01",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 7,
+          "title": "Yuvan Shankar Raja",
+          "singers": "Ameer",
+          "lyricist": "1:52",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 8,
+          "title": "S. P. Balasubrahmanyam, Thara",
+          "singers": "Ameer",
+          "lyricist": "4:50",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 611,
+      "year": 2002,
+      "title": "Mutham",
+      "director": "S. A. Chandrasekhar",
+      "producer": "Digital Magic Productions",
+      "composer": "",
+      "cast": "Arun Vijay, Nagendra Prasad, Charulatha, Nanditha",
+      "source_url": "https://en.wikipedia.org/wiki/Mutham",
+      "created_at": "2026-10-14 12:33:49",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Tippu, Harini",
+          "singers": "Snehan",
+          "lyricist": "4:59",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "Malgudi Subha",
+          "singers": "Thamarai",
+          "lyricist": "4:56",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "Harish Raghavendra, K. S. Chithra",
+          "singers": "Snehan",
+          "lyricist": "4:54",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "P. Unni Krishnan, S. A. Chandrasekhar",
+          "singers": "Newton",
+          "lyricist": "3:31",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "Tippu",
+          "singers": "Pa. Vijay",
+          "lyricist": "5:05",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 6,
+          "title": "Harish Raghavendra, Swarnalatha",
+          "singers": "Newton",
+          "lyricist": "5:17",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 3696,
+      "year": 2002,
+      "title": "Naina",
+      "director": "Manobala",
+      "producer": "VSK Films",
+      "composer": "",
+      "cast": "Jayaram, Manya",
+      "source_url": "https://en.wikipedia.org/wiki/Naina_%282002_film%29",
+      "created_at": "2026-10-14 13:40:49",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Deva, Krishnaraj",
+          "singers": "5:01",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "Vadivelu, Krishnaraj",
+          "singers": "4:59",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "Karthik, Chitra Sivaraman",
+          "singers": "5:12",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "Srinivas, Anuradha Sriram",
+          "singers": "5:47",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "Rajiv Menon, Mathangi Jagdish",
+          "singers": "5:46",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 6,
+          "title": "P. Unni Krishnan, Harini",
+          "singers": "6:06",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 596,
+      "year": 2002,
+      "title": "Namma Veetu Kalyanam",
+      "director": "V. Sekhar",
+      "producer": "Thiruvalluvar Kalaikoodam",
+      "composer": "",
+      "cast": "Murali, Meena, Vindhya,  Vivek, Vadivelu",
+      "source_url": "https://en.wikipedia.org/wiki/Namma_Veetu_Kalyanam",
+      "created_at": "2026-10-14 12:33:30",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Srinivas, Swarnalatha",
+          "singers": "Pa. Vijay",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "Mano",
+          "singers": "Arivumathi",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "K. S. Chithra, S. P. Balasubrahmanyam",
+          "singers": "Thamarai",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "Karthik",
+          "singers": "Kalaikumar",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 619,
+      "year": 2002,
+      "title": "Nanba Nanba",
+      "director": "Jayabharathi",
+      "producer": "Media Works",
+      "composer": "Sanathan Shree Krishnan",
+      "cast": "Chandrasekhar, Charle",
+      "source_url": "https://en.wikipedia.org/wiki/Nanba_Nanba",
+      "created_at": "2026-10-14 12:33:59",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Nanba Nanba Nanba",
+          "singers": "Sanathan Shree Krishnan",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:19",
+          "stream_url": "https://music.youtube.com/watch?v=TBNsMXAx6Kg"
+        }
+      ]
+    },
+    {
+      "id": 3713,
+      "year": 2002,
+      "title": "Needhiyin Vasalile",
+      "director": "K. Maniyarasu",
+      "producer": "",
+      "composer": "",
+      "cast": "MM Creations",
+      "source_url": "https://en.wikipedia.org/wiki/Needhiyin_Vasalile",
+      "created_at": "2026-10-14 13:41:28",
+      "tracks": []
+    },
+    {
+      "id": 3684,
+      "year": 2002,
+      "title": "Nettru Varai Nee Yaaro",
+      "director": "A. Sridhar",
+      "producer": "Nivedhitha Cine Arts",
+      "composer": "[[Deva (composer)",
+      "cast": "Hamsavardhan, Ruchita Prasad",
+      "source_url": "https://en.wikipedia.org/wiki/Nettru_Varai_Nee_Yaaro",
+      "created_at": "2026-10-14 13:40:31",
+      "tracks": []
+    },
+    {
+      "id": 3718,
+      "year": 2002,
+      "title": "October 22",
+      "director": "Vasu",
+      "producer": "Akashathile Paravaigal",
+      "composer": "Malayalam",
+      "cast": "V. M. Vinu",
+      "source_url": "https://en.wikipedia.org/wiki/October_22",
+      "created_at": "2026-10-14 13:41:34",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "October, 22",
+          "singers": "Saulo Pavão",
+          "lyricist": "",
+          "raga": "",
+          "duration": "2:33",
+          "stream_url": "https://music.youtube.com/watch?v=ChjSZf9AHBI"
+        }
+      ]
+    },
+    {
+      "id": 3719,
+      "year": 2002,
+      "title": "October 28",
+      "director": "H2O Kaveri",
+      "producer": "H2O",
+      "composer": "Kannada",
+      "cast": "Lokanath-Rajaram",
+      "source_url": "https://en.wikipedia.org/wiki/October_28",
+      "created_at": "2026-10-14 13:41:35",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "October 28",
+          "singers": "Rafat Hauque",
+          "lyricist": "",
+          "raga": "",
+          "duration": "5:41",
+          "stream_url": "https://music.youtube.com/watch?v=TFMLHNNYW2E"
+        }
+      ]
+    },
+    {
+      "id": 605,
+      "year": 2002,
+      "title": "Padai Veetu Amman",
+      "director": "Pugazhmani",
+      "producer": "Televista Digitals",
+      "composer": "",
+      "cast": "Ramki, Meena, Devayani",
+      "source_url": "https://en.wikipedia.org/wiki/Padai_Veetu_Amman",
+      "created_at": "2026-10-14 12:33:41",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Swarnalatha",
+          "singers": "Rama Narayanan",
+          "lyricist": "04:41",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "K. S. Chitra",
+          "singers": "Kalidasan",
+          "lyricist": "05:22",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "K. S. Chithra, Keerthi",
+          "singers": "Kalidasan",
+          "lyricist": "05:09",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "Baby Vaishali",
+          "singers": "Kirithiya",
+          "lyricist": "04:15",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 557,
+      "year": 2002,
+      "title": "Pammal K. Sambandam",
+      "director": "Mouli",
+      "producer": "Sri Rajlakshmi Films",
+      "composer": "",
+      "cast": "Kamal Haasan, Simran, Abbas, Sneha",
+      "source_url": "https://en.wikipedia.org/wiki/Pammal_K._Sambandam",
+      "created_at": "2026-10-14 12:32:50",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Endi Sudamani",
+          "singers": "Anuradha Sriram",
+          "lyricist": "[[Vaali (poet)",
+          "raga": "",
+          "duration": "3:54",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "Kandhasamy Maadasamy",
+          "singers": "Kamal Haasan",
+          "lyricist": "Kamal Haasan",
+          "raga": "",
+          "duration": "5:30",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "Sakalakala Vallavane",
+          "singers": "[[Hariharan (singer)",
+          "lyricist": "[[Kabilan (lyricist)",
+          "raga": "",
+          "duration": "5:40",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "Gadothkaja",
+          "singers": "[[Srinivas (singer)",
+          "lyricist": "Vaali",
+          "raga": "",
+          "duration": "5:38",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "Penne Kadhal",
+          "singers": "[[KK (singer)",
+          "lyricist": "Vaali",
+          "raga": "",
+          "duration": "4:22",
+          "stream_url": ""
+        },
+        {
+          "track_number": 6,
+          "title": "Dindukallu Poota",
+          "singers": "Shankar Mahadevan, Mahalakshmi Iyer",
+          "lyricist": "Pa. Vijay",
+          "raga": "",
+          "duration": "5:06",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 553,
+      "year": 2002,
+      "title": "Panchatanthiram",
+      "director": "K. S. Ravikumar",
+      "producer": "Sri Rajlakshmi Films",
+      "composer": "",
+      "cast": "Kamal Haasan, Simran, Ramya Krishnan",
+      "source_url": "https://en.wikipedia.org/wiki/Panchatanthiram",
+      "created_at": "2026-10-14 12:32:45",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Ennoda Kadhal",
+          "singers": "[[Harini (singer)",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:48",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "Vandhaen Vandhaen",
+          "singers": "Sujatha Mohan, Nithyasree Mahadevan, Kamal Haasan",
+          "lyricist": "",
+          "raga": "",
+          "duration": "5:40",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "Kadhal Piriyamal",
+          "singers": "Kamal Haasan",
+          "lyricist": "",
+          "raga": "",
+          "duration": "5:58",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "Vai Raja Vai",
+          "singers": "[[Srinivas (singer)",
+          "lyricist": "",
+          "raga": "",
+          "duration": "5:02",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "Manmatha Leelai",
+          "singers": "[[Devan Ekambaram",
+          "lyricist": "",
+          "raga": "",
+          "duration": "5:27",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 3683,
+      "year": 2002,
+      "title": "Pesadha Kannum Pesume",
+      "director": "Murali Krishna",
+      "producer": "Mega Movie Hits",
+      "composer": "",
+      "cast": "Kunal, Monal, Mamtha",
+      "source_url": "https://en.wikipedia.org/wiki/Pesadha_Kannum_Pesume",
+      "created_at": "2026-10-14 13:40:30",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Oh Nila",
+          "singers": "[[Hariharan (singer)",
+          "lyricist": "Pa. Vijay",
+          "raga": "",
+          "duration": "5:10",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "Azhagamma",
+          "singers": "[[Karthik (singer)",
+          "lyricist": "Newton",
+          "raga": "",
+          "duration": "5:03",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "Vinnaivittu",
+          "singers": "Harish Raghavendra, Sumithra",
+          "lyricist": "Pa. Vijay",
+          "raga": "",
+          "duration": "5:23",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "Chikkango",
+          "singers": "[[Tippu (singer)",
+          "lyricist": "Pa. Vijay",
+          "raga": "",
+          "duration": "4:54",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "Udhadugal",
+          "singers": "Tippu, Swarnalatha",
+          "lyricist": "[[Kabilan (lyricist)",
+          "raga": "",
+          "duration": "5:22",
+          "stream_url": ""
+        },
+        {
+          "track_number": 6,
+          "title": "Figaru Figaru",
+          "singers": "Krishnaraj",
+          "lyricist": "Newton",
+          "raga": "",
+          "duration": "4:38",
+          "stream_url": ""
+        },
+        {
+          "track_number": 7,
+          "title": "Jodipotta",
+          "singers": "Pushpavanam Kuppusamy",
+          "lyricist": "Mani",
+          "raga": "",
+          "duration": "1:35",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 3695,
+      "year": 2002,
+      "title": "Plus 2",
+      "director": "Krithik",
+      "producer": "Friendship Creations",
+      "composer": "Teazysoundz",
+      "cast": "Krithik, Suja Varunee",
+      "source_url": "https://en.wikipedia.org/wiki/Plus_2",
+      "created_at": "2026-10-14 13:40:48",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "2 PLUS 2",
+          "singers": "Teazysoundz",
+          "lyricist": "",
+          "raga": "",
+          "duration": "2:19",
+          "stream_url": "https://music.youtube.com/watch?v=gakrFzqwFkY"
+        }
+      ]
+    },
+    {
+      "id": 3714,
+      "year": 2002,
+      "title": "Pudhiya Alai",
+      "director": "Rajkathir",
+      "producer": "Bhuvaneswari Cinemalayaa",
+      "composer": "Napoleon",
+      "cast": "Jeevan Ravi, Abitha",
+      "source_url": "https://en.wikipedia.org/wiki/Pudhiya_Alai",
+      "created_at": "2026-10-14 13:41:29",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Kaathu Kaathu",
+          "singers": "Mano",
+          "lyricist": "",
+          "raga": "",
+          "duration": "5:08",
+          "stream_url": "https://music.youtube.com/watch?v=_nFtx_RByFY"
+        },
+        {
+          "track_number": 2,
+          "title": "Panmbara naduvin female",
+          "singers": "KS Chitra",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:44",
+          "stream_url": "https://music.youtube.com/watch?v=9T2VDTZjyw4"
+        },
+        {
+          "track_number": 3,
+          "title": "Panmbara naduvin male",
+          "singers": "Unni Menon",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:44",
+          "stream_url": "https://music.youtube.com/watch?v=5Ea6FsQqAks"
+        },
+        {
+          "track_number": 4,
+          "title": "Pirandhal Naal",
+          "singers": "Mano",
+          "lyricist": "",
+          "raga": "",
+          "duration": "5:10",
+          "stream_url": "https://music.youtube.com/watch?v=o_ZEsu2XHKw"
+        },
+        {
+          "track_number": 5,
+          "title": "Pudhia Alai",
+          "singers": "TMS",
+          "lyricist": "",
+          "raga": "",
+          "duration": "5:18",
+          "stream_url": "https://music.youtube.com/watch?v=dNEC8AyxrCw"
+        },
+        {
+          "track_number": 6,
+          "title": "Saidapet Junction",
+          "singers": "Mano",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:32",
+          "stream_url": "https://music.youtube.com/watch?v=ebH435_w-uc"
+        }
+      ]
+    },
+    {
+      "id": 3670,
+      "year": 2002,
+      "title": "Punnagai Desam",
+      "director": "K. Shajahan",
+      "producer": "Super Good Films",
+      "composer": "",
+      "cast": "Tarun, Kunal, Sneha, Hamsavardhan, Preetha",
+      "source_url": "https://en.wikipedia.org/wiki/Punnagai_Desam",
+      "created_at": "2026-10-14 13:40:06",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "P. Unnikrishnan, Harish Raghavendra, Swarnalatha, Dr. Narayanan",
+          "singers": "P. Vijay",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "Shankar Mahadevan",
+          "singers": "Vaali",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "Hariharan",
+          "singers": "Viveka",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "P. Unnikrishnan",
+          "singers": "Ra. Ravishankar",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "Sujatha",
+          "singers": "Kalaikumar",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 565,
+      "year": 2002,
+      "title": "Raajjiyam",
+      "director": "Manoj Kumar",
+      "producer": "Guru Films",
+      "composer": "",
+      "cast": "Vijayakanth, Dileep, Shamita Shetty, Priyanka Trivedi,",
+      "source_url": "https://en.wikipedia.org/wiki/Raajjiyam",
+      "created_at": "2026-10-14 12:32:57",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Naan Unna Ninaichen",
+          "singers": "S. P. Balasubrahmanyam, Pop Shalini",
+          "lyricist": "S. P. Balasubrahmanyam, Pop Shalini",
+          "raga": "",
+          "duration": "S. P. Balasubrahmanyam, Pop Shalini",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "Thamizhan Thamizhan",
+          "singers": "Krishnaraj, S. P. Balasubrahmanyam",
+          "lyricist": "Krishnaraj, S. P. Balasubrahmanyam",
+          "raga": "",
+          "duration": "Krishnaraj, S. P. Balasubrahmanyam",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "Ore Oru Punnagai",
+          "singers": "P. Unnikrishnan, Sujatha",
+          "lyricist": "P. Unnikrishnan, Sujatha",
+          "raga": "",
+          "duration": "P. Unnikrishnan, Sujatha",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "Oru Aayiram Suriya",
+          "singers": "Reshmi, Bharadwaj",
+          "lyricist": "Reshmi, Bharadwaj",
+          "raga": "",
+          "duration": "Reshmi, Bharadwaj",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "Namma Ooru Chennaiyile",
+          "singers": "Sabesh",
+          "lyricist": "Sabesh",
+          "raga": "",
+          "duration": "Sabesh",
+          "stream_url": ""
+        },
+        {
+          "track_number": 6,
+          "title": "Annan Thambi",
+          "singers": "Bharadwaj",
+          "lyricist": "Bharadwaj",
+          "raga": "",
+          "duration": "Bharadwaj",
+          "stream_url": ""
+        },
+        {
+          "track_number": 7,
+          "title": "Uyir Theduthe",
+          "singers": "Bharadwaj",
+          "lyricist": "Bharadwaj",
+          "raga": "",
+          "duration": "Bharadwaj",
+          "stream_url": ""
+        },
+        {
+          "track_number": 8,
+          "title": "Kangalai Pole",
+          "singers": "Bharadwaj",
+          "lyricist": "Bharadwaj",
+          "raga": "",
+          "duration": "Bharadwaj",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 4521,
+      "year": 2002,
+      "title": "Rahasyam",
+      "director": "Vikram Bhatt",
+      "producer": "Hindi",
+      "composer": "Dino Morea, Bipasha Basu",
+      "cast": "Raaz",
+      "source_url": "https://en.wikipedia.org/wiki/Rahasyam",
+      "created_at": "2026-10-14 14:10:55",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Evevo Baasalu",
+          "singers": "Mahalaxmi, P.balaram",
+          "lyricist": "",
+          "raga": "",
+          "duration": "5:36",
+          "stream_url": "https://music.youtube.com/watch?v=tgfXEz2X05M"
+        },
+        {
+          "track_number": 2,
+          "title": "Kantiki Eduruga",
+          "singers": "Mahalaxmi, R. Vijaya Prakash",
+          "lyricist": "",
+          "raga": "",
+          "duration": "5:43",
+          "stream_url": "https://music.youtube.com/watch?v=JAPKFujt2A8"
+        },
+        {
+          "track_number": 3,
+          "title": "Needu Premenule",
+          "singers": "Mahalaxmi",
+          "lyricist": "",
+          "raga": "",
+          "duration": "5:26",
+          "stream_url": "https://music.youtube.com/watch?v=WkchRmy_3_k"
+        },
+        {
+          "track_number": 4,
+          "title": "Neelanti Jodu",
+          "singers": "Mahalaxmi, P.balaram",
+          "lyricist": "",
+          "raga": "",
+          "duration": "5:20",
+          "stream_url": "https://music.youtube.com/watch?v=ne6JEA6cu5c"
+        },
+        {
+          "track_number": 5,
+          "title": "Jillumantondi",
+          "singers": "Mahalaxmi, P.balaram",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:17",
+          "stream_url": "https://music.youtube.com/watch?v=NK4el7QvMvY"
+        },
+        {
+          "track_number": 6,
+          "title": "Ee Nagarame",
+          "singers": "R. Vijaya Prakash, Mahalaxmi",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:53",
+          "stream_url": "https://music.youtube.com/watch?v=BOVhFxntDA4"
+        }
+      ]
+    },
+    {
+      "id": 3689,
+      "year": 2002,
+      "title": "Raja",
+      "director": "Ezhil",
+      "producer": "Serene Movie Makers",
+      "composer": "",
+      "cast": "Ajith Kumar, Jyothika, Priyanka Trivedi",
+      "source_url": "https://en.wikipedia.org/wiki/Raja_%282002_film%29",
+      "created_at": "2026-10-14 13:40:38",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Chinna Chinna",
+          "singers": "Mahalakshmi Iyer, Timmy",
+          "lyricist": "Pa. Vijay",
+          "raga": "",
+          "duration": "5:10",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "Karisai Kaattu Pennae",
+          "singers": "K. S. Chithra, Manikka Vinayagam, Chorus",
+          "lyricist": "S. A. Rajkumar",
+          "raga": "",
+          "duration": "5:39",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "Nee Paakinrai",
+          "singers": "Rajesh Krishnan, S. A. Rajkumar",
+          "lyricist": "Muthu Vijayan",
+          "raga": "",
+          "duration": "5:24",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "Oru Pouranami",
+          "singers": "[[Hariharan (singer)",
+          "lyricist": "Kalaikumar",
+          "raga": "",
+          "duration": "5:34",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "Singari Singari",
+          "singers": "[[Karthik (singer)",
+          "lyricist": "Pa. Vijay",
+          "raga": "",
+          "duration": "3:01",
+          "stream_url": ""
+        },
+        {
+          "track_number": 6,
+          "title": "Vethalaikodiye",
+          "singers": "Karthik, Krishnaraj",
+          "lyricist": "Kalaikumar",
+          "raga": "",
+          "duration": "5:12",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 548,
+      "year": 2002,
+      "title": "Ramanaa",
+      "director": "A. R. Murugadoss",
+      "producer": "Oscar Films",
+      "composer": "",
+      "cast": "Vijayakanth, Ashima Bhalla, Simran",
+      "source_url": "https://en.wikipedia.org/wiki/Ramanaa",
+      "created_at": "2026-10-14 12:32:39",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Vaanaviley",
+          "singers": "[[Hariharan (singer)",
+          "lyricist": "Palani Bharathi",
+          "raga": "",
+          "duration": "5:15",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "Vennilavin",
+          "singers": "Hariharan, Sadhana Sargam",
+          "lyricist": "Palani Bharathi",
+          "raga": "",
+          "duration": "5:51",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "Vaanam Adhirave",
+          "singers": "P. Unnikrishnan, Sadhana Sargam, Bhavatharini, Chorus",
+          "lyricist": "Mu. Metha",
+          "raga": "",
+          "duration": "4:58",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "Oorukkoru",
+          "singers": "Ilaiyaraaja",
+          "lyricist": "Palani Bharathi",
+          "raga": "",
+          "duration": "5:01",
+          "stream_url": ""
+        },
+        {
+          "track_number": 6,
+          "title": "Alli Mudicha",
+          "singers": "Pushpavanam Kuppusamy, Swarnalatha",
+          "lyricist": "Mu. Metha",
+          "raga": "",
+          "duration": "5:20",
+          "stream_url": ""
+        },
+        {
+          "track_number": 7,
+          "title": "Angey Yaaru Paaru",
+          "singers": "[[Karthik (singer)",
+          "lyricist": "Palani Bharathi",
+          "raga": "",
+          "duration": "5:05",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 3671,
+      "year": 2002,
+      "title": "Red",
+      "director": "Ram Sathya",
+      "producer": "NIC Arts",
+      "composer": "",
+      "cast": "Ajith Kumar, Priya Gill, Salim Ghouse",
+      "source_url": "https://en.wikipedia.org/wiki/Red_%282002_film%29",
+      "created_at": "2026-10-14 13:40:07",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Kannai Kasakkum",
+          "singers": "S. P. Balasubrahmanyam",
+          "lyricist": "",
+          "raga": "",
+          "duration": "7:06",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "Roja Kaathu",
+          "singers": "[[Hariharan (singer)",
+          "lyricist": "",
+          "raga": "",
+          "duration": "5:17",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "November Madham",
+          "singers": "Hariharan, Mahalaxmi Iyer",
+          "lyricist": "",
+          "raga": "",
+          "duration": "6:04",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "Olikuchi Udambukari",
+          "singers": "[[KK (singer)",
+          "lyricist": "",
+          "raga": "",
+          "duration": "6:25",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "Dil Dil Italy Kattil",
+          "singers": "Silambarasan, Mathangi Jagdish",
+          "lyricist": "",
+          "raga": "",
+          "duration": "5:46",
+          "stream_url": ""
+        },
+        {
+          "track_number": 6,
+          "title": "Thai Madiyae",
+          "singers": "[[Tippu (singer)",
+          "lyricist": "",
+          "raga": "",
+          "duration": "6:14",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 3678,
+      "year": 2002,
+      "title": "Roja Kootam",
+      "director": "Sasi",
+      "producer": "Oscar Films",
+      "composer": "",
+      "cast": "Srikanth, Bhoomika, Radhika",
+      "source_url": "https://en.wikipedia.org/wiki/Roja_Kootam",
+      "created_at": "2026-10-14 13:40:16",
+      "tracks": [
+        {
+          "track_number": 2,
+          "title": "1.",
+          "singers": "Anna Saalaiyil",
+          "lyricist": "Karthik",
+          "raga": "",
+          "duration": "Vairamuthu",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "2.",
+          "singers": "Apple Penne Neeyaaro",
+          "lyricist": "Srinivas",
+          "raga": "",
+          "duration": "Vairamuthu",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "3.",
+          "singers": "Azhagin Azhage Nee",
+          "lyricist": "Tippu",
+          "raga": "",
+          "duration": "Vairamuthu",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "4.",
+          "singers": "Mottugale Mottugale",
+          "lyricist": "Sadhana Sargam, Hariharan",
+          "raga": "",
+          "duration": "Vairamuthu",
+          "stream_url": ""
+        },
+        {
+          "track_number": 6,
+          "title": "5.",
+          "singers": "Putham Pudhu Rojaave",
+          "lyricist": "P. Unnikrishnan",
+          "raga": "",
+          "duration": "Vairamuthu",
+          "stream_url": ""
+        },
+        {
+          "track_number": 7,
+          "title": "6.",
+          "singers": "Subbammaa",
+          "lyricist": "Malgudi Subha, Manicka Vinayagam",
+          "raga": "",
+          "duration": "Vairamuthu",
+          "stream_url": ""
+        },
+        {
+          "track_number": 8,
+          "title": "7.",
+          "singers": "Uyir Konda Rojaave",
+          "lyricist": "Bharadwaj",
+          "raga": "",
+          "duration": "Vairamuthu",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 552,
+      "year": 2002,
+      "title": "Run",
+      "director": "N. Lingusamy",
+      "producer": "Sri Surya Movies",
+      "composer": "",
+      "cast": "R. Madhavan, Meera Jasmine, Atul Kulkarni",
+      "source_url": "https://en.wikipedia.org/wiki/Run_%282002_film%29",
+      "created_at": "2026-10-14 12:32:44",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Theradi Veethiyile",
+          "singers": "[[Karthik (singer)",
+          "lyricist": "Na. Muthukumar",
+          "raga": "",
+          "duration": "04:57",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "Ichutha Ichutha",
+          "singers": "[[Devan Ekambaram",
+          "lyricist": "Pa. Vijay",
+          "raga": "",
+          "duration": "04:35",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "Kaadhal Pisase",
+          "singers": "Udit Narayan, Sujatha Mohan",
+          "lyricist": "Yugabharathi",
+          "raga": "",
+          "duration": "04:38",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "Poi Solla Koodaathu",
+          "singers": "[[Hariharan (singer)",
+          "lyricist": "Arivumathi",
+          "raga": "",
+          "duration": "04:53",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "Panikaatrey",
+          "singers": "Balram, Sadhana Sargam",
+          "lyricist": "Thamarai",
+          "raga": "",
+          "duration": "04:38",
+          "stream_url": ""
+        },
+        {
+          "track_number": 6,
+          "title": "Minsaram En Meethu (Kadhal Seeye)",
+          "singers": "Harish Raghavendra, Sadhana Sargam, Jack Smelly",
+          "lyricist": "[[Viveka (lyricist)",
+          "raga": "",
+          "duration": "04:57",
+          "stream_url": ""
+        },
+        {
+          "track_number": 7,
+          "title": "Azhagiya Thimirudan (Priya O Priya)",
+          "singers": "[[Vidyasagar (composer)",
+          "lyricist": "Viveka",
+          "raga": "",
+          "duration": "02:16",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 3700,
+      "year": 2002,
+      "title": "Samasthanam",
+      "director": "Rajkapoor",
+      "producer": "Roja Combines",
+      "composer": "",
+      "cast": "Suresh Gopi, Sarath Kumar, Devayani, Abhirami",
+      "source_url": "https://en.wikipedia.org/wiki/Samasthanam",
+      "created_at": "2026-10-14 13:40:57",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Simbhu",
+          "singers": "Pa. Vijay",
+          "lyricist": "5:38",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "Krishnaraj, Anuradha Sriram, Harini, Srinivas",
+          "singers": "Pa. Vijay",
+          "lyricist": "6:16",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "P. Unnikrishnan, Tippu, Harini, Ganga",
+          "singers": "Na. Muthukumar",
+          "lyricist": "6:23",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "Tippu, Karthik",
+          "singers": "Pa. Vijay",
+          "lyricist": "5:46",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "Simbhu, Sujatha",
+          "singers": "Pa. Vijay",
+          "lyricist": "6:10",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 6,
+          "title": "P. Unnikrishnan",
+          "singers": "Pa. Vijay",
+          "lyricist": "2:12",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 3690,
+      "year": 2002,
+      "title": "Samurai",
+      "director": "Balaji Sakthivel",
+      "producer": "Aalayam Productions",
+      "composer": "",
+      "cast": "Vikram, Anita, Jaya Seel",
+      "source_url": "https://en.wikipedia.org/wiki/Samurai_%282002_film%29",
+      "created_at": "2026-10-14 13:40:39",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Aagaya Suriyanai",
+          "singers": "Harish Raghavendra, [[Harini (singer)",
+          "lyricist": "",
+          "raga": "",
+          "duration": "5:25",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "En Manadhil",
+          "singers": "Vasundhara Das",
+          "lyricist": "",
+          "raga": "",
+          "duration": "5:02",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "Adidadi Appatha",
+          "singers": "Suneeta Rao, Vadivukkarasi",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:38",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "Moongil Kaadugale",
+          "singers": "[[Hariharan (singer)",
+          "lyricist": "",
+          "raga": "",
+          "duration": "6:20",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "Oru Nadhi Oru Pournami",
+          "singers": "Nithyashree Mahadevan, Tushara",
+          "lyricist": "",
+          "raga": "",
+          "duration": "5:34",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 3679,
+      "year": 2002,
+      "title": "Saptham",
+      "director": "Sivaguru",
+      "producer": "Saburaa International",
+      "composer": "Gnana-laal",
+      "cast": "Rishi, Rithiga, Sriman, Abhinayashree",
+      "source_url": "https://en.wikipedia.org/wiki/Saptham",
+      "created_at": "2026-10-14 13:40:19",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Kanava Ninaivaa",
+          "singers": "Anuradha Sriram",
+          "lyricist": "",
+          "raga": "",
+          "duration": "5:15",
+          "stream_url": "https://music.youtube.com/watch?v=po0WPxArXNI"
+        },
+        {
+          "track_number": 2,
+          "title": "Vaanavil Vaanavilk",
+          "singers": "P. Unni Krishnan",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:49",
+          "stream_url": "https://music.youtube.com/watch?v=hOVbLuvmwT8"
+        },
+        {
+          "track_number": 3,
+          "title": "Unthan Pugai Patahai",
+          "singers": "Srinivas, Sujatha",
+          "lyricist": "",
+          "raga": "",
+          "duration": "5:12",
+          "stream_url": "https://music.youtube.com/watch?v=34Rei1xfsxU"
+        },
+        {
+          "track_number": 4,
+          "title": "Enpayar Enakkae",
+          "singers": "Nithyasree Mahadevan",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:56",
+          "stream_url": "https://music.youtube.com/watch?v=s0MQWS1k2uc"
+        },
+        {
+          "track_number": 5,
+          "title": "Ooruni Oorukku",
+          "singers": "Anuradha Sriram",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:36",
+          "stream_url": "https://music.youtube.com/watch?v=OtHN1xckW4w"
+        },
+        {
+          "track_number": 6,
+          "title": "Athimara Poo",
+          "singers": "Krishnaraj, Anuradha Sriram",
+          "lyricist": "",
+          "raga": "",
+          "duration": "5:03",
+          "stream_url": "https://music.youtube.com/watch?v=RXRnSBnnQFw"
+        },
+        {
+          "track_number": 7,
+          "title": "Pasasanitha Santhosam",
+          "singers": "Jaya Sri, Baby Mani, Krishnaraj, Sriram",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:58",
+          "stream_url": "https://music.youtube.com/watch?v=_LlmpnutScQ"
+        }
+      ]
+    },
+    {
+      "id": 3674,
+      "year": 2002,
+      "title": "Shakalaka Baby",
+      "director": "Rama Narayanan",
+      "producer": "Shivakami Production",
+      "composer": "",
+      "cast": "Roja, Vivek, Vadivelu, Radhika Chaudhari",
+      "source_url": "https://en.wikipedia.org/wiki/Shakalaka_Baby",
+      "created_at": "2026-10-14 13:40:10",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Kurukku Chiruththavale",
+          "singers": "[[Hariharan (singer)",
+          "lyricist": "",
+          "raga": "",
+          "duration": "6:42",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "Mudhalvanae",
+          "singers": "Shankar Mahadevan, S. Janaki",
+          "lyricist": "",
+          "raga": "",
+          "duration": "5:29",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "Uppu Karuvadu",
+          "singers": "Shankar Mahadevan, Kavita Krishnamurthy",
+          "lyricist": "",
+          "raga": "",
+          "duration": "5:38",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "Azhagana Ratchashiyae",
+          "singers": "S. P. Balasubrahmanyam, [[Harini (singer)",
+          "lyricist": "",
+          "raga": "",
+          "duration": "6:11",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "Ulundhu Vithakkaiyilae",
+          "singers": "[[Srinivas (singer)",
+          "lyricist": "",
+          "raga": "",
+          "duration": "6:05",
+          "stream_url": ""
+        },
+        {
+          "track_number": 6,
+          "title": "Shakalaka Baby",
+          "singers": "Vasundhara Das, Pravin Mani",
+          "lyricist": "",
+          "raga": "",
+          "duration": "5:23",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 585,
+      "year": 2002,
+      "title": "Shree",
+      "director": "Pushpavasagan",
+      "producer": "Venkateswaralayam",
+      "composer": "",
+      "cast": "Suriya, Shruthika, Gayatri Jayaraman",
+      "source_url": "https://en.wikipedia.org/wiki/Shree_%282002_film%29",
+      "created_at": "2026-10-14 12:33:17",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Yaamirukka Bayamein",
+          "singers": "[[Vikram (actor)",
+          "lyricist": "Pushpavasagan",
+          "raga": "",
+          "duration": "05:18",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "Karthigai Thirunaal",
+          "singers": "Bhavatharini",
+          "lyricist": "Jayapal",
+          "raga": "",
+          "duration": "02:35",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "Kannae Mozhi Vendam",
+          "singers": "Tippu",
+          "lyricist": "Pushpavasagan",
+          "raga": "",
+          "duration": "03:48",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "Kala Kalavena",
+          "singers": "S. P. Balasubrahmanyam",
+          "lyricist": "R. V. Udayakumar",
+          "raga": "",
+          "duration": "01:36",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "Vasantha Sena",
+          "singers": "Harish Raghavendra, K. S. Chithra",
+          "lyricist": "R. V. Udayakumar",
+          "raga": "",
+          "duration": "06:01",
+          "stream_url": ""
+        },
+        {
+          "track_number": 6,
+          "title": "Madurai Jilla",
+          "singers": "Karunas, A. R. Reihana",
+          "lyricist": "Pushpavasagan",
+          "raga": "",
+          "duration": "03:34",
+          "stream_url": ""
+        },
+        {
+          "track_number": 7,
+          "title": "Anjala",
+          "singers": "Yugendran, Vasundhara Das, Timmy, Sriram, Ganga",
+          "lyricist": "Vaali",
+          "raga": "",
+          "duration": "05:21",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 606,
+      "year": 2002,
+      "title": "Solla Marandha Kadhai",
+      "director": "Thangar Bachan",
+      "producer": "P A Art Productions",
+      "composer": "",
+      "cast": "Cheran, Rathi",
+      "source_url": "https://en.wikipedia.org/wiki/Solla_Marandha_Kadhai",
+      "created_at": "2026-10-14 12:33:43",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Kattula Thalai",
+          "singers": "Vidhu Prathap",
+          "lyricist": "",
+          "raga": "",
+          "duration": "5:00",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "Gundu Malli",
+          "singers": "Harish Raghavendra, Shreya Ghoshal",
+          "lyricist": "",
+          "raga": "",
+          "duration": "5:10",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "Amma Sonna",
+          "singers": "Vijay Yesudas, Ilaiyaraaja",
+          "lyricist": "",
+          "raga": "",
+          "duration": "5:37",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "Panam Mattum",
+          "singers": "Ilaiyaraaja",
+          "lyricist": "",
+          "raga": "",
+          "duration": "5:20",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "Yaedho Onn",
+          "singers": "Bhavatharini, [[Karthik (singer)",
+          "lyricist": "",
+          "raga": "",
+          "duration": "5:19",
+          "stream_url": ""
+        },
+        {
+          "track_number": 6,
+          "title": "Jakkamma",
+          "singers": "Mayilsamy, Ilaiyaraaja",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:08",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 566,
+      "year": 2002,
+      "title": "Sri Bannari Amman",
+      "director": "Bharathi Kannan",
+      "producer": "Sri Mahalakshmi Productions",
+      "composer": "",
+      "cast": "Karan, Khushbu, Vijayashanti",
+      "source_url": "https://en.wikipedia.org/wiki/Sri_Bannari_Amman",
+      "created_at": "2026-10-14 12:32:58",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "T. Rajendar",
+          "singers": "02:57",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "T. Rajendar, Sujatha Mohan",
+          "singers": "06:47",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "K. S. Chithra, Anuradha Sriram",
+          "singers": "08:14",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "Simbu, Harini",
+          "singers": "07:20",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 6,
+          "title": "Nithyasree Mahadevan, Swarnalatha",
+          "singers": "06:34",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 7,
+          "title": "K. S. Chithra",
+          "singers": "06:56",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 615,
+      "year": 2002,
+      "title": "Style",
+      "director": "Sibi Chakravarthy",
+      "producer": "Thiru Films",
+      "composer": "",
+      "cast": "Raghava Lawrence, Gayathri Raguram, Khushbu",
+      "source_url": "https://en.wikipedia.org/wiki/Style_%282002_film%29",
+      "created_at": "2026-10-14 12:33:54",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Kadhalithal Anandham",
+          "singers": "[[Hariharan (singer)",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "Varuiral En",
+          "singers": "P. Unnikrishnan",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "Pottu Eduthu",
+          "singers": "Pushpavanam Kuppusamy, Swarnalatha",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "Style Style",
+          "singers": "[[Tippu (singer)",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 6,
+          "title": "Unakku Enna",
+          "singers": "Unnikrishnan",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 7,
+          "title": "Kadithamillai",
+          "singers": "Unnikrishnan",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 8,
+          "title": "Muzhu Nila",
+          "singers": "Hariharan",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 590,
+      "year": 2002,
+      "title": "Sundhara Travels",
+      "director": "Thaha",
+      "producer": "Yuvasree Creations",
+      "composer": "",
+      "cast": "Murali, Vadivelu, Radha",
+      "source_url": "https://en.wikipedia.org/wiki/Sundhara_Travels",
+      "created_at": "2026-10-14 12:33:24",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Adada Oorkulathil",
+          "singers": "Swarnalatha, [[Tippu (singer)",
+          "lyricist": "Pa. Vijay",
+          "raga": "",
+          "duration": "4:51",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "Nee Sandhanam Poosiya",
+          "singers": "P. Jayachandran",
+          "lyricist": "Newton",
+          "raga": "",
+          "duration": "5:09",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "Sundara Travels",
+          "singers": "Tippu",
+          "lyricist": "Snehan",
+          "raga": "",
+          "duration": "3:40",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "En Nenjukkul Veesiya",
+          "singers": "P. Unnikrishnan",
+          "lyricist": "Newton",
+          "raga": "",
+          "duration": "5:09",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "Malligai Poovukku",
+          "singers": "P. Jayachandran",
+          "lyricist": "Pa. Vijay",
+          "raga": "",
+          "duration": "4:52",
+          "stream_url": ""
+        },
+        {
+          "track_number": 6,
+          "title": "Kannum Kannum",
+          "singers": "Krishnaraj",
+          "lyricist": "Snehan",
+          "raga": "",
+          "duration": "4:33",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 567,
+      "year": 2002,
+      "title": "Thamizh",
+      "director": "Hari",
+      "producer": "Deivanai Movies",
+      "composer": "",
+      "cast": "Prashanth, Simran, Vadivelu, Nassar",
+      "source_url": "https://en.wikipedia.org/wiki/Thamizh",
+      "created_at": "2026-10-14 12:32:59",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Azhagana Oru Nenjam",
+          "singers": "Shankar Mahadevan",
+          "lyricist": "Snehan",
+          "raga": "",
+          "duration": "Snehan",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "Kadhelenum Jorula",
+          "singers": "Harish Raghavendra, Ganga",
+          "lyricist": "Viveka",
+          "raga": "",
+          "duration": "Viveka",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "Kannukkulle Kadhala",
+          "singers": "P. Unnikrishnan, Swarnalatha",
+          "lyricist": "Vaali",
+          "raga": "",
+          "duration": "Vaali",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "Penne Undhan",
+          "singers": "Manikka Vinayagam",
+          "lyricist": "Snehan",
+          "raga": "",
+          "duration": "Snehan",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "Rosappoo Udhattu",
+          "singers": "Yugendran, Anuradha Sriram",
+          "lyricist": "Palani Bharathi",
+          "raga": "",
+          "duration": "Palani Bharathi",
+          "stream_url": ""
+        },
+        {
+          "track_number": 6,
+          "title": "Thamizh",
+          "singers": "Mano",
+          "lyricist": "Snehan",
+          "raga": "",
+          "duration": "Snehan",
+          "stream_url": ""
+        },
+        {
+          "track_number": 7,
+          "title": "Vikkuthe",
+          "singers": "Srinivas, Sujatha",
+          "lyricist": "Thamarai",
+          "raga": "",
+          "duration": "Thamarai",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 568,
+      "year": 2002,
+      "title": "Thamizhan",
+      "director": "Majith",
+      "producer": "GV Films",
+      "composer": "",
+      "cast": "Vijay, Priyanka Chopra, Nassar",
+      "source_url": "https://en.wikipedia.org/wiki/Thamizhan",
+      "created_at": "2026-10-14 12:33:00",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Hot Party",
+          "singers": "[[Tippu (singer)",
+          "lyricist": "[[Vaali (poet)",
+          "raga": "",
+          "duration": "04:38",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "Lala Law Mudichom",
+          "singers": "Shankar Mahadevan, Lavanya",
+          "lyricist": "Vairamuthu",
+          "raga": "",
+          "duration": "05:09",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "Mattu Mattu",
+          "singers": "D. Imman, Anuradha Sriram",
+          "lyricist": "Vairamuthu",
+          "raga": "",
+          "duration": "05:03",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "Tamizha Tamizha",
+          "singers": "[[Karthik (singer)",
+          "lyricist": "Vairamuthu",
+          "raga": "",
+          "duration": "04:43",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "Ullathai Killathe",
+          "singers": "[[C. Joseph Vijay",
+          "lyricist": "Vairamuthu",
+          "raga": "",
+          "duration": "05:04",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 579,
+      "year": 2002,
+      "title": "Thenkasi Pattanam",
+      "director": "Rafi Mecartin",
+      "producer": "Mass Movie Makers",
+      "composer": "",
+      "cast": "Sarath Kumar, Napoleon, Devayani, Samyuktha Varma",
+      "source_url": "https://en.wikipedia.org/wiki/Thenkasi_Pattanam",
+      "created_at": "2026-10-14 12:33:12",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Azhagana Ilamaan Ondru",
+          "singers": "Sujatha Mohan and Chores",
+          "lyricist": "Sujatha Mohan and Chores",
+          "raga": "",
+          "duration": "Sujatha Mohan and Chores",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "Konjam Thenkasi",
+          "singers": "Srinivas, K. S. Chithra, Sriram",
+          "lyricist": "Srinivas, K. S. Chithra, Sriram",
+          "raga": "",
+          "duration": "Srinivas, K. S. Chithra, Sriram",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "Mayilirage Mayilirage",
+          "singers": "Mano, Swarnalatha",
+          "lyricist": "Mano, Swarnalatha",
+          "raga": "",
+          "duration": "Mano, Swarnalatha",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "Silsilunu Silsilunu",
+          "singers": "Manikka Vinayagam",
+          "lyricist": "Manikka Vinayagam",
+          "raga": "",
+          "duration": "Manikka Vinayagam",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "Thenirukkira Kootukulle",
+          "singers": "Mano, Sujatha Mohan",
+          "lyricist": "Mano, Sujatha Mohan",
+          "raga": "",
+          "duration": "Mano, Sujatha Mohan",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 3682,
+      "year": 2002,
+      "title": "Thulluvadho Ilamai",
+      "director": "Kasthuri Raja",
+      "producer": "Karthik Cine Visions",
+      "composer": "",
+      "cast": "Dhanush, Sherin, Abhinay",
+      "source_url": "https://en.wikipedia.org/wiki/Thulluvadho_Ilamai",
+      "created_at": "2026-10-14 13:40:28",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Idhu Kaadhala",
+          "singers": "Yuvan Shankar Raja",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:32",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "Theenda Theenda",
+          "singers": "P. Unnikrishnan, Bombay Jayashri",
+          "lyricist": "",
+          "raga": "Duet",
+          "duration": "5:21",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "Kann Munney",
+          "singers": "Yuvan Shankar Raja, Timmy",
+          "lyricist": "",
+          "raga": "",
+          "duration": "6:01",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "Vayadhu Vaa Vaa",
+          "singers": "[[Srinivas (singer)",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:28",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "Neruppu Koothadikudhu",
+          "singers": "Venkat Prabhu, [[Chitra Iyer",
+          "lyricist": "",
+          "raga": "",
+          "duration": "5:10",
+          "stream_url": ""
+        },
+        {
+          "track_number": 7,
+          "title": "Kaatrukku Kaatrukku",
+          "singers": "Harish Raghavendra, [[Harini (singer)",
+          "lyricist": "",
+          "raga": "",
+          "duration": "5:57",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 601,
+      "year": 2002,
+      "title": "University",
+      "director": "Pragahdeesh",
+      "producer": "Maayaburi Screens",
+      "composer": "",
+      "cast": "Jeevan, Gajala",
+      "source_url": "https://en.wikipedia.org/wiki/University%C2%A0%28film%29",
+      "created_at": "2026-10-14 12:33:34",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Jeevan Engae",
+          "singers": "[[Mathangi Jagdish",
+          "lyricist": "",
+          "raga": "",
+          "duration": "6:08",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "Jyothika Radhika",
+          "singers": "Anuradha Sriram",
+          "lyricist": "",
+          "raga": "",
+          "duration": "5:28",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "Kathalai Valarthai",
+          "singers": "Ramesh Vinayakam, K. S. Chithra",
+          "lyricist": "",
+          "raga": "",
+          "duration": "5:26",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "Kiss Adippom",
+          "singers": "[[Tippu (singer)",
+          "lyricist": "",
+          "raga": "",
+          "duration": "5:36",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "Nenjae Thullipo",
+          "singers": "[[Karthik (singer)",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:50",
+          "stream_url": ""
+        },
+        {
+          "track_number": 6,
+          "title": "Vaan Mazhai",
+          "singers": "[[Sujatha Mohan",
+          "lyricist": "",
+          "raga": "",
+          "duration": "5:21",
+          "stream_url": ""
+        },
+        {
+          "track_number": 7,
+          "title": "Vimmavey",
+          "singers": "Ramesh Vinayakam, Gopika Poornima",
+          "lyricist": "",
+          "raga": "",
+          "duration": "2:46",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 572,
+      "year": 2002,
+      "title": "Unnai Ninaithu",
+      "director": "Vikraman",
+      "producer": "Lakshmi Movie Makers",
+      "composer": "",
+      "cast": "Suriya, Laila, Sneha",
+      "source_url": "https://en.wikipedia.org/wiki/Unnai_Ninaithu",
+      "created_at": "2026-10-14 12:33:04",
+      "tracks": [
+        {
+          "track_number": 2,
+          "title": "Chocklet Chocklet",
+          "singers": "Tippu",
+          "lyricist": "Pa. Vijay",
+          "raga": "",
+          "duration": "4:41",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "Pombalainga Kadhal",
+          "singers": "Manikka Vinayagam, P. Unnikrishnan",
+          "lyricist": "Pa. Vijay",
+          "raga": "",
+          "duration": "5:38",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "Ennai Thalattum",
+          "singers": "Unni Menon, Sujatha",
+          "lyricist": "Pa. Vijay",
+          "raga": "",
+          "duration": "4:38",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "Yaar Indha Devathai",
+          "singers": "Hariharan",
+          "lyricist": "R. Ravishankar",
+          "raga": "",
+          "duration": "4:15",
+          "stream_url": ""
+        },
+        {
+          "track_number": 6,
+          "title": "Yaar Indha Devathai\" II",
+          "singers": "Unni Menon",
+          "lyricist": "R. Ravishankar",
+          "raga": "",
+          "duration": "4:15",
+          "stream_url": ""
+        },
+        {
+          "track_number": 7,
+          "title": "Sil Sil Silala",
+          "singers": "P. Unnikrishnan, Sujatha",
+          "lyricist": "Pa. Vijay",
+          "raga": "",
+          "duration": "4:21",
+          "stream_url": ""
+        },
+        {
+          "track_number": 8,
+          "title": "Happy New Year",
+          "singers": "P. Unnikrishnan, Sujatha",
+          "lyricist": "Kalaikumar",
+          "raga": "",
+          "duration": "4:30",
+          "stream_url": ""
+        },
+        {
+          "track_number": 9,
+          "title": "Ennai Thalattum\" (female only)",
+          "singers": "Sujatha",
+          "lyricist": "Pa. Vijay",
+          "raga": "",
+          "duration": "4:42",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 3681,
+      "year": 2002,
+      "title": "Varushamellam Vasantham",
+      "director": "Ravi Shankar",
+      "producer": "Super Good Films",
+      "composer": "",
+      "cast": "Manoj Bharathiraja, Kunal, Anita",
+      "source_url": "https://en.wikipedia.org/wiki/Varushamellam_Vasantham",
+      "created_at": "2026-10-14 13:40:26",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "P. Unnikrishnan, Ganga Sitharasu",
+          "singers": "R.Ravishankar",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "Sujatha",
+          "singers": "R.Ravishankar",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "Unni Menon",
+          "singers": "R.Ravishankar",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "Tippu",
+          "singers": "R.Ravishankar",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "P. Unnikrishnan, Sujatha",
+          "singers": "R.Ravishankar",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 6,
+          "title": "Krishnaraj, K. S. Chithra",
+          "singers": "Manavai Ponmanikkam",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 3715,
+      "year": 2002,
+      "title": "Veetil Poochigal",
+      "director": "Karunya Kalaikoodam",
+      "producer": "",
+      "composer": "",
+      "cast": "",
+      "source_url": "https://en.wikipedia.org/wiki/Veetil_Poochigal",
+      "created_at": "2026-10-14 13:41:30",
+      "tracks": []
+    },
+    {
+      "id": 550,
+      "year": 2002,
+      "title": "Villain",
+      "director": "K. S. Ravikumar",
+      "producer": "NIC Arts",
+      "composer": "",
+      "cast": "Ajith Kumar, Meena, Kiran",
+      "source_url": "https://en.wikipedia.org/wiki/Villain_%282002_film%29",
+      "created_at": "2026-10-14 12:32:41",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Pathinettu Vayathil",
+          "singers": "Udit Narayan, Sadhana Sargam",
+          "lyricist": "",
+          "raga": "",
+          "duration": "5:22",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "Orae Manam",
+          "singers": "[[Hariharan (singer)",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:45",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "Adicha Nethi Adi",
+          "singers": "[[Karthik (singer)",
+          "lyricist": "",
+          "raga": "",
+          "duration": "5:25",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "Aadiyil Kaathadicha",
+          "singers": "S. P. Balasubrahmanyam",
+          "lyricist": "",
+          "raga": "",
+          "duration": "1:32",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "Hello Hello",
+          "singers": "Sadhana Sargam, Anuradha Sriram, [[Tippu (singer)",
+          "lyricist": "",
+          "raga": "",
+          "duration": "5:04",
+          "stream_url": ""
+        },
+        {
+          "track_number": 6,
+          "title": "Thappu Thanda",
+          "singers": "Shankar Mahadevan, Sujatha Mohan",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:44",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 616,
+      "year": 2002,
+      "title": "Virumbugiren",
+      "director": "Susi Ganesan",
+      "producer": "V. M. Creations",
+      "composer": "",
+      "cast": "Prashanth, Sneha",
+      "source_url": "https://en.wikipedia.org/wiki/Virumbugiren",
+      "created_at": "2026-10-14 12:33:56",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Unni Menon",
+          "singers": "5:26",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "Sadhana Sargam, Tippu",
+          "singers": "5:19",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "Ceylon Manohar, P. Unnikrishnan, Suba, Saisan",
+          "singers": "5:50",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "Vasundhara Das",
+          "singers": "5:11",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "Krishnaraj",
+          "singers": "0:49",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 6,
+          "title": "Deva",
+          "singers": "0:45",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 10,
+          "title": "Hariharan, Sophia, Satish",
+          "singers": "6:02",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 3672,
+      "year": 2002,
+      "title": "Vivaramana Aalu",
+      "director": "K. Selva Bharathy",
+      "producer": "Evergreen Movie International",
+      "composer": "",
+      "cast": "Sathyaraj, Devayani, Mumtaj, Vivek",
+      "source_url": "https://en.wikipedia.org/wiki/Vivaramana_Aalu",
+      "created_at": "2026-10-14 13:40:08",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Eeccha Eechambazham",
+          "singers": "Krishnaraj, Pushpa Sriram",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:50",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "Rottila Kiss Adhicha",
+          "singers": "[[Mathangi Jagdish",
+          "lyricist": "",
+          "raga": "",
+          "duration": "3:52",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "Adiye Azhagi Aaravalli",
+          "singers": "[[Sabesh–Murali",
+          "lyricist": "",
+          "raga": "",
+          "duration": "5:28",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "Yei Maamaa",
+          "singers": "[[Tippu (singer)",
+          "lyricist": "",
+          "raga": "",
+          "duration": "5:34",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "Vaadaa Vaadaa Paalkaaraa",
+          "singers": "Anuradha Sriram",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:54",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 3691,
+      "year": 2002,
+      "title": "Yai! Nee Romba Azhaga Irukey!",
+      "director": "Vasanth",
+      "producer": "GV Films",
+      "composer": "",
+      "cast": "Shaam, Sneha, Jaya Re",
+      "source_url": "https://en.wikipedia.org/wiki/Yai%21_Nee_Romba_Azhaga_Irukey%21",
+      "created_at": "2026-10-14 13:40:41",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Yamini Yamini",
+          "singers": "Harish Raghavendra",
+          "lyricist": "Pa. Vijay",
+          "raga": "",
+          "duration": "Pa. Vijay",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "Thottu Thottu",
+          "singers": "Ramesh Vinayakam, Srivardhini",
+          "lyricist": "Palani Bharathi",
+          "raga": "",
+          "duration": "Palani Bharathi",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "Oru Kadhal Vandicho",
+          "singers": "Shankar Mahadevan",
+          "lyricist": "Thamarai",
+          "raga": "",
+          "duration": "Thamarai",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "Inni Naanum Naanilai",
+          "singers": "Srinivas, Sujatha, Sunitha Sarathy",
+          "lyricist": "Thamarai",
+          "raga": "",
+          "duration": "Thamarai",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "Poi Sollalam",
+          "singers": "P. Unnikrishnan, Anuradha Sriram",
+          "lyricist": "Pa. Vijay",
+          "raga": "",
+          "duration": "Pa. Vijay",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 554,
+      "year": 2002,
+      "title": "Youth",
+      "director": "Vincent Selva",
+      "producer": "Lakshmi Productions",
+      "composer": "",
+      "cast": "Vijay, Sandhiya, Sindhu Menon",
+      "source_url": "https://en.wikipedia.org/wiki/Youth_%282002_film%29",
+      "created_at": "2026-10-14 12:32:46",
+      "tracks": [
+        {
+          "track_number": 2,
+          "title": "Old Model Laila",
+          "singers": "Tippu",
+          "lyricist": "Vaali",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "Adi One Inch Two",
+          "singers": "S. P. BalasubrahmanyamSujatha",
+          "lyricist": "Vaali",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "Sagiyea Sagiyea",
+          "singers": "HariharanHarini",
+          "lyricist": "Vairamuthu",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "Sakkarai Nilavea",
+          "singers": "Harish Raghavendra",
+          "lyricist": "Vairamuthu",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 6,
+          "title": "Santhosam Valkaiyin",
+          "singers": "S. P. Balasubrahmanyam",
+          "lyricist": "Vairamuthu",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 7,
+          "title": "Aal Thotta Bhoopathi Nanada",
+          "singers": "Shankar Mahadevan",
+          "lyricist": "VaaliKabilan (partial lyrics)",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        }
+      ]
+    }
+  ]
+}

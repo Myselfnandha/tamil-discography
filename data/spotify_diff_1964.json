@@ -1,0 +1,204 @@
+{
+  "year": 1964,
+  "total_tracks": 228,
+  "tier_1_count": 22,
+  "tier_2_count": 0,
+  "tier_3_count": 0,
+  "tier_4_count": 0,
+  "unranked_count": 206,
+  "position_changes_count": 226,
+  "sample_tier_1_tracks": [
+    {
+      "title": "Ullathil Nalla Ullam",
+      "album": "Karnan",
+      "score": 105.0
+    },
+    {
+      "title": "Aayiram Karangal Neeti",
+      "album": "Karnan",
+      "score": 95.0
+    },
+    {
+      "title": "Avalukkenna",
+      "album": "Server Sundaram",
+      "score": 80.0
+    },
+    {
+      "title": "En Uyir Thozhi",
+      "album": "Karnan",
+      "score": 70.0
+    },
+    {
+      "title": "Iravum Nilavum",
+      "album": "Karnan",
+      "score": 70.0
+    },
+    {
+      "title": "Kangal Engey",
+      "album": "Karnan",
+      "score": 70.0
+    },
+    {
+      "title": "Kannuku Kulam Yedu",
+      "album": "Karnan",
+      "score": 70.0
+    },
+    {
+      "title": "Maharajan",
+      "album": "Karnan",
+      "score": 70.0
+    },
+    {
+      "title": "Mazhai Kodukkum",
+      "album": "Karnan",
+      "score": 70.0
+    },
+    {
+      "title": "Manjal Mugam",
+      "album": "Karnan",
+      "score": 70.0
+    },
+    {
+      "title": "Maranathai Eni",
+      "album": "Karnan",
+      "score": 70.0
+    },
+    {
+      "title": "Poi Vaa Magale",
+      "album": "Karnan",
+      "score": 70.0
+    },
+    {
+      "title": "Naanichivandhana",
+      "album": "Karnan",
+      "score": 70.0
+    },
+    {
+      "title": "Parithraannaaya",
+      "album": "Karnan",
+      "score": 70.0
+    },
+    {
+      "title": "Ennakoduppan",
+      "album": "Karnan",
+      "score": 70.0
+    },
+    {
+      "title": "Malargal Sutti",
+      "album": "Karnan",
+      "score": 70.0
+    },
+    {
+      "title": "Mannavar Porulkalai",
+      "album": "Karnan",
+      "score": 70.0
+    },
+    {
+      "title": "Silai Edutthan Oru",
+      "album": "Server Sundaram",
+      "score": 55.0
+    },
+    {
+      "title": "Poga Poga Theriyum",
+      "album": "Server Sundaram",
+      "score": 55.0
+    },
+    {
+      "title": "Thatthai Nenjam",
+      "album": "Server Sundaram",
+      "score": 55.0
+    },
+    {
+      "title": "Paattondru Tharuvaar",
+      "album": "Server Sundaram",
+      "score": 55.0
+    },
+    {
+      "title": "Om Namo Sri Narayana",
+      "album": "Server Sundaram",
+      "score": 55.0
+    }
+  ],
+  "sample_changes": [
+    {
+      "track_title": "Ullathil Nalla Ullam",
+      "album_title": "Karnan",
+      "old_position": 87,
+      "new_position": 1,
+      "evidence_tier": "tier_1_mega",
+      "score": 105.0
+    },
+    {
+      "track_title": "Aayiram Karangal Neeti",
+      "album_title": "Karnan",
+      "old_position": 90,
+      "new_position": 2,
+      "evidence_tier": "tier_1_mega",
+      "score": 95.0
+    },
+    {
+      "track_title": "Avalukkenna",
+      "album_title": "Server Sundaram",
+      "old_position": 181,
+      "new_position": 3,
+      "evidence_tier": "tier_1_mega",
+      "score": 80.0
+    },
+    {
+      "track_title": "En Uyir Thozhi",
+      "album_title": "Karnan",
+      "old_position": 78,
+      "new_position": 4,
+      "evidence_tier": "tier_1_mega",
+      "score": 70.0
+    },
+    {
+      "track_title": "Iravum Nilavum",
+      "album_title": "Karnan",
+      "old_position": 79,
+      "new_position": 5,
+      "evidence_tier": "tier_1_mega",
+      "score": 70.0
+    },
+    {
+      "track_title": "Kangal Engey",
+      "album_title": "Karnan",
+      "old_position": 80,
+      "new_position": 6,
+      "evidence_tier": "tier_1_mega",
+      "score": 70.0
+    },
+    {
+      "track_title": "Kannuku Kulam Yedu",
+      "album_title": "Karnan",
+      "old_position": 81,
+      "new_position": 7,
+      "evidence_tier": "tier_1_mega",
+      "score": 70.0
+    },
+    {
+      "track_title": "Maharajan",
+      "album_title": "Karnan",
+      "old_position": 82,
+      "new_position": 8,
+      "evidence_tier": "tier_1_mega",
+      "score": 70.0
+    },
+    {
+      "track_title": "Mazhai Kodukkum",
+      "album_title": "Karnan",
+      "old_position": 83,
+      "new_position": 9,
+      "evidence_tier": "tier_1_mega",
+      "score": 70.0
+    },
+    {
+      "track_title": "Manjal Mugam",
+      "album_title": "Karnan",
+      "old_position": 84,
+      "new_position": 10,
+      "evidence_tier": "tier_1_mega",
+      "score": 70.0
+    }
+  ]
+}

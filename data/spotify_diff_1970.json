@@ -1,0 +1,93 @@
+{
+  "year": 1970,
+  "total_tracks": 209,
+  "tier_1_count": 0,
+  "tier_2_count": 0,
+  "tier_3_count": 0,
+  "tier_4_count": 0,
+  "unranked_count": 209,
+  "position_changes_count": 206,
+  "sample_tier_1_tracks": [],
+  "sample_changes": [
+    {
+      "track_title": "Naanathale Kannam",
+      "album_title": "CID Shankar",
+      "old_position": 6,
+      "new_position": 2,
+      "evidence_tier": null,
+      "score": null
+    },
+    {
+      "track_title": "Idhu Maalai Neratthu Mayakkam",
+      "album_title": "Dharisanam",
+      "old_position": 8,
+      "new_position": 3,
+      "evidence_tier": null,
+      "score": null
+    },
+    {
+      "track_title": "Neela Niram",
+      "album_title": "En Annan",
+      "old_position": 12,
+      "new_position": 4,
+      "evidence_tier": null,
+      "score": null
+    },
+    {
+      "track_title": "Ellorum Nalam Vaazha",
+      "album_title": "Enga Mama",
+      "old_position": 19,
+      "new_position": 5,
+      "evidence_tier": null,
+      "score": null
+    },
+    {
+      "track_title": "Naan Unnai Azhaikkavillai",
+      "album_title": "Engirundho Vandhaal",
+      "old_position": 31,
+      "new_position": 6,
+      "evidence_tier": null,
+      "score": null
+    },
+    {
+      "track_title": "Vazndhu Parppom",
+      "album_title": "Ethirkalam",
+      "old_position": 37,
+      "new_position": 7,
+      "evidence_tier": null,
+      "score": null
+    },
+    {
+      "track_title": "Aradhana",
+      "album_title": "Jeevanadi",
+      "old_position": 47,
+      "new_position": 8,
+      "evidence_tier": null,
+      "score": null
+    },
+    {
+      "track_title": "Unmela Konda Aasa",
+      "album_title": "Kadhal Jothi",
+      "old_position": 56,
+      "new_position": 9,
+      "evidence_tier": null,
+      "score": null
+    },
+    {
+      "track_title": "Enthan Uyir Kathalan",
+      "album_title": "Kalyana Oorvalam",
+      "old_position": 63,
+      "new_position": 10,
+      "evidence_tier": null,
+      "score": null
+    },
+    {
+      "track_title": "Kasturi Tilakam (Shree Krishna Stuti)",
+      "album_title": "Kasturi Thilakam",
+      "old_position": 76,
+      "new_position": 11,
+      "evidence_tier": null,
+      "score": null
+    }
+  ]
+}

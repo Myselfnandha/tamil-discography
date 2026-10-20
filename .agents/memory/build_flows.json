@@ -1,0 +1,16 @@
+{
+  "version": "1.0.0",
+  "flows": [
+    {
+      "id": "FLOW-001",
+      "name": "FastAPI Production Runner",
+      "stack": "python",
+      "commands": [
+        "uvicorn main:app --workers 4 --host 0.0.0.0 --port 8000"
+      ],
+      "notes": "Production ASGI multi-worker launch",
+      "tags": [],
+      "recorded_at": "2026-09-08T17:34:57.122561+00:00"
+    }
+  ]
+}

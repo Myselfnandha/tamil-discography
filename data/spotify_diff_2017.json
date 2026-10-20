@@ -1,0 +1,119 @@
+{
+  "year": 2017,
+  "total_tracks": 890,
+  "tier_1_count": 5,
+  "tier_2_count": 0,
+  "tier_3_count": 1,
+  "tier_4_count": 0,
+  "unranked_count": 884,
+  "position_changes_count": 890,
+  "sample_tier_1_tracks": [
+    {
+      "title": "Aalaporaan Thamizhan",
+      "album": "Mersal",
+      "score": 105.0
+    },
+    {
+      "title": "Neethanae",
+      "album": "Mersal",
+      "score": 95.0
+    },
+    {
+      "title": "Maacho",
+      "album": "Mersal",
+      "score": 70.0
+    },
+    {
+      "title": "Mersal Arasan",
+      "album": "Mersal",
+      "score": 70.0
+    },
+    {
+      "title": "Mersal",
+      "album": "Viruthachalam",
+      "score": 70.0
+    }
+  ],
+  "sample_changes": [
+    {
+      "track_title": "Aalaporaan Thamizhan",
+      "album_title": "Mersal",
+      "old_position": 380,
+      "new_position": 1,
+      "evidence_tier": "tier_1_mega",
+      "score": 105.0
+    },
+    {
+      "track_title": "Neethanae",
+      "album_title": "Mersal",
+      "old_position": 379,
+      "new_position": 2,
+      "evidence_tier": "tier_1_mega",
+      "score": 95.0
+    },
+    {
+      "track_title": "Maacho",
+      "album_title": "Mersal",
+      "old_position": 377,
+      "new_position": 3,
+      "evidence_tier": "tier_1_mega",
+      "score": 70.0
+    },
+    {
+      "track_title": "Mersal Arasan",
+      "album_title": "Mersal",
+      "old_position": 378,
+      "new_position": 4,
+      "evidence_tier": "tier_1_mega",
+      "score": 70.0
+    },
+    {
+      "track_title": "Mersal",
+      "album_title": "Viruthachalam",
+      "old_position": 761,
+      "new_position": 5,
+      "evidence_tier": "tier_1_mega",
+      "score": 70.0
+    },
+    {
+      "track_title": "Vanakkam Chennai Indie",
+      "album_title": "Sony Indie Specials",
+      "old_position": null,
+      "new_position": 6,
+      "evidence_tier": "tier_3_cult",
+      "score": 20.0
+    },
+    {
+      "track_title": "Singam 3",
+      "album_title": "Viruthachalam",
+      "old_position": 762,
+      "new_position": 7,
+      "evidence_tier": null,
+      "score": null
+    },
+    {
+      "track_title": "Bairavaa",
+      "album_title": "Viruthachalam",
+      "old_position": 763,
+      "new_position": 8,
+      "evidence_tier": null,
+      "score": null
+    },
+    {
+      "track_title": "Vivegam",
+      "album_title": "Viruthachalam",
+      "old_position": 764,
+      "new_position": 9,
+      "evidence_tier": null,
+      "score": null
+    },
+    {
+      "track_title": "Theeran Adhigaram Ondru",
+      "album_title": "Viruthachalam",
+      "old_position": 765,
+      "new_position": 10,
+      "evidence_tier": null,
+      "score": null
+    }
+  ]
+}

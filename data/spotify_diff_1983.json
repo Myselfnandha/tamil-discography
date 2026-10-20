@@ -1,0 +1,129 @@
+{
+  "year": 1983,
+  "total_tracks": 388,
+  "tier_1_count": 7,
+  "tier_2_count": 0,
+  "tier_3_count": 0,
+  "tier_4_count": 0,
+  "unranked_count": 381,
+  "position_changes_count": 388,
+  "sample_tier_1_tracks": [
+    {
+      "title": "Mounamana Neram",
+      "album": "Salangai Oli",
+      "score": 70.0
+    },
+    {
+      "title": "Om Nama Shivaya",
+      "album": "Salangai Oli",
+      "score": 70.0
+    },
+    {
+      "title": "Nadha Vinodhangal",
+      "album": "Salangai Oli",
+      "score": 70.0
+    },
+    {
+      "title": "Vaanam Polea Vannam",
+      "album": "Salangai Oli",
+      "score": 70.0
+    },
+    {
+      "title": "Thakita Thadhimi",
+      "album": "Salangai Oli",
+      "score": 70.0
+    },
+    {
+      "title": "Bala Kanakama",
+      "album": "Salangai Oli",
+      "score": 70.0
+    },
+    {
+      "title": "Vedam Anuvilum",
+      "album": "Salangai Oli",
+      "score": 70.0
+    }
+  ],
+  "sample_changes": [
+    {
+      "track_title": "Mounamana Neram",
+      "album_title": "Salangai Oli",
+      "old_position": 228,
+      "new_position": 1,
+      "evidence_tier": "tier_1_mega",
+      "score": 70.0
+    },
+    {
+      "track_title": "Om Nama Shivaya",
+      "album_title": "Salangai Oli",
+      "old_position": 229,
+      "new_position": 2,
+      "evidence_tier": "tier_1_mega",
+      "score": 70.0
+    },
+    {
+      "track_title": "Nadha Vinodhangal",
+      "album_title": "Salangai Oli",
+      "old_position": 230,
+      "new_position": 3,
+      "evidence_tier": "tier_1_mega",
+      "score": 70.0
+    },
+    {
+      "track_title": "Vaanam Polea Vannam",
+      "album_title": "Salangai Oli",
+      "old_position": 231,
+      "new_position": 4,
+      "evidence_tier": "tier_1_mega",
+      "score": 70.0
+    },
+    {
+      "track_title": "Thakita Thadhimi",
+      "album_title": "Salangai Oli",
+      "old_position": 232,
+      "new_position": 5,
+      "evidence_tier": "tier_1_mega",
+      "score": 70.0
+    },
+    {
+      "track_title": "Bala Kanakama",
+      "album_title": "Salangai Oli",
+      "old_position": 233,
+      "new_position": 6,
+      "evidence_tier": "tier_1_mega",
+      "score": 70.0
+    },
+    {
+      "track_title": "Vedam Anuvilum",
+      "album_title": "Salangai Oli",
+      "old_position": 234,
+      "new_position": 7,
+      "evidence_tier": "tier_1_mega",
+      "score": 70.0
+    },
+    {
+      "track_title": "Thindaathuthey",
+      "album_title": "Aanandha Kummi",
+      "old_position": 1,
+      "new_position": 8,
+      "evidence_tier": null,
+      "score": null
+    },
+    {
+      "track_title": "Devathai Ilam",
+      "album_title": "Aayiram Nilave Vaa",
+      "old_position": 7,
+      "new_position": 9,
+      "evidence_tier": null,
+      "score": null
+    },
+    {
+      "track_title": "Pesa Koodaathu",
+      "album_title": "Adutha Varisu",
+      "old_position": 12,
+      "new_position": 10,
+      "evidence_tier": null,
+      "score": null
+    }
+  ]
+}

@@ -1,0 +1,231 @@
+{
+  "year": 1994,
+  "total_albums": 4,
+  "total_tracks": 19,
+  "exported_at": "2026-10-15T10:00:20.659892Z",
+  "albums": [
+    {
+      "id": 190,
+      "year": 1994,
+      "title": "Purushanai Kaikkulla Pottukkanum",
+      "director": "}",
+      "producer": "",
+      "composer": "",
+      "cast": "",
+      "source_url": "https://en.wikipedia.org/wiki/Purushanai_Kaikkulla_Pottukkanum",
+      "created_at": "2026-10-14 12:19:24",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Enga Thodanga",
+          "singers": "[[Mano (singer)",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "Idhu Aadham",
+          "singers": "Mano, K. S. Chithra",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "Kannu Sokkuthu",
+          "singers": "Mano, Malaysia Vasudevan",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "Mappillai",
+          "singers": "Mano, Malaysia Vasudevan",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 202,
+      "year": 1994,
+      "title": "Seevalaperi Pandi",
+      "director": "}",
+      "producer": "",
+      "composer": "",
+      "cast": "",
+      "source_url": "https://en.wikipedia.org/wiki/Seevalaperi_Pandi",
+      "created_at": "2026-10-14 12:19:37",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Swarnalatha",
+          "singers": "Vairamuthu",
+          "lyricist": "4:05",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "Rajagopal, Sujatha Mohan, P. G. Srikanth",
+          "singers": "K. Rajeshwar",
+          "lyricist": "3:45",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "Mano, Asha Latha",
+          "singers": "Vairamuthu",
+          "lyricist": "4:54",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "K. S. Chithra",
+          "singers": "Vairamuthu",
+          "lyricist": "6:13",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "S. P. Balasubrahmanyam",
+          "singers": "Vairamuthu",
+          "lyricist": "5:00",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 218,
+      "year": 1994,
+      "title": "Ulavaali",
+      "director": "}",
+      "producer": "",
+      "composer": "Sirpy",
+      "cast": "",
+      "source_url": "https://en.wikipedia.org/wiki/Ulavaali",
+      "created_at": "2026-10-14 12:19:54",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Chikku Chikku",
+          "singers": "Mano, Swarnalatha",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:23",
+          "stream_url": "https://music.youtube.com/watch?v=zuilPJZM0wY"
+        },
+        {
+          "track_number": 2,
+          "title": "Iduppu Valikuthu",
+          "singers": "Mano, Subha",
+          "lyricist": "",
+          "raga": "",
+          "duration": "5:03",
+          "stream_url": "https://music.youtube.com/watch?v=5het2QS0ycM"
+        },
+        {
+          "track_number": 3,
+          "title": "Mocha Kotta Pallazhagi",
+          "singers": "Thekkampatti Sundarrajan, KS Chitra",
+          "lyricist": "",
+          "raga": "",
+          "duration": "5:03",
+          "stream_url": "https://music.youtube.com/watch?v=aL2IcC_ZeWY"
+        },
+        {
+          "track_number": 4,
+          "title": "Nenji Padapada",
+          "singers": "Mano, Sheikh Mohammed",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:42",
+          "stream_url": "https://music.youtube.com/watch?v=X6D2DHZIGZE"
+        },
+        {
+          "track_number": 5,
+          "title": "Singa Kodi",
+          "singers": "Mano, Thekkampatti Sundarrajan",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:25",
+          "stream_url": "https://music.youtube.com/watch?v=2KDFlahkxbw"
+        }
+      ]
+    },
+    {
+      "id": 226,
+      "year": 1994,
+      "title": "Vanaja Girija",
+      "director": "}",
+      "producer": "",
+      "composer": "",
+      "cast": "",
+      "source_url": "https://en.wikipedia.org/wiki/Vanaja_Girija",
+      "created_at": "2026-10-14 12:20:03",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "S. Janaki, S. P. Balasubrahmanyam",
+          "singers": "Vaali",
+          "lyricist": "6:37",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "K. S. Chithra",
+          "singers": "Vaali",
+          "lyricist": "4:20",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "Swarnalatha, K. S. Chithra",
+          "singers": "Panchu Arunachalam",
+          "lyricist": "5:03",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "Arunmozhi",
+          "singers": "Panchu Arunachalam",
+          "lyricist": "1:35",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "S. P. Balasubrahmanyam, Swarnalatha",
+          "singers": "Vaali",
+          "lyricist": "5:38",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        }
+      ]
+    }
+  ]
+}

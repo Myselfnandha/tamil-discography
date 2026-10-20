@@ -1,0 +1,154 @@
+{
+  "year": 1982,
+  "total_tracks": 521,
+  "tier_1_count": 12,
+  "tier_2_count": 0,
+  "tier_3_count": 0,
+  "tier_4_count": 0,
+  "unranked_count": 509,
+  "position_changes_count": 521,
+  "sample_tier_1_tracks": [
+    {
+      "title": "Illamai Etho Ehto",
+      "album": "Sakalakala Vallavan",
+      "score": 70.0
+    },
+    {
+      "title": "Nila Kayuthu Neram Nalla Neram (Version 1)",
+      "album": "Sakalakala Vallavan",
+      "score": 70.0
+    },
+    {
+      "title": "Katta Vandi Katta Vandi (Version 1)",
+      "album": "Sakalakala Vallavan",
+      "score": 70.0
+    },
+    {
+      "title": "Amman Kovil Kizhakkale",
+      "album": "Sakalakala Vallavan",
+      "score": 70.0
+    },
+    {
+      "title": "Nethu Raathiri Yamma",
+      "album": "Sakalakala Vallavan",
+      "score": 70.0
+    },
+    {
+      "title": "Katta Vandi Katta Vandi (Version 2)",
+      "album": "Sakalakala Vallavan",
+      "score": 70.0
+    },
+    {
+      "title": "Nila Kayuthu Neram Nalla Neram (Version 2)",
+      "album": "Sakalakala Vallavan",
+      "score": 70.0
+    },
+    {
+      "title": "Vaanengum Thanga Vinmeengal",
+      "album": "Moondram Pirai",
+      "score": 70.0
+    },
+    {
+      "title": "Kanne Kalaimaane",
+      "album": "Moondram Pirai",
+      "score": 70.0
+    },
+    {
+      "title": "Ponmeni Uruguthey",
+      "album": "Moondram Pirai",
+      "score": 70.0
+    },
+    {
+      "title": "Poongaatru",
+      "album": "Moondram Pirai",
+      "score": 70.0
+    },
+    {
+      "title": "Narikathai",
+      "album": "Moondram Pirai",
+      "score": 70.0
+    }
+  ],
+  "sample_changes": [
+    {
+      "track_title": "Illamai Etho Ehto",
+      "album_title": "Sakalakala Vallavan",
+      "old_position": 412,
+      "new_position": 1,
+      "evidence_tier": "tier_1_mega",
+      "score": 70.0
+    },
+    {
+      "track_title": "Nila Kayuthu Neram Nalla Neram (Version 1)",
+      "album_title": "Sakalakala Vallavan",
+      "old_position": 413,
+      "new_position": 2,
+      "evidence_tier": "tier_1_mega",
+      "score": 70.0
+    },
+    {
+      "track_title": "Katta Vandi Katta Vandi (Version 1)",
+      "album_title": "Sakalakala Vallavan",
+      "old_position": 414,
+      "new_position": 3,
+      "evidence_tier": "tier_1_mega",
+      "score": 70.0
+    },
+    {
+      "track_title": "Amman Kovil Kizhakkale",
+      "album_title": "Sakalakala Vallavan",
+      "old_position": 415,
+      "new_position": 4,
+      "evidence_tier": "tier_1_mega",
+      "score": 70.0
+    },
+    {
+      "track_title": "Nethu Raathiri Yamma",
+      "album_title": "Sakalakala Vallavan",
+      "old_position": 416,
+      "new_position": 5,
+      "evidence_tier": "tier_1_mega",
+      "score": 70.0
+    },
+    {
+      "track_title": "Katta Vandi Katta Vandi (Version 2)",
+      "album_title": "Sakalakala Vallavan",
+      "old_position": 417,
+      "new_position": 6,
+      "evidence_tier": "tier_1_mega",
+      "score": 70.0
+    },
+    {
+      "track_title": "Nila Kayuthu Neram Nalla Neram (Version 2)",
+      "album_title": "Sakalakala Vallavan",
+      "old_position": 418,
+      "new_position": 7,
+      "evidence_tier": "tier_1_mega",
+      "score": 70.0
+    },
+    {
+      "track_title": "Vaanengum Thanga Vinmeengal",
+      "album_title": "Moondram Pirai",
+      "old_position": 229,
+      "new_position": 8,
+      "evidence_tier": "tier_1_mega",
+      "score": 70.0
+    },
+    {
+      "track_title": "Kanne Kalaimaane",
+      "album_title": "Moondram Pirai",
+      "old_position": 230,
+      "new_position": 9,
+      "evidence_tier": "tier_1_mega",
+      "score": 70.0
+    },
+    {
+      "track_title": "Ponmeni Uruguthey",
+      "album_title": "Moondram Pirai",
+      "old_position": 231,
+      "new_position": 10,
+      "evidence_tier": "tier_1_mega",
+      "score": 70.0
+    }
+  ]
+}

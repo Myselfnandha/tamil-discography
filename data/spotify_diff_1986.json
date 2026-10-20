@@ -1,0 +1,189 @@
+{
+  "year": 1986,
+  "total_tracks": 569,
+  "tier_1_count": 19,
+  "tier_2_count": 0,
+  "tier_3_count": 0,
+  "tier_4_count": 0,
+  "unranked_count": 550,
+  "position_changes_count": 566,
+  "sample_tier_1_tracks": [
+    {
+      "title": "Enna Saththam Indha Neram",
+      "album": "Punnagai Mannan",
+      "score": 105.0
+    },
+    {
+      "title": "Vaan Megam Poo Poovaai",
+      "album": "Punnagai Mannan",
+      "score": 95.0
+    },
+    {
+      "title": "Vikram Vikram",
+      "album": "Vikram",
+      "score": 95.0
+    },
+    {
+      "title": "Chinna Chinna Vanna Kuyil",
+      "album": "Mouna Ragam",
+      "score": 95.0
+    },
+    {
+      "title": "Yedhedho Ennam Valarthen",
+      "album": "Punnagai Mannan",
+      "score": 70.0
+    },
+    {
+      "title": "Kavithai Kelungal Karuvil",
+      "album": "Punnagai Mannan",
+      "score": 70.0
+    },
+    {
+      "title": "Kaala Kaalamaaga Vaazhum",
+      "album": "Punnagai Mannan",
+      "score": 70.0
+    },
+    {
+      "title": "Singalathu Chinnakuyile",
+      "album": "Punnagai Mannan",
+      "score": 70.0
+    },
+    {
+      "title": "Maamaavukku Kudumaa Kudumaa",
+      "album": "Punnagai Mannan",
+      "score": 70.0
+    },
+    {
+      "title": "Punnagai Mannan Theme Music",
+      "album": "Punnagai Mannan",
+      "score": 70.0
+    },
+    {
+      "title": "One Two Three",
+      "album": "Punnagai Mannan",
+      "score": 70.0
+    },
+    {
+      "title": "Oho Megam Vandhadho",
+      "album": "Mouna Ragam",
+      "score": 70.0
+    },
+    {
+      "title": "Nilaave Vaa",
+      "album": "Mouna Ragam",
+      "score": 70.0
+    },
+    {
+      "title": "Vanithamani",
+      "album": "Vikram",
+      "score": 70.0
+    },
+    {
+      "title": "Sippikkul Oru Muthu",
+      "album": "Vikram",
+      "score": 70.0
+    },
+    {
+      "title": "Panivizhum Iravu",
+      "album": "Mouna Ragam",
+      "score": 70.0
+    },
+    {
+      "title": "En Jodi Manja Kuruvi",
+      "album": "Vikram",
+      "score": 70.0
+    },
+    {
+      "title": "Mandram Vandha",
+      "album": "Mouna Ragam",
+      "score": 70.0
+    },
+    {
+      "title": "Meendum Meendum Vaa",
+      "album": "Vikram",
+      "score": 70.0
+    }
+  ],
+  "sample_changes": [
+    {
+      "track_title": "Enna Saththam Indha Neram",
+      "album_title": "Punnagai Mannan",
+      "old_position": 436,
+      "new_position": 1,
+      "evidence_tier": "tier_1_mega",
+      "score": 105.0
+    },
+    {
+      "track_title": "Vaan Megam Poo Poovaai",
+      "album_title": "Punnagai Mannan",
+      "old_position": 437,
+      "new_position": 2,
+      "evidence_tier": "tier_1_mega",
+      "score": 95.0
+    },
+    {
+      "track_title": "Vikram Vikram",
+      "album_title": "Vikram",
+      "old_position": 556,
+      "new_position": 3,
+      "evidence_tier": "tier_1_mega",
+      "score": 95.0
+    },
+    {
+      "track_title": "Chinna Chinna Vanna Kuyil",
+      "album_title": "Mouna Ragam",
+      "old_position": 284,
+      "new_position": 4,
+      "evidence_tier": "tier_1_mega",
+      "score": 95.0
+    },
+    {
+      "track_title": "Yedhedho Ennam Valarthen",
+      "album_title": "Punnagai Mannan",
+      "old_position": 435,
+      "new_position": 5,
+      "evidence_tier": "tier_1_mega",
+      "score": 70.0
+    },
+    {
+      "track_title": "Kavithai Kelungal Karuvil",
+      "album_title": "Punnagai Mannan",
+      "old_position": 438,
+      "new_position": 6,
+      "evidence_tier": "tier_1_mega",
+      "score": 70.0
+    },
+    {
+      "track_title": "Kaala Kaalamaaga Vaazhum",
+      "album_title": "Punnagai Mannan",
+      "old_position": 439,
+      "new_position": 7,
+      "evidence_tier": "tier_1_mega",
+      "score": 70.0
+    },
+    {
+      "track_title": "Singalathu Chinnakuyile",
+      "album_title": "Punnagai Mannan",
+      "old_position": 440,
+      "new_position": 8,
+      "evidence_tier": "tier_1_mega",
+      "score": 70.0
+    },
+    {
+      "track_title": "Maamaavukku Kudumaa Kudumaa",
+      "album_title": "Punnagai Mannan",
+      "old_position": 441,
+      "new_position": 9,
+      "evidence_tier": "tier_1_mega",
+      "score": 70.0
+    },
+    {
+      "track_title": "Punnagai Mannan Theme Music",
+      "album_title": "Punnagai Mannan",
+      "old_position": null,
+      "new_position": 10,
+      "evidence_tier": "tier_1_mega",
+      "score": 70.0
+    }
+  ]
+}

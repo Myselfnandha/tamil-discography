@@ -1,0 +1,124 @@
+{
+  "year": 1996,
+  "total_tracks": 411,
+  "tier_1_count": 6,
+  "tier_2_count": 0,
+  "tier_3_count": 0,
+  "tier_4_count": 0,
+  "unranked_count": 405,
+  "position_changes_count": 411,
+  "sample_tier_1_tracks": [
+    {
+      "title": "Maya Machindra",
+      "album": "Indian",
+      "score": 95.0
+    },
+    {
+      "title": "Telephone Manipol",
+      "album": "Indian",
+      "score": 95.0
+    },
+    {
+      "title": "Akadanu Naanga",
+      "album": "Indian",
+      "score": 70.0
+    },
+    {
+      "title": "Kappaleri Poyaachu",
+      "album": "Indian",
+      "score": 70.0
+    },
+    {
+      "title": "Pachai Kiligal",
+      "album": "Indian",
+      "score": 70.0
+    },
+    {
+      "title": "Latka Dikha Diya Humne (version-2)",
+      "album": "Indian",
+      "score": 70.0
+    }
+  ],
+  "sample_changes": [
+    {
+      "track_title": "Maya Machindra",
+      "album_title": "Indian",
+      "old_position": 78,
+      "new_position": 1,
+      "evidence_tier": "tier_1_mega",
+      "score": 95.0
+    },
+    {
+      "track_title": "Telephone Manipol",
+      "album_title": "Indian",
+      "old_position": 82,
+      "new_position": 2,
+      "evidence_tier": "tier_1_mega",
+      "score": 95.0
+    },
+    {
+      "track_title": "Akadanu Naanga",
+      "album_title": "Indian",
+      "old_position": 79,
+      "new_position": 3,
+      "evidence_tier": "tier_1_mega",
+      "score": 70.0
+    },
+    {
+      "track_title": "Kappaleri Poyaachu",
+      "album_title": "Indian",
+      "old_position": 80,
+      "new_position": 4,
+      "evidence_tier": "tier_1_mega",
+      "score": 70.0
+    },
+    {
+      "track_title": "Pachai Kiligal",
+      "album_title": "Indian",
+      "old_position": 81,
+      "new_position": 5,
+      "evidence_tier": "tier_1_mega",
+      "score": 70.0
+    },
+    {
+      "track_title": "Latka Dikha Diya Humne (version-2)",
+      "album_title": "Indian",
+      "old_position": 83,
+      "new_position": 6,
+      "evidence_tier": "tier_1_mega",
+      "score": 70.0
+    },
+    {
+      "track_title": "Kaadu Mazha Sollum",
+      "album_title": "Aruva Velu",
+      "old_position": 26,
+      "new_position": 7,
+      "evidence_tier": null,
+      "score": null
+    },
+    {
+      "track_title": "Annamalai Deepam",
+      "album_title": "Coimbatore Mappillai",
+      "old_position": 41,
+      "new_position": 8,
+      "evidence_tier": null,
+      "score": null
+    },
+    {
+      "track_title": "Mano",
+      "album_title": "Thirumbi Paar",
+      "old_position": 345,
+      "new_position": 9,
+      "evidence_tier": null,
+      "score": null
+    },
+    {
+      "track_title": "Adi Anarkali",
+      "album_title": "Ullathai Allitha",
+      "old_position": 355,
+      "new_position": 10,
+      "evidence_tier": null,
+      "score": null
+    }
+  ]
+}

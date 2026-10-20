@@ -1,0 +1,78 @@
+{
+  "version": "1.0.0",
+  "updated_at": "2026-09-09T17:27:00.356108Z",
+  "anti_patterns": [
+    {
+      "id": "AP-001",
+      "category": "tooling",
+      "mistake": "Unchecked npx execution polluting JSON-RPC stdout with colored notices and ANSI escape sequences",
+      "root_cause": "npx in modern npm writes colored notices to stdout when not silenced, breaking JSON-RPC parsing (invalid character '\\x1b')",
+      "strategy": "Always wrap Node-based MCP servers using mcp-npx with NO_COLOR=1, npm_config_loglevel=silent, and --silent flag",
+      "invariant_rule": "NEVER run raw npx for MCP STDIO processes; always use mcp-npx wrapper."
+    },
+    {
+      "id": "AP-002",
+      "category": "runtime",
+      "mistake": "Sentry MCP server falling back to interactive OAuth device code flow and hanging",
+      "root_cause": "@sentry/mcp-server defaults to interactive device code login if --access-token or SENTRY_ACCESS_TOKEN is omitted",
+      "strategy": "Pass --access-token ${SENTRY_AUTH_TOKEN} explicitly in CLI arguments and provide environment fallback",
+      "invariant_rule": "Always explicitly supply auth tokens via CLI flags when MCP server defaults to interactive browser/device-code login."
+    },
+    {
+      "id": "AP-003",
+      "category": "packaging",
+      "mistake": "Codebase indexer scanning self-extracting archive payload and inflating codebase database to 40MB+",
+      "root_cause": "Scanning binary payloads or packed archive files in analyze.py treats binary blobs as source text",
+      "strategy": "Exclude *.tar.gz, *.tar.xz, install.sh, and dist/ in codebase indexing routines",
+      "invariant_rule": "Always configure self-exclusion lists in static analyzers and file crawlers for binary/build artifacts."
+    },
+    {
+      "id": "AP-004",
+      "category": "architecture",
+      "mistake": "Leaving MCP servers running permanently in background consuming CPU and RAM",
+      "root_cause": "Static mcp_config.json with default background servers creates memory bloat and port collisions",
+      "strategy": "Zero-Default profile: start with empty mcpServers ({}), enable dynamically on-demand, and auto-close upon task completion",
+      "invariant_rule": "Default mcp_config.json must remain empty (0 active servers). Enable servers dynamically and disable immediately after turn."
+    },
+    {
+      "id": "AP-005",
+      "category": "agent_behavior",
+      "mistake": "Agent looping over view_file sequentially to understand an entire folder codebase",
+      "root_cause": "Sequential view_file calls waste context tokens and cause high latency",
+      "strategy": "Execute analyze.py --check --auto-heal --inject-ki and read the consolidated codebase_summary.md in a single read",
+      "invariant_rule": "NEVER call view_file recursively across multiple files in a folder; use codebase_summary.md."
+    },
+    {
+      "id": "AP-006",
+      "category": "agent_behavior",
+      "mistake": "Refactoring code outside the user's requested scope",
+      "root_cause": "Agent interprets adjacent code as needing improvement or unsolicited optimization.",
+      "strategy": "Blast Radius Lock: Declare edit scope upfront; only edit within declared scope; flag out-of-scope issues as follow-up recommendations.",
+      "invariant_rule": "Never touch or refactor files or functions outside the declared blast radius without explicit user authorization."
+    },
+    {
+      "id": "AP-007",
+      "category": "agent_behavior",
+      "mistake": "Claiming success without running verification commands",
+      "root_cause": "Token-pressure or speed bias leads agent to skip test runs and pattern-match 'this looks right' or use speculative language.",
+      "strategy": "Evidence Gate: Always run tests or re-read files, report actual terminal output, never say 'should work'.",
+      "invariant_rule": "Zero speculative claims: every declaration of success requires empirical terminal execution evidence."
+    },
+    {
+      "id": "AP-008",
+      "category": "agent_behavior",
+      "mistake": "Editing files based on stale cached memory instead of current on-disk state",
+      "root_cause": "Files read early in long sessions get modified externally or by background tasks while agent remembers old lines.",
+      "strategy": "Freshness Gate: Re-read target file if >5 tool calls since last read; run git status before multi-file edits.",
+      "invariant_rule": "Always re-read target files before applying diffs if >5 tool calls elapsed or external changes occurred."
+    },
+    {
+      "id": "AP-009",
+      "category": "agent_behavior",
+      "mistake": "Using invented library functions that don't exist in installed packages",
+      "root_cause": "LLM hallucination on fast-moving libraries or niche frameworks where training memory contains plausible APIs.",
+      "strategy": "Hallucination Guard: Verify every unfamiliar API symbol via tool inspection, REPL check, or docs before using.",
+      "invariant_rule": "Verify all library APIs and methods via tools before writing code; pass Import Verification Gate."
+    }
+  ]
+}

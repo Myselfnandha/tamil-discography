@@ -1,0 +1,134 @@
+{
+  "year": 2020,
+  "total_tracks": 486,
+  "tier_1_count": 8,
+  "tier_2_count": 0,
+  "tier_3_count": 6,
+  "tier_4_count": 0,
+  "unranked_count": 472,
+  "position_changes_count": 485,
+  "sample_tier_1_tracks": [
+    {
+      "title": "Veyyon Silli",
+      "album": "Soorarai Pottru",
+      "score": 95.0
+    },
+    {
+      "title": "Kaattu Payale",
+      "album": "Soorarai Pottru",
+      "score": 95.0
+    },
+    {
+      "title": "Mannurunda",
+      "album": "Soorarai Pottru",
+      "score": 70.0
+    },
+    {
+      "title": "Sooravali",
+      "album": "Soorarai Pottru",
+      "score": 70.0
+    },
+    {
+      "title": "Naalu Nimisham",
+      "album": "Soorarai Pottru",
+      "score": 70.0
+    },
+    {
+      "title": "Aagasam",
+      "album": "Soorarai Pottru",
+      "score": 70.0
+    },
+    {
+      "title": "Maara Theme (Tamil)",
+      "album": "Soorarai Pottru",
+      "score": 70.0
+    },
+    {
+      "title": "Usurey",
+      "album": "Soorarai Pottru",
+      "score": 70.0
+    }
+  ],
+  "sample_changes": [
+    {
+      "track_title": "Veyyon Silli",
+      "album_title": "Soorarai Pottru",
+      "old_position": 358,
+      "new_position": 1,
+      "evidence_tier": "tier_1_mega",
+      "score": 95.0
+    },
+    {
+      "track_title": "Kaattu Payale",
+      "album_title": "Soorarai Pottru",
+      "old_position": 359,
+      "new_position": 2,
+      "evidence_tier": "tier_1_mega",
+      "score": 95.0
+    },
+    {
+      "track_title": "Mannurunda",
+      "album_title": "Soorarai Pottru",
+      "old_position": 357,
+      "new_position": 3,
+      "evidence_tier": "tier_1_mega",
+      "score": 70.0
+    },
+    {
+      "track_title": "Sooravali",
+      "album_title": "Soorarai Pottru",
+      "old_position": 360,
+      "new_position": 4,
+      "evidence_tier": "tier_1_mega",
+      "score": 70.0
+    },
+    {
+      "track_title": "Naalu Nimisham",
+      "album_title": "Soorarai Pottru",
+      "old_position": 361,
+      "new_position": 5,
+      "evidence_tier": "tier_1_mega",
+      "score": 70.0
+    },
+    {
+      "track_title": "Aagasam",
+      "album_title": "Soorarai Pottru",
+      "old_position": 362,
+      "new_position": 6,
+      "evidence_tier": "tier_1_mega",
+      "score": 70.0
+    },
+    {
+      "track_title": "Maara Theme (Tamil)",
+      "album_title": "Soorarai Pottru",
+      "old_position": null,
+      "new_position": 7,
+      "evidence_tier": "tier_1_mega",
+      "score": 70.0
+    },
+    {
+      "track_title": "Usurey",
+      "album_title": "Soorarai Pottru",
+      "old_position": 363,
+      "new_position": 8,
+      "evidence_tier": "tier_1_mega",
+      "score": 70.0
+    },
+    {
+      "track_title": "Kannamma Eannamma",
+      "album_title": "Kannamma Eannamma",
+      "old_position": null,
+      "new_position": 9,
+      "evidence_tier": "tier_3_cult",
+      "score": 20.0
+    },
+    {
+      "track_title": "Gaandhi Kannazhagi",
+      "album_title": "Think Indie Originals",
+      "old_position": null,
+      "new_position": 10,
+      "evidence_tier": "tier_3_cult",
+      "score": 20.0
+    }
+  ]
+}

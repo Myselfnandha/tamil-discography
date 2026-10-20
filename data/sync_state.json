@@ -1,0 +1,1044 @@
+{
+  "version": 1,
+  "last_sync_utc": "2026-10-20T10:38:05.674736+00:00",
+  "synced_track_ids": [
+    "4NmfmCIrKi0Atun3VyScwk",
+    "4WDteCWXgjISfHwOfEJndD",
+    "4vquOZENvQPaacx5xKLpKq",
+    "0LqRMFvQkU8mrczrZt2xLY",
+    "5SJvdh6T9CKHKvuvYlyQ9z",
+    "4CmCu5sJA2E5SLkAxQySrI",
+    "5KS23olVtBzLS9QtOsAq4I",
+    "4aphdWDHFZH97HlIN5EnKg",
+    "5kldy3H7aJDboEFofTaHSj",
+    "1zYCELkx6BsCJKKV23VjaT",
+    "6Jret8ktLy7h5LGKRQCEAg",
+    "0AjZbciQnvAlH9Y3BD4L5y",
+    "0BmECJll7R8gp2GTryx40G",
+    "4TsMMHsnyJUbZvhmgrmRIX",
+    "6jJHYbJReFfR2ieGzRP5bq",
+    "4d5zhupAUbvKt3RekihHgk",
+    "6zxUVGrfZTTK1TPbx4AuvB",
+    "3GzqLgBulnNiVZ3vSBaXjw",
+    "2j0AwcY2CyQGDf31MvhLyn",
+    "1N6QNFfCWrwOWlSKa7bM1B",
+    "6W3VcM53iiheQNxfJss3Hr",
+    "4IlKmGMBprHDxCGL6yurwI",
+    "5tITcbjBECXk0qGpDHmLGB",
+    "1z336dxJXReJtxjcMcdtPL",
+    "6Xz6Nd4Oxxhfw78M60a5Uv",
+    "7sUOv752X6fv09pdSketKk",
+    "5RW9jO56ZESGkS7fhYzItm",
+    "6YHerTsl4sWWn0JjLXEKkY",
+    "0g9ZDsqqOWxsVB64NYkXQV",
+    "3W9FGJrtu55ObA0XvIAJR2",
+    "5NMLYJGbzL3FIlOqkQXr3J",
+    "6dZCuf6SGn2rh9q94JBLlv",
+    "36QpjGBB7MEUTg1hjfq4Rl",
+    "51PFinvvZyBNE29XuMPl4C",
+    "3LmZv9jtOK8b34bFX6HYZT",
+    "0HnKrdG93aeemec5ctWYPJ",
+    "2D7p0xlCvLdQazLENcRQYx",
+    "4GYh1m6QO6ZG1XHxne1H84",
+    "4KMMTcGfArahzaxD1MADyi",
+    "61yJSpmy5CgFcyi3kIHqLJ",
+    "0JsnePZcG63pxbbcllzJ1x",
+    "0JWieAvbWEM3aKpqgdgF9M",
+    "4NYi1FoyGqqVM57mfe7WMZ",
+    "1oR4SCGxDCZaTfVs84tfa4",
+    "5HxHwEd5EEbTvQ0X2vynwR",
+    "6o5cPiMuI8WDuNKorQAD8Y",
+    "06G0DqiY9WRWvfE4gRbiCH",
+    "6ZTso47mJa9a4Gppu3do8Q",
+    "6fwF943Gbwef9Ts3veNSdR",
+    "0eQ3t19gNNyVYuBAJNp6Pj",
+    "6NiYVTC9ufNaT2ScJtl2IH",
+    "5mAilD3yipMtFABK3UmlNC",
+    "5RAAc3UsyqRQuVfpiQ8k5J",
+    "46lUJZTRIwFcqkt9qe6ovf",
+    "3TJLLSs7bLvM2ohLy7Nev3",
+    "3TtQFK9WIYFbfIikil83I0",
+    "5Qggwua2vSN8CbWAdZP6Fn",
+    "16dPvYrWFV50RiqNFubXGE",
+    "4uxTgGihX1ypRifiM5NBxv",
+    "46m5tySRdkPcblqLOKUvKW",
+    "1Ym4q8Hb4A0QUxVQrtyiKF",
+    "0xYYUicaDPp0VPyL0z7xzB",
+    "5YPRNP0c9KiZSMJDVL3h0x",
+    "3THVNKs3bdQekA02kK1hWD",
+    "7rdoh0x7CiNEmGDEQbobjr",
+    "5FxLSkZuFL4EFQIUiPXtT5",
+    "4MdJnIJzLbaKMmNCYQqso8",
+    "4smKbiLvLt8uKrsnEJGPlS",
+    "57zX2q7Scc7GvKQmkTlcwr",
+    "4mu2nmciJtu9jys42wtjxS",
+    "6zJqA1K9NXygmiS9P3scun",
+    "40rsaNsQOa4jFd15CvdUFX",
+    "78xl1agm6jjt1u7YvgWtLo",
+    "0du1JW7fWUt9dKGjuNFBDn",
+    "1mdWJjRlJuVUMZ7rY9ALJ8",
+    "4J4iMHalGkwLYOpIMAuMkZ",
+    "1YW8zCAxIkMzYma53zNBOp",
+    "1BV62Pdx2O7413RatJwYxG",
+    "2REuGftUfPQRHIDBBXdsxI",
+    "1zcH44RGwnE9rby9VTVJLt",
+    "2DoCADTmcTajaNiehtC24K",
+    "1xKZQ5IclwidFuTib8K4CV",
+    "3QjFIgGhcrPS4VjkIYOddf",
+    "4KvYr24rpa9QDoH8B9qs93",
+    "2G8F0vTEb75nOaGePm8isH",
+    "24Ofhb09MWv0vCuAJx0y6D",
+    "1Ayk2A8WFeRfvaJZezBHsX",
+    "3WKWNvvusgyayvsptD708a",
+    "4KqEkaGoP4YjzSnN6Hq8Wv",
+    "5Yz2PogekK5PYUsR7tez4l",
+    "5kLtSF66wKINo7yNfMByQn",
+    "12UCZXXk2dLFG1lJEwLqK2",
+    "3vwdGzxlLDG3dKDN9wFoVm",
+    "3YXm3K89FDQaBLuvirHIqx",
+    "4h76lKBVkd7O57cPogOELK",
+    "4pvJRYVfnIhG120GB8nWpp",
+    "7MP6jngkoEGUXKdpVeTXAT",
+    "3hB9lDLyAClYVZivMMl20N",
+    "0r1ppERo8Mp5iKg3lANvnB",
+    "7jfJuiJlYgMqSumcOzV7XT",
+    "25pssTvEAwjHyC2AnXCl8K",
+    "5Briokyzx0tjRz0MKLp9nO",
+    "7qfoq1JFKBUEIvhqOHzuqX",
+    "3unti8bdiV2N4wzFTtR4EF",
+    "4c6r6cLP1Q4ssWoDa2slAP",
+    "252G1zeEMxTjHtDFINob0M",
+    "01wauaRDFH4xjQiMbY8Mzz",
+    "1wjwjjTcOKbILzKgrRhXgL",
+    "08vy34L4vkHfv04dPRqB47",
+    "1bY95XczIBhzsGSIVDrnP9",
+    "1rR5GOxRegZjwMKTwMUVjW",
+    "7MpYcu3JJMgbnHOoe55gT2",
+    "59si3TNZDqqTFIaLZRD5nU",
+    "19nEFsswIftvopxVMUAM9b",
+    "7u2MaUNU3xKrEoQRfJ2K5v"
+  ],
+  "playlist_snapshots": {},
+  "recent_discoveries": [
+    {
+      "id": "7MP6jngkoEGUXKdpVeTXAT",
+      "title": "Anirudh Ravichander 2026",
+      "artists": "Anirudh Ravichander",
+      "release_date": "2026-10-19",
+      "category": "newly_released",
+      "discovered_at": "2026-10-19T16:47:35.173695+00:00"
+    },
+    {
+      "id": "3TJLLSs7bLvM2ohLy7Nev3",
+      "title": "A. R. Rahman 2026",
+      "artists": "A. R. Rahman",
+      "release_date": "2026-10-19",
+      "category": "newly_released",
+      "discovered_at": "2026-10-19T16:47:35.173718+00:00"
+    },
+    {
+      "id": "3W9FGJrtu55ObA0XvIAJR2",
+      "title": "Harris Jayaraj 2026",
+      "artists": "Harris Jayaraj",
+      "release_date": "2026-10-19",
+      "category": "newly_released",
+      "discovered_at": "2026-10-19T16:47:35.173725+00:00"
+    },
+    {
+      "id": "4GYh1m6QO6ZG1XHxne1H84",
+      "title": "Santhosh Narayanan 2026",
+      "artists": "Santhosh Narayanan",
+      "release_date": "2026-10-19",
+      "category": "newly_released",
+      "discovered_at": "2026-10-19T16:47:35.173731+00:00"
+    },
+    {
+      "id": "0LqRMFvQkU8mrczrZt2xLY",
+      "title": "G. V. Prakash Kumar 2026",
+      "artists": "G. V. Prakash Kumar",
+      "release_date": "2026-10-19",
+      "category": "newly_released",
+      "discovered_at": "2026-10-19T16:47:35.173764+00:00"
+    },
+    {
+      "id": "0xYYUicaDPp0VPyL0z7xzB",
+      "title": "Hiphop Tamizha 2026",
+      "artists": "Hiphop Tamizha",
+      "release_date": "2026-10-19",
+      "category": "newly_released",
+      "discovered_at": "2026-10-19T16:47:35.173769+00:00"
+    },
+    {
+      "id": "5RW9jO56ZESGkS7fhYzItm",
+      "title": "Sam C. S. 2026",
+      "artists": "Sam C. S.",
+      "release_date": "2026-10-19",
+      "category": "newly_released",
+      "discovered_at": "2026-10-19T16:47:35.173773+00:00"
+    },
+    {
+      "id": "3GzqLgBulnNiVZ3vSBaXjw",
+      "title": "D. Imman 2026",
+      "artists": "D. Imman",
+      "release_date": "2026-10-19",
+      "category": "newly_released",
+      "discovered_at": "2026-10-19T16:47:35.173777+00:00"
+    },
+    {
+      "id": "40rsaNsQOa4jFd15CvdUFX",
+      "title": "Sid Sriram 2026",
+      "artists": "Sid Sriram",
+      "release_date": "2026-10-19",
+      "category": "newly_released",
+      "discovered_at": "2026-10-19T16:47:35.173781+00:00"
+    },
+    {
+      "id": "25pssTvEAwjHyC2AnXCl8K",
+      "title": "Pradeep Kumar 2026",
+      "artists": "Pradeep Kumar",
+      "release_date": "2026-10-19",
+      "category": "newly_released",
+      "discovered_at": "2026-10-19T16:47:35.173785+00:00"
+    },
+    {
+      "id": "6Jret8ktLy7h5LGKRQCEAg",
+      "title": "Niyathi",
+      "artists": "style=\"text-align:center;\" |, Avinash E",
+      "release_date": "2024-01-01",
+      "category": "newly_discovered",
+      "discovered_at": "2026-10-19T16:47:35.173789+00:00"
+    },
+    {
+      "id": "5NMLYJGbzL3FIlOqkQXr3J",
+      "title": "In The Nights",
+      "artists": "Lyca Productions, RCarl",
+      "release_date": "2024-01-01",
+      "category": "newly_discovered",
+      "discovered_at": "2026-10-19T16:47:35.173793+00:00"
+    },
+    {
+      "id": "0JWieAvbWEM3aKpqgdgF9M",
+      "title": "Within'",
+      "artists": "Lyca Productions, RCarl",
+      "release_date": "2024-01-01",
+      "category": "newly_discovered",
+      "discovered_at": "2026-10-19T16:47:35.173797+00:00"
+    },
+    {
+      "id": "1Ayk2A8WFeRfvaJZezBHsX",
+      "title": "Paradise",
+      "artists": "Lyca Productions, RCarl",
+      "release_date": "2024-01-01",
+      "category": "newly_discovered",
+      "discovered_at": "2026-10-19T16:47:35.173802+00:00"
+    },
+    {
+      "id": "1Ym4q8Hb4A0QUxVQrtyiKF",
+      "title": "Stranger",
+      "artists": "Lyca Productions, RCarl",
+      "release_date": "2024-01-01",
+      "category": "newly_discovered",
+      "discovered_at": "2026-10-19T16:47:35.173806+00:00"
+    },
+    {
+      "id": "7qfoq1JFKBUEIvhqOHzuqX",
+      "title": "Who The F Are You ?",
+      "artists": "Lyca Productions, RCarl",
+      "release_date": "2024-01-01",
+      "category": "newly_discovered",
+      "discovered_at": "2026-10-19T16:47:35.173810+00:00"
+    },
+    {
+      "id": "0du1JW7fWUt9dKGjuNFBDn",
+      "title": "X Interclude",
+      "artists": "Lyca Productions, RCarl",
+      "release_date": "2024-01-01",
+      "category": "newly_discovered",
+      "discovered_at": "2026-10-19T16:47:35.173814+00:00"
+    },
+    {
+      "id": "5Qggwua2vSN8CbWAdZP6Fn",
+      "title": "Working Through The Rainbow (From &quot;7G Rainbow Colony&quot;)",
+      "artists": "style=\"text-align:center;\" |, Yuvan Shankar Raja, Na.Muthukumar",
+      "release_date": "2026-01-01",
+      "category": "newly_released",
+      "discovered_at": "2026-10-19T16:47:35.173818+00:00"
+    },
+    {
+      "id": "08vy34L4vkHfv04dPRqB47",
+      "title": "Ninaithu Ninaithuu (From &quot;7G Rainbow Colony&quot;)",
+      "artists": "style=\"text-align:center;\" |, Yuvan Shankar Raja, KK, Na.Muthukumar",
+      "release_date": "2026-01-01",
+      "category": "newly_released",
+      "discovered_at": "2026-10-19T16:47:35.173824+00:00"
+    },
+    {
+      "id": "4MdJnIJzLbaKMmNCYQqso8",
+      "title": "Naam Vayadhukkum (From &quot;7G Rainbow Colony&quot;)",
+      "artists": "style=\"text-align:center;\" |, Yuvan Shankar Raja, Unni Krishnan, Na.Muthukumar",
+      "release_date": "2026-01-01",
+      "category": "newly_released",
+      "discovered_at": "2026-10-19T16:47:35.173829+00:00"
+    },
+    {
+      "id": "6Xz6Nd4Oxxhfw78M60a5Uv",
+      "title": "Music Of Joy",
+      "artists": "style=\"text-align:center;\" |, Yuvan Shankar Raja, Na.Muthukumar",
+      "release_date": "2026-01-01",
+      "category": "newly_released",
+      "discovered_at": "2026-10-19T16:47:35.173833+00:00"
+    },
+    {
+      "id": "1zcH44RGwnE9rby9VTVJLt",
+      "title": "Kanaa Kaanum (From &quot;7G Rainbow Colony&quot;)",
+      "artists": "style=\"text-align:center;\" |, Yuvan Shankar Raja, Na.Muthukumar",
+      "release_date": "2026-01-01",
+      "category": "newly_released",
+      "discovered_at": "2026-10-19T16:47:35.173837+00:00"
+    },
+    {
+      "id": "2D7p0xlCvLdQazLENcRQYx",
+      "title": "Kan Pesum Varthaigal (From &quot;7G Rainbow Colony&quot;)",
+      "artists": "style=\"text-align:center;\" |, Yuvan Shankar Raja, Karthik, Na.Muthukumar",
+      "release_date": "2026-01-01",
+      "category": "newly_released",
+      "discovered_at": "2026-10-19T16:47:35.173848+00:00"
+    },
+    {
+      "id": "46lUJZTRIwFcqkt9qe6ovf",
+      "title": "January Matham (From &quot;7G Rainbow Colony&quot;)",
+      "artists": "style=\"text-align:center;\" |, Yuvan Shankar Raja, Na.Muthukumar",
+      "release_date": "2026-01-01",
+      "category": "newly_released",
+      "discovered_at": "2026-10-19T16:47:35.173854+00:00"
+    },
+    {
+      "id": "5kldy3H7aJDboEFofTaHSj",
+      "title": "Idhu Porkalama (From &quot;7G Rainbow Colony&quot;)",
+      "artists": "style=\"text-align:center;\" |, Yuvan Shankar Raja, Na.Muthukumar",
+      "release_date": "2026-01-01",
+      "category": "newly_released",
+      "discovered_at": "2026-10-19T16:47:35.173858+00:00"
+    },
+    {
+      "id": "6o5cPiMuI8WDuNKorQAD8Y",
+      "title": "Angikaaram: Contempt of Time",
+      "artists": "style=\"text-align: center;\" |, Ghibran",
+      "release_date": "2026-01-01",
+      "category": "newly_released",
+      "discovered_at": "2026-10-19T16:47:35.173863+00:00"
+    },
+    {
+      "id": "5RAAc3UsyqRQuVfpiQ8k5J",
+      "title": "Kenatha Kanom (Rap Song) (From &quot;Kenatha Kanom&quot;)",
+      "artists": "style=\"text-align:center;\"|, Nivas K Prasanna, M. Jegan Kaviraj",
+      "release_date": "2026-01-01",
+      "category": "newly_released",
+      "discovered_at": "2026-10-19T16:47:35.173867+00:00"
+    },
+    {
+      "id": "1oR4SCGxDCZaTfVs84tfa4",
+      "title": "Karu Sumantha",
+      "artists": "style=\"text-align:center;\" |, Jithin",
+      "release_date": "2026-01-01",
+      "category": "newly_released",
+      "discovered_at": "2026-10-19T16:47:35.173871+00:00"
+    },
+    {
+      "id": "5HxHwEd5EEbTvQ0X2vynwR",
+      "title": "Kodi Malarea",
+      "artists": "style=\"text-align:center;\" |, Nincy",
+      "release_date": "2026-01-01",
+      "category": "newly_released",
+      "discovered_at": "2026-10-19T16:47:35.173875+00:00"
+    },
+    {
+      "id": "3THVNKs3bdQekA02kK1hWD",
+      "title": "Kadhalea Kadhalea",
+      "artists": "style=\"text-align:center;\" |, Nincy",
+      "release_date": "2026-01-01",
+      "category": "newly_released",
+      "discovered_at": "2026-10-19T16:47:35.173878+00:00"
+    },
+    {
+      "id": "6NiYVTC9ufNaT2ScJtl2IH",
+      "title": "Anda Satti",
+      "artists": "style=\"text-align:center;\" |, Velmurugan",
+      "release_date": "2026-01-01",
+      "category": "newly_released",
+      "discovered_at": "2026-10-19T16:47:35.173882+00:00"
+    },
+    {
+      "id": "24Ofhb09MWv0vCuAJx0y6D",
+      "title": "Manasatchi",
+      "artists": "style=\"text-align:center;\" |, Kavitha",
+      "release_date": "2026-01-01",
+      "category": "newly_released",
+      "discovered_at": "2026-10-19T16:47:35.173886+00:00"
+    },
+    {
+      "id": "5mAilD3yipMtFABK3UmlNC",
+      "title": "Ivanthanda",
+      "artists": "style=\"text-align:center;\" |, Ananth",
+      "release_date": "2026-01-01",
+      "category": "newly_released",
+      "discovered_at": "2026-10-19T16:47:35.173890+00:00"
+    },
+    {
+      "id": "1z336dxJXReJtxjcMcdtPL",
+      "title": "Sekka Sekka",
+      "artists": "style=\"text-align:center;\" |, Anthakudi Ilayaraja",
+      "release_date": "2026-01-01",
+      "category": "newly_released",
+      "discovered_at": "2026-10-19T16:47:35.173894+00:00"
+    },
+    {
+      "id": "1wjwjjTcOKbILzKgrRhXgL",
+      "title": "Ninaithu Ninaithu (From &quot;7G Rainbow Colony&quot;)",
+      "artists": "Sri Surya Movies, Yuvan Shankar Raja, Shreya Ghoshal, Na.Muthukumar",
+      "release_date": "2026-01-01",
+      "category": "newly_released",
+      "discovered_at": "2026-10-19T16:47:35.173900+00:00"
+    },
+    {
+      "id": "3QjFIgGhcrPS4VjkIYOddf",
+      "title": "Naam Vayadhukkum (From &quot;7G Rainbow Colony&quot;)",
+      "artists": "Sri Surya Movies, Yuvan Shankar Raja, Unni Krishnan, Na.Muthukumar",
+      "release_date": "2026-01-01",
+      "category": "newly_released",
+      "discovered_at": "2026-10-19T16:47:35.173904+00:00"
+    },
+    {
+      "id": "6dZCuf6SGn2rh9q94JBLlv",
+      "title": "Idhu Porkalama (From &quot;7G Rainbow Colony&quot;)",
+      "artists": "Sri Surya Movies, Yuvan Shankar Raja, Na.Muthukumar",
+      "release_date": "2026-01-01",
+      "category": "newly_released",
+      "discovered_at": "2026-10-19T16:47:35.173909+00:00"
+    },
+    {
+      "id": "4mu2nmciJtu9jys42wtjxS",
+      "title": "Kenatha Kanom (Rap Song) (From &quot;Kenatha Kanom&quot;)",
+      "artists": "RB TalkiesBox Office Studio, Nivas K Prasanna, M. Jegan Kaviraj",
+      "release_date": "2026-01-01",
+      "category": "newly_released",
+      "discovered_at": "2026-10-19T16:47:35.173914+00:00"
+    },
+    {
+      "id": "1N6QNFfCWrwOWlSKa7bM1B",
+      "title": "Karu Sumantha",
+      "artists": "Kalaimagal Productions, Jithin",
+      "release_date": "2026-01-01",
+      "category": "newly_released",
+      "discovered_at": "2026-10-19T16:47:35.173918+00:00"
+    },
+    {
+      "id": "4c6r6cLP1Q4ssWoDa2slAP",
+      "title": "Anda Satti",
+      "artists": "Kalaimagal Productions, Velmurugan",
+      "release_date": "2026-01-01",
+      "category": "newly_released",
+      "discovered_at": "2026-10-19T16:47:35.173923+00:00"
+    },
+    {
+      "id": "6YHerTsl4sWWn0JjLXEKkY",
+      "title": "Ivanthanda",
+      "artists": "Kalaimagal Productions, Ananth",
+      "release_date": "2026-01-01",
+      "category": "newly_released",
+      "discovered_at": "2026-10-19T16:47:35.173928+00:00"
+    },
+    {
+      "id": "0g9ZDsqqOWxsVB64NYkXQV",
+      "title": "My Dear",
+      "artists": "Simhamurthi Cinemas, Karthikeyan N",
+      "release_date": "2026-01-01",
+      "category": "newly_released",
+      "discovered_at": "2026-10-19T16:47:35.173933+00:00"
+    },
+    {
+      "id": "5SJvdh6T9CKHKvuvYlyQ9z",
+      "title": "Thoongu Da Nanba (The Sleep Song)",
+      "artists": "style=\"text-align:center;\" |, Kelithee, Adithya Sriram",
+      "release_date": "2025-01-01",
+      "category": "newly_released",
+      "discovered_at": "2026-10-19T16:47:35.173937+00:00"
+    },
+    {
+      "id": "1xKZQ5IclwidFuTib8K4CV",
+      "title": "Sleeper Cell Title Track",
+      "artists": "style=\"text-align:center;\" |, Jithin K Roshan",
+      "release_date": "2025-01-01",
+      "category": "newly_released",
+      "discovered_at": "2026-10-19T16:47:35.173941+00:00"
+    },
+    {
+      "id": "0HnKrdG93aeemec5ctWYPJ",
+      "title": "Kannaadi Boogambam",
+      "artists": "style=\"text-align:center;\" |, Madrashe, Umashankar Kannaiyan, Shashank",
+      "release_date": "2025-01-01",
+      "category": "newly_released",
+      "discovered_at": "2026-10-19T16:47:35.173948+00:00"
+    },
+    {
+      "id": "6jJHYbJReFfR2ieGzRP5bq",
+      "title": "Sai Abhyankkar 2026",
+      "artists": "Sai Abhyankkar",
+      "release_date": "2026-10-19",
+      "category": "newly_released",
+      "discovered_at": "2026-10-19T19:44:27.803227+00:00"
+    },
+    {
+      "id": "1BV62Pdx2O7413RatJwYxG",
+      "title": "Stephen Zechariah 2026",
+      "artists": "Stephen Zechariah",
+      "release_date": "2026-10-19",
+      "category": "newly_released",
+      "discovered_at": "2026-10-19T19:44:27.803246+00:00"
+    },
+    {
+      "id": "4J4iMHalGkwLYOpIMAuMkZ",
+      "title": "Paal Dabba 2026",
+      "artists": "Paal Dabba",
+      "release_date": "2026-10-19",
+      "category": "newly_released",
+      "discovered_at": "2026-10-19T19:44:27.803250+00:00"
+    },
+    {
+      "id": "4WDteCWXgjISfHwOfEJndD",
+      "title": "Vaisagh 2026",
+      "artists": "Vaisagh",
+      "release_date": "2026-10-19",
+      "category": "newly_released",
+      "discovered_at": "2026-10-19T19:44:27.803253+00:00"
+    },
+    {
+      "id": "5Yz2PogekK5PYUsR7tez4l",
+      "title": "Kaber Vasuki 2026",
+      "artists": "Kaber Vasuki",
+      "release_date": "2026-10-19",
+      "category": "newly_released",
+      "discovered_at": "2026-10-19T19:44:27.803256+00:00"
+    },
+    {
+      "id": "5Briokyzx0tjRz0MKLp9nO",
+      "title": "Arivu 2026",
+      "artists": "Arivu",
+      "release_date": "2026-10-19",
+      "category": "newly_released",
+      "discovered_at": "2026-10-19T19:44:27.803258+00:00"
+    },
+    {
+      "id": "6zxUVGrfZTTK1TPbx4AuvB",
+      "title": "Ottamuri Vakkumayi",
+      "artists": "Dhinesh Kumar Rajendran, Dhinesh Kumar Rajendran",
+      "release_date": "2024-01-01",
+      "category": "newly_discovered",
+      "discovered_at": "2026-10-19T19:44:27.803261+00:00"
+    },
+    {
+      "id": "3hB9lDLyAClYVZivMMl20N",
+      "title": "Co2",
+      "artists": "Prateek Kuhad, Prateek Kuhad",
+      "release_date": "2024-01-01",
+      "category": "newly_discovered",
+      "discovered_at": "2026-10-19T19:44:27.803263+00:00"
+    },
+    {
+      "id": "1YW8zCAxIkMzYma53zNBOp",
+      "title": "Theeyin Veppam",
+      "artists": "Aishu Rittika, Aishu Rittika",
+      "release_date": "2024-01-01",
+      "category": "newly_discovered",
+      "discovered_at": "2026-10-19T19:44:27.803267+00:00"
+    },
+    {
+      "id": "1zYCELkx6BsCJKKV23VjaT",
+      "title": "Mogathirai (From \"Pizza\")",
+      "artists": "Pradeep Vijay, Pradeep Vijay",
+      "release_date": "2024-01-01",
+      "category": "newly_discovered",
+      "discovered_at": "2026-10-19T19:44:27.803270+00:00"
+    },
+    {
+      "id": "1mdWJjRlJuVUMZ7rY9ALJ8",
+      "title": "Prem Baura",
+      "artists": "Murari Prasad, Murari Prasad, Bina Dash",
+      "release_date": "2024-01-01",
+      "category": "newly_discovered",
+      "discovered_at": "2026-10-19T19:44:27.803273+00:00"
+    },
+    {
+      "id": "78xl1agm6jjt1u7YvgWtLo",
+      "title": "Anbarey (From \"Gulu Gulu\")",
+      "artists": "Santhosh Narayanan, Santhosh Narayanan, Dhee",
+      "release_date": "2024-01-01",
+      "category": "newly_discovered",
+      "discovered_at": "2026-10-19T19:44:27.803275+00:00"
+    },
+    {
+      "id": "0eQ3t19gNNyVYuBAJNp6Pj",
+      "title": "Super Duper Hit (feat. Swaroop & Alisha)",
+      "artists": "Pradeep Kumar Mishra, Pradeep Kumar Mishra",
+      "release_date": "2024-01-01",
+      "category": "newly_discovered",
+      "discovered_at": "2026-10-19T19:44:27.803278+00:00"
+    },
+    {
+      "id": "4CmCu5sJA2E5SLkAxQySrI",
+      "title": "You Make Me Move",
+      "artists": "Pradeep Revuri, Pradeep Revuri",
+      "release_date": "2024-01-01",
+      "category": "newly_discovered",
+      "discovered_at": "2026-10-19T19:44:27.803281+00:00"
+    },
+    {
+      "id": "4smKbiLvLt8uKrsnEJGPlS",
+      "title": "Rhythm of Life",
+      "artists": "Ashwin P Kumar, Ashwin P Kumar, Keerthan Holla, Varun Pradeep",
+      "release_date": "2024-01-01",
+      "category": "newly_discovered",
+      "discovered_at": "2026-10-19T19:44:27.803283+00:00"
+    },
+    {
+      "id": "7jfJuiJlYgMqSumcOzV7XT",
+      "title": "Agam Thaanai (From \"Sillu Karuppatti\")",
+      "artists": "Pradeep Kumar, Pradeep Kumar, Susha",
+      "release_date": "2024-01-01",
+      "category": "newly_discovered",
+      "discovered_at": "2026-10-19T19:44:27.803286+00:00"
+    },
+    {
+      "id": "2G8F0vTEb75nOaGePm8isH",
+      "title": "Khopa Hilela",
+      "artists": "Vishnu Deo, Manisha Yadav, Vishnu Deo, Manisha Yadav",
+      "release_date": "2024-01-01",
+      "category": "newly_discovered",
+      "discovered_at": "2026-10-19T19:44:27.803289+00:00"
+    },
+    {
+      "id": "0JsnePZcG63pxbbcllzJ1x",
+      "title": "Oru Oorula - Mellow Dance",
+      "artists": "Rithick J, Rithick J, Arun Raj, Pradeep Kumar",
+      "release_date": "2024-01-01",
+      "category": "newly_discovered",
+      "discovered_at": "2026-10-19T19:44:27.803291+00:00"
+    },
+    {
+      "id": "36QpjGBB7MEUTg1hjfq4Rl",
+      "title": "Aasha Nai Ashama",
+      "artists": "Pradip Kumar Mainali, Pradip Kumar Mainali",
+      "release_date": "2024-01-01",
+      "category": "newly_discovered",
+      "discovered_at": "2026-10-19T19:44:27.803294+00:00"
+    },
+    {
+      "id": "6ZTso47mJa9a4Gppu3do8Q",
+      "title": "Meri Kanha Ne Gheri Dagariya",
+      "artists": "Pradeep Kumar, Pradeep Kumar",
+      "release_date": "2024-01-01",
+      "category": "newly_discovered",
+      "discovered_at": "2026-10-19T19:44:27.803296+00:00"
+    },
+    {
+      "id": "1bY95XczIBhzsGSIVDrnP9",
+      "title": "Ekutia Chala",
+      "artists": "Pradeep Kumar Mishra, Pradeep Kumar Mishra",
+      "release_date": "2024-01-01",
+      "category": "newly_discovered",
+      "discovered_at": "2026-10-19T19:44:27.803299+00:00"
+    },
+    {
+      "id": "4KqEkaGoP4YjzSnN6Hq8Wv",
+      "title": "Giara Pakei De",
+      "artists": "Papu Pom Pom, Papu Pom Pom, Rashmirekha Mishra",
+      "release_date": "2024-01-01",
+      "category": "newly_discovered",
+      "discovered_at": "2026-10-19T19:44:27.803302+00:00"
+    },
+    {
+      "id": "4aphdWDHFZH97HlIN5EnKg",
+      "title": "Feel Song (From \"Vaazhl\")",
+      "artists": "Pradeep Kumar, Pradeep Kumar, Deva",
+      "release_date": "2024-01-01",
+      "category": "newly_discovered",
+      "discovered_at": "2026-10-19T19:44:27.803304+00:00"
+    },
+    {
+      "id": "5KS23olVtBzLS9QtOsAq4I",
+      "title": "Signal (feat. Pradeep S Kumar & Deepa Sudheendra)",
+      "artists": "Vijay Pereira, Vijay Pereira",
+      "release_date": "2024-01-01",
+      "category": "newly_discovered",
+      "discovered_at": "2026-10-19T19:44:27.803307+00:00"
+    },
+    {
+      "id": "12UCZXXk2dLFG1lJEwLqK2",
+      "title": "Oru Naal",
+      "artists": "Marti, Marti, Bharath, Pradeep Kumar",
+      "release_date": "2024-01-01",
+      "category": "newly_discovered",
+      "discovered_at": "2026-10-19T19:44:27.803309+00:00"
+    },
+    {
+      "id": "19nEFsswIftvopxVMUAM9b",
+      "title": "Agayam Theepiditha",
+      "artists": "Pradeep Kumar, Pradeep Kumar",
+      "release_date": "2024-01-01",
+      "category": "newly_discovered",
+      "discovered_at": "2026-10-19T19:44:27.803311+00:00"
+    },
+    {
+      "id": "2j0AwcY2CyQGDf31MvhLyn",
+      "title": "Under Current",
+      "artists": "Alpha55, Alpha55",
+      "release_date": "2024-01-01",
+      "category": "newly_discovered",
+      "discovered_at": "2026-10-19T19:44:27.803314+00:00"
+    },
+    {
+      "id": "4TsMMHsnyJUbZvhmgrmRIX",
+      "title": "Kaayangal Aarum (feat. Malik)",
+      "artists": "Pradeep Kumar PK, Pradeep Kumar PK",
+      "release_date": "2024-01-01",
+      "category": "newly_discovered",
+      "discovered_at": "2026-10-19T19:44:27.803317+00:00"
+    },
+    {
+      "id": "4uxTgGihX1ypRifiM5NBxv",
+      "title": "Kanmaniye",
+      "artists": "Haricharan, Haricharan, Pradeep Kumar, Karthika Vaidyanathan",
+      "release_date": "2024-01-01",
+      "category": "newly_discovered",
+      "discovered_at": "2026-10-19T19:44:27.803320+00:00"
+    },
+    {
+      "id": "0r1ppERo8Mp5iKg3lANvnB",
+      "title": "Poo",
+      "artists": "Santhosh Narayanan, Santhosh Narayanan, Pradeep Kumar",
+      "release_date": "2024-01-01",
+      "category": "newly_discovered",
+      "discovered_at": "2026-10-19T19:44:27.803323+00:00"
+    },
+    {
+      "id": "6fwF943Gbwef9Ts3veNSdR",
+      "title": "Pudhiraai Pudhirukkul - Kaazh",
+      "artists": "Pradeep Kumar, Pradeep Kumar, Helvin KS, Sanjai Arakkal",
+      "release_date": "2024-01-01",
+      "category": "newly_discovered",
+      "discovered_at": "2026-10-19T19:44:27.803325+00:00"
+    },
+    {
+      "id": "16dPvYrWFV50RiqNFubXGE",
+      "title": "Maayavi Nee",
+      "artists": "Maestrovinod, Maestrovinod, Pradeep Kumar",
+      "release_date": "2024-01-01",
+      "category": "newly_discovered",
+      "discovered_at": "2026-10-19T19:44:27.803330+00:00"
+    },
+    {
+      "id": "4NmfmCIrKi0Atun3VyScwk",
+      "title": "Nenjorama",
+      "artists": "Pradeep Kumar, Pradeep Kumar, Malvi Sundaresan",
+      "release_date": "2024-01-01",
+      "category": "newly_discovered",
+      "discovered_at": "2026-10-19T19:44:27.803333+00:00"
+    },
+    {
+      "id": "4vquOZENvQPaacx5xKLpKq",
+      "title": "Kalavaadum Kanna (From \"Address\")",
+      "artists": "Pradeep Kumar, Pradeep Kumar, Padmalatha",
+      "release_date": "2024-01-01",
+      "category": "newly_discovered",
+      "discovered_at": "2026-10-19T19:44:27.803336+00:00"
+    },
+    {
+      "id": "4h76lKBVkd7O57cPogOELK",
+      "title": "Peraasaye (From \"Loopd\")",
+      "artists": "Pradeep Kumar, Pradeep Kumar, Vignesh Ramakrishna, Malvi Sundaresan",
+      "release_date": "2024-01-01",
+      "category": "newly_discovered",
+      "discovered_at": "2026-10-19T19:44:27.803338+00:00"
+    },
+    {
+      "id": "2REuGftUfPQRHIDBBXdsxI",
+      "title": "Aagayam Ambuttayum",
+      "artists": "Pradeep Kumar, Pradeep Kumar",
+      "release_date": "2024-01-01",
+      "category": "newly_discovered",
+      "discovered_at": "2026-10-19T19:44:27.803341+00:00"
+    },
+    {
+      "id": "3unti8bdiV2N4wzFTtR4EF",
+      "title": "Maya Nadhi",
+      "artists": "Santhosh Narayanan, Santhosh Narayanan, Ananthu, Pradeep Kumar, Swetha Mohan",
+      "release_date": "2024-01-01",
+      "category": "newly_discovered",
+      "discovered_at": "2026-10-19T19:44:27.803344+00:00"
+    },
+    {
+      "id": "3LmZv9jtOK8b34bFX6HYZT",
+      "title": "Crummy Crummy",
+      "artists": "Mean Jeans, Mean Jeans",
+      "release_date": "2024-01-01",
+      "category": "newly_discovered",
+      "discovered_at": "2026-10-19T19:44:27.803346+00:00"
+    },
+    {
+      "id": "51PFinvvZyBNE29XuMPl4C",
+      "title": "Immutable",
+      "artists": "Manoya, Manoya",
+      "release_date": "2024-01-01",
+      "category": "newly_discovered",
+      "discovered_at": "2026-10-19T19:44:27.803349+00:00"
+    },
+    {
+      "id": "57zX2q7Scc7GvKQmkTlcwr",
+      "title": "Polladha Aasaigal (From \"29\")",
+      "artists": "Sean Roldan, Sean Roldan, Sathyaprakash, Saindhavi, Uma Devi",
+      "release_date": "2024-01-01",
+      "category": "newly_discovered",
+      "discovered_at": "2026-10-19T19:44:27.803352+00:00"
+    },
+    {
+      "id": "0BmECJll7R8gp2GTryx40G",
+      "title": "Crushed Pleats",
+      "artists": "Dralms, Dralms",
+      "release_date": "2024-01-01",
+      "category": "newly_discovered",
+      "discovered_at": "2026-10-19T19:44:27.803354+00:00"
+    },
+    {
+      "id": "5FxLSkZuFL4EFQIUiPXtT5",
+      "title": "Kadhalagi",
+      "artists": "Kavya Ajit, Kavya Ajit",
+      "release_date": "2024-01-01",
+      "category": "newly_discovered",
+      "discovered_at": "2026-10-19T19:44:27.803357+00:00"
+    },
+    {
+      "id": "4d5zhupAUbvKt3RekihHgk",
+      "title": "Vandhathum Vazhndhathum",
+      "artists": "Dhanush, Dhanush",
+      "release_date": "2024-01-01",
+      "category": "newly_discovered",
+      "discovered_at": "2026-10-19T19:44:27.803359+00:00"
+    },
+    {
+      "id": "59si3TNZDqqTFIaLZRD5nU",
+      "title": "Oru Kadhaley",
+      "artists": "Sean Roldan, Sean Roldan",
+      "release_date": "2024-01-01",
+      "category": "newly_discovered",
+      "discovered_at": "2026-10-19T19:44:27.803362+00:00"
+    },
+    {
+      "id": "06G0DqiY9WRWvfE4gRbiCH",
+      "title": "En Vaazhkaiyae",
+      "artists": "Dhanush, Dhanush",
+      "release_date": "2024-01-01",
+      "category": "newly_discovered",
+      "discovered_at": "2026-10-19T19:44:27.803364+00:00"
+    },
+    {
+      "id": "2DoCADTmcTajaNiehtC24K",
+      "title": "Un Oliyile - R&B Soul",
+      "artists": "Jeruson, Jeruson, G.V. Prakash, Sean Roldan",
+      "release_date": "2024-01-01",
+      "category": "newly_discovered",
+      "discovered_at": "2026-10-19T19:44:27.803367+00:00"
+    },
+    {
+      "id": "7u2MaUNU3xKrEoQRfJ2K5v",
+      "title": "Raave Na Trippu",
+      "artists": "Venkatramanan, ofRO",
+      "release_date": "2024-01-01",
+      "category": "newly_discovered",
+      "discovered_at": "2026-10-19T19:44:27.803369+00:00"
+    },
+    {
+      "id": "0AjZbciQnvAlH9Y3BD4L5y",
+      "title": "Emaatradhey Emaaradhey",
+      "artists": "Kaber Vasuki, Abhilash Venkitachalam, Sean Roldan, Mohan Rajan",
+      "release_date": "2024-01-01",
+      "category": "newly_discovered",
+      "discovered_at": "2026-10-19T19:44:27.803372+00:00"
+    },
+    {
+      "id": "5kLtSF66wKINo7yNfMByQn",
+      "title": "Theera Theera",
+      "artists": "Anand Aravindakshan, Anand Aravindakshan, K, Sean Roldan, Premji Amaren",
+      "release_date": "2024-01-01",
+      "category": "newly_discovered",
+      "discovered_at": "2026-10-19T19:44:27.803374+00:00"
+    },
+    {
+      "id": "3YXm3K89FDQaBLuvirHIqx",
+      "title": "Thaenkoodey (From \"Middle Class\")",
+      "artists": "Pranav Muniraj, Pranav Muniraj, Sean Roldan, Sublahshini, Surya Bharathi A A",
+      "release_date": "2024-01-01",
+      "category": "newly_discovered",
+      "discovered_at": "2026-10-19T19:44:27.803377+00:00"
+    },
+    {
+      "id": "252G1zeEMxTjHtDFINob0M",
+      "title": "Vizhuthe Thalavizhuthe",
+      "artists": "Hesham Abdul Wahab, Hesham Abdul Wahab, Sean Roldan, Sanjana Kalmanje, Manikandan",
+      "release_date": "2024-01-01",
+      "category": "newly_discovered",
+      "discovered_at": "2026-10-19T19:44:27.803380+00:00"
+    },
+    {
+      "id": "4IlKmGMBprHDxCGL6yurwI",
+      "title": "Ennanga Sir Unga Sattam",
+      "artists": "Sean Roldan, Sean Roldan, Yugabharathi, Arandhai Bava, K Perumal",
+      "release_date": "2024-01-01",
+      "category": "newly_discovered",
+      "discovered_at": "2026-10-19T19:44:27.803383+00:00"
+    },
+    {
+      "id": "01wauaRDFH4xjQiMbY8Mzz",
+      "title": "Mudimaadum Ilankaattu",
+      "artists": "Sean Roldan, Sean Roldan, Sreekanth Hariharan, Deepak",
+      "release_date": "2024-01-01",
+      "category": "newly_discovered",
+      "discovered_at": "2026-10-19T19:44:27.803385+00:00"
+    },
+    {
+      "id": "3TtQFK9WIYFbfIikil83I0",
+      "title": "Adengappa 11 Peru",
+      "artists": "Sean Roldan, Sean Roldan",
+      "release_date": "2024-01-01",
+      "category": "newly_discovered",
+      "discovered_at": "2026-10-19T19:44:27.803390+00:00"
+    },
+    {
+      "id": "4KvYr24rpa9QDoH8B9qs93",
+      "title": "Anjathe Nenje",
+      "artists": "Sanjay Subrahmanyan, Sanjay Subrahmanyan, Sean Roldan",
+      "release_date": "2024-01-01",
+      "category": "newly_discovered",
+      "discovered_at": "2026-10-19T19:44:27.803392+00:00"
+    },
+    {
+      "id": "5tITcbjBECXk0qGpDHmLGB",
+      "title": "House owner R. Raghavan IPS",
+      "artists": "Sean Roldan, Sean Roldan",
+      "release_date": "2024-01-01",
+      "category": "newly_discovered",
+      "discovered_at": "2026-10-19T19:44:27.803394+00:00"
+    },
+    {
+      "id": "7sUOv752X6fv09pdSketKk",
+      "title": "Gethu Flop",
+      "artists": "Sean Roldan, Sean Roldan",
+      "release_date": "2024-01-01",
+      "category": "newly_discovered",
+      "discovered_at": "2026-10-19T19:44:27.803396+00:00"
+    },
+    {
+      "id": "4NYi1FoyGqqVM57mfe7WMZ",
+      "title": "Thanniyila",
+      "artists": "Sean Roldan, Sean Roldan, Pradeep Kumar, Divya Ramani",
+      "release_date": "2024-01-01",
+      "category": "newly_discovered",
+      "discovered_at": "2026-10-19T19:44:27.803399+00:00"
+    },
+    {
+      "id": "61yJSpmy5CgFcyi3kIHqLJ",
+      "title": "Anbu",
+      "artists": "Sean Roldan, Sean Roldan",
+      "release_date": "2024-01-01",
+      "category": "newly_discovered",
+      "discovered_at": "2026-10-19T19:44:27.803401+00:00"
+    },
+    {
+      "id": "1rR5GOxRegZjwMKTwMUVjW",
+      "title": "Un Oliyile (From \"Captain Miller\") (Tamil)",
+      "artists": "G. V. Prakash Kumar, G. V. Prakash Kumar, Sean Roldan",
+      "release_date": "2024-01-01",
+      "category": "newly_discovered",
+      "discovered_at": "2026-10-19T19:44:27.803404+00:00"
+    },
+    {
+      "id": "4pvJRYVfnIhG120GB8nWpp",
+      "title": "Kaanum Boomi Ellaam",
+      "artists": "Sean Roldan, Sean Roldan, Anthony Daasan",
+      "release_date": "2024-01-01",
+      "category": "newly_discovered",
+      "discovered_at": "2026-10-19T19:44:27.803406+00:00"
+    },
+    {
+      "id": "46m5tySRdkPcblqLOKUvKW",
+      "title": "Un Oliyile - Ambient Trap",
+      "artists": "Jeruson, Jeruson, Sean Roldan, G.V. Prakash Kumar",
+      "release_date": "2024-01-01",
+      "category": "newly_discovered",
+      "discovered_at": "2026-10-19T19:44:27.803408+00:00"
+    },
+    {
+      "id": "6zJqA1K9NXygmiS9P3scun",
+      "title": "Yeda Haasama",
+      "artists": "Venkatramanan, Venkatramanan",
+      "release_date": "2024-01-01",
+      "category": "newly_discovered",
+      "discovered_at": "2026-10-19T19:44:27.803411+00:00"
+    },
+    {
+      "id": "6W3VcM53iiheQNxfJss3Hr",
+      "title": "Young Village Cricketers",
+      "artists": "Sean Roldan, Sean Roldan",
+      "release_date": "2024-01-01",
+      "category": "newly_discovered",
+      "discovered_at": "2026-10-19T19:44:27.803413+00:00"
+    },
+    {
+      "id": "3vwdGzxlLDG3dKDN9wFoVm",
+      "title": "Yuvan Shankar Raja 2026",
+      "artists": "Yuvan Shankar Raja",
+      "release_date": "2026-10-20",
+      "category": "newly_released",
+      "discovered_at": "2026-10-20T10:29:59.279760+00:00"
+    },
+    {
+      "id": "3WKWNvvusgyayvsptD708a",
+      "title": "Hiphop Tamizha 2026",
+      "artists": "Hiphop Tamizha",
+      "release_date": "2026-10-20",
+      "category": "newly_released",
+      "discovered_at": "2026-10-20T10:29:59.279800+00:00"
+    },
+    {
+      "id": "4KMMTcGfArahzaxD1MADyi",
+      "title": "Sam C. S. 2026",
+      "artists": "Sam C. S.",
+      "release_date": "2026-10-20",
+      "category": "newly_released",
+      "discovered_at": "2026-10-20T10:29:59.279813+00:00"
+    },
+    {
+      "id": "7rdoh0x7CiNEmGDEQbobjr",
+      "title": "Vaisagh 2026",
+      "artists": "Vaisagh",
+      "release_date": "2026-10-20",
+      "category": "newly_released",
+      "discovered_at": "2026-10-20T10:29:59.279824+00:00"
+    },
+    {
+      "id": "5YPRNP0c9KiZSMJDVL3h0x",
+      "title": "Feel Song (From \"Vaazhl\")",
+      "artists": "Pradeep Kumar, Pradeep Kumar, Deva",
+      "release_date": "2024-01-01",
+      "category": "newly_discovered",
+      "discovered_at": "2026-10-20T10:29:59.279834+00:00"
+    },
+    {
+      "id": "7MpYcu3JJMgbnHOoe55gT2",
+      "title": "Emaatradhey Emaaradhey",
+      "artists": "Kaber Vasuki, Abhilash Venkitachalam, Sean Roldan, Mohan Rajan",
+      "release_date": "2024-01-01",
+      "category": "newly_discovered",
+      "discovered_at": "2026-10-20T10:29:59.279845+00:00"
+    }
+  ]
+}

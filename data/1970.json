@@ -1,0 +1,2510 @@
+{
+  "year": 1970,
+  "total_albums": 43,
+  "total_tracks": 216,
+  "exported_at": "2026-10-15T10:00:20.477728Z",
+  "albums": [
+    {
+      "id": 7759,
+      "year": 1970,
+      "title": "Anadhai Anandhan",
+      "director": "Krishnan–Panju",
+      "producer": "",
+      "composer": "A. V. M. Rajan, Jayalalitha, Master Sekhar, R. Muthuraman, Nagesh, Thengai Srinivasan",
+      "cast": "Muthuvel Movies",
+      "source_url": "https://en.wikipedia.org/wiki/Anadhai_Anandhan",
+      "created_at": "2026-10-14 19:36:07",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Engu Paarthathai",
+          "singers": "L.r.eswari",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:12",
+          "stream_url": "https://music.youtube.com/watch?v=3QePqkx0T_o"
+        },
+        {
+          "track_number": 2,
+          "title": "Jammunnu Vandenga",
+          "singers": "P.susheela",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:17",
+          "stream_url": "https://music.youtube.com/watch?v=TvHoaGayjT4"
+        },
+        {
+          "track_number": 3,
+          "title": "Kannaadi Munnaadi",
+          "singers": "P.susheela,t.m.sounderrajan",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:08",
+          "stream_url": "https://music.youtube.com/watch?v=OAtifQJf6-M"
+        },
+        {
+          "track_number": 4,
+          "title": "Nanainthaal Nanaiyattume",
+          "singers": "P.susheela",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:05",
+          "stream_url": "https://music.youtube.com/watch?v=PPj_wIuT2bk"
+        },
+        {
+          "track_number": 5,
+          "title": "Ulagam Pollatha",
+          "singers": "P.susheela",
+          "lyricist": "",
+          "raga": "",
+          "duration": "3:55",
+          "stream_url": "https://music.youtube.com/watch?v=DJcAgL6pE-Y"
+        }
+      ]
+    },
+    {
+      "id": 7760,
+      "year": 1970,
+      "title": "CID Shankar",
+      "director": "R. Sundaram",
+      "producer": "",
+      "composer": "Jaishankar, CID Sakunthala, Thengai Srinivasan, C. L. Ananthan, Manohar, O.A.K. Devar",
+      "cast": "Modern Theatres",
+      "source_url": "https://en.wikipedia.org/wiki/CID_Shankar",
+      "created_at": "2026-10-14 19:36:07",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Naanathale Kannam",
+          "singers": "Veda",
+          "lyricist": "",
+          "raga": "",
+          "duration": "3:27",
+          "stream_url": "https://music.youtube.com/watch?v=7gYc4VZR9J4"
+        },
+        {
+          "track_number": 2,
+          "title": "Brindavanathil",
+          "singers": "Veda",
+          "lyricist": "",
+          "raga": "",
+          "duration": "3:21",
+          "stream_url": "https://music.youtube.com/watch?v=-FdUEPAVY64"
+        }
+      ]
+    },
+    {
+      "id": 7761,
+      "year": 1970,
+      "title": "Dharisanam",
+      "director": "V. T. Arasu",
+      "producer": "",
+      "composer": "A. V. M. Rajan, Pushpalatha, Cho, Manorama, G. Sakunthala",
+      "cast": "Senthoor Films",
+      "source_url": "https://en.wikipedia.org/wiki/Dharisanam",
+      "created_at": "2026-10-14 19:36:07",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Idhu Maalai Neratthu Mayakkam",
+          "singers": "L R Eswari, T M Sounderarajan",
+          "lyricist": "",
+          "raga": "",
+          "duration": "3:17",
+          "stream_url": "https://music.youtube.com/watch?v=TCFXyF6f_VA"
+        },
+        {
+          "track_number": 2,
+          "title": "Kalyanamam Kalyanam",
+          "singers": "T M Sounderrajan, P Susheela",
+          "lyricist": "",
+          "raga": "",
+          "duration": "3:25",
+          "stream_url": "https://music.youtube.com/watch?v=l55qWErf1Go"
+        },
+        {
+          "track_number": 3,
+          "title": "Avanavan Thalaiyezhuthu",
+          "singers": "T M Sounderrajan",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:14",
+          "stream_url": "https://music.youtube.com/watch?v=PSUYJZ2NbCM"
+        },
+        {
+          "track_number": 4,
+          "title": "Pogathe Iyya Pogathe",
+          "singers": "Manorama, S Rangarajan",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:44",
+          "stream_url": "https://music.youtube.com/watch?v=Kil7_EeQNFI"
+        }
+      ]
+    },
+    {
+      "id": 7763,
+      "year": 1970,
+      "title": "En Annan",
+      "director": "P. Neelakantan",
+      "producer": "",
+      "composer": "M. G. Ramachandran, Jayalalitha, R. Muthuraman, Vijaya Nirmala, Cho",
+      "cast": "Venus Pictures",
+      "source_url": "https://en.wikipedia.org/wiki/En_Annan",
+      "created_at": "2026-10-14 19:36:07",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Neela Niram",
+          "singers": "T M Sounderrajan, S Janaki",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:25",
+          "stream_url": "https://music.youtube.com/watch?v=fmK0fLr72tI"
+        },
+        {
+          "track_number": 2,
+          "title": "Kadavul Yean Kallanaar",
+          "singers": "T M Sounderarajan, Chorus",
+          "lyricist": "",
+          "raga": "",
+          "duration": "3:20",
+          "stream_url": "https://music.youtube.com/watch?v=eLvsK8FasW0"
+        },
+        {
+          "track_number": 3,
+          "title": "Nenjam Undu",
+          "singers": "T M Sounderarajan",
+          "lyricist": "",
+          "raga": "",
+          "duration": "3:25",
+          "stream_url": "https://music.youtube.com/watch?v=W5zAU6ErdH8"
+        },
+        {
+          "track_number": 4,
+          "title": "Kannuku Theeriyatha Anthamugam",
+          "singers": "P B Sreenivas, L R Eswari",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:13",
+          "stream_url": "https://music.youtube.com/watch?v=AMKOsgp7Emk"
+        },
+        {
+          "track_number": 5,
+          "title": "Kondai Oru Pakkam",
+          "singers": "T M Sounderarajan, P Susheela",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:18",
+          "stream_url": "https://music.youtube.com/watch?v=RSaPBDkvCrQ"
+        },
+        {
+          "track_number": 6,
+          "title": "Aasai Irukku Nenjil",
+          "singers": "L R Eswari, T M Sounderarajan, Chorus",
+          "lyricist": "",
+          "raga": "",
+          "duration": "3:38",
+          "stream_url": "https://music.youtube.com/watch?v=aR961YjUbC8"
+        },
+        {
+          "track_number": 7,
+          "title": "Aayiram Ennam Kondu",
+          "singers": "T M Sounderarajan, P Susheela",
+          "lyricist": "",
+          "raga": "",
+          "duration": "5:51",
+          "stream_url": "https://music.youtube.com/watch?v=aWc5nBXeEQA"
+        }
+      ]
+    },
+    {
+      "id": 7764,
+      "year": 1970,
+      "title": "Enga Mama",
+      "director": "A. C. Tirulokchandar",
+      "producer": "",
+      "composer": "Sivaji Ganesan, Jayalalitha, Vennira Aadai Nirmala, Cho, Rama Prabha",
+      "cast": "Jayaar Movies",
+      "source_url": "https://en.wikipedia.org/wiki/Enga_Mama",
+      "created_at": "2026-10-14 19:36:07",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Ellorum Nalam Vaazha",
+          "singers": "T M Sounderrajan",
+          "lyricist": "",
+          "raga": "",
+          "duration": "3:31",
+          "stream_url": "https://music.youtube.com/watch?v=NwO9YuAcXZk"
+        },
+        {
+          "track_number": 2,
+          "title": "Cheliakkiligalam",
+          "singers": "T M Sounderrajan",
+          "lyricist": "",
+          "raga": "",
+          "duration": "3:27",
+          "stream_url": "https://music.youtube.com/watch?v=vyDAW1bhum8"
+        },
+        {
+          "track_number": 3,
+          "title": "Naan Thannanthani",
+          "singers": "T M Sounderrajan",
+          "lyricist": "",
+          "raga": "",
+          "duration": "3:31",
+          "stream_url": "https://music.youtube.com/watch?v=1MO2goZ9u8o"
+        },
+        {
+          "track_number": 4,
+          "title": "Paavai Paavai Aasai",
+          "singers": "P Susheela",
+          "lyricist": "",
+          "raga": "",
+          "duration": "3:33",
+          "stream_url": "https://music.youtube.com/watch?v=NBn520rTZDM"
+        },
+        {
+          "track_number": 5,
+          "title": "Sorgam Pakkathil",
+          "singers": "L R Eswari, T M Sounderrajan",
+          "lyricist": "",
+          "raga": "",
+          "duration": "3:31",
+          "stream_url": "https://music.youtube.com/watch?v=vLEN1v3FrdA"
+        },
+        {
+          "track_number": 6,
+          "title": "Ennanga Sollunga",
+          "singers": "T M Sounderrajan, P Susheela",
+          "lyricist": "",
+          "raga": "",
+          "duration": "3:32",
+          "stream_url": "https://music.youtube.com/watch?v=esGTj7m6HFo"
+        }
+      ]
+    },
+    {
+      "id": 7765,
+      "year": 1970,
+      "title": "Engal Thangam",
+      "director": "Krishnan–Panju",
+      "producer": "",
+      "composer": "M. G. Ramachandran, Jayalalitha, A. V. M. Rajan, Pushpalatha, Cho, Thengai Srinivasan, Manorama",
+      "cast": "Mekala Pictures",
+      "source_url": "https://en.wikipedia.org/wiki/Engal_Thangam",
+      "created_at": "2026-10-14 19:36:07",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Tha Tha Thaiya",
+          "singers": "Santhosh Narayanan, Punya Selva, Vivek",
+          "lyricist": "",
+          "raga": "",
+          "duration": "3:36",
+          "stream_url": "https://music.youtube.com/watch?v=etxnV-uOeaY"
+        },
+        {
+          "track_number": 2,
+          "title": "I Can Get Hungry",
+          "singers": "Santhosh Narayanan, Punya Selva, Muthamil, RANJ",
+          "lyricist": "",
+          "raga": "",
+          "duration": "3:14",
+          "stream_url": "https://music.youtube.com/watch?v=LsRWTjrKQMk"
+        },
+        {
+          "track_number": 3,
+          "title": "Lets Comeon",
+          "singers": "Santhosh Narayanan",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:14",
+          "stream_url": "https://music.youtube.com/watch?v=iP6n2lLajb0"
+        },
+        {
+          "track_number": 4,
+          "title": "Chinna Siragil Oliyum Agayam",
+          "singers": "Santhosh Narayanan, Punya Selva, Vivek",
+          "lyricist": "",
+          "raga": "",
+          "duration": "3:26",
+          "stream_url": "https://music.youtube.com/watch?v=DC_avnq6rFw"
+        },
+        {
+          "track_number": 5,
+          "title": "Baby Driver",
+          "singers": "Santhosh Narayanan, Arul Raj",
+          "lyricist": "",
+          "raga": "",
+          "duration": "3:05",
+          "stream_url": "https://music.youtube.com/watch?v=Tpm2bSAxQjY"
+        },
+        {
+          "track_number": 6,
+          "title": "Jhansi Rani",
+          "singers": "Santhosh Narayanan, 808Krshna",
+          "lyricist": "",
+          "raga": "",
+          "duration": "2:22",
+          "stream_url": "https://music.youtube.com/watch?v=zI5vGJOv8yU"
+        },
+        {
+          "track_number": 7,
+          "title": "Queen Swarna",
+          "singers": "Santhosh Narayanan, Arul Raj",
+          "lyricist": "",
+          "raga": "",
+          "duration": "0:58",
+          "stream_url": "https://music.youtube.com/watch?v=eJpfG44RkHs"
+        },
+        {
+          "track_number": 8,
+          "title": "Swarna",
+          "singers": "Santhosh Narayanan",
+          "lyricist": "",
+          "raga": "",
+          "duration": "1:48",
+          "stream_url": "https://music.youtube.com/watch?v=zQOerGtr_os"
+        },
+        {
+          "track_number": 9,
+          "title": "Truce - Trailer Theme",
+          "singers": "Santhosh Narayanan",
+          "lyricist": "",
+          "raga": "",
+          "duration": "2:09",
+          "stream_url": "https://music.youtube.com/watch?v=4E1e9ZbKe4U"
+        }
+      ]
+    },
+    {
+      "id": 7766,
+      "year": 1970,
+      "title": "Engirundho Vandhaal",
+      "director": "A. C. Tirulokchandar",
+      "producer": "",
+      "composer": "Sivaji Ganesan, Jayalalitha, K. Balaji, Devika, Nagesh, Rama Prabha, M. Bhanumathi",
+      "cast": "Sujatha Cine Arts",
+      "source_url": "https://en.wikipedia.org/wiki/Engirundho_Vandhaal",
+      "created_at": "2026-10-14 19:36:07",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Naan Unnai Azhaikkavillai",
+          "singers": "T M Soundararajan",
+          "lyricist": "",
+          "raga": "",
+          "duration": "3:57",
+          "stream_url": "https://music.youtube.com/watch?v=nB2v1G8GBbg"
+        },
+        {
+          "track_number": 2,
+          "title": "Orey Paadal",
+          "singers": "T M Sounderrajan",
+          "lyricist": "",
+          "raga": "",
+          "duration": "2:44",
+          "stream_url": "https://music.youtube.com/watch?v=3sbYUskKDo4"
+        },
+        {
+          "track_number": 3,
+          "title": "Kaalidhasa Mahakavi",
+          "singers": "Sirkazhi Govindarajan, P Leela",
+          "lyricist": "",
+          "raga": "",
+          "duration": "5:11",
+          "stream_url": "https://music.youtube.com/watch?v=TRTakfP02Qs"
+        },
+        {
+          "track_number": 4,
+          "title": "Hallo My Darling",
+          "singers": "L R Eswari, Saibaba",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:03",
+          "stream_url": "https://music.youtube.com/watch?v=8rR6OPlOoF0"
+        },
+        {
+          "track_number": 5,
+          "title": "Vanthavargal",
+          "singers": "S Janaki",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:10",
+          "stream_url": "https://music.youtube.com/watch?v=KA5kxVvHGqM"
+        },
+        {
+          "track_number": 7,
+          "title": "Sirippil Undaagum",
+          "singers": "T M Soundararajan, P Susheela",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:17",
+          "stream_url": "https://music.youtube.com/watch?v=klbP_X-6CVw"
+        }
+      ]
+    },
+    {
+      "id": 7762,
+      "year": 1970,
+      "title": "Ethirkalam",
+      "director": "M. S. Solaimalai",
+      "producer": "",
+      "composer": "Gemini Ganesan, Jaishankar, Padmini, Vanisri, Nagesh",
+      "cast": "Thanigaivel Pictures",
+      "source_url": "https://en.wikipedia.org/wiki/Ethirkalam",
+      "created_at": "2026-10-14 19:36:07",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Vazndhu Parppom",
+          "singers": "M. S. Viswanathan, Kannadasan, T. M. Soundararajan, L. R. Eswari",
+          "lyricist": "",
+          "raga": "",
+          "duration": "6:07",
+          "stream_url": "https://music.youtube.com/watch?v=Whu-tYzJ5eY"
+        },
+        {
+          "track_number": 2,
+          "title": "Mounam Than",
+          "singers": "M. S. Viswanathan, Kannadasan, L. R. Eswari",
+          "lyricist": "",
+          "raga": "",
+          "duration": "3:15",
+          "stream_url": "https://music.youtube.com/watch?v=CL0hLJ2W0IM"
+        },
+        {
+          "track_number": 3,
+          "title": "Kallukku Neethi",
+          "singers": "M. S. Viswanathan, Kannadasan, T. M. Soundararajan",
+          "lyricist": "",
+          "raga": "",
+          "duration": "3:26",
+          "stream_url": "https://music.youtube.com/watch?v=o2w5zw-INJ8"
+        },
+        {
+          "track_number": 4,
+          "title": "Ponnu Yen Thane",
+          "singers": "M. S. Viswanathan, Kannadasan, T. M. Soundararajan, P. Susheela",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:28",
+          "stream_url": "https://music.youtube.com/watch?v=XePUp_4SSkI"
+        },
+        {
+          "track_number": 5,
+          "title": "Majaa Majaa",
+          "singers": "M. S. Viswanathan, Kannadasan, T. M. Soundararajan, P. Susheela",
+          "lyricist": "",
+          "raga": "",
+          "duration": "3:59",
+          "stream_url": "https://music.youtube.com/watch?v=zaIokepxMzs"
+        }
+      ]
+    },
+    {
+      "id": 7767,
+      "year": 1970,
+      "title": "Ethiroli",
+      "director": "K. Balachander",
+      "producer": "",
+      "composer": "K. V. Mahadevan",
+      "cast": "Navarathna Movies",
+      "source_url": "https://en.wikipedia.org/wiki/Ethiroli",
+      "created_at": "2026-10-14 19:36:07",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "A. L. Raghavan, L. R. Eswari",
+          "singers": "04:04",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "T. M. Soundararajan, L. R. Eswari",
+          "singers": "04:10",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "L. R. Eswari",
+          "singers": "03:22",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 7768,
+      "year": 1970,
+      "title": "Jeevanadi",
+      "director": "A. K. Subramanyam",
+      "producer": "",
+      "composer": "Ravichandran, Lakshmi",
+      "cast": "Sri Vinayaka Movies",
+      "source_url": "https://en.wikipedia.org/wiki/Jeevanadi",
+      "created_at": "2026-10-14 19:36:07",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Aradhana",
+          "singers": "Suchitra",
+          "lyricist": "",
+          "raga": "",
+          "duration": "5:56",
+          "stream_url": "https://music.youtube.com/watch?v=s5vb7Aw_J98"
+        },
+        {
+          "track_number": 2,
+          "title": "Aradhanaa",
+          "singers": "Suchitra",
+          "lyricist": "",
+          "raga": "",
+          "duration": "7:21",
+          "stream_url": "https://music.youtube.com/watch?v=R5TIV-6c7DA"
+        },
+        {
+          "track_number": 3,
+          "title": "Enthaina",
+          "singers": "Suchitra",
+          "lyricist": "",
+          "raga": "",
+          "duration": "6:56",
+          "stream_url": "https://music.youtube.com/watch?v=pnV3k8QlyaY"
+        },
+        {
+          "track_number": 4,
+          "title": "Gnanamu",
+          "singers": "Suchitra",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:58",
+          "stream_url": "https://music.youtube.com/watch?v=NODXr-lsHWk"
+        },
+        {
+          "track_number": 5,
+          "title": "Naa Hrudaya",
+          "singers": "Suchitra",
+          "lyricist": "",
+          "raga": "",
+          "duration": "5:23",
+          "stream_url": "https://music.youtube.com/watch?v=cf26adXgXjA"
+        },
+        {
+          "track_number": 6,
+          "title": "Nee Jeevanadi",
+          "singers": "Suchitra",
+          "lyricist": "",
+          "raga": "",
+          "duration": "7:15",
+          "stream_url": "https://music.youtube.com/watch?v=KCRpX5dKVEw"
+        },
+        {
+          "track_number": 7,
+          "title": "Prabhuvaa",
+          "singers": "Suchitra",
+          "lyricist": "",
+          "raga": "",
+          "duration": "6:09",
+          "stream_url": "https://music.youtube.com/watch?v=leBWlvXYugU"
+        },
+        {
+          "track_number": 8,
+          "title": "Stutiyu Ghanata",
+          "singers": "Suchitra",
+          "lyricist": "",
+          "raga": "",
+          "duration": "6:11",
+          "stream_url": "https://music.youtube.com/watch?v=3tNYRs1uYro"
+        },
+        {
+          "track_number": 9,
+          "title": "Vinare Vinare",
+          "singers": "Suchitra",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:43",
+          "stream_url": "https://music.youtube.com/watch?v=cyidJ7xEUto"
+        }
+      ]
+    },
+    {
+      "id": 7769,
+      "year": 1970,
+      "title": "Kadhal Jothi",
+      "director": "Thirumalai–Mahalingam",
+      "producer": "",
+      "composer": "Jaishankar, Ravichandran, Kanchana, M. Bhanumathi, Nagesh, Sachu",
+      "cast": "Mani Malar Films",
+      "source_url": "https://en.wikipedia.org/wiki/Kadhal_Jothi",
+      "created_at": "2026-10-14 19:36:07",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Unmela Konda Aasa",
+          "singers": "T. K. Ramamoorthy, Vaali, Sirkazhi Govindarajan",
+          "lyricist": "",
+          "raga": "",
+          "duration": "3:17",
+          "stream_url": "https://music.youtube.com/watch?v=ef064mHTECY"
+        },
+        {
+          "track_number": 2,
+          "title": "Kadhal Jothi Aniyathadu",
+          "singers": "T. K. Ramamoorthy, Vaali, P. Susheela, S. P. Balasubrahmanyam",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:15",
+          "stream_url": "https://music.youtube.com/watch?v=yF6S-EZ3YMM"
+        },
+        {
+          "track_number": 3,
+          "title": "Sattai Kayil Kondu",
+          "singers": "T. K. Ramamoorthy, Subbu Arumugam, T. M. Soundararajan",
+          "lyricist": "",
+          "raga": "",
+          "duration": "3:57",
+          "stream_url": "https://music.youtube.com/watch?v=vbSsaPnki7o"
+        }
+      ]
+    },
+    {
+      "id": 7770,
+      "year": 1970,
+      "title": "Kalam Vellum",
+      "director": "M. Karnan",
+      "producer": "",
+      "composer": "Shankar–Ganesh",
+      "cast": "Indhrani Films",
+      "source_url": "https://en.wikipedia.org/wiki/Kalam_Vellum",
+      "created_at": "2026-10-14 19:36:07",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Ellorum Thirudargale",
+          "singers": "P. Susheela",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "Ennanga Sambandhi Eppo Namma Sambandham",
+          "singers": "P. Susheela, T. M. Soundararajan, P. Madhuri",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "Maalaiyittom Pongalittom",
+          "singers": "Sirkazhi Govindarajan, L. R. Eswari, Chorus",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "Penn Oru Kannadi",
+          "singers": "L. R. Eswari",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 7771,
+      "year": 1970,
+      "title": "Kalyana Oorvalam",
+      "director": "K. S. Sethumadhavan",
+      "producer": "",
+      "composer": "Nagesh, K. R. Vijaya, Manimala, Sundarrajan, Srikanth, Surulirajan",
+      "cast": "Asiatic Pictures",
+      "source_url": "https://en.wikipedia.org/wiki/Kalyana_Oorvalam",
+      "created_at": "2026-10-14 19:36:07",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Enthan Uyir Kathalan",
+          "singers": "P.Suseela",
+          "lyricist": "",
+          "raga": "",
+          "duration": "3:09",
+          "stream_url": "https://music.youtube.com/watch?v=4na0N5Ysm_4"
+        },
+        {
+          "track_number": 2,
+          "title": "Koonthalile Nei Thadavi",
+          "singers": "K.J.Yesudas, S. Janaki",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:00",
+          "stream_url": "https://music.youtube.com/watch?v=dVqrwj_Jh1Y"
+        },
+        {
+          "track_number": 3,
+          "title": "Oorellam Pakku Vaithu",
+          "singers": "P.Suseela",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:20",
+          "stream_url": "https://music.youtube.com/watch?v=E6VsuxfWEJo"
+        }
+      ]
+    },
+    {
+      "id": 7772,
+      "year": 1970,
+      "title": "Kann Malar",
+      "director": "Pattu",
+      "producer": "",
+      "composer": "K. V. Mahadevan",
+      "cast": "Ganesh Movies",
+      "source_url": "https://en.wikipedia.org/wiki/Kann_Malar",
+      "created_at": "2026-10-14 19:36:07",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Adi Aayi Aayi Aayi Aayi Kalyana",
+          "singers": "P. Susheela",
+          "lyricist": "Kannadasan",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "Ambalathu Nadaraja Un",
+          "singers": "S. Janaki, M. Balamuralikrishna",
+          "lyricist": "Kannadasan",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "Pothumada Sami Ponnu",
+          "singers": "P. Susheela",
+          "lyricist": "Vaali",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "Othuvar Un Peyar Othuvar",
+          "singers": "Soolamangalam Rajalakshmi, M. Balamuralikrishna",
+          "lyricist": "[[Vaali (poet)",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "Poovundu Pinjundu Kaayundu",
+          "singers": "L. R. Eswari",
+          "lyricist": "A. Maruthakasi",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 6,
+          "title": "Aathangarai Orathile Yarumilla",
+          "singers": "T. M. Soundararajan",
+          "lyricist": "Kannadasan",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 7773,
+      "year": 1970,
+      "title": "Kannan Varuvan",
+      "director": "I. N. Murthy",
+      "producer": "",
+      "composer": "Jaishankar, R. Muthuraman, Lakshmi, Vennira Aadai Nirmala, Vijaya Lalitha, J. P. Chandrababu, Thengai Srinivasan, Major Sundarrajan, R. S. Manohar",
+      "cast": "Devaalayam",
+      "source_url": "https://en.wikipedia.org/wiki/Kannan_Varuvan_%281970_film%29",
+      "created_at": "2026-10-14 19:36:07",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Seeraga Samba (From \"Kannan Varuvaan\")",
+          "singers": "Sirpy, S. Janaki, S. P. Balasubrahmanyam, Palani Bharathi",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:53",
+          "stream_url": "https://music.youtube.com/watch?v=kDo7sB8TYPM"
+        },
+        {
+          "track_number": 2,
+          "title": "Kadakkaattu Kuyile (From \"Kannan Varuvaan\")",
+          "singers": "Sirpy, Shankar Mahadevan, Sujatha, Pa. Vijay",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:41",
+          "stream_url": "https://music.youtube.com/watch?v=C-tcAOn8kMM"
+        },
+        {
+          "track_number": 3,
+          "title": "Kathukku Pookkal (From \"Kannan Varuvaan\")",
+          "singers": "Sirpy, Hariharan, Sujatha, Pa. Vijay",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:48",
+          "stream_url": "https://music.youtube.com/watch?v=gMGcwQMg-2Y"
+        },
+        {
+          "track_number": 4,
+          "title": "Kattrutha Thendrale (From \"Kannan Varuvaan\")",
+          "singers": "Sirpy, Shankar Mahadevan, Sundar, Palani Bharathi",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:15",
+          "stream_url": "https://music.youtube.com/watch?v=1FuC936q7XU"
+        },
+        {
+          "track_number": 5,
+          "title": "Kudaimele Kudaivachu (From \"Kannan Varuvaan\")",
+          "singers": "Sirpy, S. P. Charan, Yugendran, K. S. Chithra",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:10",
+          "stream_url": "https://music.youtube.com/watch?v=UrxXVKzHke4"
+        },
+        {
+          "track_number": 6,
+          "title": "Vennilave (From \"Kannan Varuvaan\")",
+          "singers": "Sirpy, Hariharan, Febi Mani, Palani Bharathi",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:56",
+          "stream_url": "https://music.youtube.com/watch?v=Pg9zOG4QylI"
+        }
+      ]
+    },
+    {
+      "id": 7774,
+      "year": 1970,
+      "title": "Kasturi Thilakam",
+      "director": "Malliyam Rajagopal",
+      "producer": "",
+      "composer": "Sowcar Janaki, Major Sundarrajan, Nagesh, Sivakumar, Lakshmi, Srividya",
+      "cast": "Kavitha Arts",
+      "source_url": "https://en.wikipedia.org/wiki/Kasturi_Thilakam",
+      "created_at": "2026-10-14 19:36:07",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Kasturi Tilakam (Shree Krishna Stuti)",
+          "singers": "PARABRAHM NAAD",
+          "lyricist": "",
+          "raga": "",
+          "duration": "3:35",
+          "stream_url": "https://music.youtube.com/watch?v=ajegZoAEYec"
+        }
+      ]
+    },
+    {
+      "id": 7775,
+      "year": 1970,
+      "title": "Kaviya Thalaivi",
+      "director": "K. Balachander",
+      "producer": "",
+      "composer": "Gemini Ganesan, Sowcar Janaki, Ravichandran, M. R. R. Vasu, V. S. Ragavan",
+      "cast": "Selvi Films",
+      "source_url": "https://en.wikipedia.org/wiki/Kaviya_Thalaivi",
+      "created_at": "2026-10-14 19:36:07",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Vaanga Makka Vaanga",
+          "singers": "A.R. Rahman, Haricharan, Dr. Narayan",
+          "lyricist": "",
+          "raga": "",
+          "duration": "3:39",
+          "stream_url": "https://music.youtube.com/watch?v=Hc1ebSsodBQ"
+        },
+        {
+          "track_number": 2,
+          "title": "Aye Mr. Minor!",
+          "singers": "A.R. Rahman, Haricharan, Shashaa Tirupati",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:46",
+          "stream_url": "https://music.youtube.com/watch?v=gUcSm8A-bgE"
+        },
+        {
+          "track_number": 3,
+          "title": "Sandi Kuthirai",
+          "singers": "A.R. Rahman, Haricharan",
+          "lyricist": "",
+          "raga": "",
+          "duration": "3:59",
+          "stream_url": "https://music.youtube.com/watch?v=FR399DdaCtk"
+        },
+        {
+          "track_number": 4,
+          "title": "Yaarumilla",
+          "singers": "A.R. Rahman, Shweta Mohan, Srinivas",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:35",
+          "stream_url": "https://music.youtube.com/watch?v=7nIZ5hLru80"
+        },
+        {
+          "track_number": 5,
+          "title": "Sollividu Sollividu",
+          "singers": "A.R. Rahman, Mukesh",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:27",
+          "stream_url": "https://music.youtube.com/watch?v=1-Qeut2F6nU"
+        },
+        {
+          "track_number": 6,
+          "title": "Thiruppugazh",
+          "singers": "A.R. Rahman, Vani Jairam",
+          "lyricist": "",
+          "raga": "",
+          "duration": "2:21",
+          "stream_url": "https://music.youtube.com/watch?v=Es4bz-29OGU"
+        },
+        {
+          "track_number": 7,
+          "title": "Alli Arjuna",
+          "singers": "A.R. Rahman, Haricharan, Bela Shende",
+          "lyricist": "",
+          "raga": "",
+          "duration": "10:29",
+          "stream_url": "https://music.youtube.com/watch?v=vJiJdhrq8rg"
+        }
+      ]
+    },
+    {
+      "id": 7776,
+      "year": 1970,
+      "title": "Kumara Sambhavam",
+      "director": "P. Subramaniam",
+      "producer": "",
+      "composer": "Gemini Ganesan, Padmini, Rajasree, Srividya",
+      "cast": "Merry Land Pictures",
+      "source_url": "https://en.wikipedia.org/wiki/Kumara_Sambhavam",
+      "created_at": "2026-10-14 19:36:07",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Athyutharasyam",
+          "singers": "Yesudas, Susheela",
+          "lyricist": "",
+          "raga": "",
+          "duration": "3:37",
+          "stream_url": "https://music.youtube.com/watch?v=EF_DpG74TX4"
+        },
+        {
+          "track_number": 2,
+          "title": "Ellam sivamayam",
+          "singers": "Renuka",
+          "lyricist": "",
+          "raga": "",
+          "duration": "5:04",
+          "stream_url": "https://music.youtube.com/watch?v=U0ckOQUCFbc"
+        },
+        {
+          "track_number": 3,
+          "title": "Indukala Mouli",
+          "singers": "Madhuri",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:10",
+          "stream_url": "https://music.youtube.com/watch?v=SwDi31wak10"
+        },
+        {
+          "track_number": 4,
+          "title": "Ksheera Sagara",
+          "singers": "Leela",
+          "lyricist": "",
+          "raga": "",
+          "duration": "3:36",
+          "stream_url": "https://music.youtube.com/watch?v=fu-1wRq4iik"
+        },
+        {
+          "track_number": 5,
+          "title": "Maaya Nadana Viharini",
+          "singers": "Leela, Radha Jayalakshmi",
+          "lyricist": "",
+          "raga": "",
+          "duration": "6:20",
+          "stream_url": "https://music.youtube.com/watch?v=8repG-5IYX0"
+        },
+        {
+          "track_number": 6,
+          "title": "Mallakshi Manimaril",
+          "singers": "M. G. Radhakrishnan, B, . Vasantha",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:18",
+          "stream_url": "https://music.youtube.com/watch?v=dIG1ybZCwhE"
+        },
+        {
+          "track_number": 7,
+          "title": "Omkaram",
+          "singers": "Yesudas",
+          "lyricist": "",
+          "raga": "",
+          "duration": "3:30",
+          "stream_url": "https://music.youtube.com/watch?v=ESKhWcy9NoI"
+        },
+        {
+          "track_number": 8,
+          "title": "Padmasanathil",
+          "singers": "PBSreenivas",
+          "lyricist": "",
+          "raga": "",
+          "duration": "2:21",
+          "stream_url": "https://music.youtube.com/watch?v=6ZbQmhpzxNg"
+        },
+        {
+          "track_number": 9,
+          "title": "Polthinkal kala",
+          "singers": "Yesudas",
+          "lyricist": "",
+          "raga": "",
+          "duration": "3:00",
+          "stream_url": "https://music.youtube.com/watch?v=WZnwV52Eows"
+        },
+        {
+          "track_number": 10,
+          "title": "Priya Sakhi Gange",
+          "singers": "Madhuri",
+          "lyricist": "",
+          "raga": "",
+          "duration": "3:20",
+          "stream_url": "https://music.youtube.com/watch?v=e8kEnRflYl0"
+        },
+        {
+          "track_number": 11,
+          "title": "Priyasakhi Gange (Film Ver)",
+          "singers": "Madhuri",
+          "lyricist": "",
+          "raga": "",
+          "duration": "3:45",
+          "stream_url": "https://music.youtube.com/watch?v=lAtKD-ZI5T4"
+        },
+        {
+          "track_number": 12,
+          "title": "Sarava Poykayil",
+          "singers": "Kamukara, Leela",
+          "lyricist": "",
+          "raga": "",
+          "duration": "3:33",
+          "stream_url": "https://music.youtube.com/watch?v=uwz9JEesVCQ"
+        },
+        {
+          "track_number": 13,
+          "title": "Thapas Irinnu Devan",
+          "singers": "Yesudas",
+          "lyricist": "",
+          "raga": "",
+          "duration": "1:11",
+          "stream_url": "https://music.youtube.com/watch?v=MTXmLdOvtfM"
+        }
+      ]
+    },
+    {
+      "id": 7777,
+      "year": 1970,
+      "title": "Maanavan",
+      "director": "M. A. Thirumugam",
+      "producer": "",
+      "composer": "Jaishankar, Sowcar Janaki, Lakshmi, R. Muthuraman, Nagesh, Sachu",
+      "cast": "Dhandayuthapani Films",
+      "source_url": "https://en.wikipedia.org/wiki/Maanavan",
+      "created_at": "2026-10-14 19:36:07",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Kolluraale",
+          "singers": "Ghibran, Pradeep Kumar",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:11",
+          "stream_url": "https://music.youtube.com/watch?v=j2Xj40fM_60"
+        },
+        {
+          "track_number": 2,
+          "title": "Paaraai Paaraai",
+          "singers": "Ghibran, Chinmayi",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:15",
+          "stream_url": "https://music.youtube.com/watch?v=upxrfRIlEVU"
+        },
+        {
+          "track_number": 3,
+          "title": "Route Song",
+          "singers": "Ghibran, Vaisagh, Gana Dilip, Gana Francis",
+          "lyricist": "",
+          "raga": "",
+          "duration": "3:00",
+          "stream_url": "https://music.youtube.com/watch?v=4u_Qv5wpkvQ"
+        },
+        {
+          "track_number": 4,
+          "title": "Ondre Inam Ondre",
+          "singers": "Ghibran, Arunraja Kamaraj",
+          "lyricist": "",
+          "raga": "",
+          "duration": "3:31",
+          "stream_url": "https://music.youtube.com/watch?v=JQikgV-tbP0"
+        }
+      ]
+    },
+    {
+      "id": 7778,
+      "year": 1970,
+      "title": "Malathi",
+      "director": "K. S. Gopalakrishnan",
+      "producer": "",
+      "composer": "Gemini Ganesan, B. Saroja Devi, Ravichandran, Major Sundarrajan, S. Varalakshmi, Nagesh, Ushanandini",
+      "cast": "Chitra Productions",
+      "source_url": "https://en.wikipedia.org/wiki/Malathi_%28film%29",
+      "created_at": "2026-10-14 19:36:07",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Malathi",
+          "singers": "The Borris",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:43",
+          "stream_url": "https://music.youtube.com/watch?v=vLz0ljcwNdA"
+        }
+      ]
+    },
+    {
+      "id": 7779,
+      "year": 1970,
+      "title": "Mattukkara Velan",
+      "director": "P. Neelakantan",
+      "producer": "",
+      "composer": "M. G. Ramachandran, Jayalalitha, Lakshmi, Cho, Sachu",
+      "cast": "Jayanthi Films",
+      "source_url": "https://en.wikipedia.org/wiki/Mattukkara_Velan",
+      "created_at": "2026-10-14 19:36:07",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Oru Pakkam",
+          "singers": "T M Sounderarajan",
+          "lyricist": "",
+          "raga": "",
+          "duration": "3:13",
+          "stream_url": "https://music.youtube.com/watch?v=TClb2PYpC7g"
+        },
+        {
+          "track_number": 2,
+          "title": "Thottukkollavaa",
+          "singers": "T M Sounderrajan, P Susheela",
+          "lyricist": "",
+          "raga": "",
+          "duration": "3:44",
+          "stream_url": "https://music.youtube.com/watch?v=dA8wCjvFvt0"
+        },
+        {
+          "track_number": 3,
+          "title": "Poo Vaitha",
+          "singers": "T M Sounderarajan, P Susheela, L R Eswari",
+          "lyricist": "",
+          "raga": "",
+          "duration": "3:27",
+          "stream_url": "https://music.youtube.com/watch?v=qeA180M0jog"
+        },
+        {
+          "track_number": 4,
+          "title": "Sathiyam Neeye",
+          "singers": "T M Sounderrajan",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:15",
+          "stream_url": "https://music.youtube.com/watch?v=Z12hBDiHRvI"
+        },
+        {
+          "track_number": 5,
+          "title": "Oru Pakkam Pakkiran",
+          "singers": "T M Sounderrajan, L R Eswari",
+          "lyricist": "",
+          "raga": "",
+          "duration": "3:40",
+          "stream_url": "https://music.youtube.com/watch?v=TClb2PYpC7g"
+        },
+        {
+          "track_number": 7,
+          "title": "Oor Padum Taalatu",
+          "singers": "P Susheela",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:02",
+          "stream_url": "https://music.youtube.com/watch?v=-tMieCRrAdc"
+        },
+        {
+          "track_number": 8,
+          "title": "Story and Dialogues Part1",
+          "singers": "Various Artists",
+          "lyricist": "",
+          "raga": "",
+          "duration": "20:59",
+          "stream_url": "https://music.youtube.com/watch?v=FJCyCVngkvQ"
+        },
+        {
+          "track_number": 9,
+          "title": "Story and Dialogues Part2",
+          "singers": "Various Artists",
+          "lyricist": "",
+          "raga": "",
+          "duration": "20:08",
+          "stream_url": "https://music.youtube.com/watch?v=3N7ir-4skmU"
+        },
+        {
+          "track_number": 10,
+          "title": "Pattikkaada",
+          "singers": "T M Sounderarajan, L R Eswari",
+          "lyricist": "",
+          "raga": "",
+          "duration": "5:26",
+          "stream_url": "https://music.youtube.com/watch?v=Mov6jGLf9ME"
+        }
+      ]
+    },
+    {
+      "id": 7780,
+      "year": 1970,
+      "title": "Nadu Iravil",
+      "director": "S. Balachander",
+      "producer": "",
+      "composer": "S. Balachander, Sowcar Janaki, Major Sundarrajan, Cho",
+      "cast": "S. B. Creations",
+      "source_url": "https://en.wikipedia.org/wiki/Nadu_Iravil",
+      "created_at": "2026-10-14 19:36:07",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "P. Susheela",
+          "singers": "06:11",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "L. R. Eswari",
+          "singers": "04:27",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 7781,
+      "year": 1970,
+      "title": "Namma Kuzhandaigal",
+      "director": "Srikanth",
+      "producer": "",
+      "composer": "Major Sundarrajan, Pandari Bai, Master Sridhar, Baby Roja Ramani, Master Krishnakumar, T. K. Bagavathy, K. A. Thangavelu, G. Sakunthala, C. K. Saraswathi",
+      "cast": "Vijaya Suresh Combines",
+      "source_url": "https://en.wikipedia.org/wiki/Namma_Kuzhandaigal",
+      "created_at": "2026-10-14 19:36:07",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Radhaiyai",
+          "singers": "S. Janaki",
+          "lyricist": "",
+          "raga": "",
+          "duration": "3:24",
+          "stream_url": "https://music.youtube.com/watch?v=fWFlOsPFQ3k"
+        },
+        {
+          "track_number": 2,
+          "title": "Seethakkalappa",
+          "singers": "Dr. Seerkazhi S. Govindarajan",
+          "lyricist": "",
+          "raga": "",
+          "duration": "6:46",
+          "stream_url": "https://music.youtube.com/watch?v=gyFS9s-SiaQ"
+        }
+      ]
+    },
+    {
+      "id": 7782,
+      "year": 1970,
+      "title": "Namma Veettu Deivam",
+      "director": "G. N. Velumani",
+      "producer": "",
+      "composer": "R. Muthuraman, K. R. Vijaya, Nagesh, T. S. Balaiah, V. S. Raghavan, Vijaya Lalitha, Thengai Srinivasan",
+      "cast": "Kamakshi Agencies",
+      "source_url": "https://en.wikipedia.org/wiki/Namma_Veettu_Deivam_%28film%29",
+      "created_at": "2026-10-14 19:36:07",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Enakkum Unakkum 1987",
+          "singers": "P Susheela",
+          "lyricist": "",
+          "raga": "",
+          "duration": "3:13",
+          "stream_url": "https://music.youtube.com/watch?v=Fep8ZSNdCCM"
+        },
+        {
+          "track_number": 2,
+          "title": "Ulagamellam",
+          "singers": "T M Sounderrajan, P Susheela",
+          "lyricist": "",
+          "raga": "",
+          "duration": "5:56",
+          "stream_url": "https://music.youtube.com/watch?v=zj6uxD2c8YE"
+        },
+        {
+          "track_number": 3,
+          "title": "Ennadi Iththanai Vegam",
+          "singers": "P Susheela",
+          "lyricist": "",
+          "raga": "",
+          "duration": "2:50",
+          "stream_url": "https://music.youtube.com/watch?v=6OWKVwgWRFA"
+        }
+      ]
+    },
+    {
+      "id": 7783,
+      "year": 1970,
+      "title": "Navagraham",
+      "director": "K. Balachander",
+      "producer": "",
+      "composer": "Nagesh, Major Sundarrajan, R. Muthuraman, Srikanth, Ragini, G. Sakunthala, Rama Prabha",
+      "cast": "Arul Films",
+      "source_url": "https://en.wikipedia.org/wiki/Navagraham",
+      "created_at": "2026-10-14 19:36:07",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Navagraham",
+          "singers": "Rajinikanth",
+          "lyricist": "",
+          "raga": "",
+          "duration": "22:00",
+          "stream_url": "https://music.youtube.com/watch?v=iLWFm10wlV4"
+        },
+        {
+          "track_number": 2,
+          "title": "Agilam Engum",
+          "singers": "Rajinikanth",
+          "lyricist": "",
+          "raga": "",
+          "duration": "2:33",
+          "stream_url": "https://music.youtube.com/watch?v=bzeei3sJoa8"
+        },
+        {
+          "track_number": 3,
+          "title": "Kadalalai",
+          "singers": "Rajinikanth",
+          "lyricist": "",
+          "raga": "",
+          "duration": "2:28",
+          "stream_url": "https://music.youtube.com/watch?v=uo48blRVFDE"
+        },
+        {
+          "track_number": 4,
+          "title": "Mangalakaaran",
+          "singers": "Rajinikanth",
+          "lyricist": "",
+          "raga": "",
+          "duration": "2:30",
+          "stream_url": "https://music.youtube.com/watch?v=Eqk4MhfN9NQ"
+        },
+        {
+          "track_number": 5,
+          "title": "Putthiyum",
+          "singers": "Rajinikanth",
+          "lyricist": "",
+          "raga": "",
+          "duration": "2:29",
+          "stream_url": "https://music.youtube.com/watch?v=V-topaF8FIk"
+        },
+        {
+          "track_number": 6,
+          "title": "Arivukkathipathi",
+          "singers": "Rajinikanth",
+          "lyricist": "",
+          "raga": "",
+          "duration": "2:35",
+          "stream_url": "https://music.youtube.com/watch?v=W4CRqXJKpD4"
+        },
+        {
+          "track_number": 7,
+          "title": "Asura Kulaguru",
+          "singers": "Rajinikanth",
+          "lyricist": "",
+          "raga": "",
+          "duration": "2:30",
+          "stream_url": "https://music.youtube.com/watch?v=w__GpDQdbDs"
+        },
+        {
+          "track_number": 8,
+          "title": "Easwaranena",
+          "singers": "Rajinikanth",
+          "lyricist": "",
+          "raga": "",
+          "duration": "2:29",
+          "stream_url": "https://music.youtube.com/watch?v=ykfWzbiRxpA"
+        },
+        {
+          "track_number": 9,
+          "title": "Aravamaai",
+          "singers": "Rajinikanth",
+          "lyricist": "",
+          "raga": "",
+          "duration": "2:28",
+          "stream_url": "https://music.youtube.com/watch?v=i9dfbjF_hZg"
+        },
+        {
+          "track_number": 10,
+          "title": "Devamirtha",
+          "singers": "Rajinikanth",
+          "lyricist": "",
+          "raga": "",
+          "duration": "2:37",
+          "stream_url": "https://music.youtube.com/watch?v=GeBZYzBj_N8"
+        },
+        {
+          "track_number": 11,
+          "title": "Thirupaampuram",
+          "singers": "Rajinikanth",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:50",
+          "stream_url": "https://music.youtube.com/watch?v=493-2xLa_Y8"
+        },
+        {
+          "track_number": 12,
+          "title": "Nalathirthathil",
+          "singers": "Rajinikanth",
+          "lyricist": "",
+          "raga": "",
+          "duration": "12:47",
+          "stream_url": "https://music.youtube.com/watch?v=9RxHYIKVFKQ"
+        }
+      ]
+    },
+    {
+      "id": 7784,
+      "year": 1970,
+      "title": "Nilave Nee Satchi",
+      "director": "P. Madhavan",
+      "producer": "",
+      "composer": "Jaishankar, K. R. Vijaya, R. Muthuraman, Manimala, K. A. Thangavelu",
+      "cast": "S. P. Pictures",
+      "source_url": "https://en.wikipedia.org/wiki/Nilave_Nee_Satchi",
+      "created_at": "2026-10-14 19:36:07",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Nee Nenaithal",
+          "singers": "M S Viswanathan, L R Eswari",
+          "lyricist": "",
+          "raga": "",
+          "duration": "3:17",
+          "stream_url": "https://music.youtube.com/watch?v=Ah9uL7RTe9w"
+        },
+        {
+          "track_number": 2,
+          "title": "Nilave Nee Satchchi",
+          "singers": "P Susheela",
+          "lyricist": "",
+          "raga": "",
+          "duration": "3:34",
+          "stream_url": "https://music.youtube.com/watch?v=X_R_qRnzzH8"
+        },
+        {
+          "track_number": 3,
+          "title": "Ponnendrum Poovendrum",
+          "singers": "S P Balasubramaniam",
+          "lyricist": "",
+          "raga": "",
+          "duration": "3:40",
+          "stream_url": "https://music.youtube.com/watch?v=d8-8Np9ZXCk"
+        },
+        {
+          "track_number": 4,
+          "title": "Nilave Nee",
+          "singers": "M S Viswanathan, Radha",
+          "lyricist": "",
+          "raga": "",
+          "duration": "3:39",
+          "stream_url": "https://music.youtube.com/watch?v=pabtpfII9-w"
+        },
+        {
+          "track_number": 5,
+          "title": "Thai Kaatha Pongalukku",
+          "singers": "P Susheela",
+          "lyricist": "",
+          "raga": "",
+          "duration": "3:20",
+          "stream_url": "https://music.youtube.com/watch?v=z3vmPCWYSU4"
+        }
+      ]
+    },
+    {
+      "id": 7785,
+      "year": 1970,
+      "title": "Noorandu Kalam Vazhga",
+      "director": "K. Sampath",
+      "producer": "",
+      "composer": "A. V. M. Rajan, Kanchana, Vennira Aadai Nirmala",
+      "cast": "S. V. S. Pictures",
+      "source_url": "https://en.wikipedia.org/wiki/Noorandu_Kalam_Vazhga",
+      "created_at": "2026-10-14 19:36:07",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Kudumbathin Thalaivi",
+          "singers": "P. Susheela",
+          "lyricist": "",
+          "raga": "",
+          "duration": "2:13",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "Unnai Vidava Avan Azhaganavan",
+          "singers": "L. R. Eswari",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:52",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "Kalaignan Ullam Kalai Ullam",
+          "singers": "T. M. Soundararajan, P. Susheela",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:22",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "Nalina kalaiyadi Nadikkum",
+          "singers": "L. R. Eswari, P. Susheela",
+          "lyricist": "",
+          "raga": "",
+          "duration": "3:13",
+          "stream_url": ""
+        },
+        {
+          "track_number": 5,
+          "title": "Maangalyam Thirumaangalyam",
+          "singers": "T. M. Soundararajan, P. Susheela",
+          "lyricist": "",
+          "raga": "",
+          "duration": "3:53",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 7786,
+      "year": 1970,
+      "title": "Paadhukaappu",
+      "director": "A. Bhimsingh",
+      "producer": "",
+      "composer": "M. S. Viswanathan",
+      "cast": "Sunbeam Productions",
+      "source_url": "https://en.wikipedia.org/wiki/Paadhukaappu",
+      "created_at": "2026-10-14 19:36:07",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "P. Susheela",
+          "singers": "",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "T. M. Soundararajan",
+          "singers": "",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "J. P. Chandrababu, L. R. Eswari",
+          "singers": "",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 4,
+          "title": "Sirkazhi Govindarajan",
+          "singers": "",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 6,
+          "title": "L. R. Eswari",
+          "singers": "",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 7787,
+      "year": 1970,
+      "title": "Patham Pasali",
+      "director": "K. Balachander",
+      "producer": "",
+      "composer": "Gemini Ganesan, Nagesh, Rajasree, Vijaya Lalitha, Sachu, Jayakumari",
+      "cast": "Alangudi Movies",
+      "source_url": "https://en.wikipedia.org/wiki/Patham_Pasali",
+      "created_at": "2026-10-14 19:36:07",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Ammadi Embuttu",
+          "singers": "T M Sounderrajan",
+          "lyricist": "",
+          "raga": "",
+          "duration": "3:38",
+          "stream_url": "https://music.youtube.com/watch?v=-9iA9Bh0Djo"
+        },
+        {
+          "track_number": 2,
+          "title": "Vellai Manam Konda",
+          "singers": "T M Sounderrajan, Swarna",
+          "lyricist": "",
+          "raga": "",
+          "duration": "3:50",
+          "stream_url": "https://music.youtube.com/watch?v=qlwGXhGdtFw"
+        },
+        {
+          "track_number": 3,
+          "title": "Paththam Pasali Mama",
+          "singers": "L R Eswari",
+          "lyricist": "",
+          "raga": "",
+          "duration": "3:44",
+          "stream_url": "https://music.youtube.com/watch?v=hY2A5cb_KhI"
+        },
+        {
+          "track_number": 4,
+          "title": "Poda Pazhagattum Jodi",
+          "singers": "T M Sounderrajan",
+          "lyricist": "",
+          "raga": "",
+          "duration": "3:19",
+          "stream_url": "https://music.youtube.com/watch?v=H_WxjBO0nOU"
+        },
+        {
+          "track_number": 5,
+          "title": "Anna Endroru",
+          "singers": "P Susheela",
+          "lyricist": "",
+          "raga": "",
+          "duration": "3:54",
+          "stream_url": "https://music.youtube.com/watch?v=tuiA0j-s3R4"
+        }
+      ]
+    },
+    {
+      "id": 7788,
+      "year": 1970,
+      "title": "Penn Deivam",
+      "director": "M. A. Thirumugam",
+      "producer": "",
+      "composer": "V. Kumar",
+      "cast": "Dhandayuthapani Films",
+      "source_url": "https://en.wikipedia.org/wiki/Penn_Deivam",
+      "created_at": "2026-10-14 19:36:07",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "P. Susheela",
+          "singers": "Kannadasan",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 2,
+          "title": "L. R. Eswari",
+          "singers": "Kannadasan",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        },
+        {
+          "track_number": 3,
+          "title": "T. M. Soundararajan, P. Susheela",
+          "singers": "Kannadasan",
+          "lyricist": "",
+          "raga": "",
+          "duration": "",
+          "stream_url": ""
+        }
+      ]
+    },
+    {
+      "id": 7789,
+      "year": 1970,
+      "title": "Raman Ethanai Ramanadi",
+      "director": "P. Madhavan",
+      "producer": "",
+      "composer": "Sivaji Ganesan, K. R. Vijaya, R. Muthuraman, M. Bhanumathi",
+      "cast": "Arun Prasad Movies",
+      "source_url": "https://en.wikipedia.org/wiki/Raman_Ethanai_Ramanadi",
+      "created_at": "2026-10-14 19:36:07",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Ammadi Ponnukku",
+          "singers": "T M Sounderrajan",
+          "lyricist": "",
+          "raga": "",
+          "duration": "3:40",
+          "stream_url": "https://music.youtube.com/watch?v=UlLQ5QZQ1n0"
+        },
+        {
+          "track_number": 2,
+          "title": "Chithirai Maatham",
+          "singers": "P Susheela",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:00",
+          "stream_url": "https://music.youtube.com/watch?v=AUz8DLozlO4"
+        },
+        {
+          "track_number": 3,
+          "title": "Chera Chozha Pandian",
+          "singers": "L R Eswari, P Madhuri, Chorus",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:49",
+          "stream_url": "https://music.youtube.com/watch?v=yD_nJIvzubw"
+        },
+        {
+          "track_number": 4,
+          "title": "Veera Sivaji Dialogues",
+          "singers": "Sivaji Ganesan",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:33",
+          "stream_url": "https://music.youtube.com/watch?v=Nuyos8AdBmg"
+        },
+        {
+          "track_number": 5,
+          "title": "Nilavu Vanthu",
+          "singers": "P Susheela",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:23",
+          "stream_url": "https://music.youtube.com/watch?v=0pdn4q_vo4c"
+        },
+        {
+          "track_number": 6,
+          "title": "Ammadi",
+          "singers": "P Susheela",
+          "lyricist": "",
+          "raga": "",
+          "duration": "3:21",
+          "stream_url": "https://music.youtube.com/watch?v=RfjIfdFK5XM"
+        },
+        {
+          "track_number": 7,
+          "title": "Sivaji Durbar",
+          "singers": "Sivaji Ganesan, Others",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:08",
+          "stream_url": "https://music.youtube.com/watch?v=tsAr_hScuvM"
+        },
+        {
+          "track_number": 9,
+          "title": "Arasae Thangalin Mudisutum Vizha Ukku Thadai VanthirukkuStoryandDialouges",
+          "singers": "Shivaji Ganesan",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:13",
+          "stream_url": "https://music.youtube.com/watch?v=GQ3Mjeoj5WY"
+        }
+      ]
+    },
+    {
+      "id": 7790,
+      "year": 1970,
+      "title": "Sangamam",
+      "director": "Dada Mirasi",
+      "producer": "",
+      "composer": "Gemini Ganesan, K. R. Vijaya, Vennira Aadai Nirmala, Nagesh",
+      "cast": "Chiara Films",
+      "source_url": "https://en.wikipedia.org/wiki/Sangamam_%281970_film%29",
+      "created_at": "2026-10-14 19:36:07",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Aalaala Kandaa",
+          "singers": "MSV, Hariharan",
+          "lyricist": "",
+          "raga": "",
+          "duration": "2:19",
+          "stream_url": "https://music.youtube.com/watch?v=seqCU3LN0zs"
+        },
+        {
+          "track_number": 2,
+          "title": "Maargazhi Thingal",
+          "singers": "Unnikrishnan, S Janaki",
+          "lyricist": "",
+          "raga": "",
+          "duration": "6:57",
+          "stream_url": "https://music.youtube.com/watch?v=y1TkBzloV8A"
+        },
+        {
+          "track_number": 3,
+          "title": "Mazhai Thuli",
+          "singers": "MSV, Hariharan",
+          "lyricist": "",
+          "raga": "",
+          "duration": "6:51",
+          "stream_url": "https://music.youtube.com/watch?v=8Byv8EJ594E"
+        },
+        {
+          "track_number": 4,
+          "title": "Muthal Murai",
+          "singers": "Srinivas, Sujatha",
+          "lyricist": "",
+          "raga": "",
+          "duration": "6:11",
+          "stream_url": "https://music.youtube.com/watch?v=edBZFrRNZOE"
+        },
+        {
+          "track_number": 5,
+          "title": "Sowkkiyama Kanne",
+          "singers": "Kadri Gopalnath, Nithya Sree",
+          "lyricist": "",
+          "raga": "",
+          "duration": "5:55",
+          "stream_url": "https://music.youtube.com/watch?v=48Lyu59S9SA"
+        },
+        {
+          "track_number": 6,
+          "title": "Varag NadhiKarai",
+          "singers": "Shankar Mahadevan",
+          "lyricist": "",
+          "raga": "",
+          "duration": "6:19",
+          "stream_url": "https://music.youtube.com/watch?v=OcoYHwPB0hw"
+        }
+      ]
+    },
+    {
+      "id": 7791,
+      "year": 1970,
+      "title": "Snehidi",
+      "director": "G. Ramakrishnan",
+      "producer": "",
+      "composer": "Gemini Ganesan, B. Saroja Devi, Ravichandran, Bharathi, Cho, Manorama",
+      "cast": "Sudha Movies",
+      "source_url": "https://en.wikipedia.org/wiki/Snehidi",
+      "created_at": "2026-10-14 19:36:07",
+      "tracks": []
+    },
+    {
+      "id": 7792,
+      "year": 1970,
+      "title": "Sorgam",
+      "director": "T. R. Ramanna",
+      "producer": "",
+      "composer": "Sivaji Ganesan, K. R. Vijaya R. Muthuraman, Nagesh, Rajasree, Vijaya Lalitha",
+      "cast": "Sri Vinayaka Pictures",
+      "source_url": "https://en.wikipedia.org/wiki/Sorgam",
+      "created_at": "2026-10-14 19:36:07",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Ponmagal Vanthaal",
+          "singers": "T M Sounderarajan, Chorus",
+          "lyricist": "",
+          "raga": "",
+          "duration": "3:20",
+          "stream_url": "https://music.youtube.com/watch?v=0U88C3suBn4"
+        },
+        {
+          "track_number": 2,
+          "title": "Solladhe Yaarum Kaettaal",
+          "singers": "T M Sounderrajan",
+          "lyricist": "",
+          "raga": "",
+          "duration": "3:13",
+          "stream_url": "https://music.youtube.com/watch?v=chRoHaC_He8"
+        },
+        {
+          "track_number": 3,
+          "title": "Oru Muttharatthil",
+          "singers": "P Susheela",
+          "lyricist": "",
+          "raga": "",
+          "duration": "3:29",
+          "stream_url": "https://music.youtube.com/watch?v=yAASsqG2Od4"
+        },
+        {
+          "track_number": 4,
+          "title": "Sollathe With Dialogues",
+          "singers": "T M Sounderarajan",
+          "lyricist": "",
+          "raga": "",
+          "duration": "3:21",
+          "stream_url": "https://music.youtube.com/watch?v=chRoHaC_He8"
+        },
+        {
+          "track_number": 5,
+          "title": "Azhagu Mugam",
+          "singers": "V Janaki, Jikki",
+          "lyricist": "",
+          "raga": "",
+          "duration": "3:30",
+          "stream_url": "https://music.youtube.com/watch?v=1u9C_ZLG5AU"
+        },
+        {
+          "track_number": 6,
+          "title": "Nallu Kallu Sir",
+          "singers": "A L Raghavan, L R Eswari, S V Ponnuswamy",
+          "lyricist": "",
+          "raga": "",
+          "duration": "3:37",
+          "stream_url": "https://music.youtube.com/watch?v=DWNHLYR-EeE"
+        },
+        {
+          "track_number": 7,
+          "title": "Ponmagal Vandhal",
+          "singers": "Kunnakkudi Baidyanathan",
+          "lyricist": "",
+          "raga": "",
+          "duration": "3:29",
+          "stream_url": "https://music.youtube.com/watch?v=5rQbRAAFZhQ"
+        }
+      ]
+    },
+    {
+      "id": 7793,
+      "year": 1970,
+      "title": "Thabalkaran Thangai",
+      "director": "K. S. Gopalakrishnan",
+      "producer": "",
+      "composer": "Gemini Ganesan, Vanisri, Nagesh, R. Muthuraman",
+      "cast": "Ravi Productions",
+      "source_url": "https://en.wikipedia.org/wiki/Thabalkaran_Thangai",
+      "created_at": "2026-10-14 19:36:07",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Iniyathu Iniyathu",
+          "singers": "T.M. Soundararajan, M.S. Viswanathan",
+          "lyricist": "",
+          "raga": "",
+          "duration": "3:29",
+          "stream_url": "https://www.jiosaavn.com/song/iniyathu-iniyathu/GV8dfRl7b14"
+        },
+        {
+          "track_number": 2,
+          "title": "Keettavarellan Paadalam",
+          "singers": "T.M. Soundararajan, M.S. Viswanathan",
+          "lyricist": "",
+          "raga": "",
+          "duration": "5:07",
+          "stream_url": "https://www.jiosaavn.com/song/keettavarellan-paadalam/NyUSbgZZY0E"
+        },
+        {
+          "track_number": 3,
+          "title": "Ninaithen Ennai",
+          "singers": "L.R. Eswari, M.S. Viswanathan",
+          "lyricist": "",
+          "raga": "",
+          "duration": "3:59",
+          "stream_url": "https://www.jiosaavn.com/song/ninaithen-ennai/GiBGATZRTVY"
+        },
+        {
+          "track_number": 4,
+          "title": "Sugam Sugam",
+          "singers": "P. Susheela, M.S. Viswanathan",
+          "lyricist": "",
+          "raga": "",
+          "duration": "3:09",
+          "stream_url": "https://www.jiosaavn.com/song/sugam-sugam/ESkIBwx,ZWU"
+        },
+        {
+          "track_number": 5,
+          "title": "Thanneerile Thaamaraipoo",
+          "singers": "T.M. Soundararajan, M.S. Viswanathan",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:03",
+          "stream_url": "https://www.jiosaavn.com/song/thanneerile-thaamaraipoo/RxtcCVlmW2M"
+        },
+        {
+          "track_number": 6,
+          "title": "Thanneerile Thaamaraipoo - Pathos",
+          "singers": "T.M. Soundararajan, M.S. Viswanathan",
+          "lyricist": "",
+          "raga": "",
+          "duration": "2:13",
+          "stream_url": "https://www.jiosaavn.com/song/thanneerile-thaamaraipoo-pathos/EgspRURlZQQ"
+        },
+        {
+          "track_number": 7,
+          "title": "Thathi Thathi",
+          "singers": "L.R. Eswari, M.S. Viswanathan",
+          "lyricist": "",
+          "raga": "",
+          "duration": "3:52",
+          "stream_url": "https://www.jiosaavn.com/song/thathi-thathi/MicAUw5ifAQ"
+        }
+      ]
+    },
+    {
+      "id": 7794,
+      "year": 1970,
+      "title": "Thalaivan",
+      "director": "P. A. ThomasSingamuthu",
+      "producer": "",
+      "composer": "M. G. Ramachandran, Vanisri, Nagesh, Nambiar, Asogan, Jothy Lakshmi, O.A.K. Devar",
+      "cast": "Thomas Pictures",
+      "source_url": "https://en.wikipedia.org/wiki/Thalaivan_%281970_film%29",
+      "created_at": "2026-10-14 19:36:07",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Tamil Pasanga",
+          "singers": "G.V. Prakash Kumar, Benny Dayal, Sheezay.Psycho Unit",
+          "lyricist": "",
+          "raga": "",
+          "duration": "5:08",
+          "stream_url": "https://music.youtube.com/watch?v=mvNdtAu6Dsk"
+        },
+        {
+          "track_number": 2,
+          "title": "Yaar Indha Saalai Oram",
+          "singers": "G.V. Prakash Kumar, Saindhavi, Na. Muthukumar",
+          "lyricist": "",
+          "raga": "",
+          "duration": "5:16",
+          "stream_url": "https://music.youtube.com/watch?v=NOeMYlFuEmk"
+        },
+        {
+          "track_number": 3,
+          "title": "Vaanganna Vanakkanganna",
+          "singers": "G.V. Prakash Kumar, Vijay, Santhanam, Na. Muthukumar",
+          "lyricist": "",
+          "raga": "",
+          "duration": "5:34",
+          "stream_url": "https://music.youtube.com/watch?v=aQTpIZpRuf4"
+        },
+        {
+          "track_number": 4,
+          "title": "Sol Sol",
+          "singers": "G.V. Prakash Kumar, Vijay Prakash, Abhay Jodhpurkar, Megha",
+          "lyricist": "",
+          "raga": "",
+          "duration": "5:50",
+          "stream_url": "https://music.youtube.com/watch?v=7Xz262RsnEM"
+        },
+        {
+          "track_number": 5,
+          "title": "The Ecstacy of Dance",
+          "singers": "G.V. Prakash Kumar, Kiran, Chennai Symphony",
+          "lyricist": "",
+          "raga": "",
+          "duration": "2:12",
+          "stream_url": "https://music.youtube.com/watch?v=ogbq4fFD3XM"
+        },
+        {
+          "track_number": 6,
+          "title": "Thalaivaa Thalaivaa",
+          "singers": "G.V. Prakash Kumar, Haricharan, Pooja, Zia Ul Haq",
+          "lyricist": "",
+          "raga": "",
+          "duration": "5:39",
+          "stream_url": "https://music.youtube.com/watch?v=K1KdMictk3s"
+        }
+      ]
+    },
+    {
+      "id": 7795,
+      "year": 1970,
+      "title": "Thedi Vandha Mappillai",
+      "director": "B. R. Panthulu",
+      "producer": "",
+      "composer": "M. G. Ramachandran, Jayalalitha, Cho Jothy Lakshmi, Asogan",
+      "cast": "Padmini Pictures",
+      "source_url": "https://en.wikipedia.org/wiki/Thedi_Vandha_Mappillai",
+      "created_at": "2026-10-14 19:36:07",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Maanicka Theril",
+          "singers": "T M Sounderarajan, P Susheela",
+          "lyricist": "",
+          "raga": "",
+          "duration": "3:38",
+          "stream_url": "https://music.youtube.com/watch?v=OQ32L9gyzSk"
+        },
+        {
+          "track_number": 2,
+          "title": "Vetri Meethu Vetri Vandhu",
+          "singers": "S P Balasubramaniam",
+          "lyricist": "",
+          "raga": "",
+          "duration": "3:02",
+          "stream_url": "https://music.youtube.com/watch?v=cF2sS1R2NnI"
+        },
+        {
+          "track_number": 3,
+          "title": "Ada Arumugam",
+          "singers": "T M Sounderarajan, P Susheela",
+          "lyricist": "",
+          "raga": "",
+          "duration": "3:39",
+          "stream_url": "https://music.youtube.com/watch?v=Z7HyIpKI-Hc"
+        },
+        {
+          "track_number": 4,
+          "title": "Maanikka Theril Revival",
+          "singers": "T M Sounderrajan",
+          "lyricist": "",
+          "raga": "",
+          "duration": "3:46",
+          "stream_url": "https://music.youtube.com/watch?v=lV6DpLkwe_Y"
+        },
+        {
+          "track_number": 5,
+          "title": "Aadatha Ullangal",
+          "singers": "L R Eswari",
+          "lyricist": "",
+          "raga": "",
+          "duration": "3:19",
+          "stream_url": "https://music.youtube.com/watch?v=hlD3ZWaq_Ag"
+        },
+        {
+          "track_number": 6,
+          "title": "Sorgathai Theduvom",
+          "singers": "T M Sounderarajan",
+          "lyricist": "",
+          "raga": "",
+          "duration": "3:55",
+          "stream_url": "https://music.youtube.com/watch?v=kqK53d2gVKw"
+        },
+        {
+          "track_number": 7,
+          "title": "Idamo Sugamaanathu",
+          "singers": "T M Sounderarajan, P Susheela",
+          "lyricist": "",
+          "raga": "",
+          "duration": "3:03",
+          "stream_url": "https://music.youtube.com/watch?v=v36-oO6DwTc"
+        },
+        {
+          "track_number": 8,
+          "title": "Thottu Kaattava",
+          "singers": "T M Sounderarajan",
+          "lyricist": "",
+          "raga": "",
+          "duration": "3:42",
+          "stream_url": "https://music.youtube.com/watch?v=vpIO0AO2HQk"
+        }
+      ]
+    },
+    {
+      "id": 7796,
+      "year": 1970,
+      "title": "Thirumalai Thenkumari",
+      "director": "A. P. Nagarajan",
+      "producer": "",
+      "composer": "Seerkazhi Govindarajan, Sivakumar, Manorama, Kumari Padmini, Rama Prabha",
+      "cast": "Sri Vijayalakshmi Pictures",
+      "source_url": "https://en.wikipedia.org/wiki/Thirumalai_Thenkumari",
+      "created_at": "2026-10-14 19:36:07",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Thirupathi Malaivaazhum",
+          "singers": "Dr Seerkhazhi S Govindarajan",
+          "lyricist": "",
+          "raga": "",
+          "duration": "3:13",
+          "stream_url": "https://music.youtube.com/watch?v=ojMkrXJc7eQ"
+        },
+        {
+          "track_number": 2,
+          "title": "Guruvayoorappa",
+          "singers": "Dr Seerkhazhi S Govindarajan",
+          "lyricist": "",
+          "raga": "",
+          "duration": "3:19",
+          "stream_url": "https://music.youtube.com/watch?v=T4KStC8Q-KA"
+        },
+        {
+          "track_number": 3,
+          "title": "Madhurai Arasaalum",
+          "singers": "Dr Seerkgazhi S Govindarajan, L R Eswari, M R Vijaya",
+          "lyricist": "",
+          "raga": "",
+          "duration": "5:50",
+          "stream_url": "https://music.youtube.com/watch?v=-sSsiM3Vm0Y"
+        },
+        {
+          "track_number": 4,
+          "title": "Sinthanaiyil Medaikatti",
+          "singers": "De Seerkhazhi S Govindarajan, Sarala, Chorus",
+          "lyricist": "",
+          "raga": "",
+          "duration": "3:17",
+          "stream_url": "https://music.youtube.com/watch?v=W7KX41u_rx8"
+        },
+        {
+          "track_number": 5,
+          "title": "Azhage Thamizhe Nee",
+          "singers": "Dr Seerkhazhi S Govindarajan, Sarala, M R Vijaya, Manorama",
+          "lyricist": "",
+          "raga": "",
+          "duration": "6:16",
+          "stream_url": "https://music.youtube.com/watch?v=JqhjYiO4Iqs"
+        },
+        {
+          "track_number": 6,
+          "title": "Kaliyaatha Kalviyum",
+          "singers": "Dr Seerkazhi S Govindarajan",
+          "lyricist": "",
+          "raga": "",
+          "duration": "2:56",
+          "stream_url": "https://music.youtube.com/watch?v=YmIc-geZpkw"
+        },
+        {
+          "track_number": 7,
+          "title": "Thiralmani Kathirgaland Neelakkada",
+          "singers": "Dr Seerkhazhi S Govindarajan, L R Eswari",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:10",
+          "stream_url": "https://music.youtube.com/watch?v=XvQJM1Fuzxs"
+        }
+      ]
+    },
+    {
+      "id": 7797,
+      "year": 1970,
+      "title": "Vairagyam",
+      "director": "A. Kasilingam",
+      "producer": "",
+      "composer": "Gemini Ganesan, S. S. Rajendran, Vennira Aadai Nirmala, Nagesh, V. Gopalakrishnan",
+      "cast": "Annai Films",
+      "source_url": "https://en.wikipedia.org/wiki/Vairagyam_%281970_film%29",
+      "created_at": "2026-10-14 19:36:07",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Azhage Azhugai Enna",
+          "singers": "S. P. Balasubrahmanyam, S. Janaki",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:12",
+          "stream_url": "https://music.youtube.com/watch?v=fW6J-Cjf_5c"
+        },
+        {
+          "track_number": 2,
+          "title": "Machanai Thottal Enna",
+          "singers": "S. P. Balasubrahmanyam, S. Janaki",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:28",
+          "stream_url": "https://music.youtube.com/watch?v=EkGUczgUeww"
+        },
+        {
+          "track_number": 3,
+          "title": "Jimthanakadi Jimthanakadi Jin",
+          "singers": "Manoj Giyan, Vairamuthu, Pulamaipithan, S. P. Balasubrahmanyam",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:42",
+          "stream_url": "https://music.youtube.com/watch?v=bTdP2BZYaVA"
+        },
+        {
+          "track_number": 4,
+          "title": "Carotti Vandha Kutti Rasathi",
+          "singers": "S. P. Balasubrahmanyam",
+          "lyricist": "",
+          "raga": "",
+          "duration": "4:16",
+          "stream_url": "https://music.youtube.com/watch?v=_ZwagFWqhj4"
+        }
+      ]
+    },
+    {
+      "id": 7798,
+      "year": 1970,
+      "title": "Veettuku Veedu",
+      "director": "C. V. Rajendran",
+      "producer": "",
+      "composer": "Jaishankar, Lakshmi, R. Muthuraman, Vennira Aadai Nirmala, Nagesh",
+      "cast": "Babu Movies",
+      "source_url": "https://en.wikipedia.org/wiki/Veettuku_Veedu",
+      "created_at": "2026-10-14 19:36:07",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Nal Vaazhvu Naam Vaazha",
+          "singers": "M.S. Viswanathan",
+          "lyricist": "",
+          "raga": "",
+          "duration": "3:25",
+          "stream_url": "https://music.youtube.com/watch?v=J__TGUzl5FQ"
+        }
+      ]
+    },
+    {
+      "id": 7799,
+      "year": 1970,
+      "title": "Vietnam Veedu",
+      "director": "P. Madhavan",
+      "producer": "",
+      "composer": "Sivaji Ganesan, Padmini, Srikanth, Nagesh, Ramaprabha, M. Bhanumathi",
+      "cast": "Sivaji Productions",
+      "source_url": "https://en.wikipedia.org/wiki/Vietnam_Veedu",
+      "created_at": "2026-10-14 19:36:07",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Un Kannil Neer Vazhindhal",
+          "singers": "T M Soundara Rajan",
+          "lyricist": "",
+          "raga": "",
+          "duration": "3:24",
+          "stream_url": "https://music.youtube.com/watch?v=ZVFpBz7hpK8"
+        },
+        {
+          "track_number": 2,
+          "title": "Paalakkaattu Pakkathile",
+          "singers": "P Susheela, T M Sounderarajan",
+          "lyricist": "",
+          "raga": "",
+          "duration": "3:56",
+          "stream_url": "https://music.youtube.com/watch?v=TZsW5SIUVwA"
+        },
+        {
+          "track_number": 3,
+          "title": "Ennodeya Service Office Story and Dialogues",
+          "singers": "Shivaji Ganesan",
+          "lyricist": "",
+          "raga": "",
+          "duration": "6:01",
+          "stream_url": "https://music.youtube.com/watch?v=S2ntCoCBPRA"
+        },
+        {
+          "track_number": 4,
+          "title": "Vietnam Veedu Film Story and Dialogues Part I",
+          "singers": "Sundaram",
+          "lyricist": "",
+          "raga": "",
+          "duration": "28:07",
+          "stream_url": "https://music.youtube.com/watch?v=G4kcaz1H3v8"
+        },
+        {
+          "track_number": 5,
+          "title": "Vietnam Veedu Film Story and Dialogues Part Ii",
+          "singers": "Sundaram",
+          "lyricist": "",
+          "raga": "",
+          "duration": "27:49",
+          "stream_url": "https://music.youtube.com/watch?v=2jVPvDBlmIg"
+        }
+      ]
+    },
+    {
+      "id": 7800,
+      "year": 1970,
+      "title": "Vilaiyattu Pillai",
+      "director": "A. P. Nagarajan",
+      "producer": "",
+      "composer": "Sivaji Ganesan, Padmini, Kanchana, Sivakumar, Cho",
+      "cast": "Gemini Studios",
+      "source_url": "https://en.wikipedia.org/wiki/Vilaiyattu_Pillai",
+      "created_at": "2026-10-14 19:36:07",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Yeruperisa",
+          "singers": "K.v. Mahadevan",
+          "lyricist": "",
+          "raga": "",
+          "duration": "5:51",
+          "stream_url": "https://music.youtube.com/watch?v=ZWFilNwhJ2Q"
+        }
+      ]
+    },
+    {
+      "id": 7801,
+      "year": 1970,
+      "title": "Yaen?",
+      "director": "T. R. Ramanna",
+      "producer": "",
+      "composer": "A. V. M. Rajan, Ravichandran, Lakshmi, Vennira Aadai Nirmala, Nagesh, Manorama",
+      "cast": "E. V. R. Pictures",
+      "source_url": "https://en.wikipedia.org/wiki/Yaen%3F",
+      "created_at": "2026-10-14 19:36:07",
+      "tracks": [
+        {
+          "track_number": 1,
+          "title": "Yaen",
+          "singers": "Tamil Konda",
+          "lyricist": "",
+          "raga": "",
+          "duration": "3:06",
+          "stream_url": "https://music.youtube.com/watch?v=9s4O0h9SENQ"
+        }
+      ]
+    }
+  ]
+}

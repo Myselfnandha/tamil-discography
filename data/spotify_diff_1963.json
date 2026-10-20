@@ -1,0 +1,134 @@
+{
+  "year": 1963,
+  "total_tracks": 317,
+  "tier_1_count": 8,
+  "tier_2_count": 0,
+  "tier_3_count": 0,
+  "tier_4_count": 0,
+  "unranked_count": 309,
+  "position_changes_count": 316,
+  "sample_tier_1_tracks": [
+    {
+      "title": "Andru Vandhadhum\" (Happy)",
+      "album": "Periya Idathu Penn",
+      "score": 55.0
+    },
+    {
+      "title": "Andru Vandhadhum\" (Pathos)",
+      "album": "Periya Idathu Penn",
+      "score": 55.0
+    },
+    {
+      "title": "Avanukkena Thoongi",
+      "album": "Periya Idathu Penn",
+      "score": 55.0
+    },
+    {
+      "title": "Kannenna Kannenna",
+      "album": "Periya Idathu Penn",
+      "score": 55.0
+    },
+    {
+      "title": "Kattodu Kuzhalaada",
+      "album": "Periya Idathu Penn",
+      "score": 55.0
+    },
+    {
+      "title": "Paarappa Pazhaniappa",
+      "album": "Periya Idathu Penn",
+      "score": 55.0
+    },
+    {
+      "title": "Thulli Odum Kaalgal",
+      "album": "Periya Idathu Penn",
+      "score": 55.0
+    },
+    {
+      "title": "Ragasiyam Parama",
+      "album": "Periya Idathu Penn",
+      "score": 55.0
+    }
+  ],
+  "sample_changes": [
+    {
+      "track_title": "Andru Vandhadhum\" (Happy)",
+      "album_title": "Periya Idathu Penn",
+      "old_position": 251,
+      "new_position": 1,
+      "evidence_tier": "tier_1_mega",
+      "score": 55.0
+    },
+    {
+      "track_title": "Andru Vandhadhum\" (Pathos)",
+      "album_title": "Periya Idathu Penn",
+      "old_position": 252,
+      "new_position": 2,
+      "evidence_tier": "tier_1_mega",
+      "score": 55.0
+    },
+    {
+      "track_title": "Avanukkena Thoongi",
+      "album_title": "Periya Idathu Penn",
+      "old_position": 253,
+      "new_position": 3,
+      "evidence_tier": "tier_1_mega",
+      "score": 55.0
+    },
+    {
+      "track_title": "Kannenna Kannenna",
+      "album_title": "Periya Idathu Penn",
+      "old_position": 254,
+      "new_position": 4,
+      "evidence_tier": "tier_1_mega",
+      "score": 55.0
+    },
+    {
+      "track_title": "Kattodu Kuzhalaada",
+      "album_title": "Periya Idathu Penn",
+      "old_position": 255,
+      "new_position": 5,
+      "evidence_tier": "tier_1_mega",
+      "score": 55.0
+    },
+    {
+      "track_title": "Paarappa Pazhaniappa",
+      "album_title": "Periya Idathu Penn",
+      "old_position": 256,
+      "new_position": 6,
+      "evidence_tier": "tier_1_mega",
+      "score": 55.0
+    },
+    {
+      "track_title": "Thulli Odum Kaalgal",
+      "album_title": "Periya Idathu Penn",
+      "old_position": 257,
+      "new_position": 7,
+      "evidence_tier": "tier_1_mega",
+      "score": 55.0
+    },
+    {
+      "track_title": "Ragasiyam Parama",
+      "album_title": "Periya Idathu Penn",
+      "old_position": 258,
+      "new_position": 8,
+      "evidence_tier": "tier_1_mega",
+      "score": 55.0
+    },
+    {
+      "track_title": "Anbu Enbathu",
+      "album_title": "Aasai Alaigal",
+      "old_position": 1,
+      "new_position": 9,
+      "evidence_tier": null,
+      "score": null
+    },
+    {
+      "track_title": "Ennirandu 16 Vayathu",
+      "album_title": "Annai Illam",
+      "old_position": 14,
+      "new_position": 10,
+      "evidence_tier": null,
+      "score": null
+    }
+  ]
+}

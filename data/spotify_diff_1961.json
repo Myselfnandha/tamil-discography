@@ -1,0 +1,169 @@
+{
+  "year": 1961,
+  "total_tracks": 270,
+  "tier_1_count": 15,
+  "tier_2_count": 0,
+  "tier_3_count": 0,
+  "tier_4_count": 0,
+  "unranked_count": 255,
+  "position_changes_count": 270,
+  "sample_tier_1_tracks": [
+    {
+      "title": "Malargalai Pol Thangai",
+      "album": "Pasamalar",
+      "score": 105.0
+    },
+    {
+      "title": "Kaalangalil Aval Vasantham",
+      "album": "Paava Mannippu",
+      "score": 95.0
+    },
+    {
+      "title": "Anbu Malar",
+      "album": "Pasamalar",
+      "score": 70.0
+    },
+    {
+      "title": "Engalukkum Kaalam Varum",
+      "album": "Pasamalar",
+      "score": 70.0
+    },
+    {
+      "title": "Malarnthum Malaradha",
+      "album": "Pasamalar",
+      "score": 70.0
+    },
+    {
+      "title": "Mayangugiraal",
+      "album": "Pasamalar",
+      "score": 70.0
+    },
+    {
+      "title": "Paatondru",
+      "album": "Pasamalar",
+      "score": 70.0
+    },
+    {
+      "title": "Vaarai En Thozhi Vaarayo",
+      "album": "Pasamalar",
+      "score": 70.0
+    },
+    {
+      "title": "Yaar Yaar Aval",
+      "album": "Pasamalar",
+      "score": 70.0
+    },
+    {
+      "title": "Aththan Ennaththan",
+      "album": "Paava Mannippu",
+      "score": 70.0
+    },
+    {
+      "title": "Ellorum Kondaduvom",
+      "album": "Paava Mannippu",
+      "score": 70.0
+    },
+    {
+      "title": "Paal Irukkum Pazham Irukkum",
+      "album": "Paava Mannippu",
+      "score": 70.0
+    },
+    {
+      "title": "Saaya Veeti",
+      "album": "Paava Mannippu",
+      "score": 70.0
+    },
+    {
+      "title": "Silar Siripar Silar Azhuvar",
+      "album": "Paava Mannippu",
+      "score": 70.0
+    },
+    {
+      "title": "Vantha Naal Muthal",
+      "album": "Paava Mannippu",
+      "score": 70.0
+    }
+  ],
+  "sample_changes": [
+    {
+      "track_title": "Malargalai Pol Thangai",
+      "album_title": "Pasamalar",
+      "old_position": 184,
+      "new_position": 1,
+      "evidence_tier": "tier_1_mega",
+      "score": 105.0
+    },
+    {
+      "track_title": "Kaalangalil Aval Vasantham",
+      "album_title": "Paava Mannippu",
+      "old_position": 152,
+      "new_position": 2,
+      "evidence_tier": "tier_1_mega",
+      "score": 95.0
+    },
+    {
+      "track_title": "Anbu Malar",
+      "album_title": "Pasamalar",
+      "old_position": 182,
+      "new_position": 3,
+      "evidence_tier": "tier_1_mega",
+      "score": 70.0
+    },
+    {
+      "track_title": "Engalukkum Kaalam Varum",
+      "album_title": "Pasamalar",
+      "old_position": 183,
+      "new_position": 4,
+      "evidence_tier": "tier_1_mega",
+      "score": 70.0
+    },
+    {
+      "track_title": "Malarnthum Malaradha",
+      "album_title": "Pasamalar",
+      "old_position": 185,
+      "new_position": 5,
+      "evidence_tier": "tier_1_mega",
+      "score": 70.0
+    },
+    {
+      "track_title": "Mayangugiraal",
+      "album_title": "Pasamalar",
+      "old_position": 186,
+      "new_position": 6,
+      "evidence_tier": "tier_1_mega",
+      "score": 70.0
+    },
+    {
+      "track_title": "Paatondru",
+      "album_title": "Pasamalar",
+      "old_position": 187,
+      "new_position": 7,
+      "evidence_tier": "tier_1_mega",
+      "score": 70.0
+    },
+    {
+      "track_title": "Vaarai En Thozhi Vaarayo",
+      "album_title": "Pasamalar",
+      "old_position": 188,
+      "new_position": 8,
+      "evidence_tier": "tier_1_mega",
+      "score": 70.0
+    },
+    {
+      "track_title": "Yaar Yaar Aval",
+      "album_title": "Pasamalar",
+      "old_position": 189,
+      "new_position": 9,
+      "evidence_tier": "tier_1_mega",
+      "score": 70.0
+    },
+    {
+      "track_title": "Aththan Ennaththan",
+      "album_title": "Paava Mannippu",
+      "old_position": 150,
+      "new_position": 10,
+      "evidence_tier": "tier_1_mega",
+      "score": 70.0
+    }
+  ]
+}

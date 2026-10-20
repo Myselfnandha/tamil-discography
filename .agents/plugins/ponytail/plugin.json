@@ -1,0 +1,7 @@
+{
+  "name": "ponytail",
+  "description": "Lazy senior dev mode for AI agents: YAGNI, standard library first, reuse existing code, and smallest working change.",
+  "version": "4.10.0",
+  "author": "Dietrich Gebert",
+  "homepage": "https://github.com/DietrichGebert/ponytail"
+}

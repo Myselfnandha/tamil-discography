@@ -1,0 +1,152 @@
+#!/usr/bin/env bash
+# ==============================================================================
+# 🌌 ZeroGravity OS Universal CLI (`zg`)
+# ==============================================================================
+set -euo pipefail
+
+REAL_SCRIPT="$(readlink -f "${BASH_SOURCE[0]}")"
+SCRIPT_DIR="$(cd "$(dirname "$REAL_SCRIPT")" && pwd)"
+WORKSPACE_ROOT="$(cd "$SCRIPT_DIR/../.." && pwd)"
+
+# ANSI formatting
+BOLD="\033[1m"
+GREEN="\033[32m"
+BLUE="\033[34m"
+CYAN="\033[36m"
+YELLOW="\033[33m"
+RED="\033[31m"
+RESET="\033[0m"
+
+function print_banner() {
+    echo -e "${CYAN}${BOLD}"
+    cat << "EOF"
+  ______               _____                 _ _         ____   _____ 
+ |___  /              / ____|               (_) |       / __ \ / ____|
+    / / ___ _ __ ___ | |  __ _ __ __ ___   ___| |_ _   _| |  | | (___  
+   / / / _ \ '__/ _ \| | |_ | '__/ _` \ \ / / | __| | | | |  | |\___ \ 
+  / /_|  __/ | | (_) | |__| | | | (_| |\ V /| | |_| |_| | |__| |____) |
+ /_____\___|_|  \___/ \_____|_|  \__,_| \_/ |_|\__|\__, |\____/|_____/ 
+                                                    __/ |              
+                                                   |___/               
+EOF
+    echo -e "${RESET}  ${BOLD}ZeroGravity OS • Ultra-Compact Autonomous AI Agent OS (v1.0.0)${RESET}"
+    echo -e "  Workspace: ${BLUE}$WORKSPACE_ROOT${RESET}\n"
+}
+
+function print_help() {
+    print_banner
+    echo -e "${BOLD}Usage:${RESET} zg <command> [arguments]\n"
+    echo -e "${BOLD}Core Commands:${RESET}"
+    echo -e "  ${GREEN}doctor${RESET}               Run system diagnostic checks & MCP health tests"
+    echo -e "  ${GREEN}status${RESET}               Show active MCP servers and workspace profile"
+    echo -e "  ${GREEN}pack${RESET}                 Compile and package Core Slim distribution (1.3 MB)"
+    echo -e "  ${GREEN}install${RESET}              Run the interactive self-installer"
+    echo -e "  ${GREEN}test${RESET}                 Run test suites (mcp, security, packager)"
+    echo -e "  ${GREEN}check${RESET}                Run full pre-flight checklist"
+    echo -e "  ${GREEN}impact <symbol|--file>${RESET} Run impact analysis & blast radius check"
+    echo ""
+    echo -e "${BOLD}MCP On-Demand Management:${RESET}"
+    echo -e "  ${CYAN}mcp list${RESET}             List all cataloged MCP servers and active states"
+    echo -e "  ${CYAN}mcp enable <name>${RESET}    Activate an MCP server dynamically"
+    echo -e "  ${CYAN}mcp disable <name>${RESET}   Shut down and disable an active MCP server"
+    echo -e "  ${CYAN}mcp reset${RESET}            Reset to Zero-Default profile (0 background servers)"
+    echo -e "  ${CYAN}mcp run <name> -- <cmd>${RESET} Run a command with temporary MCP server, auto-stop after"
+    echo ""
+    echo -e "${BOLD}Autonomous Engine & Learning:${RESET}"
+    echo -e "  ${YELLOW}harness <action>${RESET}     Recursive Agent Harnessing (status, inspect, validate, propose, ledger)"
+    echo -e "  ${YELLOW}build-feature${RESET}        Run 5-Stage Supercoder pipeline on current folder"
+    echo -e "  ${YELLOW}learn <action>${RESET}       2-Way mistake immunization (list, add, check, audit)"
+    echo -e "  ${YELLOW}sync [args]${RESET}          Auto-sync learned strategies & build flows to GitHub"
+    echo -e "  ${YELLOW}flow <record|list>${RESET}   Record or list verified build methods & workflows"
+    echo -e "  ${YELLOW}evolve <action>${RESET}     Auto-evolve knowledge (capture, list, stats, sync)"
+    echo -e "  ${YELLOW}memory${RESET}               Display decisions, gotchas, and goal evolution"
+    echo ""
+}
+
+CMD="${1:-help}"
+shift || true
+
+case "$CMD" in
+    help|--help|-h)
+        print_help
+        ;;
+    status)
+        print_banner
+        python3 "$SCRIPT_DIR/mcp.py" list
+        ;;
+    doctor)
+        print_banner
+        echo -e "${BOLD}🔍 Running ZeroGravity OS Diagnostics...${RESET}\n"
+        echo -e "  • Node.js: $(node --version 2>/dev/null || echo 'Not found')"
+        echo -e "  • Python:  $(python3 --version 2>/dev/null || echo 'Not found')"
+        echo -e "  • mcp-npx: $(which mcp-npx 2>/dev/null || echo 'Not in PATH')"
+        echo ""
+        python3 "$SCRIPT_DIR/mcp.py" list
+        echo ""
+        python3 "$SCRIPT_DIR/learn.py" audit
+        ;;
+    harness)
+        python3 "$SCRIPT_DIR/harness.py" "$@"
+        ;;
+    mcp)
+        python3 "$SCRIPT_DIR/mcp.py" "$@"
+        ;;
+    learn)
+        python3 "$SCRIPT_DIR/learn.py" "$@"
+        ;;
+    sync)
+        python3 "$SCRIPT_DIR/sync_knowledge.py" sync "$@"
+        ;;
+    flow)
+        FLOW_SUB="${1:-list}"
+        shift || true
+        case "$FLOW_SUB" in
+            record)
+                python3 "$SCRIPT_DIR/sync_knowledge.py" record-flow "$@"
+                ;;
+            list)
+                python3 "$SCRIPT_DIR/sync_knowledge.py" list-flows "$@"
+                ;;
+            *)
+                echo -e "${RED}Unknown flow action: $FLOW_SUB (use 'record' or 'list')${RESET}"
+                exit 1
+                ;;
+        esac
+        ;;
+    pack)
+        "$WORKSPACE_ROOT/pack.sh" "$@"
+        ;;
+    install)
+        "$WORKSPACE_ROOT/install.sh" "$@"
+        ;;
+    test)
+        python3 -m unittest discover "$WORKSPACE_ROOT/tests" -v
+        ;;
+    check)
+        python3 "$SCRIPT_DIR/checklist.py" "$WORKSPACE_ROOT"
+        ;;
+    impact)
+        python3 "$SCRIPT_DIR/impact_check.py" "$@"
+        ;;
+    build-feature|openhuman)
+        python3 "$SCRIPT_DIR/analyze.py" "$WORKSPACE_ROOT" --check --auto-heal
+        ;;
+    evolve)
+        python3 "$SCRIPT_DIR/auto_evolve.py" "$@"
+        ;;
+    memory)
+        echo -e "${BOLD}🧠 Decisions Invariants:${RESET}"
+        cat "$WORKSPACE_ROOT/.agents/memory/decisions.md" 2>/dev/null || echo "No decisions recorded."
+        echo ""
+        echo -e "${BOLD}⚠️ Platform Gotchas:${RESET}"
+        cat "$WORKSPACE_ROOT/.agents/memory/gotchas.md" 2>/dev/null || echo "No gotchas recorded."
+        echo ""
+        echo -e "${BOLD}🎯 Active Goals:${RESET}"
+        cat "$WORKSPACE_ROOT/.agents/memory/goals.md" 2>/dev/null || echo "No goals recorded."
+        ;;
+    *)
+        echo -e "${RED}Unknown command: $CMD${RESET}\n"
+        print_help
+        exit 1
+        ;;
+esac

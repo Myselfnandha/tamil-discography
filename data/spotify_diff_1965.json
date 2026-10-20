@@ -1,0 +1,214 @@
+{
+  "year": 1965,
+  "total_tracks": 254,
+  "tier_1_count": 24,
+  "tier_2_count": 0,
+  "tier_3_count": 0,
+  "tier_4_count": 0,
+  "unranked_count": 230,
+  "position_changes_count": 254,
+  "sample_tier_1_tracks": [
+    {
+      "title": "Paattum Naane",
+      "album": "Thiruvilaiyadal",
+      "score": 105.0
+    },
+    {
+      "title": "Pazham Neeyappaa",
+      "album": "Thiruvilaiyadal",
+      "score": 95.0
+    },
+    {
+      "title": "Oru Naal Podhumaa",
+      "album": "Thiruvilaiyadal",
+      "score": 90.0
+    },
+    {
+      "title": "Naanamo Innum Naanamo",
+      "album": "Ayirathil Oruvan",
+      "score": 80.0
+    },
+    {
+      "title": "Kumari Pennin",
+      "album": "Enga Veettu Pillai",
+      "score": 80.0
+    },
+    {
+      "title": "Isai Thamizh",
+      "album": "Thiruvilaiyadal",
+      "score": 70.0
+    },
+    {
+      "title": "Paarthaal Pasumaram",
+      "album": "Thiruvilaiyadal",
+      "score": 70.0
+    },
+    {
+      "title": "Podhigai Malai Uchchiyiley",
+      "album": "Thiruvilaiyadal",
+      "score": 70.0
+    },
+    {
+      "title": "Ondraanavan Uruvil",
+      "album": "Thiruvilaiyadal",
+      "score": 70.0
+    },
+    {
+      "title": "Illaadhathondrillai",
+      "album": "Thiruvilaiyadal",
+      "score": 70.0
+    },
+    {
+      "title": "Vaasi Vaasi",
+      "album": "Thiruvilaiyadal",
+      "score": 70.0
+    },
+    {
+      "title": "Om Namasivaaya",
+      "album": "Thiruvilaiyadal",
+      "score": 70.0
+    },
+    {
+      "title": "Neela Chelai Katti Konda",
+      "album": "Thiruvilaiyadal",
+      "score": 70.0
+    },
+    {
+      "title": "Aadaamal Aadugiren",
+      "album": "Ayirathil Oruvan",
+      "score": 55.0
+    },
+    {
+      "title": "Adho Andha Paravai Pola",
+      "album": "Ayirathil Oruvan",
+      "score": 55.0
+    },
+    {
+      "title": "Odum Maegangalae",
+      "album": "Ayirathil Oruvan",
+      "score": 55.0
+    },
+    {
+      "title": "Paruvam Enathu Paadal",
+      "album": "Ayirathil Oruvan",
+      "score": 55.0
+    },
+    {
+      "title": "Unnai Naan Santhithaen",
+      "album": "Ayirathil Oruvan",
+      "score": 55.0
+    },
+    {
+      "title": "Yaen Endra Kaelvi",
+      "album": "Ayirathil Oruvan",
+      "score": 55.0
+    },
+    {
+      "title": "Naan Aanaiyitaal",
+      "album": "Enga Veettu Pillai",
+      "score": 55.0
+    },
+    {
+      "title": "Kankalum Kaavadi",
+      "album": "Enga Veettu Pillai",
+      "score": 55.0
+    },
+    {
+      "title": "Malarukku Thendral",
+      "album": "Enga Veettu Pillai",
+      "score": 55.0
+    },
+    {
+      "title": "Naan Maanthoppil",
+      "album": "Enga Veettu Pillai",
+      "score": 55.0
+    },
+    {
+      "title": "Penn Ponaal",
+      "album": "Enga Veettu Pillai",
+      "score": 55.0
+    }
+  ],
+  "sample_changes": [
+    {
+      "track_title": "Paattum Naane",
+      "album_title": "Thiruvilaiyadal",
+      "old_position": 211,
+      "new_position": 1,
+      "evidence_tier": "tier_1_mega",
+      "score": 105.0
+    },
+    {
+      "track_title": "Pazham Neeyappaa",
+      "album_title": "Thiruvilaiyadal",
+      "old_position": 207,
+      "new_position": 2,
+      "evidence_tier": "tier_1_mega",
+      "score": 95.0
+    },
+    {
+      "track_title": "Oru Naal Podhumaa",
+      "album_title": "Thiruvilaiyadal",
+      "old_position": 208,
+      "new_position": 3,
+      "evidence_tier": "tier_1_mega",
+      "score": 90.0
+    },
+    {
+      "track_title": "Naanamo Innum Naanamo",
+      "album_title": "Ayirathil Oruvan",
+      "old_position": 21,
+      "new_position": 4,
+      "evidence_tier": "tier_1_mega",
+      "score": 80.0
+    },
+    {
+      "track_title": "Kumari Pennin",
+      "album_title": "Enga Veettu Pillai",
+      "old_position": 33,
+      "new_position": 5,
+      "evidence_tier": "tier_1_mega",
+      "score": 80.0
+    },
+    {
+      "track_title": "Isai Thamizh",
+      "album_title": "Thiruvilaiyadal",
+      "old_position": 209,
+      "new_position": 6,
+      "evidence_tier": "tier_1_mega",
+      "score": 70.0
+    },
+    {
+      "track_title": "Paarthaal Pasumaram",
+      "album_title": "Thiruvilaiyadal",
+      "old_position": 210,
+      "new_position": 7,
+      "evidence_tier": "tier_1_mega",
+      "score": 70.0
+    },
+    {
+      "track_title": "Podhigai Malai Uchchiyiley",
+      "album_title": "Thiruvilaiyadal",
+      "old_position": 212,
+      "new_position": 8,
+      "evidence_tier": "tier_1_mega",
+      "score": 70.0
+    },
+    {
+      "track_title": "Ondraanavan Uruvil",
+      "album_title": "Thiruvilaiyadal",
+      "old_position": 213,
+      "new_position": 9,
+      "evidence_tier": "tier_1_mega",
+      "score": 70.0
+    },
+    {
+      "track_title": "Illaadhathondrillai",
+      "album_title": "Thiruvilaiyadal",
+      "old_position": 214,
+      "new_position": 10,
+      "evidence_tier": "tier_1_mega",
+      "score": 70.0
+    }
+  ]
+}
