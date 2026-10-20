@@ -27,3 +27,4 @@ data/*.log
 playlists_backup/
 scratch/
 discography.db
+songmirror/
