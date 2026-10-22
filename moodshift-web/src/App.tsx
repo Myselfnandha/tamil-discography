@@ -10,46 +10,57 @@ import { journeyPlanner } from './domain/JourneyPlanner';
 import { MOCK_TRACKS } from './data/mockTracks';
 import { DEFAULT_TARGET_MOODS } from './data/defaultTargetMoods';
 
-// Components
-import { TopHeader } from './components/dashboard/TopHeader';
+// Android Native Components & Navigation
+import { AndroidTopBar } from './components/dashboard/AndroidTopBar';
+import { AndroidBottomNav, AndroidNavTab } from './components/common/AndroidBottomNav';
+import { MobileFloatingPlayer } from './components/player/MobileFloatingPlayer';
 import { FixMyMoodCard } from './components/dashboard/FixMyMoodCard';
 import { RecentJourneys } from './components/dashboard/RecentJourneys';
 import { PlaylistCarousel } from './components/dashboard/PlaylistCarousel';
+
+// Android Tab Views
+import { HarmonicExplorerView } from './components/views/HarmonicExplorerView';
+import { DspEngineView } from './components/views/DspEngineView';
+import { MoodRadarView } from './components/views/MoodRadarView';
+
+// Modals & Bottom Sheets
 import { FaceCalibrationModal } from './components/scan/FaceCalibrationModal';
 import { CameraScanOverlay } from './components/scan/CameraScanOverlay';
 import { SelfReportWheel } from './components/scan/SelfReportWheel';
 import { TargetPickerModal } from './components/journey/TargetPickerModal';
 import { JourneyPreviewSheet } from './components/journey/JourneyPreviewSheet';
-import { NowPlayingBar } from './components/player/NowPlayingBar';
 import { FullPlayerModal } from './components/player/FullPlayerModal';
 import { TempoFineTuneSheet } from './components/player/TempoFineTuneSheet';
 import { SpotifyFallbackAlert } from './components/player/SpotifyFallbackAlert';
 
 export default function App() {
-  // 1. Flow Mode
+  // 1. Android Active Navigation Tab
+  const [activeTab, setActiveTab] = useState<AndroidNavTab>('journey');
+
+  // 2. Flow Mode
   const [flowMode, setFlowMode] = useState<FlowMode>(FlowMode.GUIDED);
 
-  // 2. Auto-Sensing & Mood State
+  // 3. Auto-Sensing & Mood State
   const { currentMood: sensedMood, isScanning: isAutoSensing, refreshScan } = useAutoSense();
   const [customMood, setCustomMood] = useState<MoodSnapshot | null>(null);
   const activeMood = customMood || sensedMood;
 
-  // 3. Target Mood State
+  // 4. Target Mood State
   const [selectedTarget, setSelectedTarget] = useState<TargetMood | null>(null);
   const recommendedTarget = useMemo(() => {
     return selectedTarget || smartPredictor.predictTargetMood(activeMood);
   }, [selectedTarget, activeMood]);
 
-  // 4. Audio Engine Hook
+  // 5. Audio Engine Hook
   const audioPlayer = useAudioPlayer(recommendedTarget);
 
-  // 5. Camera & Face Calibration Hook
+  // 6. Camera & Face Calibration Hook
   const cameraSensor = useCameraSensor();
 
-  // 6. Active Journey State
+  // 7. Active Journey State
   const [currentJourney, setCurrentJourney] = useState<MoodJourney | null>(null);
 
-  // 7. Modals & Overlays State
+  // 8. Modals & Sheets State
   const [isCalibrationOpen, setIsCalibrationOpen] = useState(false);
   const [isManualScanOpen, setIsManualScanOpen] = useState(false);
   const [isSelfReportOpen, setIsSelfReportOpen] = useState(false);
@@ -59,7 +70,7 @@ export default function App() {
   const [isTempoFineTuneOpen, setIsTempoFineTuneOpen] = useState(false);
   const [spotifyAlertTrack, setSpotifyAlertTrack] = useState<Track | null>(null);
 
-  // Auto-generate journey on target change or mood change if no active playback
+  // Auto-generate journey on target change or mood change
   const generateNewJourney = useCallback((target: TargetMood): MoodJourney => {
     const journey = journeyPlanner.planJourney(activeMood, target, MOCK_TRACKS);
     setCurrentJourney(journey);
@@ -138,14 +149,21 @@ export default function App() {
 
   // Playlist tag quick select
   const handleSelectMoodTag = (tag: string) => {
-    const matched = DEFAULT_TARGET_MOODS.find(m => m.name.toLowerCase() === tag.toLowerCase());
+    const matched = DEFAULT_TARGET_MOODS.find((m) => m.name.toLowerCase() === tag.toLowerCase());
     if (matched) {
       setSelectedTarget(matched);
       handlePreviewJourney(matched);
     }
   };
 
-  // Spotify deeplink handler (triggers DSP notice modal)
+  // Start playback from harmonic track selection
+  const handleSelectHarmonicTrack = (track: Track) => {
+    const customJourney = journeyPlanner.planJourney(activeMood, recommendedTarget, [track, ...MOCK_TRACKS]);
+    setCurrentJourney(customJourney);
+    audioPlayer.startJourney(customJourney);
+  };
+
+  // Spotify deeplink handler
   const handleSpotifyPrompt = () => {
     if (audioPlayer.currentTrack) {
       setSpotifyAlertTrack(audioPlayer.currentTrack.track);
@@ -153,68 +171,177 @@ export default function App() {
   };
 
   return (
-    <div className="min-h-screen bg-[#0A0E1A] text-slate-100 flex flex-col font-sans selection:bg-cyan-500/30 selection:text-cyan-200">
-      {/* Background ambient gradient orbs */}
+    <div className="min-h-screen bg-[#0A0E1A] text-slate-100 flex flex-col font-sans select-none overflow-x-hidden">
+      {/* Background Ambient Glows */}
       <div className="fixed inset-0 overflow-hidden pointer-events-none z-0">
         <div
-          className="absolute -top-32 -left-32 w-96 h-96 rounded-full blur-[140px] opacity-20 transition-all duration-1000"
+          className="absolute -top-32 -left-20 w-80 h-80 rounded-full blur-[130px] opacity-20 transition-all duration-1000"
           style={{ backgroundColor: recommendedTarget.colorAccent }}
         />
-        <div className="absolute top-1/3 -right-32 w-[30rem] h-[30rem] rounded-full blur-[160px] opacity-15 bg-blue-600/30" />
-        <div className="absolute -bottom-32 left-1/4 w-[28rem] h-[28rem] rounded-full blur-[150px] opacity-10 bg-indigo-600/20" />
+        <div className="absolute top-1/2 -right-28 w-80 h-80 rounded-full blur-[140px] opacity-15 bg-blue-600/30" />
       </div>
 
-      {/* Main Container */}
-      <div className="relative z-10 flex-1 flex flex-col max-w-6xl w-full mx-auto px-4 sm:px-6 pt-3 pb-28">
-        {/* Top Header */}
-        <TopHeader
-          flowMode={flowMode}
-          onFlowModeChange={setFlowMode}
-          personalProfile={cameraSensor.personalProfile}
-          onOpenCalibration={() => setIsCalibrationOpen(true)}
-          onOpenManualScan={() => setIsManualScanOpen(true)}
-        />
+      {/* Android Top App Bar */}
+      <AndroidTopBar
+        flowMode={flowMode}
+        onFlowModeChange={setFlowMode}
+        personalProfile={cameraSensor.personalProfile}
+        onOpenCalibration={() => setIsCalibrationOpen(true)}
+        onOpenManualScan={() => setIsManualScanOpen(true)}
+        onRefreshSense={refreshScan}
+        isAutoSensing={isAutoSensing}
+      />
 
-        {/* Dashboard Content */}
-        <main className="flex-1 flex flex-col gap-6 mt-4">
-          {/* Primary Hero: Fix My Mood Card */}
-          <FixMyMoodCard
+      {/* Main Android Phone Screen Container */}
+      <main className="relative z-10 flex-1 max-w-md w-full mx-auto px-4 pt-3 pb-32">
+        {activeTab === 'journey' && (
+          <div className="space-y-5 animate-in fade-in duration-300">
+            {/* Primary Hero: Sensed Mood + 1-Tap Journey */}
+            <FixMyMoodCard
+              currentMood={activeMood}
+              recommendedTarget={recommendedTarget}
+              isAutoSensing={isAutoSensing}
+              onStartJourney={() => handleStartJourney(recommendedTarget)}
+              onChangeTarget={() => setIsTargetPickerOpen(true)}
+              onOpenCorrection={() => setIsSelfReportOpen(true)}
+              onRefreshSense={refreshScan}
+            />
+
+            {/* Harmonic Playlists */}
+            <PlaylistCarousel onSelectMoodTag={handleSelectMoodTag} />
+
+            {/* Recent Shift Journeys */}
+            <RecentJourneys />
+          </div>
+        )}
+
+        {activeTab === 'radar' && (
+          <MoodRadarView
             currentMood={activeMood}
-            recommendedTarget={recommendedTarget}
-            isAutoSensing={isAutoSensing}
-            onStartJourney={() => handleStartJourney(recommendedTarget)}
-            onChangeTarget={() => setIsTargetPickerOpen(true)}
-            onOpenCorrection={() => setIsSelfReportOpen(true)}
+            personalProfile={cameraSensor.personalProfile}
+            onOpenSelfReportWheel={() => setIsSelfReportOpen(true)}
+            onOpenManualScan={() => setIsManualScanOpen(true)}
+            onOpenCalibration={() => setIsCalibrationOpen(true)}
             onRefreshSense={refreshScan}
+            isAutoSensing={isAutoSensing}
           />
+        )}
 
-          {/* Connected Playlists */}
-          <PlaylistCarousel onSelectMoodTag={handleSelectMoodTag} />
+        {activeTab === 'harmonic' && (
+          <HarmonicExplorerView
+            currentTrack={audioPlayer.currentTrack?.track}
+            onSelectTrack={handleSelectHarmonicTrack}
+          />
+        )}
 
-          {/* Recent MoodShift Journeys */}
-          <RecentJourneys />
-        </main>
-      </div>
+        {activeTab === 'dsp' && (
+          <DspEngineView
+            currentTrack={audioPlayer.currentTrack}
+            targetMood={recommendedTarget}
+            effectiveTempo={audioPlayer.effectiveTempo}
+            manualTempo={audioPlayer.manualTempo}
+            isTempoTuned={audioPlayer.isTempoTuned}
+            onSetManualTempo={audioPlayer.setManualTempo}
+            onToggleTempoTuned={audioPlayer.toggleTempoTuning}
+          />
+        )}
+      </main>
 
-      {/* Sticky Bottom Now Playing Bar */}
+      {/* Floating Mini-Player Pill */}
       {audioPlayer.currentTrack && (
-        <NowPlayingBar
+        <MobileFloatingPlayer
+          currentTrack={audioPlayer.currentTrack}
+          isPlaying={audioPlayer.isPlaying}
+          progress={audioPlayer.progress}
+          effectiveTempo={audioPlayer.effectiveTempo}
+          isTempoTuned={audioPlayer.isTempoTuned}
+          onTogglePlay={audioPlayer.togglePlay}
+          onNext={audioPlayer.nextTrack}
+          onOpenFullPlayer={() => setIsFullPlayerOpen(true)}
+          onOpenTempoFineTune={(e) => {
+            e.stopPropagation();
+            setIsTempoFineTuneOpen(true);
+          }}
+        />
+      )}
+
+      {/* Android Bottom Navigation Bar */}
+      <AndroidBottomNav
+        activeTab={activeTab}
+        onTabChange={setActiveTab}
+        targetAccentColor={recommendedTarget.colorAccent}
+        hasActivePlayback={Boolean(audioPlayer.currentTrack)}
+      />
+
+      {/* Android Bottom Sheet: Target Mood Picker */}
+      {isTargetPickerOpen && (
+        <TargetPickerModal
+          selectedMoodId={recommendedTarget.id}
+          onSelectMood={(mood) => {
+            setSelectedTarget(mood);
+            setIsTargetPickerOpen(false);
+          }}
+          onClose={() => setIsTargetPickerOpen(false)}
+        />
+      )}
+
+      {/* Android Bottom Sheet: Journey Preview */}
+      {isJourneyPreviewOpen && currentJourney && (
+        <JourneyPreviewSheet
+          journey={currentJourney}
+          onStartJourney={() => {
+            audioPlayer.startJourney(currentJourney);
+            setIsJourneyPreviewOpen(false);
+          }}
+          onRegenerate={() => generateNewJourney(recommendedTarget)}
+          onClose={() => setIsJourneyPreviewOpen(false)}
+        />
+      )}
+
+      {/* Full-Screen Edge-to-Edge Android Player */}
+      {isFullPlayerOpen && audioPlayer.currentTrack && (
+        <FullPlayerModal
           currentTrack={audioPlayer.currentTrack}
           phaseNumber={audioPlayer.currentPhaseNumber}
+          totalPhases={audioPlayer.journey?.phases.length || 3}
           isPlaying={audioPlayer.isPlaying}
           progress={audioPlayer.progress}
           currentTime={audioPlayer.currentTime}
           duration={audioPlayer.duration}
           effectiveTempo={audioPlayer.effectiveTempo}
           isTempoTuned={audioPlayer.isTempoTuned}
-          isCrossfading={audioPlayer.isCrossfading}
+          targetMood={recommendedTarget}
           onTogglePlay={audioPlayer.togglePlay}
           onNext={audioPlayer.nextTrack}
           onPrevious={audioPlayer.previousTrack}
           onSeek={audioPlayer.seek}
-          onOpenFullPlayer={() => setIsFullPlayerOpen(true)}
+          onClose={() => setIsFullPlayerOpen(false)}
           onOpenTempoFineTune={() => setIsTempoFineTuneOpen(true)}
           onSpotifyClick={handleSpotifyPrompt}
+        />
+      )}
+
+      {/* Android Bottom Sheet: Tempo Fine Tune */}
+      {isTempoFineTuneOpen && (
+        <TempoFineTuneSheet
+          currentTrack={audioPlayer.currentTrack}
+          targetMood={recommendedTarget}
+          effectiveTempo={audioPlayer.effectiveTempo}
+          manualTempo={audioPlayer.manualTempo}
+          isTempoTuned={audioPlayer.isTempoTuned}
+          onSetManualTempo={audioPlayer.setManualTempo}
+          onToggleTempoTuned={audioPlayer.toggleTempoTuning}
+          onClose={() => setIsTempoFineTuneOpen(false)}
+        />
+      )}
+
+      {/* Modal: Self-Report Mood Wheel */}
+      {isSelfReportOpen && (
+        <SelfReportWheel
+          initialEnergy={activeMood.energy}
+          initialValence={activeMood.valence}
+          onConfirm={handleSelfReportConfirm}
+          onCancel={() => setIsSelfReportOpen(false)}
         />
       )}
 
@@ -240,78 +367,6 @@ export default function App() {
         videoRef={cameraSensor.videoRef}
         onRequestCamera={cameraSensor.requestCamera}
       />
-
-      {/* Modal: Self-Report Mood Wheel */}
-      {isSelfReportOpen && (
-        <SelfReportWheel
-          initialEnergy={activeMood.energy}
-          initialValence={activeMood.valence}
-          onConfirm={handleSelfReportConfirm}
-          onCancel={() => setIsSelfReportOpen(false)}
-        />
-      )}
-
-      {/* Modal: Target Mood Picker */}
-      {isTargetPickerOpen && (
-        <TargetPickerModal
-          selectedMoodId={recommendedTarget.id}
-          onSelectMood={(mood) => {
-            setSelectedTarget(mood);
-            setIsTargetPickerOpen(false);
-          }}
-          onClose={() => setIsTargetPickerOpen(false)}
-        />
-      )}
-
-      {/* Modal: 3-Phase Journey Preview Sheet */}
-      {isJourneyPreviewOpen && currentJourney && (
-        <JourneyPreviewSheet
-          journey={currentJourney}
-          onStartJourney={() => {
-            audioPlayer.startJourney(currentJourney);
-            setIsJourneyPreviewOpen(false);
-          }}
-          onRegenerate={() => generateNewJourney(recommendedTarget)}
-          onClose={() => setIsJourneyPreviewOpen(false)}
-        />
-      )}
-
-      {/* Modal: Full Immersive Player */}
-      {isFullPlayerOpen && audioPlayer.currentTrack && (
-        <FullPlayerModal
-          currentTrack={audioPlayer.currentTrack}
-          phaseNumber={audioPlayer.currentPhaseNumber}
-          totalPhases={audioPlayer.journey?.phases.length || 3}
-          isPlaying={audioPlayer.isPlaying}
-          progress={audioPlayer.progress}
-          currentTime={audioPlayer.currentTime}
-          duration={audioPlayer.duration}
-          effectiveTempo={audioPlayer.effectiveTempo}
-          isTempoTuned={audioPlayer.isTempoTuned}
-          targetMood={recommendedTarget}
-          onTogglePlay={audioPlayer.togglePlay}
-          onNext={audioPlayer.nextTrack}
-          onPrevious={audioPlayer.previousTrack}
-          onSeek={audioPlayer.seek}
-          onClose={() => setIsFullPlayerOpen(false)}
-          onOpenTempoFineTune={() => setIsTempoFineTuneOpen(true)}
-          onSpotifyClick={handleSpotifyPrompt}
-        />
-      )}
-
-      {/* Modal: Tempo Fine Tune Sheet */}
-      {isTempoFineTuneOpen && (
-        <TempoFineTuneSheet
-          currentTrack={audioPlayer.currentTrack}
-          targetMood={recommendedTarget}
-          effectiveTempo={audioPlayer.effectiveTempo}
-          manualTempo={audioPlayer.manualTempo}
-          isTempoTuned={audioPlayer.isTempoTuned}
-          onSetManualTempo={audioPlayer.setManualTempo}
-          onToggleTempoTuned={audioPlayer.toggleTempoTuning}
-          onClose={() => setIsTempoFineTuneOpen(false)}
-        />
-      )}
 
       {/* Modal: Spotify Fallback Alert */}
       {spotifyAlertTrack && (

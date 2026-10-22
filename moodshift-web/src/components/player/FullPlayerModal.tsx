@@ -1,9 +1,6 @@
-import React from 'react';
+import React, { useEffect } from 'react';
 import { JourneyTrack } from '../../types/track';
 import { TargetMood } from '../../types/mood';
-import { GlassCard } from '../common/GlassCard';
-import { Badge } from '../common/Badge';
-import { Button } from '../common/Button';
 import {
   Play,
   Pause,
@@ -12,14 +9,14 @@ import {
   ChevronDown,
   Gauge,
   Sliders,
-  Music2,
-  Sparkles,
   ExternalLink,
   Disc3,
-  Layers
+  Layers,
+  Sparkles
 } from 'lucide-react';
+import { triggerHaptic } from '../../lib/utils';
 
-interface FullPlayerModalProps {
+export interface FullPlayerModalProps {
   currentTrack: JourneyTrack | null;
   phaseNumber: number;
   totalPhases: number;
@@ -58,6 +55,14 @@ export const FullPlayerModal: React.FC<FullPlayerModalProps> = ({
   onOpenTempoFineTune,
   onSpotifyClick
 }) => {
+  useEffect(() => {
+    triggerHaptic('light');
+    document.body.style.overflow = 'hidden';
+    return () => {
+      document.body.style.overflow = '';
+    };
+  }, []);
+
   if (!currentTrack) return null;
 
   const formatTime = (secs: number) => {
@@ -69,6 +74,7 @@ export const FullPlayerModal: React.FC<FullPlayerModalProps> = ({
   const handleProgressBarClick = (e: React.MouseEvent<HTMLDivElement>) => {
     const rect = e.currentTarget.getBoundingClientRect();
     const ratio = Math.max(0, Math.min(1, (e.clientX - rect.left) / rect.width));
+    triggerHaptic('light');
     onSeek(ratio);
   };
 
@@ -76,177 +82,182 @@ export const FullPlayerModal: React.FC<FullPlayerModalProps> = ({
   const tempoLabel = tempoShift > 0 ? `+${tempoShift}%` : tempoShift < 0 ? `${tempoShift}%` : 'Normal';
 
   return (
-    <div className="fixed inset-0 z-50 flex items-center justify-center p-4 bg-black/90 backdrop-blur-2xl animate-fadeIn">
-      <div className="w-full max-w-xl flex flex-col gap-6">
-        {/* Top bar */}
-        <div className="flex items-center justify-between">
-          <button
-            onClick={onClose}
-            aria-label="Minimize full player"
-            className="p-2 rounded-xl text-slate-400 hover:text-white hover:bg-white/5 transition-colors"
-          >
-            <ChevronDown className="w-6 h-6" />
-          </button>
+    <div className="fixed inset-0 z-50 bg-[#0A0E1A] overflow-y-auto flex flex-col justify-between pt-[max(env(safe-area-inset-top,0px),16px)] pb-[max(env(safe-area-inset-bottom,0px),24px)] px-6 select-none animate-in slide-in-from-bottom duration-300">
+      {/* Background Ambient Aura */}
+      <div
+        className="fixed -top-40 inset-x-0 h-96 rounded-full blur-[140px] opacity-25 pointer-events-none"
+        style={{ backgroundColor: targetMood.colorAccent }}
+      />
 
-          <div className="flex flex-col items-center">
-            <span className="text-[11px] font-bold tracking-widest uppercase text-cyan-400">
-              MoodShift Journey • Phase {phaseNumber} of {totalPhases}
-            </span>
-            <span className="text-xs text-slate-400">
-              Target: {targetMood.name}
-            </span>
-          </div>
+      {/* Top Navigation Bar */}
+      <div className="relative z-10 flex items-center justify-between py-2">
+        <button
+          onClick={() => {
+            triggerHaptic('light');
+            onClose();
+          }}
+          aria-label="Minimize full player"
+          className="w-10 h-10 rounded-full bg-slate-800/80 hover:bg-slate-700 text-slate-300 hover:text-white flex items-center justify-center transition-colors active:scale-95"
+        >
+          <ChevronDown className="w-6 h-6" />
+        </button>
 
-          <button
-            onClick={onSpotifyClick}
-            aria-label="Listen on Spotify"
-            className="p-2 rounded-xl text-slate-400 hover:text-emerald-400 hover:bg-emerald-500/10 transition-colors"
-            title="Open Spotify"
-          >
-            <ExternalLink className="w-5 h-5" />
-          </button>
+        <div className="flex flex-col items-center">
+          <span className="text-[10px] font-mono font-bold tracking-widest uppercase text-cyan-400">
+            PHASE {phaseNumber} OF {totalPhases}
+          </span>
+          <span className="text-xs font-semibold text-slate-300 mt-0.5">
+            Target: {targetMood.name}
+          </span>
         </div>
 
-        {/* Vinyl / Cover Art Canvas */}
-        <div className="relative aspect-square max-w-sm mx-auto w-full flex items-center justify-center">
-          {/* Outer glow based on target mood accent */}
+        <button
+          onClick={() => {
+            triggerHaptic('light');
+            onSpotifyClick();
+          }}
+          aria-label="Listen on Spotify"
+          className="w-10 h-10 rounded-full bg-slate-800/80 hover:bg-slate-700 text-slate-300 hover:text-emerald-400 flex items-center justify-center transition-colors active:scale-95"
+          title="Open Spotify"
+        >
+          <ExternalLink className="w-5 h-5" />
+        </button>
+      </div>
+
+      {/* Center Artwork / Vinyl Canvas */}
+      <div className="relative z-10 my-auto py-6 flex flex-col items-center justify-center">
+        <div className="relative w-64 h-64 sm:w-72 sm:h-72 rounded-3xl overflow-hidden shadow-2xl border border-white/10 p-2 bg-slate-900/90">
+          {/* Subtle Ambient Radial Glow */}
           <div
-            className="absolute inset-4 rounded-full blur-3xl opacity-30 transition-all duration-700"
-            style={{
-              backgroundColor: targetMood.colorAccent
-            }}
+            className="absolute inset-0 rounded-3xl opacity-30 blur-xl pointer-events-none"
+            style={{ backgroundColor: targetMood.colorAccent }}
           />
 
-          {/* Vinyl Disc Container */}
-          <div className="relative w-64 h-64 sm:w-72 sm:h-72 rounded-full p-2 bg-gradient-to-tr from-slate-900 to-black border-4 border-slate-800 shadow-2xl flex items-center justify-center">
-            {/* Spinning Groove animation */}
-            <div
-              className={`w-full h-full rounded-full border border-white/5 flex items-center justify-center transition-all ${
-                isPlaying ? 'animate-spin-slow' : ''
-              }`}
-            >
-              {/* Center Artwork */}
-              <div className="relative w-36 h-36 sm:w-40 sm:h-40 rounded-full overflow-hidden border-4 border-slate-950 shadow-inner">
-                {currentTrack.track.artworkUrl ? (
-                  <img
-                    src={currentTrack.track.artworkUrl}
-                    alt={currentTrack.track.title}
-                    className="w-full h-full object-cover"
-                  />
-                ) : (
-                  <div className="w-full h-full bg-slate-800 flex items-center justify-center text-slate-500">
-                    <Disc3 className="w-16 h-16" />
-                  </div>
-                )}
-                {/* Spindle hole */}
-                <div className="absolute inset-0 m-auto w-6 h-6 rounded-full bg-slate-950 border-2 border-slate-700 shadow-inner" />
-              </div>
+          {/* Vinyl Image */}
+          <div className="relative w-full h-full rounded-2xl overflow-hidden bg-slate-950 flex items-center justify-center">
+            {currentTrack.track.artworkUrl ? (
+              <img
+                src={currentTrack.track.artworkUrl}
+                alt={currentTrack.track.title}
+                className={`w-full h-full object-cover transition-transform duration-700 ${
+                  isPlaying ? 'scale-105' : 'scale-100'
+                }`}
+              />
+            ) : (
+              <Disc3 className="w-24 h-24 text-cyan-500 animate-spin-slow" />
+            )}
+
+            {/* Invariant Pitch Lock Pill Overlay */}
+            <div className="absolute top-2.5 right-2.5 px-2 py-0.5 rounded-full bg-black/75 backdrop-blur-md border border-emerald-500/40 text-[9px] font-mono text-emerald-400 flex items-center gap-1">
+              <span className="w-1.5 h-1.5 rounded-full bg-emerald-400 animate-pulse" />
+              Pitch Lock 1.00x
             </div>
           </div>
         </div>
 
         {/* Track Title & Artist */}
-        <div className="text-center space-y-1">
-          <h2 className="text-2xl font-bold text-white tracking-tight">
+        <div className="text-center mt-6 max-w-sm px-4">
+          <h2 className="text-xl sm:text-2xl font-extrabold text-white tracking-tight leading-tight line-clamp-1 m-0">
             {currentTrack.track.title}
           </h2>
-          <p className="text-sm text-slate-400">
+          <p className="text-sm font-medium text-slate-400 mt-1 line-clamp-1 m-0">
             {currentTrack.track.artist}
           </p>
+
+          {/* Harmonic & Tempo Badges */}
+          <div className="flex items-center justify-center gap-2 mt-3">
+            <span className="text-[10px] font-mono font-bold px-2.5 py-1 rounded-full bg-cyan-950/80 text-cyan-300 border border-cyan-500/30">
+              Key: {currentTrack.track.camelotCode || '8B'} · {currentTrack.track.musicalMode === 1 ? 'Major' : 'Minor'}
+            </span>
+            <span
+              onClick={onOpenTempoFineTune}
+              className={`text-[10px] font-mono font-bold px-2.5 py-1 rounded-full border cursor-pointer active:scale-95 transition-transform ${
+                isTempoTuned
+                  ? 'bg-amber-950/50 text-amber-300 border-amber-500/40'
+                  : 'bg-slate-800 text-slate-300 border-slate-700'
+              }`}
+            >
+              Speed: {effectiveTempo.toFixed(2)}x ({tempoLabel})
+            </span>
+          </div>
         </div>
+      </div>
 
-        {/* Harmonic Camelot & Pitch Invariant Pill */}
-        <div className="flex flex-wrap items-center justify-center gap-2">
-          {currentTrack.track.camelotCode && (
-            <Badge variant="purple" size="md">
-              Camelot {currentTrack.track.camelotCode}
-            </Badge>
-          )}
-
-          {currentTrack.track.tempoBpm && (
-            <Badge variant="neutral" size="md">
-              {Math.round(currentTrack.track.tempoBpm)} BPM
-            </Badge>
-          )}
-
-          <Badge variant={tempoShift > 0 ? 'emerald' : tempoShift < 0 ? 'amber' : 'neutral'} size="md">
-            Tempo: {tempoLabel} ({effectiveTempo.toFixed(2)}x)
-          </Badge>
-
-          <span className="text-[11px] text-slate-500 font-mono">
-            Pitch locked: 1.0x
-          </span>
-        </div>
-
-        {/* Track transition rationale */}
-        <div className="p-3 rounded-xl bg-white/[0.04] border border-white/5 text-center text-xs text-slate-300">
-          <span className="text-cyan-400 font-medium">Harmonic Flow: </span>
-          {currentTrack.reason}
-        </div>
-
-        {/* Scrubber */}
+      {/* Bottom Controls Section */}
+      <div className="relative z-10 w-full max-w-md mx-auto space-y-4">
+        {/* Scrubber Progress Bar */}
         <div className="space-y-1.5">
           <div
             onClick={handleProgressBarClick}
-            className="w-full h-2 rounded-full bg-white/10 hover:h-2.5 transition-all cursor-pointer relative overflow-hidden"
+            className="w-full h-3 bg-slate-800/80 rounded-full cursor-pointer relative overflow-hidden group py-1"
           >
             <div
-              className="h-full bg-gradient-to-r from-cyan-500 to-emerald-400 rounded-full"
-              style={{ width: `${progress * 100}%` }}
-            />
+              className="h-1.5 rounded-full bg-gradient-to-r from-cyan-400 to-blue-500 relative transition-all duration-150"
+              style={{ width: `${progress}%` }}
+            >
+              <div className="absolute right-0 top-1/2 -translate-y-1/2 w-3.5 h-3.5 bg-white rounded-full shadow-md scale-0 group-hover:scale-100 transition-transform" />
+            </div>
           </div>
-          <div className="flex items-center justify-between text-xs font-mono text-slate-400">
+          <div className="flex items-center justify-between text-[11px] font-mono text-slate-400 px-0.5">
             <span>{formatTime(currentTime)}</span>
             <span>{formatTime(duration)}</span>
           </div>
         </div>
 
-        {/* Playback Controls */}
-        <div className="flex items-center justify-between px-6">
+        {/* Transport Controls */}
+        <div className="flex items-center justify-center gap-6 py-2">
+          {/* Previous */}
           <button
-            onClick={onOpenTempoFineTune}
-            className="p-3 rounded-xl text-slate-400 hover:text-cyan-300 hover:bg-white/5 transition-colors"
-            title="Adjust Tempo Multiplier"
+            onClick={() => {
+              triggerHaptic('light');
+              onPrevious();
+            }}
+            className="w-12 h-12 rounded-full bg-slate-800/70 hover:bg-slate-750 text-slate-300 hover:text-white flex items-center justify-center transition-all active:scale-90"
+            title="Previous Track"
           >
-            <Sliders className="w-5 h-5" />
+            <SkipBack className="w-5 h-5 fill-current" />
           </button>
 
-          <div className="flex items-center gap-5">
-            <button
-              onClick={onPrevious}
-              aria-label="Previous track"
-              className="p-3 text-slate-300 hover:text-white hover:scale-110 active:scale-95 transition-all"
-            >
-              <SkipBack className="w-7 h-7" />
-            </button>
-
-            <button
-              onClick={onTogglePlay}
-              aria-label={isPlaying ? 'Pause' : 'Play'}
-              className="w-16 h-16 rounded-full bg-gradient-to-tr from-cyan-400 to-emerald-400 text-slate-950 flex items-center justify-center shadow-xl hover:scale-105 active:scale-95 transition-all"
-            >
-              {isPlaying ? (
-                <Pause className="w-8 h-8 fill-current" />
-              ) : (
-                <Play className="w-8 h-8 fill-current ml-1" />
-              )}
-            </button>
-
-            <button
-              onClick={onNext}
-              aria-label="Next track"
-              className="p-3 text-slate-300 hover:text-white hover:scale-110 active:scale-95 transition-all"
-            >
-              <SkipForward className="w-7 h-7" />
-            </button>
-          </div>
-
+          {/* Main Play/Pause Button */}
           <button
-            onClick={onClose}
-            className="p-3 rounded-xl text-slate-400 hover:text-white hover:bg-white/5 transition-colors"
-            title="Minimize"
+            onClick={() => {
+              triggerHaptic('medium');
+              onTogglePlay();
+            }}
+            className="w-16 h-16 rounded-full bg-cyan-400 hover:bg-cyan-300 text-slate-950 flex items-center justify-center shadow-xl shadow-cyan-400/30 transition-transform active:scale-90"
+            title={isPlaying ? 'Pause' : 'Play'}
           >
-            <Layers className="w-5 h-5" />
+            {isPlaying ? (
+              <Pause className="w-7 h-7 fill-current" />
+            ) : (
+              <Play className="w-7 h-7 fill-current ml-1" />
+            )}
+          </button>
+
+          {/* Next */}
+          <button
+            onClick={() => {
+              triggerHaptic('light');
+              onNext();
+            }}
+            className="w-12 h-12 rounded-full bg-slate-800/70 hover:bg-slate-750 text-slate-300 hover:text-white flex items-center justify-center transition-all active:scale-90"
+            title="Next Track"
+          >
+            <SkipForward className="w-5 h-5 fill-current" />
+          </button>
+        </div>
+
+        {/* Fine-Tune Bar Trigger Button */}
+        <div className="flex justify-center pb-1">
+          <button
+            onClick={() => {
+              triggerHaptic('light');
+              onOpenTempoFineTune();
+            }}
+            className="text-xs text-slate-400 hover:text-cyan-300 flex items-center gap-1.5 py-1 px-3 rounded-full hover:bg-slate-800/50 transition-colors"
+          >
+            <Sliders className="w-3.5 h-3.5" />
+            <span>Fine-Tune Tempo Multiplier (0.96x–1.04x)</span>
           </button>
         </div>
       </div>

@@ -47,7 +47,11 @@ export const TempoFineTuneSheet: React.FC<TempoFineTuneSheetProps> = ({
 
   return (
     <div className="fixed inset-0 z-50 flex items-end sm:items-center justify-center p-0 sm:p-4 bg-black/80 backdrop-blur-md animate-fadeIn">
-      <GlassCard className="w-full max-w-lg p-6 flex flex-col gap-5 rounded-b-none sm:rounded-2xl border-white/10 shadow-2xl" variant="elevated">
+      <GlassCard className="w-full max-w-lg p-6 flex flex-col gap-5 rounded-t-[32px] sm:rounded-2xl border-white/10 shadow-2xl pb-[max(env(safe-area-inset-bottom,0px),20px)]" variant="elevated">
+        {/* Android Pull/Drag Handle */}
+        <div className="pt-1 pb-1 flex justify-center cursor-grab -mt-2 sm:hidden">
+          <div className="w-12 h-1.5 rounded-full bg-slate-600/70" />
+        </div>
         {/* Header */}
         <div className="flex items-center justify-between pb-3 border-b border-white/10">
           <div className="flex items-center gap-2.5">
