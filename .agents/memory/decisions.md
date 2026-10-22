@@ -66,3 +66,16 @@ This document records durable architectural decisions, system invariants, and in
   6) All word matching uses strict word boundaries `\b` to prevent substring collisions (e.g. `Bandangala` matching `danga`).
 - **Rationale**: Eliminates cross-column data contamination at ingestion, stops actor cast names from polluting artist/composer queries, and guarantees zero miscategorized tracks across all 214 playlists (aligned via Socratic grill-me).
 
+## 2026-10-22 - Decision 12: Dynamic Pitch-Locked Tempo Entrainment & BPM Guardrail
+- **Context**: Users need tempo modulation (0.96x - 1.04x) to entrain emotional arousal without pitch shift, voice distortion, or unnatural rushing on already-fast songs.
+- **Decision**: Playback pitch is invariant and strictly locked at 1.0x via Web Audio / HTML5 `preservesPitch = true`. Tempo is modulated within `[0.96, 1.04]`. Fast songs (>130 BPM) have their speedup boost dampened; slow songs (<70 BPM) have their slowdown reduction dampened.
+- **Rationale**: Eliminates chipmunk/monster vocal artifacts and protects the musical integrity of the composition while delivering subtle psychological entrainment.
+
+## 2026-10-22 - Decision 13: Camelot Harmonic Chaining & Phase 3 Strict Mode Filter
+- **Context**: Transitions between consecutive tracks in a multi-phase emotional journey require musical smoothness and tonal alignment with the target mood.
+- **Decision**: Multi-phase progression enforces:
+  1) Phase 1 (Settle In): Comfort baseline matching start mood.
+  2) Phase 2 (Build Momentum): Camelot Circle-of-Fifths chaining (+0.15 exact key match, +0.10 adjacent key / relative Major-Minor).
+  3) Phase 3 (Reach Target): Strict Mode Filtering. Uplift/Energized/Confident require Strict Major (`mode == 1`); Cathartic/Wind Down require Strict Minor (`mode == 0`); Calm/Focus are flexible. Missing metadata is given a neutral pass.
+- **Rationale**: Guarantees harmonic resonance and mood entrainment without key clashes across playlist transitions.
+

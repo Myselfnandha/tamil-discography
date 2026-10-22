@@ -73,6 +73,14 @@
       "root_cause": "LLM hallucination on fast-moving libraries or niche frameworks where training memory contains plausible APIs.",
       "strategy": "Hallucination Guard: Verify every unfamiliar API symbol via tool inspection, REPL check, or docs before using.",
       "invariant_rule": "Verify all library APIs and methods via tools before writing code; pass Import Verification Gate."
+    },
+    {
+      "id": "AP-023",
+      "category": "tooling",
+      "mistake": "TypeScript erasableSyntaxOnly & verbatimModuleSyntax blocking standard enums in modern Vite templates",
+      "root_cause": "Default Vite tsconfig templates enable experimental erasableSyntaxOnly: true which throws TS1294 on standard TypeScript enum declarations and TS1484 on type imports.",
+      "strategy": "Invariant tsconfig Tuning: Configure erasableSyntaxOnly: false and verbatimModuleSyntax: false in tsconfig.app.json when using standard domain enums, or model enums as as const object maps.",
+      "invariant_rule": "Always ensure tsconfig.app.json allows standard runtime TS enums or type imports before compiling production builds."
     }
   ]
 }
