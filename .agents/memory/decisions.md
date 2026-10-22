@@ -57,6 +57,12 @@ This document records durable architectural decisions, system invariants, and in
 - **Rationale**: Psychologically anchors mood transitions through harmonic progression, guaranteeing euphoric destinations resonate in bright Major keys and reflective destinations in Minor keys without abruptly rejecting unindexed songs.
 
 ### 12. Forensic Taxonomy Isolation, Scraper Ingestion & Negative Emotional Gates
-- **Decision**: All tracklist table parsers must strictly validate column roles based on header identity rather than position. When table headers contain both `Track` and `Song`, `Track` is mapped strictly to track position/number, preventing 1-column shift of song titles into singers and durations into lyricist. Wikipedia annual film list scrapers must dynamically extract column order per year (handling 5-cell tables where Date is omitted) and prevent mapping actor cast columns into `albums.composer`. Negative emotional filters are permanently enforced in `build_playlists.py` (excluding party/kuthu from sad/breakup, and aggressive/fight themes from peaceful/calm/sleeping). All word matching uses strict word boundaries `\b` to prevent substring collisions (e.g. `Bandangala` matching `danga`).
-- **Rationale**: Eliminates cross-column data contamination at ingestion, stops actor cast names from polluting artist/composer queries, and guarantees zero miscategorized tracks across all 214 playlists.
+- **Decision**: Strict role-isolated mapping is permanently locked:
+  1) Only `albums.composer` is queried for composer rules (zero checking of singers or cast).
+  2) All tracklist table parsers must strictly validate column roles based on header identity rather than position. When table headers contain both `Track` and `Song`, `Track` is mapped strictly to track position/number, preventing 1-column shift of song titles into singers and durations into lyricist.
+  3) Wikipedia annual film list scrapers must dynamically extract column order per year (handling 5-cell tables where Date is omitted) and prevent mapping actor cast columns into `albums.composer`.
+  4) Future scrapers must immediately reject redirects pointing to actor/technician biography filmographies (`#Tamil_films`).
+  5) Negative emotional filters are permanently enforced in `build_playlists.py` (excluding party/kuthu from sad/breakup, and aggressive/fight themes from peaceful/calm/sleeping).
+  6) All word matching uses strict word boundaries `\b` to prevent substring collisions (e.g. `Bandangala` matching `danga`).
+- **Rationale**: Eliminates cross-column data contamination at ingestion, stops actor cast names from polluting artist/composer queries, and guarantees zero miscategorized tracks across all 214 playlists (aligned via Socratic grill-me).
 
