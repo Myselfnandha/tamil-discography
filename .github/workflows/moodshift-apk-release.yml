@@ -1,0 +1,152 @@
+name: Build & Release MoodShift APK
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'moodshift-web/**'
+      - '.github/workflows/moodshift-apk-release.yml'
+    tags:
+      - 'v*'
+      - 'moodshift-v*'
+  workflow_dispatch:
+    inputs:
+      release_tag:
+        description: 'Tag name for the release (e.g., moodshift-v1.0.0)'
+        required: false
+        default: ''
+      publish_release:
+        description: 'Publish release to GitHub Releases'
+        required: true
+        type: boolean
+        default: true
+
+permissions:
+  contents: write
+
+jobs:
+  build-and-release:
+    name: Build APK and Release
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Java JDK 21
+        uses: actions/setup-java@v4
+        with:
+          distribution: 'temurin'
+          java-version: '21'
+
+      - name: Set up Node.js 22
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: 'npm'
+          cache-dependency-path: 'moodshift-web/package.json'
+
+      - name: Set up Gradle
+        uses: gradle/actions/setup-gradle@v4
+
+      - name: Install Web App Dependencies & Build
+        working-directory: moodshift-web
+        run: |
+          npm install
+          npm test
+          npm run build
+
+      - name: Sync Capacitor Android
+        working-directory: moodshift-web
+        run: |
+          npx cap sync android
+
+      - name: Build Android APKs with Gradle
+        working-directory: moodshift-web/android
+        run: |
+          chmod +x gradlew
+          ./gradlew assembleDebug assembleRelease --no-daemon --stacktrace
+
+      - name: Prepare & Sign APK Artifacts
+        run: |
+          mkdir -p release-apks
+          
+          # Find Debug APK
+          DEBUG_APK=$(find moodshift-web/android/app/build/outputs/apk/debug -name "*.apk" | head -n 1)
+          if [ -f "$DEBUG_APK" ]; then
+            echo "Found debug APK: $DEBUG_APK"
+            cp "$DEBUG_APK" release-apks/MoodShift-debug.apk
+          fi
+
+          # Find Release APK
+          RELEASE_APK=$(find moodshift-web/android/app/build/outputs/apk/release -name "*.apk" | head -n 1)
+          if [ -f "$RELEASE_APK" ]; then
+            echo "Found release APK: $RELEASE_APK"
+            # If APK is unsigned, generate keystore and sign
+            if [[ "$RELEASE_APK" == *"unsigned"* ]]; then
+              echo "Release APK is unsigned. Signing with jarsigner..."
+              keytool -genkeypair -v -keystore moodshift-ci.keystore \
+                -alias moodshift -keyalg RSA -keysize 2048 -validity 10000 \
+                -storepass moodshift123 -keypass moodshift123 \
+                -dname "CN=MoodShift, OU=Mobile, O=MoodShift, L=Global, S=Global, C=US"
+              jarsigner -verbose -sigalg SHA256withRSA -digestalg SHA-256 \
+                -keystore moodshift-ci.keystore -storepass moodshift123 -keypass moodshift123 \
+                "$RELEASE_APK" moodshift
+            fi
+            cp "$RELEASE_APK" release-apks/MoodShift-release.apk
+          fi
+
+          echo "=== Artifacts ready for release ==="
+          ls -lh release-apks/
+
+      - name: Upload APK Artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: MoodShift-Android-APKs
+          path: release-apks/*.apk
+          retention-days: 14
+
+      - name: Determine Release Tag
+        id: release_meta
+        run: |
+          if [ -n "${{ github.event.inputs.release_tag }}" ]; then
+            TAG="${{ github.event.inputs.release_tag }}"
+          elif [[ "${{ github.ref }}" == refs/tags/* ]]; then
+            TAG="${GITHUB_REF#refs/tags/}"
+          else
+            TAG="moodshift-v1.0.${{ github.run_number }}"
+          fi
+          echo "tag=$TAG" >> "$GITHUB_OUTPUT"
+          echo "build_date=$(date -u +'%Y-%m-%d %H:%M UTC')" >> "$GITHUB_OUTPUT"
+
+      - name: Publish to GitHub Releases
+        if: ${{ github.event_name == 'workflow_dispatch' && github.event.inputs.publish_release != false || startsWith(github.ref, 'refs/tags/') || github.ref == 'refs/heads/main' }}
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: ${{ steps.release_meta.outputs.tag }}
+          name: "MoodShift Android App ${{ steps.release_meta.outputs.tag }}"
+          body: |
+            ## 🎵 MoodShift Android Release (${{ steps.release_meta.outputs.tag }})
+
+            Built automatically on `${{ steps.release_meta.outputs.build_date }}` via GitHub Actions CI/CD.
+
+            ### 📱 Download & Install:
+            - **[`MoodShift-release.apk`](https://github.com/${{ github.repository }}/releases/download/${{ steps.release_meta.outputs.tag }}/MoodShift-release.apk)** — Recommended production build (optimized, signed).
+            - **[`MoodShift-debug.apk`](https://github.com/${{ github.repository }}/releases/download/${{ steps.release_meta.outputs.tag }}/MoodShift-debug.apk)** — Debug build with logging.
+
+            ### 🚀 Features Included:
+            - **Mood Shift Engine**: Real-time multi-dimensional emotional state fusion (Valence, Arousal, Energy).
+            - **Camelot Harmonic Transition**: Smart key matching with energy modulation (energy boost/drop, parallel, relative transitions).
+            - **Dynamic Tempo Controller**: Automatic BPM ramp curves and pitch adaptation matching target moods.
+            - **Safe-Area Optimized Mobile UI**: Fluid glassmorphism interface tailored for Android displays.
+            - **Local Ambient Synthesizer**: Offline-ready procedural audio generation.
+          files: |
+            release-apks/MoodShift-release.apk
+            release-apks/MoodShift-debug.apk
+          draft: false
+          prerelease: false
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
