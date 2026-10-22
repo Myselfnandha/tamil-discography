@@ -37,3 +37,12 @@ This document records durable architectural decisions, system invariants, and in
 - **Decision**: Automated playlist synchronization is executed via Arch Linux native `systemd --user` timers (`tamil-playlist-sync.timer` daily at 08:07 IST, `tamil-playlist-full-sync.timer` Sundays at 08:17 IST). Any rebuild of local playlist databases (`build_playlists.py`) must pre-harvest and preserve resolved Spotify track URIs across all local SQLite databases to prevent loss of match state or redundant API search calls.
 - **Rationale**: Replaces missing `crontab` binaries with native systemd user services, ensures persistent journal logging, and maintains 100% Spotify URI match continuity during catalog regeneration.
 
+### 9. Multi-Scope Metadata Isolation & Wikipedia Column Shift Rectification
+- **Decision**: Playlist rule matching (`matches_rules()`) strictly decouples metadata scopes into:
+  1) `song_scope` (`t_title` + `raga`) for Moods, Activities, Relationships, and song-level Genres (Devotional, Pop, Rock, Lofi, Phonk, Sad Melody, Kuthu Dance, Folk Village).
+  2) `film_scope` (`t_title` + `a_title` + `raga`) for title tracks and mass themes.
+  3) `music_scope` (`t_title` + `a_title` + `composer` + `singers` + `raga`) for general music searches.
+  Under no circumstances may `{cast}`, `{director}`, or `{label}` be searched for mood, genre, activity, or relationship playlists.
+  Furthermore, 56 shifted Wikipedia soundtrack tables in `tamil_discography.db` (where `title` held singers and `singers` held durations) were fully repaired using custom polite wikitext extraction.
+- **Rationale**: Eliminates systemic leakage where actor cast names (e.g. comedian Thambi Ramaiah matching `family`, Ravi Krishna matching `devotional`), directors (Arun Vaseegaran matching `romance`), or production labels (Sri Surya Movies matching `energetic`) contaminated non-related song playlists.
+
