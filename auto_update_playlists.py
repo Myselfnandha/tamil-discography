@@ -407,20 +407,48 @@ def run_smart_hybrid_sync(state_mgr: StateManager, sync_mgr: SpotifySyncManager)
         if "2026" in rel_date or "2026" in t.get("title", ""):
             playlist_diffs.setdefault("2026", []).append(t)
 
-    # 3. Cache folder contents and playlists if client is active
-    folder_year = {}
-    folder_indie = {}
-    all_playlists = {}
+    # 3. Cache all Spotify folder playlists if client is active
+    folder_playlists: Dict[str, str] = {}
     if sync_mgr.native_client:
         try:
             from spotify_native_client import clean_text
-            from organize_spotify_folders import get_folder_contents
-            folder_year = {clean_text(it["name"]): it["uri"] for it in get_folder_contents(sync_mgr.native_client, YEAR_FOLDER_URI)}
-            folder_indie = {clean_text(it["name"]): it["uri"] for it in get_folder_contents(sync_mgr.native_client, INDIE_FOLDER_URI)}
-            folder_complete = {clean_text(it["name"]): it["uri"] for it in get_folder_contents(sync_mgr.native_client, YEAR_COMPLETE_FOLDER_URI)}
-            all_playlists = sync_mgr.native_client.get_all_playlists()
+            from organize_spotify_folders import FOLDER_DEFINITIONS, get_folder_contents
+            for cat_slug, defn in FOLDER_DEFINITIONS.items():
+                items = get_folder_contents(sync_mgr.native_client, defn["folder_uri"])
+                for it in items:
+                    name_clean = clean_text(it["name"])
+                    folder_playlists[name_clean] = it["uri"]
+                    folder_playlists[it["name"].lower().strip()] = it["uri"]
         except Exception as e:
             logging.warning(f"Failed to fetch Spotify folders: {e}")
+
+    def resolve_target_uri(target_slug: str) -> Optional[str]:
+        from spotify_native_client import clean_text
+        # 1. Direct clean text of slug
+        slug_clean = clean_text(target_slug.replace("_", " "))
+        if slug_clean in folder_playlists:
+            return folder_playlists[slug_clean]
+        # 2. Known indie slug map
+        if target_slug in INDIE_SLUG_TO_NAME:
+            indie_name = clean_text(INDIE_SLUG_TO_NAME[target_slug])
+            if indie_name in folder_playlists:
+                return folder_playlists[indie_name]
+        # 3. Check local SQLite databases for exact playlist display name
+        for db in PLAYLISTS_DIR.glob(f"*/{target_slug}.db"):
+            try:
+                conn = sqlite3.connect(db)
+                info = dict(conn.cursor().execute("SELECT key, value FROM playlist_info;").fetchall())
+                conn.close()
+                dn = info.get("name")
+                if dn:
+                    c_dn = clean_text(dn)
+                    if c_dn in folder_playlists:
+                        return folder_playlists[c_dn]
+                    if dn.lower().strip() in folder_playlists:
+                        return folder_playlists[dn.lower().strip()]
+            except Exception:
+                pass
+        return None
 
     # 4. Apply updates to target Spotify playlists
     for slug, track_list in playlist_diffs.items():
@@ -431,26 +459,15 @@ def run_smart_hybrid_sync(state_mgr: StateManager, sync_mgr: SpotifySyncManager)
             logging.info(f"  [DRY-RUN] Would sync {len(uris)} new tracks to playlist [{slug}].")
             continue
 
-        target_uri = None
-        pos = "BOTTOM_OF_PLAYLIST"
+        target_uri = resolve_target_uri(slug)
+        pos = "TOP_OF_PLAYLIST" if slug in ("2026", "latest_releases") else "BOTTOM_OF_PLAYLIST"
 
         if slug == "2026":
-            target_uri = folder_year.get("2026")
-            pos = "TOP_OF_PLAYLIST"
             # Keep 2026 - Complete synchronized
-            complete_uri = folder_complete.get("2026 complete")
+            complete_uri = folder_playlists.get("2026 complete")
             if complete_uri:
                 sync_mgr.native_client.add_tracks_to_playlist(complete_uri, uris, position="TOP_OF_PLAYLIST")
                 logging.info(f"  ✨ Synced {len(uris)} new tracks to '2026 - Complete' in 'Year - Complete' folder.")
-        elif slug in INDIE_SLUG_TO_NAME:
-            from spotify_native_client import clean_text
-            clean_indie_name = clean_text(INDIE_SLUG_TO_NAME[slug])
-            target_uri = folder_indie.get(clean_indie_name)
-        else:
-            from spotify_native_client import clean_text
-            clean_s = clean_text(slug.replace("_", " "))
-            if clean_s in all_playlists and all_playlists[clean_s]:
-                target_uri = all_playlists[clean_s][0]["uri"]
 
         if not target_uri:
             logging.warning(f"  ⚠️ Target playlist container for [{slug}] not found on Spotify. Skipping sync.")
