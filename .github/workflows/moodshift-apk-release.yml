@@ -69,7 +69,7 @@ jobs:
         working-directory: moodshift-web/android
         run: |
           chmod +x gradlew
-          ./gradlew assembleDebug assembleRelease --no-daemon --stacktrace
+          ./gradlew assembleDebug assembleRelease --no-daemon --stacktrace --info
 
       - name: Prepare & Sign APK Artifacts
         run: |
