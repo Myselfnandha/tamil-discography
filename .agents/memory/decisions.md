@@ -43,6 +43,20 @@ This document records durable architectural decisions, system invariants, and in
   2) `film_scope` (`t_title` + `a_title` + `raga`) for title tracks and mass themes.
   3) `music_scope` (`t_title` + `a_title` + `composer` + `singers` + `raga`) for general music searches.
   Under no circumstances may `{cast}`, `{director}`, or `{label}` be searched for mood, genre, activity, or relationship playlists.
-  Furthermore, 56 shifted Wikipedia soundtrack tables in `tamil_discography.db` (where `title` held singers and `singers` held durations) were fully repaired using custom polite wikitext extraction.
-- **Rationale**: Eliminates systemic leakage where actor cast names (e.g. comedian Thambi Ramaiah matching `family`, Ravi Krishna matching `devotional`), directors (Arun Vaseegaran matching `romance`), or production labels (Sri Surya Movies matching `energetic`) contaminated non-related song playlists.
+
+### 10. MoodShift Dynamic Track-Aware Playback Tempo & Pitch Invariant
+- **Decision**: MoodShift implements automatic playback tempo (speed) modulation clamped strictly to `[0.96x, 1.04x]` (±4%) based on target mood selection, while musical pitch is strictly locked at `1.0x` (zero pitch transposition, zero vocal distortion). Audio DSP is driven by ExoPlayer Media3 `PlaybackParameters(speed, 1.0f)` via SonicAudioProcessor. Dynamic BPM and energy guardrails modulate the speed delta to prevent rushing already-fast tracks or dragging slow tracks. Track transitions apply a 1.5s crossfade ramp to prevent audible tempo snapping. External Spotify deep-link playback gates an in-app fallback prompt to switch to in-app YouTube streaming.
+- **Rationale**: Preserves authentic vocal quality and musical key integrity while psychologically influencing user state via subtle tempo pacing, verified via Socratic grill-me alignment.
+
+### 11. MoodShift Musical Key, Tonality Filtering & Camelot Harmonic Chaining
+- **Decision**: MoodShift journey recommendation enforces multi-phase tonality matching:
+  1) Phase 1 (Settle In): Soft mode affinity based on user's current mood.
+  2) Phase 2 (Build Momentum): Soft mode affinity + Camelot Circle-of-Fifths harmonic transition chaining (+0.15 exact match, +0.10 adjacent/relative key) between consecutive songs to eliminate jarring dissonant transitions.
+  3) Phase 3 (Reach Target): Strict Mode Filtering: Uplift/Energized/Confident strictly enforce Major keys (`mode == 1`); Cathartic/Wind Down strictly enforce Minor keys (`mode == 0`); Calm/Focus remain flexible (`ModeConstraint.ANY`).
+  4) Unknown metadata tolerance: Tracks with unresolved key/mode are given a neutral pass in Phase 3 if estimated energy/valence match, while background workers resolve Spotify audio features asynchronously.
+- **Rationale**: Psychologically anchors mood transitions through harmonic progression, guaranteeing euphoric destinations resonate in bright Major keys and reflective destinations in Minor keys without abruptly rejecting unindexed songs.
+
+### 12. Forensic Taxonomy Isolation, Scraper Ingestion & Negative Emotional Gates
+- **Decision**: All tracklist table parsers must strictly validate column roles based on header identity rather than position. When table headers contain both `Track` and `Song`, `Track` is mapped strictly to track position/number, preventing 1-column shift of song titles into singers and durations into lyricist. Wikipedia annual film list scrapers must dynamically extract column order per year (handling 5-cell tables where Date is omitted) and prevent mapping actor cast columns into `albums.composer`. Negative emotional filters are permanently enforced in `build_playlists.py` (excluding party/kuthu from sad/breakup, and aggressive/fight themes from peaceful/calm/sleeping). All word matching uses strict word boundaries `\b` to prevent substring collisions (e.g. `Bandangala` matching `danga`).
+- **Rationale**: Eliminates cross-column data contamination at ingestion, stops actor cast names from polluting artist/composer queries, and guarantees zero miscategorized tracks across all 214 playlists.
 

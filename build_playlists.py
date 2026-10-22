@@ -95,8 +95,8 @@ TOP_ARTISTS = [
         "slug_base": "santhosh_narayanan",
         "role": "composer",
         "emoji": "🎷",
-        "filter": r"\b(santhosh\s*narayanan|santhosh)\b",
-        "exclude_filter": None,
+        "filter": r"\b(santhosh\s*narayanan|sa\.?\s*na)\b",
+        "exclude_filter": r"\b(dhayanidhi|venki|studios)\b",
         "hit_keywords": r"attakathi|pizza|soodhu kavvum|jigarthanda|madras|kabali|kaala|vada chennai|pariyerum perumal|karnan|sarpatta|mahaan|chithha|kalki",
         "underrated_keywords": r"cuckoo|enakku vaaltha|irudhi suttru|manithan|kashmora|server sundaram|gypsy|jagame thandhiram|dasara"
     },
@@ -126,7 +126,7 @@ TOP_ARTISTS = [
         "role": "composer",
         "emoji": "✨",
         "filter": r"\b(m\.?\s*s\.?\s*viswanathan|m\.?\s*s\.?\s*v|viswanathan)\b",
-        "exclude_filter": None,
+        "exclude_filter": r"\b(poornam\s*viswanathan|d\.?\s*k\.?\s*viswanathan)\b",
         "hit_keywords": r"karnan|ayirathil oruvan|padagotti|server sundaram|bama vijayam|adhey kangal|kavalkaran|galatta kalyanam|rickshawkaran|ulagam sutrum valiban|nenjirukkum varai|aval oru thodarkadhai",
         "underrated_keywords": r"pazhani|anbu karangal|selvam|sorgam|gnana oli|bharatha vilas|sivagamiyin sabatham|avargal|varumayin niram sivappu|thillu mullu"
     },
@@ -233,25 +233,25 @@ TAXONOMY = {
     # Category 2: By Mood (Every single mood is its own slug)
     # -------------------------------------------------------------
     "mood": [
-        {"slug": "happy", "name": "😊 Happy", "category": "By Mood", "emoji": "😊", "desc": "Joyful, sunny, and upbeat Tamil melodies.", "rules": [{"type": "keyword", "pattern": r"\b(happy|kushi|siriki|anbendra|enjoy|jolly|kondattam|aarambam|pookal|sundari|chinna chinna|malargal|kanmani)\b"}]},
+        {"slug": "happy", "name": "😊 Happy", "category": "By Mood", "emoji": "😊", "desc": "Joyful, sunny, and upbeat Tamil melodies.", "rules": [{"type": "keyword", "pattern": r"\b(happy|kushi|siriki|anbendra|enjoy|jolly|kondattam|aarambam|pookal|sundari|chinna chinna|malargal)\b"}]},
         {"slug": "feel_good", "name": "Feel-Good", "category": "By Mood", "emoji": "✨", "desc": "Warm, uplifting feel-good tracks that lighten your spirit.", "rules": [{"type": "keyword", "pattern": r"\b(chillax|aathangara|vaadi|kanmoodi|pattukottai|chella|podu|velli|thamizh|penn|kannadi|anbil)\b"}]},
         {"slug": "sad", "name": "😢 Sad", "category": "By Mood", "emoji": "😢", "desc": "Soul-stirring, sorrowful songs and melancholic masterworks.", "rules": [{"type": "keyword", "pattern": r"\b(sogam|kannir|kanner|pirivu|valikudhu|thani|vali|valigal|maranam|vidai|azhuvadhu|azhudha|ninaithu|thooram)\b"}]},
-        {"slug": "heartbreak", "name": "Heartbreak", "category": "By Mood", "emoji": "💔", "desc": "Aching cries of lost love, broken vows, and shattered dreams.", "rules": [{"type": "keyword", "pattern": r"\b(vilagi|kanave|kanavu|maranthu|theeyil|kadhal valikudhu|poongatru|kannukulle|engae|enna solla|oru naal|thenpandi|ammadi)\b"}]},
+        {"slug": "heartbreak", "name": "Heartbreak", "category": "By Mood", "emoji": "💔", "desc": "Aching cries of lost love, broken vows, and shattered dreams.", "rules": [{"type": "keyword", "pattern": r"\b(vilagi|kanave|kanavu|maranthu|theeyil|kadhal valikudhu|poongatru|kannukulle|engae|enna solla|ammadi)\b"}]},
         {"slug": "love", "name": "❤️ Love", "category": "By Mood", "emoji": "❤️", "desc": "Timeless romantic anthems celebrating the depth of love.", "rules": [{"type": "keyword", "pattern": r"\b(kadhal|kaadhal|anbe|uyire|priya|idhayame|penne|azhagi|manasellam|unakkul|unnai|kannazhaga)\b"}]},
         {"slug": "romance", "name": "Romance", "category": "By Mood", "emoji": "🌹", "desc": "Passionate, tender, and sensual romantic melodies.", "rules": [{"type": "keyword", "pattern": r"\b(vizhiyil|malare|kannodu|vaseegara|enrenrum|ennodu|unale|nenjukkul|paarthu|kannum|paravai)\b"}]},
-        {"slug": "chill", "name": "😎 Chill", "category": "By Mood", "emoji": "😎", "desc": "Laid-back, acoustic and easy-listening vibes to unwind.", "rules": [{"type": "keyword", "pattern": r"\b(chill|thendral|breeze|kaatru|mazhai|nila|nilavu|poongatru|illamai|katre)\b"}]},
+        {"slug": "chill", "name": "😎 Chill", "category": "By Mood", "emoji": "😎", "desc": "Laid-back, acoustic and easy-listening vibes to unwind.", "rules": [{"type": "keyword", "pattern": r"\b(chill|thendral|breeze|kaatru|nila|nilavu|poongatru|illamai|katre)\b"}]},
         {"slug": "relax", "name": "Relax", "category": "By Mood", "emoji": "🛋️", "desc": "Soothing, gentle compositions to relieve stress and ease the mind.", "rules": [{"type": "keyword", "pattern": r"\b(alai|venmathi|munbe|new york|oorvasi|oru devathai|pesugiren|kangal|malargale|anbil)\b"}]},
         {"slug": "hype", "name": "🔥 Hype", "category": "By Mood", "emoji": "🔥", "desc": "Electric, stadium-sized bangers and heroic anthem drops.", "rules": [{"type": "keyword", "pattern": r"\b(hype|mass|verithanam|aaluma|neruppu|thee|adra|kuthu|thala|thalapathy|vathi|dheera)\b"}]},
         {"slug": "energetic", "name": "Energetic", "category": "By Mood", "emoji": "⚡", "desc": "Fast-tempo, rhythmic beats packed with adrenaline.", "rules": [{"type": "keyword", "pattern": r"\b(singam|thupakki|kabali|vikram|leo|jailer|master|billa|mankatha|petta|valimai|verithanam|aaluma|neruppu|thee|adra|kuthu|dheera|surviva|badass|hukum|hunterr)\b"}]},
         {"slug": "angry", "name": "😡 Angry", "category": "By Mood", "emoji": "😡", "desc": "Raw aggression, roaring vocals, and furious storm tracks.", "rules": [{"type": "keyword", "pattern": r"\b(paga|pagai|erimalai|azhivu|vettai|kolai|sathiyam|porattam|por|singa|rudhran|asuran)\b"}]},
-        {"slug": "revenge", "name": "Revenge", "category": "By Mood", "emoji": "⚔️", "desc": "Dark retaliation anthems, payback scores, and retribution themes.", "rules": [{"type": "keyword", "pattern": r"\b(polladhavan|karnan|vada chennai|thuppakki|thimiru|soorarai|raavanan|ayirathil|kodi|aravindhan)\b"}]},
-        {"slug": "peaceful", "name": "🌙 Peaceful", "category": "By Mood", "emoji": "🌙", "desc": "Tranquil stillness, midnight breezes, and quiet serenity.", "rules": [{"type": "keyword", "pattern": r"\b(peace|amaithi|thalattu|thaalattu|aararo|kanne|urangu|poovarasam|kanave|kanmani)\b"}]},
-        {"slug": "calm", "name": "Calm", "category": "By Mood", "emoji": "🕊️", "desc": "Gentle, non-intrusive melodies to soothe nerves and restore balance.", "rules": [{"type": "keyword", "pattern": r"\b(chinna chinna|vellai|vidukathaiya|thenral|sendhoora|malargale|kannodu|anbendra|pazham|sangeetha)\b"}]},
-        {"slug": "emotional", "name": "💭 Emotional", "category": "By Mood", "emoji": "💭", "desc": "Heart-tugging ballads touching the deepest human chords.", "rules": [{"type": "keyword", "pattern": r"\b(ninaivu|ninaivugal|pasam|kannadi|kaalam|andha|ilamai|pazhaya|natpu|thozha)\b"}]},
-        {"slug": "nostalgic", "name": "Nostalgic", "category": "By Mood", "emoji": "🕰️", "desc": "Golden flashbacks, fond memories of youth, and days gone by.", "rules": [{"type": "keyword", "pattern": r"\b(kanave|uyir|appavin|amma|thai|thaai|poothendral|thenpandi|marakkuma|ennai|raasave|oru naal)\b"}]},
-        {"slug": "feel_good_romance", "name": "🥰 Feel-Good Romance", "category": "By Mood", "emoji": "🥰", "desc": "Sweet, bubbly, butterflies-in-the-stomach romantic duets.", "rules": [{"type": "keyword", "pattern": r"\b(sweet|chinna|chellam|azhage|kanmani|kalyana|roja|kannukulle|un mela|adada|oru naalil)\b"}]},
+        {"slug": "revenge", "name": "Revenge", "category": "By Mood", "emoji": "⚔️", "desc": "Dark retaliation anthems, payback scores, and retribution themes.", "rules": [{"type": "keyword", "pattern": r"\b(polladhavan|karnan|vada chennai|thuppakki|thimiru|soorarai|raavanan|ayirathil|aravindhan)\b"}]},
+        {"slug": "peaceful", "name": "🌙 Peaceful", "category": "By Mood", "emoji": "🌙", "desc": "Tranquil stillness, midnight breezes, and quiet serenity.", "rules": [{"type": "keyword", "pattern": r"\b(peace|amaithi|thalattu|thaalattu|aararo|kanne|urangu|poovarasam|kanave)\b"}]},
+        {"slug": "calm", "name": "Calm", "category": "By Mood", "emoji": "🕊️", "desc": "Gentle, non-intrusive melodies to soothe nerves and restore balance.", "rules": [{"type": "keyword", "pattern": r"\b(chinna chinna|vellai|vidukathaiya|thenral|thendral|sendhoora|malargale|kannodu|anbendra|amaithi|shanti|poovarasam)\b"}]},
+        {"slug": "emotional", "name": "💭 Emotional", "category": "By Mood", "emoji": "💭", "desc": "Heart-tugging ballads touching the deepest human chords.", "rules": [{"type": "keyword", "pattern": r"\b(ninaivu|ninaivugal|pasam|kannadi|kaalam|ilamai|pazhaya|natpu|thozha)\b"}]},
+        {"slug": "nostalgic", "name": "Nostalgic", "category": "By Mood", "emoji": "🕰️", "desc": "Golden flashbacks, fond memories of youth, and days gone by.", "rules": [{"type": "keyword", "pattern": r"\b(kanave|uyir|appavin|amma|thai|thaai|poothendral|thenpandi|marakkuma|raasave)\b"}]},
+        {"slug": "feel_good_romance", "name": "🥰 Feel-Good Romance", "category": "By Mood", "emoji": "🥰", "desc": "Sweet, bubbly, butterflies-in-the-stomach romantic duets.", "rules": [{"type": "keyword", "pattern": r"\b(chellam|azhage|kalyana vaibhogame|kannukulle|adada|anbe peranbe|bae|thuli thuli|kurumugil|innum konjam)\b"}]},
         {"slug": "motivation", "name": "💪 Motivation", "category": "By Mood", "emoji": "💪", "desc": "Triumphant battle cries and perseverance anthems to conquer mountains.", "rules": [{"type": "keyword", "pattern": r"\b(vetri|nambikkai|vettri|ezhu|uyarndhu|kanavugal|dheera|singam|oorvasi|oruvan|sakthi|veeram)\b"}]},
-        {"slug": "inspiration", "name": "Inspiration", "category": "By Mood", "emoji": "🌟", "desc": "Life-affirming, philosophical poetry and inspiring musical swells.", "rules": [{"type": "keyword", "pattern": r"\b(padayappa|baasha|muthu|soorarai|chariot|velaikkaran|jeans|anbe sivam|arunachalam|vidukathaiya)\b"}]}
+        {"slug": "inspiration", "name": "Inspiration", "category": "By Mood", "emoji": "🌟", "desc": "Life-affirming, philosophical poetry and inspiring musical swells.", "rules": [{"type": "keyword", "pattern": r"\b(ezhu ezhu|nambikkai|vidukathaiya|vetri nichayam|kanavugal|chariot|unnal mudiyum|anbe sivam)\b"}]}
     ],
 
     # -------------------------------------------------------------
@@ -263,16 +263,16 @@ TAXONOMY = {
         {"slug": "hip_hop_rap", "name": "Hip-Hop & Rap", "category": "By Music Genre", "emoji": "🎧", "desc": "Street hip-hop flow and conscious Tamil rap bars.", "rules": [{"type": "keyword", "pattern": r"\b(rap|hip hop|hiphop|tamizha|therukural|arivu|blaaze|yogi b|mc sai|ady|dheena|marana)\b"}]},
         {"slug": "rnb_soul", "name": "R&B / Soul", "category": "By Music Genre", "emoji": "🎷", "desc": "Velvety vocal runs and contemporary soul grooves.", "rules": [{"type": "keyword", "pattern": r"\b(soul|r&b|vaseegara|en navil|unakkul|nenjukkul|kannum|hosanna|partha|sid sriram|pradeep kumar)\b"}]},
         {"slug": "electronic_edm", "name": "Electronic / EDM", "category": "By Music Genre", "emoji": "🎛️", "desc": "Synth drops, EDM festival anthems, and dancefloor power.", "rules": [{"type": "keyword", "pattern": r"\b(electronic|edm|techno|trance|electro|remix|dj|aluma|verithanam|vaathi|donu|sodakku|tasakku)\b"}]},
-        {"slug": "classical", "name": "Classical / Carnatic", "category": "By Music Genre", "emoji": "🪕", "desc": "Traditional Carnatic ragas and classical orchestration.", "rules": [{"type": "raga_or_keyword", "pattern": r"\b(raga|carnatic|sindhu|bhairavi|kalyani|thodi|charukesi|hamsadhwani|shankarabharanam|mohanam|swaram|keeravani)\b"}]},
+        {"slug": "classical", "name": "Classical / Carnatic", "category": "By Music Genre", "emoji": "🪕", "desc": "Traditional Carnatic ragas and classical orchestration.", "rules": [{"type": "raga_or_keyword", "pattern": r"\b(raga|ragam|carnatic|sindhu\s*bhairavi|kalyani|thodi|charukesi|hamsadhwani|shankarabharanam|sankarabharanam|mohanam|swaram|keeravani)\b"}]},
         {"slug": "jazz_blues", "name": "Jazz & Blues", "category": "By Music Genre", "emoji": "🎺", "desc": "Swinging horn sections, walking bass, and bluesy melancholy.", "rules": [{"type": "keyword", "pattern": r"\b(jazz|blues|sax|trumpet|piano|megam|irumbile|oru naal|andhadhi|jillendru)\b"}]},
         {"slug": "folk", "name": "Folk", "category": "By Music Genre", "emoji": "🥁", "desc": "Rooted percussion, rural soul, and village festivities.", "rules": [{"type": "keyword", "pattern": r"\b(folk|naatupura|oru koodai|karakattakaran|paruthi|komban|chinna machan|appatha|gramathu|thavil|oorum)\b"}]},
-        {"slug": "acoustic", "name": "Acoustic", "category": "By Music Genre", "emoji": "🪗", "desc": "Intimate guitar fingerpicking and unplugged vocals.", "rules": [{"type": "keyword", "pattern": r"\b(acoustic|unplugged|guitar|violin|piano|vinnathaandi|thalli|anbil|malargal|kanave|poongatru)\b"}]},
+        {"slug": "acoustic", "name": "Acoustic", "category": "By Music Genre", "emoji": "🪗", "desc": "Intimate guitar fingerpicking and unplugged vocals.", "rules": [{"type": "keyword", "pattern": r"\b(acoustic|unplugged|fingerpicking|acoustic guitar|spanish guitar|solo violin|grand piano)\b"}]},
         {"slug": "indie", "name": "Indie", "category": "By Music Genre", "emoji": "🌿", "desc": "Independent, alternative sounds and fresh non-film artistry.", "rules": [{"type": "keyword", "pattern": r"\b(indie|pradeep|sean roldan|dhee|enjoy enjaami|katchi sera|asai|bodhai|kannamma|orasaadha)\b"}]},
         {"slug": "devotional", "name": "Devotional", "category": "By Music Genre", "emoji": "🪔", "desc": "Spiritual hymns and sacred devotional chants.", "rules": [{"type": "keyword", "pattern": r"\b(murugan|shiva|krishna|vinayagar|amman|ayyappa|venkateswara|bakthi|sami|kovil|arunachala)\b"}]},
         {"slug": "instrumental", "name": "Instrumental", "category": "By Music Genre", "emoji": "🎻", "desc": "Pure instrumental themes, flute, veena, and violin solos.", "rules": [{"type": "keyword", "pattern": r"\b(instrumental|theme|flute|veena|violin|mandolin|piano|melody|symphony|bgm|score)\b"}]},
-        {"slug": "lofi", "name": "Lo-fi", "category": "By Music Genre", "emoji": "📼", "desc": "Warm tape crackle, slow-reverb chords, and rainy night vibes.", "rules": [{"type": "keyword", "pattern": r"\b(lofi|lo-fi|chill|slow|reverb|rain|night|kanmoodi|poove|venmathi|munbe|new york)\b"}]},
-        {"slug": "phonk", "name": "Phonk", "category": "By Music Genre", "emoji": "🏎️", "desc": "Dark 808 bass slides, drift cowbells, and menacing swagger.", "rules": [{"type": "keyword", "pattern": r"\b(drift|bass|drift phonk|vikram|rolex|leo|badass|dilli|jailer|tiger|hukum|beast)\b"}]},
-        {"slug": "jazz_fusion", "name": "Jazz Fusion", "category": "By Music Genre", "emoji": "🎷", "desc": "Intricate fusion of Indian classical ragas with world jazz.", "rules": [{"type": "keyword", "pattern": r"\b(fusion|jazz fusion|shakti|prasanna|mandolin u|guitar prasanna)\b"}]}
+        {"slug": "lofi", "name": "Lo-fi", "category": "By Music Genre", "emoji": "📼", "desc": "Warm tape crackle, slow-reverb chords, and rainy night vibes.", "rules": [{"type": "keyword", "pattern": r"\b(lofi|lo-fi|slowed\s*and\s*reverb|slowed|reverb mix|bedroom pop|tape crackle)\b"}]},
+        {"slug": "phonk", "name": "Phonk", "category": "By Music Genre", "emoji": "🏎️", "desc": "Dark 808 bass slides, drift cowbells, and menacing swagger.", "rules": [{"type": "keyword", "pattern": r"\b(drift phonk|phonk|brazilian phonk|drift bass|cowbell)\b"}]},
+        {"slug": "jazz_fusion", "name": "Jazz Fusion", "category": "By Music Genre", "emoji": "🎷", "desc": "Intricate fusion of Indian classical ragas with world jazz.", "rules": [{"type": "keyword", "pattern": r"\b(fusion|jazz fusion|shakti|guitar prasanna|mandolin u|prasanna guitar)\b"}]}
     ],
 
     # -------------------------------------------------------------
@@ -280,10 +280,10 @@ TAXONOMY = {
     # -------------------------------------------------------------
     "activity": [
         {"slug": "workout_gym", "name": "Workout & Gym", "category": "By Activity", "emoji": "🏋️", "desc": "High-octane fuel for cardio, heavy lifting, and workouts.", "rules": [{"type": "keyword", "pattern": r"\b(workout|gym|running|verithanam|badass|hukum|aaluma|neruppu|surviva|adra|dheera|singam)\b"}]},
-        {"slug": "driving_road_trip", "name": "Driving / Road Trip", "category": "By Activity", "emoji": "🚗", "desc": "Windows-down cruising melodies for endless highway miles.", "rules": [{"type": "keyword", "pattern": r"\b(road|drive|trip|oorvasi|mustafa|new york|pattukottai|chal chalo|ennamo|kannazhaga|jolly)\b"}]},
+        {"slug": "driving_road_trip", "name": "Driving / Road Trip", "category": "By Activity", "emoji": "🚗", "desc": "Windows-down cruising melodies for endless highway miles.", "rules": [{"type": "keyword", "pattern": r"\b(road|drive|trip|oorvasi|mustafa|new york|chal chalo|ennamo|jolly)\b"}]},
         {"slug": "studying_focus", "name": "Studying & Focus", "category": "By Activity", "emoji": "📚", "desc": "Non-intrusive calm background melodies for deep concentration.", "rules": [{"type": "keyword", "pattern": r"\b(focus|study|instrumental|flute|piano|theme|bgm|thendral|amaithi|malargale|kannodu)\b"}]},
-        {"slug": "sleeping", "name": "Sleeping", "category": "By Activity", "emoji": "💤", "desc": "Soft, whispery lullabies to gently drift into dreamland.", "rules": [{"type": "keyword", "pattern": r"\b(sleep|thalattu|aararo|urangu|kanne|kanmaniye|chinna|poovarasam|thenpandi|kannukulle)\b"}]},
-        {"slug": "working", "name": "Working", "category": "By Activity", "emoji": "💻", "desc": "Steady, rhythmic and mellow tracks to power through the workday.", "rules": [{"type": "keyword", "pattern": r"\b(work|flow|melody|peace|chill|anbil|unakkul|vaseegara|en navil|pesugiren|hosanna)\b"}]},
+        {"slug": "sleeping", "name": "Sleeping", "category": "By Activity", "emoji": "💤", "desc": "Soft, whispery lullabies to gently drift into dreamland.", "rules": [{"type": "keyword", "pattern": r"\b(sleep|thalattu|aararo|urangu|kanmaniye|poovarasam)\b"}]},
+        {"slug": "working", "name": "Working", "category": "By Activity", "emoji": "💻", "desc": "Steady, rhythmic and mellow tracks to power through the workday.", "rules": [{"type": "keyword", "pattern": r"\b(work|flow|melody|peace|chill|anbil|unakkul|en navil|pesugiren)\b"}]},
         {"slug": "morning_motivation", "name": "Morning Motivation", "category": "By Activity", "emoji": "🌅", "desc": "Fresh dawn breezes, positive energy, and inspiring beginnings.", "rules": [{"type": "keyword", "pattern": r"\b(morning|sunrise|kaalai|vidiyum|ezhu|nambikkai|vellai|kanavugal|dheera|chinna chinna|vetri)\b"}]},
         {"slug": "party_dance", "name": "Party & Dance", "category": "By Activity", "emoji": "🎉", "desc": "Club-filling dance anthems, kuthu beats, and festive celebrations.", "rules": [{"type": "keyword", "pattern": r"\b(party|dance|kuthu|danga|podu|jolly|rowdy|arabic|chellamma|two two|kurchi|kaavaalaa)\b"}]},
         {"slug": "travel", "name": "Travel", "category": "By Activity", "emoji": "✈️", "desc": "Scenic wanderlust soundtracks for flights, trains, and trails.", "rules": [{"type": "keyword", "pattern": r"\b(travel|journey|payanam|kaatru|thendral|malaigal|oorum|paravai|marakkuma|vinnathaandi)\b"}]},
@@ -295,15 +295,15 @@ TAXONOMY = {
     # Category 5: By Relationship & Emotion
     # -------------------------------------------------------------
     "relationship": [
-        {"slug": "first_love", "name": "First Love", "category": "By Relationship & Emotion", "emoji": "💘", "desc": "The innocent, unforgettable fluttering of falling in love.", "rules": [{"type": "keyword", "pattern": r"\b(first love|muthal|mudhal|kanmani|partha|kannazhaga|vaseegara|ennavale|roja|kannukulle)\b"}]},
-        {"slug": "one_sided_love", "name": "One-Sided Love", "category": "By Relationship & Emotion", "emoji": "💔", "desc": "The bitter-sweet ache of loving silently from a distance.", "rules": [{"type": "keyword", "pattern": r"\b(one side|unrequited|solla|pesaadhe|maranthu|thooram|oru naalil|kannaana|kanave|vilagi)\b"}]},
+        {"slug": "first_love", "name": "First Love", "category": "By Relationship & Emotion", "emoji": "💘", "desc": "The innocent, unforgettable fluttering of falling in love.", "rules": [{"type": "keyword", "pattern": r"\b(first love|muthal kadhal|mudhal kadhal|muthal murai|mudhal murai|kannazhaga|vaseegara|ennavale|kannukulle)\b"}]},
+        {"slug": "one_sided_love", "name": "One-Sided Love", "category": "By Relationship & Emotion", "emoji": "💔", "desc": "The bitter-sweet ache of loving silently from a distance.", "rules": [{"type": "keyword", "pattern": r"\b(one side|unrequited|solla mudiyatha|pesaadhe|maranthu|vilagi)\b"}]},
         {"slug": "breakup", "name": "Breakup", "category": "By Relationship & Emotion", "emoji": "🥀", "desc": "Tear-stained goodbyes and the pain of parting ways.", "rules": [{"type": "keyword", "pattern": r"\b(breakup|pirivu|valikudhu|thani|vali|maranthu|ennodu|pogathe|kannir|kanner|sogam)\b"}]},
-        {"slug": "missing_someone", "name": "Missing Someone", "category": "By Relationship & Emotion", "emoji": "🫂", "desc": "Haunting memories and the deep longing to hold them again.", "rules": [{"type": "keyword", "pattern": r"\b(missing|ninaivu|ninaivugal|engae|enna solla|unakkul|vilagi|thooram|thenpandi)\b"}]},
+        {"slug": "missing_someone", "name": "Missing Someone", "category": "By Relationship & Emotion", "emoji": "🫂", "desc": "Haunting memories and the deep longing to hold them again.", "rules": [{"type": "keyword", "pattern": r"\b(missing|ninaivu|ninaivugal|engae|enna solla|unakkul|vilagi|thooram)\b"}]},
         {"slug": "long_distance_love", "name": "Long-Distance Love", "category": "By Relationship & Emotion", "emoji": "✈️", "desc": "Love that defies borders, time-zones, and physical miles.", "rules": [{"type": "keyword", "pattern": r"\b(distance|thooram|kadal|kaatru|thendral|new york|alaye|vidai|pesugiren|paravai)\b"}]},
-        {"slug": "wedding_songs", "name": "Wedding Songs", "category": "By Relationship & Emotion", "emoji": "💍", "desc": "Kalyanam cheers, sacred mangalyam rituals, and wedding joy.", "rules": [{"type": "keyword", "pattern": r"\b(kalyanam|thali|mangalyam|kattikitta|wedding|muthu|manasellam|chinna|roja|kalyana)\b"}]},
+        {"slug": "wedding_songs", "name": "Wedding Songs", "category": "By Relationship & Emotion", "emoji": "💍", "desc": "Kalyanam cheers, sacred mangalyam rituals, and wedding joy.", "rules": [{"type": "keyword", "pattern": r"\b(kalyanam|thali|mangalyam|kattikitta|wedding|kalyana|muhurtham|kettimelam|nadaswaram|sammandhi|manappen|manamagan)\b"}]},
         {"slug": "friendship", "name": "Friendship", "category": "By Relationship & Emotion", "emoji": "🤝", "desc": "Natpu anthems: unbreakable bonds, laughter, and brotherhood.", "rules": [{"type": "keyword", "pattern": r"\b(natpu|thozha|friend|nanba|machan|mustafa|orasaadha|thalapathi|kattukuyilu)\b"}]},
         {"slug": "family", "name": "Family", "category": "By Relationship & Emotion", "emoji": "👨‍👩‍👧‍👦", "desc": "Tender odes to parents, siblings, and unconditional family love.", "rules": [{"type": "keyword", "pattern": r"\b(amma|thai|thaai|appa|thangachi|annai|thambi|kudumbam|pasam|kanne|aararo)\b"}]},
-        {"slug": "memories", "name": "Memories", "category": "By Relationship & Emotion", "emoji": "📸", "desc": "Nostalgic snapshots of childhood, school days, and yesterday.", "rules": [{"type": "keyword", "pattern": r"\b(ninaivu|kaalam|andha|ilamai|pazhaya|kanavugal|marakkuma|oru naal|ennai|raasave)\b"}]},
+        {"slug": "memories", "name": "Memories", "category": "By Relationship & Emotion", "emoji": "📸", "desc": "Nostalgic snapshots of childhood, school days, and yesterday.", "rules": [{"type": "keyword", "pattern": r"\b(ninaivu|ninaivugal|ilamai kaalam|pazhaya ninaivugal|marakkuma|nyabagam|flashback)\b"}]},
         {"slug": "moving_on", "name": "Moving On", "category": "By Relationship & Emotion", "emoji": "🌱", "desc": "Picking up the pieces, finding peace, and starting a new chapter.", "rules": [{"type": "keyword", "pattern": r"\b(moving on|ezhu|vidu|vidai|maranthu|puthiya|nambikkai|vettri|aarambam|soorarai)\b"}]}
     ],
 
@@ -608,15 +608,15 @@ def matches_rules(track, rules, playlist_slug=None, playlist_category=None):
     evidence_tier = track.get("evidence_tier") or ""
     historical_evidence_score = track.get("historical_evidence_score") or 0
 
-    # Scope 1: Strictly song title and raga (ZERO cast/director/label pollution)
-    song_scope = f"{t_title} {raga}".lower()
+    # Scope 1: Strictly song title (ZERO cast/director/label/notes pollution)
+    song_scope = t_title.lower()
 
-    # Scope 2: Film context (song title, album title, raga)
-    film_scope = f"{t_title} {a_title} {raga}".lower()
+    # Scope 2: Film context (song title, album title)
+    film_scope = f"{t_title} {a_title}".lower()
 
-    # Scope 3: Music scope (track title, album title, composer, singers, raga)
+    # Scope 3: Music scope (track title, album title, composer, singers)
     # Cast, director, and label are permanently excluded
-    music_scope = f"{t_title} {a_title} {composer} {singers} {raga}".lower()
+    music_scope = f"{t_title} {a_title} {composer} {singers}".lower()
 
     for r in rules:
         rtype = r["type"]
@@ -690,6 +690,19 @@ def matches_rules(track, rules, playlist_slug=None, playlist_category=None):
             else:
                 search_target = music_scope
 
+            # Specific negative filters for sensitive emotional playlists
+            if playlist_slug in ("sad", "heartbreak", "breakup", "sad_melody"):
+                if re.search(r"\b(party|dance|kuthu|kondattam|celebration|jolly|rowdy)\b", song_scope, re.I):
+                    continue
+
+            if playlist_slug in ("peaceful", "calm", "sleeping", "meditation"):
+                if re.search(r"\b(kuthu|danga|verithanam|badass|fight|action|rowdy|item|sarakku|neruppu|thee|adra)\b", song_scope, re.I):
+                    continue
+
+            if playlist_slug in ("studying_focus", "background_music"):
+                if re.search(r"\b(badass|verithanam|fight|action|kuthu|mass|teaser|hukum)\b", song_scope, re.I):
+                    continue
+
             if re.search(pat, search_target, re.I):
                 if not (exclude_pat and re.search(exclude_pat, search_target, re.I)):
                     return True, f"Keyword match: {pat[:20]}"
@@ -717,9 +730,9 @@ def matches_rules(track, rules, playlist_slug=None, playlist_category=None):
             has_multiple_singers = bool(singers and ("," in singers or "&" in singers or " and " in singers.lower() or "with" in singers.lower()))
             if not has_multiple_singers:
                 continue
-            if re.search(r"\b(theme|bgm|score|instrumental|sogam|maranam|theeyil|saavu|oppari|funeral|fight|action)\b", song_scope, re.I):
+            if re.search(r"\b(theme|bgm|score|instrumental|sogam|maranam|theeyil|saavu|oppari|funeral|fight|action|gaana|gana|kuthu|danga|tasakku|sodakku|aluma|aaluma|verithanam|dappakuthu)\b", song_scope, re.I):
                 continue
-            if re.search(r"\b(kadhal|kaadhal|anbe|anbu|uyire|priya|idhayame|penne|azhagi|azhage|manasellam|kannodu|malare|malargale|vaseegara|enrenrum|ennodu|unale|nenjukkul|kannum|partha|roja|kannukulle|un mela|adada|munbe|kanmani|chellam|kalyana|valai|thandhai|thenpandi|vaadi|poongatru)\b", song_scope, re.I):
+            if re.search(r"\b(kadhal|kaadhal|anbe|anbu|uyire|priya|idhayame|penne|azhagi|azhage|manasellam|kannodu|malare|malargale|vaseegara|enrenrum|ennodu|unale|nenjukkul|kannum|partha|roja|kannukulle|adada|munbe|kanmani|chellam|kalyana|valai|thandhai|thenpandi|vaadi|poongatru)\b", song_scope, re.I):
                 return True, "Romantic duet match"
             if evidence_tier in ("tier_1_mega", "tier_2_popular") and not re.search(r"\b(kuthu|danga|tasakku|sodakku|aluma|verithanam)\b", song_scope, re.I):
                 return True, "Popular duet match"
@@ -740,10 +753,13 @@ def matches_rules(track, rules, playlist_slug=None, playlist_category=None):
                 return True, "Duet pattern matched"
 
         elif rtype == "raga_or_keyword":
-            if raga and len(raga) > 2:
-                return True, f"Raga: {raga}"
-            if re.search(r["pattern"], song_scope, re.I):
-                return True, f"Classical pattern: {r['pattern'][:20]}"
+            carnatic_whitelist = r"\b(raga|ragam|carnatic|sindhu\s*bhairavi|charukesi|hamsadhwani|shankarabharanam|sankarabharanam|keeravani|mayamalavagowla|abheri|sivaranjani|hindolam|bilahari|kambhoji|natabhairavi|darbari\s*kanada|ananda\s*bhairavi)\b"
+            if raga and re.search(carnatic_whitelist, raga, re.I):
+                return True, f"Carnatic raga: {raga}"
+            carnatic_film_or_terms = r"\b(sindhu\s*bhairavi|sankarabharanam|shankarabharanam|thillana\s*mohanambal|salangai\s*oli|mahaganapathim|mari\s*mari\s*ninne|varnam|keerthanam|kriti|thillana|swaram|ragam\s*thanam\s*pallavi)\b"
+            if re.search(carnatic_film_or_terms, film_scope, re.I):
+                if not re.search(r"\b(theme|bgm|score|remix|rap|fight|action|badass|verithanam|kuthu|danga)\b", song_scope, re.I):
+                    return True, "Carnatic classical match"
 
     return False, None
 
