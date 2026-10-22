@@ -499,7 +499,20 @@ def run_full_library_sync(state_mgr: StateManager, sync_mgr: SpotifySyncManager)
     except Exception as e:
         logging.error(f"Catalog audit encountered an exception: {e}")
 
-    # 2. Daily Smart Hybrid check
+    # 2. Comprehensive Multi-Category Reconciliation
+    if sync_mgr.native_client and not sync_mgr.dry_run:
+        try:
+            from scripts.sync_category import sync_single_category
+            from organize_spotify_folders import FOLDER_DEFINITIONS
+            logging.info("🚀 Running Multi-Category Spotify Reconcile across all categories...")
+            for cat_slug in FOLDER_DEFINITIONS.keys():
+                if cat_slug == "year_complete":
+                    continue
+                sync_single_category(sync_mgr.native_client, cat_slug, dry_run=False)
+        except Exception as e:
+            logging.error(f"Multi-category reconcile encountered an error: {e}")
+
+    # 3. Daily Smart Hybrid check for latest drops
     run_smart_hybrid_sync(state_mgr, sync_mgr)
 
     logging.info("✅ Weekly Full Library Sync completed!")
