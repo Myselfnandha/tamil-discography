@@ -95,18 +95,17 @@ jobs:
           RELEASE_APK=$(find moodshift-web/android/app/build/outputs/apk/release -name "*.apk" | head -n 1)
           if [ -f "$RELEASE_APK" ]; then
             echo "Found release APK: $RELEASE_APK"
-            # If APK is unsigned, generate keystore and sign
-            if [[ "$RELEASE_APK" == *"unsigned"* ]]; then
-              echo "Release APK is unsigned. Signing with jarsigner..."
-              keytool -genkeypair -v -keystore moodshift-ci.keystore \
-                -alias moodshift -keyalg RSA -keysize 2048 -validity 10000 \
-                -storepass moodshift123 -keypass moodshift123 \
-                -dname "CN=MoodShift, OU=Mobile, O=MoodShift, L=Global, S=Global, C=US"
-              jarsigner -verbose -sigalg SHA256withRSA -digestalg SHA-256 \
-                -keystore moodshift-ci.keystore -storepass moodshift123 -keypass moodshift123 \
-                "$RELEASE_APK" moodshift
-            fi
-            cp "$RELEASE_APK" release-apks/MoodShift-release.apk
+            BUILD_TOOLS_DIR=$(find "$ANDROID_HOME/build-tools" -maxdepth 1 -mindepth 1 | sort -V | tail -n 1)
+            echo "Using Android Build-Tools from: $BUILD_TOOLS_DIR"
+
+            keytool -genkeypair -v -keystore moodshift-ci.keystore \
+              -alias moodshift -keyalg RSA -keysize 2048 -validity 10000 \
+              -storepass moodshift123 -keypass moodshift123 \
+              -dname "CN=MoodShift, OU=Mobile, O=MoodShift, L=Global, S=Global, C=US"
+
+            "$BUILD_TOOLS_DIR/zipalign" -p -f 4 "$RELEASE_APK" release-apks/MoodShift-release-aligned.apk
+            "$BUILD_TOOLS_DIR/apksigner" sign --ks moodshift-ci.keystore --ks-pass pass:moodshift123 --ks-key-alias moodshift --key-pass pass:moodshift123 --out release-apks/MoodShift-release.apk release-apks/MoodShift-release-aligned.apk
+            rm -f release-apks/MoodShift-release-aligned.apk
           fi
 
           echo "=== Artifacts ready for release ==="
