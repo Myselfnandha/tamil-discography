@@ -1,5 +1,5 @@
 ---
-description: Structured brainstorming for projects and features. Explores multiple options before implementation.
+description: "Brainstorm and compare multiple implementation ideas before coding."
 ---
 
 # /brainstorm - Structured Idea Exploration

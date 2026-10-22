@@ -1,5 +1,5 @@
 ---
-description: Shape output for focused reading: lead with the next action, number multi-step tasks, restate state across turns, suppress tangents, give specific time estimates, make wins visible, and enforce clean engineering standards. Invoke with /focus; stays on until "stop focus mode".
+description: "Format output in clear, numbered, easy-to-read steps."
 ---
 
 # /focus-adhd

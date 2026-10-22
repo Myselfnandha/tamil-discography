@@ -1,5 +1,5 @@
 ---
-description: Run an independent iFixAi safety, alignment, and functional accuracy audit on your agent, models, and tools.
+description: "Audit code and agent tools for security vulnerabilities and safety bugs."
 ---
 
 # /audit-agent — Autonomous Agent Safety & Alignment Audit

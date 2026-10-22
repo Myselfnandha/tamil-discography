@@ -1,5 +1,5 @@
 ---
-description: "Effort: High — Thorough default mode. Full context sweep, show reasoning, verify everything."
+description: "Set reasoning effort to High (deep analysis and thorough tests)."
 ---
 
 # /effort-high — Thorough (Default)

@@ -1,5 +1,5 @@
 ---
-description: "Effort: Mid — Balanced. Research enough to be right, then act."
+description: "Set reasoning effort to Mid (balanced speed and verification)."
 ---
 
 # /effort-mid — Balanced

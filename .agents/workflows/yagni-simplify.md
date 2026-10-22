@@ -1,5 +1,5 @@
 ---
-description: Activates Ponytail Lazy Senior Developer mode. Enforces the 7-step decision ladder (YAGNI, stdlib first, minimal diffs) to eliminate over-engineering.
+description: "Remove over-engineering and simplify code using standard library."
 ---
 
 # /yagni-simplify — Lazy Senior Developer Mode

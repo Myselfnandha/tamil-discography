@@ -1,5 +1,5 @@
 ---
-description: Audit web performance, Core Web Vitals, and runtime bottlenecks. Invoke with /webperf.
+description: "Analyze and optimize web app loading speed and Core Web Vitals."
 ---
 
 # /webperf — Web Performance & Core Web Vitals Audit

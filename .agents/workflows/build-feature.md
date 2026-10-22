@@ -1,5 +1,5 @@
 ---
-description: Autonomous 5-stage feature building pipeline: Memory Sweep → Blueprint → CodeCrush → AAA Test → Sync. Invoke with /build-feature.
+description: "Build a complete feature end-to-end with tests and verification."
 ---
 
 # Autonomous 5-Stage Feature Pipeline

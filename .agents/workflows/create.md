@@ -1,5 +1,5 @@
 ---
-description: Create new application command. Triggers App Builder skill and starts interactive dialogue with user.
+description: "Create a brand new application from scratch with step-by-step guidance."
 ---
 
 # /create - Create Application

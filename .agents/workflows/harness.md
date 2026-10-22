@@ -1,5 +1,5 @@
 ---
-description: Recursive Agent Harnessing (Harness²) — optimize the 8 components (prompts, rules, memory, tools, subagents, skills, scripts, hooks) using Propose-Probe-Compose recursion.
+description: "Auto-tune and optimize agent prompts, rules, memory, and tools."
 ---
 
 # /harness — Recursive Agent Harnessing (Harness²)

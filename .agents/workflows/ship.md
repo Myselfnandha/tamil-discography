@@ -1,5 +1,5 @@
 ---
-description: Multi-specialist pre-launch verification fan-out and Go/No-Go decision. Invoke with /ship.
+description: "Run final pre-launch checks and decide if code is ready to release."
 ---
 
 # /ship — Production Shipping & Pre-Launch Verification

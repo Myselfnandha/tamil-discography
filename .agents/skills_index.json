@@ -1,55 +1,55 @@
 [
   {
     "id": "agent-reach",
-    "path": "skills/agent-reach",
+    "path": "skills-registry/agent-reach",
     "name": "agent-reach",
     "description": "Universal internet research router across 16 platforms (Twitter, Reddit, YouTube, GitHub, Exa, Jina)."
   },
   {
     "id": "agy-ask",
-    "path": "skills/agy-ask",
+    "path": "skills-registry/agy-ask",
     "name": "agy-ask",
     "description": "Ask Google Antigravity CLI (fast Gemini) a quick one-shot question without tools."
   },
   {
     "id": "agy-implementer",
-    "path": "skills/agy-implementer",
+    "path": "skills-registry/agy-implementer",
     "name": "agy-implementer",
     "description": "Delegate a scoped coding task to Antigravity CLI (Gemini) with direct working tree edits."
   },
   {
     "id": "agy-jobs",
-    "path": "skills/agy-jobs",
+    "path": "skills-registry/agy-jobs",
     "name": "agy-jobs",
     "description": "Manage and collect background Antigravity CLI jobs, logs, and follow-ups."
   },
   {
     "id": "agy-lead",
-    "path": "skills/agy-lead",
+    "path": "skills-registry/agy-lead",
     "name": "agy-lead",
     "description": "Orchestrate multi-step tasks with Antigravity CLI while retaining final review and delivery."
   },
   {
     "id": "agy-researcher",
-    "path": "skills/agy-researcher",
+    "path": "skills-registry/agy-researcher",
     "name": "agy-researcher",
     "description": "Delegate deep research, surveys, or code exploration to Antigravity CLI."
   },
   {
     "id": "agy-reviewer",
-    "path": "skills/agy-reviewer",
+    "path": "skills-registry/agy-reviewer",
     "name": "agy-reviewer",
     "description": "Get an independent second-opinion review on diffs, plans, or code from Antigravity CLI."
   },
   {
     "id": "agy-staffer",
-    "path": "skills/agy-staffer",
+    "path": "skills-registry/agy-staffer",
     "name": "agy-staffer",
     "description": "Delegate general tasks or image generation to Antigravity CLI."
   },
   {
     "id": "api-and-interface-design",
-    "path": "skills/api-and-interface-design",
+    "path": "skills-registry/api-and-interface-design",
     "name": "api-and-interface-design",
     "description": "Design stable REST/GraphQL APIs, type contracts, and module boundaries."
   },
@@ -61,31 +61,31 @@
   },
   {
     "id": "browser-testing-with-devtools",
-    "path": "skills/browser-testing-with-devtools",
+    "path": "skills-registry/browser-testing-with-devtools",
     "name": "browser-testing-with-devtools",
     "description": "Test web apps in real Chrome browsers, capture console logs, and profile DOM via DevTools."
   },
   {
     "id": "ci-cd-and-automation",
-    "path": "skills/ci-cd-and-automation",
+    "path": "skills-registry/ci-cd-and-automation",
     "name": "ci-cd-and-automation",
     "description": "Automate CI/CD pipelines, quality gates, and deployment workflows."
   },
   {
     "id": "code-review-and-quality",
-    "path": "skills/code-review-and-quality",
+    "path": "skills-registry/code-review-and-quality",
     "name": "code-review-and-quality",
     "description": "Conduct multi-axis code reviews (correctness, security, performance) before merge."
   },
   {
     "id": "code-simplification",
-    "path": "skills/code-simplification",
+    "path": "skills-registry/code-simplification",
     "name": "code-simplification",
     "description": "Refactor complex code for clarity without altering behavior."
   },
   {
     "id": "coding-interview",
-    "path": "skills/coding-interview",
+    "path": "skills-registry/coding-interview",
     "name": "coding-interview",
     "description": "Interactive DSA tutor: algorithmic proofs, step-by-step problem solving, and quizzes."
   },
@@ -97,55 +97,55 @@
   },
   {
     "id": "constraint-driven-development",
-    "path": "skills/constraint-driven-development",
+    "path": "skills-registry/constraint-driven-development",
     "name": "constraint-driven-development",
     "description": "Establish and enforce project quality contracts (coverage, a11y, performance thresholds)."
   },
   {
     "id": "context-engineering",
-    "path": "skills/context-engineering",
+    "path": "skills-registry/context-engineering",
     "name": "context-engineering",
     "description": "Tune and optimize agent prompt context, rule loading, and session memory."
   },
   {
     "id": "debugging-and-error-recovery",
-    "path": "skills/debugging-and-error-recovery",
+    "path": "skills-registry/debugging-and-error-recovery",
     "name": "debugging-and-error-recovery",
     "description": "Systematic root-cause debugging when tests fail, builds break, or errors occur."
   },
   {
     "id": "deprecation-and-migration",
-    "path": "skills/deprecation-and-migration",
+    "path": "skills-registry/deprecation-and-migration",
     "name": "deprecation-and-migration",
     "description": "Safely sunset old APIs, manage database zero-downtime migrations, and feature rollouts."
   },
   {
     "id": "documentation-and-adrs",
-    "path": "skills/documentation-and-adrs",
+    "path": "skills-registry/documentation-and-adrs",
     "name": "documentation-and-adrs",
     "description": "Record Architecture Decision Records (ADRs) and interface contracts."
   },
   {
     "id": "doubt-driven-development",
-    "path": "skills/doubt-driven-development",
+    "path": "skills-registry/doubt-driven-development",
     "name": "doubt-driven-development",
     "description": "Adversarially cross-examine high-stakes decisions, auth logic, and risky migrations."
   },
   {
     "id": "frontend-ui-engineering",
-    "path": "skills/frontend-ui-engineering",
+    "path": "skills-registry/frontend-ui-engineering",
     "name": "frontend-ui-engineering",
     "description": "Build accessible, responsive, production-quality UI components and layouts."
   },
   {
     "id": "git-workflow-and-versioning",
-    "path": "skills/git-workflow-and-versioning",
+    "path": "skills-registry/git-workflow-and-versioning",
     "name": "git-workflow-and-versioning",
     "description": "Clean git commits, branch management, conflict resolution, PR drafting, and releases."
   },
   {
     "id": "harness",
-    "path": "skills/harness",
+    "path": "skills-registry/harness",
     "name": "harness",
     "description": "Recursive agent self-harnessing (c1..c8) via Propose-Probe-Compose and experience ledgers."
   },
@@ -157,81 +157,87 @@
   },
   {
     "id": "idea-refine",
-    "path": "skills/idea-refine",
+    "path": "skills-registry/idea-refine",
     "name": "idea-refine",
     "description": "Refine raw concepts into crisp, actionable plans via divergent and convergent thinking."
   },
   {
     "id": "incremental-implementation",
-    "path": "skills/incremental-implementation",
+    "path": "skills-registry/incremental-implementation",
     "name": "incremental-implementation",
     "description": "Deliver changes in thin, testable, verifiable vertical slices."
   },
   {
     "id": "interview-me",
-    "path": "skills/interview-me",
+    "path": "skills-registry/interview-me",
     "name": "interview-me",
     "description": "Extract underlying user intent through progressive, one-at-a-time interview questions."
   },
   {
     "id": "mcp",
-    "path": "skills/mcp",
+    "path": "skills-registry/mcp",
     "name": "mcp",
     "description": "Search, enable, or disable on-demand MCP servers from 12 verified and 2,600+ catalog."
   },
   {
+    "id": "mistake-immunization",
+    "path": "skills-registry/mistake-immunization",
+    "name": "mistake-immunization",
+    "description": "Check anti-patterns before acting and record lessons into memory after fixes."
+  },
+  {
     "id": "observability-and-instrumentation",
-    "path": "skills/observability-and-instrumentation",
+    "path": "skills-registry/observability-and-instrumentation",
     "name": "observability-and-instrumentation",
     "description": "Add logging, metrics, distributed tracing, and telemetry to make production diagnosable."
   },
   {
     "id": "performance-optimization",
-    "path": "skills/performance-optimization",
+    "path": "skills-registry/performance-optimization",
     "name": "performance-optimization",
     "description": "Profile and optimize frontend, backend, queries, and Core Web Vitals bottlenecks."
   },
   {
     "id": "planning-and-task-breakdown",
-    "path": "skills/planning-and-task-breakdown",
+    "path": "skills-registry/planning-and-task-breakdown",
     "name": "planning-and-task-breakdown",
     "description": "Decompose specs and features into ordered, executable, dependency-aware task lists."
   },
   {
     "id": "ponytail",
-    "path": "skills/ponytail",
+    "path": "skills-registry/ponytail",
     "name": "ponytail",
-    "description": "Lazy senior dev mode: YAGNI, standard library first, zero bloat, and minimal diffs."
+    "description": "Lazy senior dev mode: YAGNI, standard library first, zero bloat, and minimal diffs for writing, refactoring, and reviewing code."
   },
   {
     "id": "ponytail-audit",
-    "path": "skills/ponytail-audit",
+    "path": "skills-registry/ponytail-audit",
     "name": "ponytail-audit",
-    "description": "Scan repository for over-engineering, dead code, and speculative abstractions to delete."
+    "description": "Whole-repository scan for over-engineering, dead code, unused dependencies, and speculative abstractions to delete."
   },
   {
     "id": "ponytail-debt",
-    "path": "skills/ponytail-debt",
+    "path": "skills-registry/ponytail-debt",
     "name": "ponytail-debt",
-    "description": "Track and harvest deferred ponytail shortcuts and technical debt comments."
+    "description": "Track and harvest deferred ponytail: shortcuts and technical debt comments into a structured ledger."
   },
   {
     "id": "ponytail-gain",
-    "path": "skills/ponytail-gain",
+    "path": "skills-registry/ponytail-gain",
     "name": "ponytail-gain",
-    "description": "Display measured impact scoreboard: lines cut, tokens saved, and speed gains."
+    "description": "Display compact measured scoreboard of lines cut, tokens saved, and speed gains from ponytail optimizations."
   },
   {
     "id": "ponytail-help",
-    "path": "skills/ponytail-help",
+    "path": "skills-registry/ponytail-help",
     "name": "ponytail-help",
-    "description": "Quick-reference card for ponytail commands, flags, and principles."
+    "description": "Quick-reference card for ponytail principles, flags, intensity levels, and slash commands."
   },
   {
     "id": "ponytail-review",
-    "path": "skills/ponytail-review",
+    "path": "skills-registry/ponytail-review",
     "name": "ponytail-review",
-    "description": "Review diffs exclusively for bloat, reinvented wheels, and unnecessary abstractions."
+    "description": "Review diffs exclusively for bloat, reinvented wheels, unneeded dependencies, and speculative abstractions."
   },
   {
     "id": "react-components",
@@ -240,14 +246,20 @@
     "description": "Search, inspect, and add 1,105+ ReUI/shadcn React blocks, charts, and motion icons."
   },
   {
+    "id": "safety-gates",
+    "path": "skills-registry/safety-gates",
+    "name": "safety-gates",
+    "description": "Safeguard against accidental deletions, force pushes, and destructive operations."
+  },
+  {
     "id": "security-and-hardening",
-    "path": "skills/security-and-hardening",
+    "path": "skills-registry/security-and-hardening",
     "name": "security-and-hardening",
     "description": "Harden code against vulnerabilities, sanitize inputs, and audit OWASP risks."
   },
   {
     "id": "shipping-and-launch",
-    "path": "skills/shipping-and-launch",
+    "path": "skills-registry/shipping-and-launch",
     "name": "shipping-and-launch",
     "description": "Pre-launch verification checklist, canary rollouts, and rollback strategies."
   },
@@ -259,26 +271,44 @@
   },
   {
     "id": "source-driven-development",
-    "path": "skills/source-driven-development",
+    "path": "skills-registry/source-driven-development",
     "name": "source-driven-development",
     "description": "Ground implementation decisions in official framework documentation and citations."
   },
   {
     "id": "spec-driven-development",
-    "path": "skills/spec-driven-development",
+    "path": "skills-registry/spec-driven-development",
     "name": "spec-driven-development",
     "description": "Draft PRDs, capability maps, and requirements specs before writing code."
   },
   {
     "id": "test-driven-development",
-    "path": "skills/test-driven-development",
+    "path": "skills-registry/test-driven-development",
     "name": "test-driven-development",
     "description": "Drive code changes using the Red-Green-Refactor test-driven development loop."
   },
   {
+    "id": "tool-optimization",
+    "path": "skills-registry/tool-optimization",
+    "name": "tool-optimization",
+    "description": "Pick the fastest, most token-efficient tool for searching, reading, editing, and running commands."
+  },
+  {
     "id": "using-agent-skills",
-    "path": "skills/using-agent-skills",
+    "path": "skills-registry/using-agent-skills",
     "name": "using-agent-skills",
     "description": "Meta-skill to discover, select, and invoke the right agent workflow for a task."
+  },
+  {
+    "id": "verification-gate",
+    "path": "skills-registry/verification-gate",
+    "name": "verification-gate",
+    "description": "Verify code changes empirically with unit tests and linters before committing."
+  },
+  {
+    "id": "zerogravity-init",
+    "path": "skills/zerogravity-init",
+    "name": "zerogravity-init",
+    "description": "Display a compact, single-page quick-access dashboard of all ZeroGravity workflows and skills on session start."
   }
 ]

@@ -1,5 +1,5 @@
 ---
-description: Deployment command for production releases. Pre-flight checks and deployment execution.
+description: "Run pre-flight checks, build, and deploy to production."
 ---
 
 # /deploy - Production Deployment

@@ -1,5 +1,5 @@
 ---
-description: Add or update features in existing application. Used for iterative development.
+description: "Add a new feature or improvement to an existing codebase."
 ---
 
 # /enhance - Update Application

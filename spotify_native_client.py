@@ -85,6 +85,16 @@ class SpotifyNativeClient:
             self._page.wait_for_timeout(500)
 
         if not self._headers.get("authorization"):
+            try:
+                self._page.goto("https://open.spotify.com/collection/playlists", wait_until="domcontentloaded", timeout=30000)
+                for _ in range(30):
+                    if self._headers.get("authorization"):
+                        break
+                    self._page.wait_for_timeout(500)
+            except Exception:
+                pass
+
+        if not self._headers.get("authorization"):
             raise RuntimeError("Could not capture Spotify session authorization headers.")
         print("✅ Spotify Native Client connected! Session authenticated (200 OK).")
 

@@ -1,0 +1,576 @@
+{
+  "timestamp": "2026-10-22T15:52:13.169207+00:00",
+  "dry_run": false,
+  "total_playlists": 63,
+  "total_removed": 2583,
+  "total_added": 3,
+  "details": [
+    {
+      "category": "year",
+      "playlist": "1960",
+      "uri": "spotify:playlist:2rHg4iUAYGC4yzm4iY5FR6",
+      "initial": 57,
+      "removed": 45,
+      "added": 0,
+      "final": 12
+    },
+    {
+      "category": "year",
+      "playlist": "1961",
+      "uri": "spotify:playlist:20GbP7ZwBYLJuJAdQBiRcE",
+      "initial": 50,
+      "removed": 43,
+      "added": 0,
+      "final": 7
+    },
+    {
+      "category": "year",
+      "playlist": "1962",
+      "uri": "spotify:playlist:3w4t8SK9bTlwGkd2GF873x",
+      "initial": 50,
+      "removed": 35,
+      "added": 0,
+      "final": 15
+    },
+    {
+      "category": "year",
+      "playlist": "1963",
+      "uri": "spotify:playlist:4P3iEUgqEZvJV4hjlNfA3b",
+      "initial": 99,
+      "removed": 89,
+      "added": 0,
+      "final": 10
+    },
+    {
+      "category": "year",
+      "playlist": "1964",
+      "uri": "spotify:playlist:46w8h0pv9ymngE1Hi9Jhch",
+      "initial": 50,
+      "removed": 47,
+      "added": 0,
+      "final": 3
+    },
+    {
+      "category": "year",
+      "playlist": "1965",
+      "uri": "spotify:playlist:0lFPxITgCoWsobhLYZGsr7",
+      "initial": 50,
+      "removed": 32,
+      "added": 0,
+      "final": 18
+    },
+    {
+      "category": "year",
+      "playlist": "1966",
+      "uri": "spotify:playlist:3UOSxan4U7BR5jIXAiRKLZ",
+      "initial": 50,
+      "removed": 29,
+      "added": 0,
+      "final": 21
+    },
+    {
+      "category": "year",
+      "playlist": "1967",
+      "uri": "spotify:playlist:0saVEuONuy5P8jYKC1ksIc",
+      "initial": 50,
+      "removed": 40,
+      "added": 0,
+      "final": 10
+    },
+    {
+      "category": "year",
+      "playlist": "1968",
+      "uri": "spotify:playlist:2P3dzW6sVnZ3EGifdEuv7h",
+      "initial": 50,
+      "removed": 43,
+      "added": 0,
+      "final": 7
+    },
+    {
+      "category": "year",
+      "playlist": "1969",
+      "uri": "spotify:playlist:38npJGoIHYHhS6dXLD1vDi",
+      "initial": 50,
+      "removed": 30,
+      "added": 0,
+      "final": 20
+    },
+    {
+      "category": "year",
+      "playlist": "1970",
+      "uri": "spotify:playlist:6bFGGi8RSA3qbOyprHj86y",
+      "initial": 49,
+      "removed": 32,
+      "added": 0,
+      "final": 17
+    },
+    {
+      "category": "year",
+      "playlist": "1971",
+      "uri": "spotify:playlist:1PGCZ0ub62szk3PbfwApgq",
+      "initial": 50,
+      "removed": 31,
+      "added": 0,
+      "final": 19
+    },
+    {
+      "category": "year",
+      "playlist": "1972",
+      "uri": "spotify:playlist:3xRICAt2IrX3PkOcL41V4A",
+      "initial": 50,
+      "removed": 42,
+      "added": 0,
+      "final": 8
+    },
+    {
+      "category": "year",
+      "playlist": "1973",
+      "uri": "spotify:playlist:1HuLRNtjTtKEUm4TgIoXD0",
+      "initial": 48,
+      "removed": 40,
+      "added": 0,
+      "final": 8
+    },
+    {
+      "category": "year",
+      "playlist": "1974",
+      "uri": "spotify:playlist:3eiaG9DgjVMkX9amTscFGT",
+      "initial": 49,
+      "removed": 33,
+      "added": 0,
+      "final": 16
+    },
+    {
+      "category": "year",
+      "playlist": "1975",
+      "uri": "spotify:playlist:2saqXnOWMbNrRga85ut3IT",
+      "initial": 50,
+      "removed": 37,
+      "added": 0,
+      "final": 13
+    },
+    {
+      "category": "year",
+      "playlist": "1976",
+      "uri": "spotify:playlist:3rM0YruAS1kr2ynhMcelYH",
+      "initial": 47,
+      "removed": 29,
+      "added": 0,
+      "final": 18
+    },
+    {
+      "category": "year",
+      "playlist": "1977",
+      "uri": "spotify:playlist:2QX3EsxyxP1dG85L6jBUSk",
+      "initial": 46,
+      "removed": 28,
+      "added": 0,
+      "final": 18
+    },
+    {
+      "category": "year",
+      "playlist": "1978",
+      "uri": "spotify:playlist:6jOQIzlTbAidySpxF77mjG",
+      "initial": 50,
+      "removed": 39,
+      "added": 0,
+      "final": 11
+    },
+    {
+      "category": "year",
+      "playlist": "1979",
+      "uri": "spotify:playlist:3YICS1fvf4UZfc8E2C4N3S",
+      "initial": 50,
+      "removed": 45,
+      "added": 0,
+      "final": 5
+    },
+    {
+      "category": "year",
+      "playlist": "1980",
+      "uri": "spotify:playlist:0HrluPAv4HIWHyGneH9aHW",
+      "initial": 50,
+      "removed": 40,
+      "added": 0,
+      "final": 10
+    },
+    {
+      "category": "year",
+      "playlist": "1981",
+      "uri": "spotify:playlist:4IlfGy570y7nimqDj2nxTq",
+      "initial": 50,
+      "removed": 41,
+      "added": 0,
+      "final": 9
+    },
+    {
+      "category": "year",
+      "playlist": "1982",
+      "uri": "spotify:playlist:0n1AlZmwe0PKUKNX0mNCIs",
+      "initial": 48,
+      "removed": 37,
+      "added": 0,
+      "final": 11
+    },
+    {
+      "category": "year",
+      "playlist": "1983",
+      "uri": "spotify:playlist:0ao7oaXHqwU52t6ClflPH5",
+      "initial": 50,
+      "removed": 38,
+      "added": 0,
+      "final": 12
+    },
+    {
+      "category": "year",
+      "playlist": "1984",
+      "uri": "spotify:playlist:7nk8YM4Yj67RzHPVm4Z74M",
+      "initial": 50,
+      "removed": 39,
+      "added": 0,
+      "final": 11
+    },
+    {
+      "category": "year",
+      "playlist": "1985",
+      "uri": "spotify:playlist:3Z63kJnZ45Al47RvDjmELl",
+      "initial": 46,
+      "removed": 36,
+      "added": 0,
+      "final": 10
+    },
+    {
+      "category": "year",
+      "playlist": "1986",
+      "uri": "spotify:playlist:3ffyDSU9N0tOIESvAWvRlg",
+      "initial": 50,
+      "removed": 45,
+      "added": 0,
+      "final": 5
+    },
+    {
+      "category": "year",
+      "playlist": "1987",
+      "uri": "spotify:playlist:27YiMNbG4kve4mVinIv9am",
+      "initial": 50,
+      "removed": 42,
+      "added": 0,
+      "final": 8
+    },
+    {
+      "category": "year",
+      "playlist": "1988",
+      "uri": "spotify:playlist:2VHHKl8GklBrRuPIiI0OCD",
+      "initial": 50,
+      "removed": 40,
+      "added": 0,
+      "final": 10
+    },
+    {
+      "category": "year",
+      "playlist": "1989",
+      "uri": "spotify:playlist:1r11CqdIdzSjSatqR1gBXr",
+      "initial": 49,
+      "removed": 36,
+      "added": 0,
+      "final": 13
+    },
+    {
+      "category": "year",
+      "playlist": "1992",
+      "uri": "spotify:playlist:1XZv8cnt3IDeA2xI6RcybS",
+      "initial": 15,
+      "removed": 1,
+      "added": 0,
+      "final": 14
+    },
+    {
+      "category": "year",
+      "playlist": "1994",
+      "uri": "spotify:playlist:3cYRCSyw5ImgQDyf7JuJxY",
+      "initial": 19,
+      "removed": 0,
+      "added": 0,
+      "final": 19
+    },
+    {
+      "category": "year",
+      "playlist": "1996",
+      "uri": "spotify:playlist:3yFT0oGFhYJ69GfqvqTbC6",
+      "initial": 48,
+      "removed": 43,
+      "added": 0,
+      "final": 5
+    },
+    {
+      "category": "year",
+      "playlist": "1997",
+      "uri": "spotify:playlist:0jUh5vwk0ATkvUXyGMiP93",
+      "initial": 49,
+      "removed": 42,
+      "added": 0,
+      "final": 7
+    },
+    {
+      "category": "year",
+      "playlist": "1998",
+      "uri": "spotify:playlist:0pASb2G6vQpek1F7kehkiJ",
+      "initial": 47,
+      "removed": 39,
+      "added": 0,
+      "final": 8
+    },
+    {
+      "category": "year",
+      "playlist": "1999",
+      "uri": "spotify:playlist:1qOWxy2NdEA1NheBKNU4x2",
+      "initial": 49,
+      "removed": 49,
+      "added": 2,
+      "final": 2
+    },
+    {
+      "category": "year",
+      "playlist": "2000",
+      "uri": "spotify:playlist:4xbRyxWayPdw1gZoPa5sEe",
+      "initial": 46,
+      "removed": 34,
+      "added": 0,
+      "final": 12
+    },
+    {
+      "category": "year",
+      "playlist": "2001",
+      "uri": "spotify:playlist:68OW27aZ6fP50mO3n3814Y",
+      "initial": 49,
+      "removed": 44,
+      "added": 0,
+      "final": 5
+    },
+    {
+      "category": "year",
+      "playlist": "2002",
+      "uri": "spotify:playlist:612btN5ezx5gd40bXRMBcz",
+      "initial": 44,
+      "removed": 40,
+      "added": 0,
+      "final": 4
+    },
+    {
+      "category": "year",
+      "playlist": "2003",
+      "uri": "spotify:playlist:56ViD8gkBbQeMUeoPla0M8",
+      "initial": 50,
+      "removed": 45,
+      "added": 1,
+      "final": 6
+    },
+    {
+      "category": "year",
+      "playlist": "2004",
+      "uri": "spotify:playlist:4wRVb62Fyps85abX4TZKFc",
+      "initial": 50,
+      "removed": 46,
+      "added": 0,
+      "final": 4
+    },
+    {
+      "category": "year",
+      "playlist": "2005",
+      "uri": "spotify:playlist:6kqXlDDNkIFVbEG4wWsLxQ",
+      "initial": 50,
+      "removed": 46,
+      "added": 0,
+      "final": 4
+    },
+    {
+      "category": "year",
+      "playlist": "2006",
+      "uri": "spotify:playlist:4Nr5PWHv7hSVUi8o32zOd2",
+      "initial": 50,
+      "removed": 48,
+      "added": 0,
+      "final": 2
+    },
+    {
+      "category": "year",
+      "playlist": "2007",
+      "uri": "spotify:playlist:0Pb0KPwB8fQzbzHBKDAB2L",
+      "initial": 50,
+      "removed": 47,
+      "added": 0,
+      "final": 3
+    },
+    {
+      "category": "year",
+      "playlist": "2008",
+      "uri": "spotify:playlist:3pqbHyK699B1FuhfMSJc3E",
+      "initial": 45,
+      "removed": 42,
+      "added": 0,
+      "final": 3
+    },
+    {
+      "category": "year",
+      "playlist": "2009",
+      "uri": "spotify:playlist:3778b2bNMxtyWtzcKLRsWu",
+      "initial": 50,
+      "removed": 46,
+      "added": 0,
+      "final": 4
+    },
+    {
+      "category": "year",
+      "playlist": "2010",
+      "uri": "spotify:playlist:2cJ9MPadzhZluQ0KFNThkX",
+      "initial": 47,
+      "removed": 45,
+      "added": 0,
+      "final": 2
+    },
+    {
+      "category": "year",
+      "playlist": "2011",
+      "uri": "spotify:playlist:12B8X9rj4IbolTlfBTiGFH",
+      "initial": 49,
+      "removed": 47,
+      "added": 0,
+      "final": 2
+    },
+    {
+      "category": "year",
+      "playlist": "2012",
+      "uri": "spotify:playlist:6i6ojVM6Mvf3uBiRqFfuAB",
+      "initial": 46,
+      "removed": 37,
+      "added": 0,
+      "final": 9
+    },
+    {
+      "category": "year",
+      "playlist": "2013",
+      "uri": "spotify:playlist:7r3XGqQe7BCZnD6olt2jBU",
+      "initial": 45,
+      "removed": 45,
+      "added": 0,
+      "final": 0
+    },
+    {
+      "category": "year",
+      "playlist": "2014",
+      "uri": "spotify:playlist:3C2KxTzHmMimBmcI5aPwNQ",
+      "initial": 50,
+      "removed": 49,
+      "added": 0,
+      "final": 1
+    },
+    {
+      "category": "year",
+      "playlist": "2015",
+      "uri": "spotify:playlist:6PJpeKXJYZD0qPcfEnnBPd",
+      "initial": 50,
+      "removed": 47,
+      "added": 0,
+      "final": 3
+    },
+    {
+      "category": "year",
+      "playlist": "2016",
+      "uri": "spotify:playlist:5ANfFP6AQUkUA5aEd9qXnM",
+      "initial": 50,
+      "removed": 45,
+      "added": 0,
+      "final": 5
+    },
+    {
+      "category": "year",
+      "playlist": "2017",
+      "uri": "spotify:playlist:5LCavoTI8w6DmU51MbqVpu",
+      "initial": 50,
+      "removed": 47,
+      "added": 0,
+      "final": 3
+    },
+    {
+      "category": "year",
+      "playlist": "2018",
+      "uri": "spotify:playlist:6OHGw9CNTrT2A8XEjnWTqT",
+      "initial": 49,
+      "removed": 48,
+      "added": 0,
+      "final": 1
+    },
+    {
+      "category": "year",
+      "playlist": "2019",
+      "uri": "spotify:playlist:5KW5qBpov1KFgEmTPfgCcE",
+      "initial": 50,
+      "removed": 47,
+      "added": 0,
+      "final": 3
+    },
+    {
+      "category": "year",
+      "playlist": "2020",
+      "uri": "spotify:playlist:2KrTuySzWMAZpb0HPEH6ve",
+      "initial": 50,
+      "removed": 45,
+      "added": 0,
+      "final": 5
+    },
+    {
+      "category": "year",
+      "playlist": "2021",
+      "uri": "spotify:playlist:56QrQVll5g6njMeqGEafIb",
+      "initial": 49,
+      "removed": 49,
+      "added": 0,
+      "final": 0
+    },
+    {
+      "category": "year",
+      "playlist": "2022",
+      "uri": "spotify:playlist:7BCSBY5BJkb0mgCo6GjABi",
+      "initial": 50,
+      "removed": 48,
+      "added": 0,
+      "final": 2
+    },
+    {
+      "category": "year",
+      "playlist": "2023",
+      "uri": "spotify:playlist:1dQrFBPKjiHvMEIAoftb7u",
+      "initial": 48,
+      "removed": 48,
+      "added": 0,
+      "final": 0
+    },
+    {
+      "category": "year",
+      "playlist": "2024",
+      "uri": "spotify:playlist:3mO8pMis1D5bhmPX0F7diO",
+      "initial": 47,
+      "removed": 38,
+      "added": 0,
+      "final": 9
+    },
+    {
+      "category": "year",
+      "playlist": "2025",
+      "uri": "spotify:playlist:0X03sRqaEHVHethfWEAs9x",
+      "initial": 50,
+      "removed": 50,
+      "added": 0,
+      "final": 0
+    },
+    {
+      "category": "year",
+      "playlist": "2026",
+      "uri": "spotify:playlist:7rGIPu2ezShxzZTnvjJ08s",
+      "initial": 69,
+      "removed": 53,
+      "added": 0,
+      "final": 16
+    }
+  ]
+}

@@ -1,5 +1,5 @@
 ---
-description: Test generation and test running command. Creates and executes tests for code.
+description: "Write unit tests, integration tests, and run test suites."
 ---
 
 # /test - Test Generation and Execution

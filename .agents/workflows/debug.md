@@ -1,5 +1,5 @@
 ---
-description: Debugging command. Activates DEBUG mode for systematic problem investigation.
+description: "Find root cause of bugs, errors, or crashes and fix them."
 ---
 
 # /debug - Systematic Problem Investigation

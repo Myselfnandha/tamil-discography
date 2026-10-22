@@ -1,5 +1,5 @@
 ---
-description: "Effort: Low — Fire & Forget mode. Act immediately, conclusion-only, skip plans, trust edits."
+description: "Set reasoning effort to Low (fast edits, minimal explanation)."
 ---
 
 # /effort-low — Fire & Forget

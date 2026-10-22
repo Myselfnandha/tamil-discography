@@ -1,5 +1,5 @@
 ---
-description: Plan and implement modern, responsive, and aesthetic UI/UX interfaces with curated palettes, typography, and accessibility.
+description: "Design beautiful, modern, and responsive user interfaces."
 ---
 
 # /design-ui — Modern UI/UX Design & Implementation

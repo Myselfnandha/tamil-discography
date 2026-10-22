@@ -1,5 +1,5 @@
 ---
-description: Ultra-compressed communication mode. Cuts token usage ~75% by speaking like caveman while keeping full technical accuracy.
+description: "Speak in ultra-short sentences to save 75% prompt tokens."
 ---
 
 # /compress-tokens - Token-Efficient Communication

@@ -1,5 +1,5 @@
 ---
-description: Universal internet research & multi-platform retrieval router (Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu, Exa, Jina). Invoke with /agent-reach or /reach.
+description: "Alias for /reach: Search across Twitter, Reddit, YouTube, and the web."
 ---
 
 # /agent-reach — Universal Internet Research Router

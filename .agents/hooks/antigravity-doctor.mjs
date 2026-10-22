@@ -63,7 +63,6 @@ function relative(root, file) {
 function checkDiscovery(root, report) {
   const agentsRoot = path.join(root, '.agents');
   const groups = [
-    ['rules', markdownFiles(path.join(agentsRoot, 'rules')), ['trigger']],
     ['workflows', markdownFiles(path.join(agentsRoot, 'workflows')), ['description']],
     ['skills', skillFiles(path.join(agentsRoot, 'skills')), ['description']]
   ];
@@ -84,6 +83,21 @@ function checkDiscovery(root, report) {
         if (!meta[field]) add(report, 'error', 'discovery', `${kind}.required`, relative(root, file), `Missing frontmatter field: ${field}`);
       }
     }
+  }
+
+  // Rules are now optional on-demand workflows/skills
+  const rulesDir = path.join(agentsRoot, 'rules');
+  if (fs.existsSync(rulesDir)) {
+    const ruleFiles = markdownFiles(rulesDir);
+    report.counts.rules = ruleFiles.length;
+    for (const file of ruleFiles) {
+      const meta = frontmatter(file);
+      if (meta && !meta.trigger) {
+        add(report, 'error', 'discovery', 'rules.required', relative(root, file), 'Missing frontmatter field: trigger');
+      }
+    }
+  } else {
+    report.counts.rules = 0;
   }
 }
 

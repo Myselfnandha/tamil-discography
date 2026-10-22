@@ -1,5 +1,5 @@
 ---
-description: Removes 20+ patterns of AI slop, preserves human voice, audits text without guessing, or drafts satire slop.
+description: "Rewrite robotic AI text into natural, clear human writing."
 ---
 
 # /humanize-text - Human Voice Editor & Anti-Slop Auditor

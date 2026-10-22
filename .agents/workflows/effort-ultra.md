@@ -1,5 +1,5 @@
 ---
-description: "Effort: Ultra — Leave nothing unchecked. Exhaustive analysis, full documentation, zero blind spots."
+description: "Set reasoning effort to Ultra (deepest research and exhaustive testing)."
 ---
 
 # /effort-ultra — Leave Nothing Unchecked

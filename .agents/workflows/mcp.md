@@ -1,5 +1,5 @@
 ---
-description: Dynamic On-Demand MCP Server Manager. List catalog servers, enable on-demand, disable, or sync to IDEs.
+description: "Manage and search 2,600+ external MCP tools and databases."
 ---
 
 # /mcp - On-Demand MCP Server Manager

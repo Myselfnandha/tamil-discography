@@ -1,5 +1,5 @@
 ---
-description: Conduct a 5-axis code quality review (correctness, readability, architecture, security, performance). Invoke with /review.
+description: "Review code for bugs, security risks, readability, and performance."
 ---
 
 # /review — 5-Axis Code Review & Health Audit

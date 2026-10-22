@@ -70,6 +70,7 @@ def reindex_all_skills(agents_root):
     search_dirs = [
         os.path.join(agents_root, 'plugins'),
         os.path.join(agents_root, 'skills'),
+        os.path.join(agents_root, 'skills-registry'),
     ]
 
     for search_dir in search_dirs:
@@ -95,9 +96,6 @@ def reindex_all_skills(agents_root):
                     'path': rel_skill_dir,
                     'name': meta['name'],
                     'description': meta['description'],
-                    'category': meta['category'],
-                    'risk': meta['risk'],
-                    'date_added': meta['date_added'],
                 })
 
     skills.sort(key=lambda s: s['id'].lower())

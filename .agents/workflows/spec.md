@@ -1,5 +1,5 @@
 ---
-description: Spec before code — define what to build, PRD requirements, and architecture constraints. Invoke with /spec.
+description: "Write clear product requirements and technical specs before coding."
 ---
 
 # /spec — Spec-Driven Development

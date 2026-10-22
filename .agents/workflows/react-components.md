@@ -1,5 +1,5 @@
 ---
-description: Search, inspect, and add 1,105+ React components, dashboard blocks, and motion icons from the ReUI shadcn registry.
+description: "Browse and copy 1,100+ production-ready React & shadcn components."
 ---
 
 # /react-components — React Component & Dashboard Registry

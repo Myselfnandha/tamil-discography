@@ -1,5 +1,5 @@
 ---
-description: Branching gateway to search, explore, and activate specialized skills by category or name.
+description: "Search and activate specialized engineering skills on demand."
 ---
 
 # /skill — Antigravity Skill Gateway
