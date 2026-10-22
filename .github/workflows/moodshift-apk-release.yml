@@ -42,6 +42,10 @@ jobs:
           distribution: 'temurin'
           java-version: '17'
 
+      - name: Accept Android SDK Licenses & Install Tools
+        run: |
+          yes | "$ANDROID_HOME/cmdline-tools/latest/bin/sdkmanager" --licenses || true
+          "$ANDROID_HOME/cmdline-tools/latest/bin/sdkmanager" "platforms;android-35" "build-tools;35.0.0" || true
 
       - name: Set up Node.js 22
         uses: actions/setup-node@v4
@@ -69,7 +73,12 @@ jobs:
         working-directory: moodshift-web/android
         run: |
           chmod +x gradlew
-          ./gradlew assembleDebug assembleRelease --no-daemon --stacktrace --info
+          if ! ./gradlew assembleDebug assembleRelease --no-daemon --stacktrace > /tmp/gradle.log 2>&1; then
+            cat /tmp/gradle.log
+            ERR=$(grep -A 8 -B 1 "FAILURE:" /tmp/gradle.log | tr '\n' ' ' | head -c 500)
+            echo "::error title=Gradle Failed::${ERR:-'Gradle build failed - check logs'}"
+            exit 1
+          fi
 
       - name: Prepare & Sign APK Artifacts
         run: |
